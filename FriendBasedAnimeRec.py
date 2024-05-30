@@ -32,13 +32,25 @@ class FriendBasedAnimeRec:
             self.Predict(U)
             
     def Predict(self, user:AniUser):
-        LabelledSets = dict({'Animes':self.AnimeRawData.get(tuple(self.AniUsers))})
+        LabelledSets:dict[str:list] = dict({'Animes':self.AnimeRawData.get(tuple(self.AniUsers)).copy()})
+        TestSetsSize = max(1, math.floor(len(LabelledSets.get('Animes'))/4))
         for U in self.AniUsers:
-            Scores = []
+            Scores:list[float] = []
             for A in LabelledSets.get('Animes'):
                 Scores.append(U.GetScoreFor(A))
             LabelledSets.update({U.name:Scores})
-        HypothesizeOff:dict = dict({'Animes':self.AnimeRawData.get(tuple(set(self.AniUsers).difference(set([user]))))})
+        TestSet:dict[str:list] = dict({'Animes':[]})
+        for U in set(LabelledSets.keys()).difference(set(['Animes'])):
+            TestSet.update({U:[]})
+        for i in range(TestSetsSize):
+            A = LabelledSets.get('Animes').pop()
+            if(len(LabelledSets.get('Animes'))<1):
+                return
+            TestSet.get('Animes').append(A)
+            for U in set(LabelledSets.keys()).difference(set(['Animes'])):
+                S = LabelledSets.get(U).pop()
+                TestSet.get(U).append(S)
+        HypothesizeOff:dict[str:list] = dict({'Animes':self.AnimeRawData.get(tuple(set(self.AniUsers).difference(set([user]))))})
         for U in set(self.AniUsers).difference(set([user])):
             Scores = []
             for A in HypothesizeOff.get('Animes'):
@@ -50,11 +62,17 @@ class FriendBasedAnimeRec:
         for a in set(HypothesizeOff.keys()).difference(set(['Animes'])):
             axes.append(HypothesizeOff.get(a))
         for A in heading:
-            if(user.HasScored(A)):
-                H_Scores.append(user.GetScoreFor(A))
-            else:
-                H_Scores.append(dGuess(3, heading, axes, LabelledSets.get('Animes').copy(), LabelledSets.get(user.name).copy(), A))
+            H_Scores.append(dGuess(3, heading, axes, LabelledSets.get('Animes').copy(), LabelledSets.get(user.name).copy(), A))
             print(str(A)+": "+str(H_Scores[-1]))
+        HypothesizeOff.update({user.name+"_h":H_Scores})
+        AverageError = 0
+        for A in TestSet.get('Animes'):
+            scoreIndex = TestSet.get('Animes').index(A)
+            hIndex = HypothesizeOff.get('Animes').index(A)
+            AverageError += pow(TestSet.get(user.name)[scoreIndex] - HypothesizeOff.get(user.name+"_h")[hIndex],2)
+        AverageError = pow(AverageError,1/2)/TestSetsSize
+        print(AverageError)
+        
 
 def Guess(k:int, heading: list[Anime], axes:list[list[float]], labelledHeadings:list[Anime], userPoints:list[float], anime:Anime) -> float:
     if(k > len(userPoints)):
@@ -72,12 +90,8 @@ def Guess(k:int, heading: list[Anime], axes:list[list[float]], labelledHeadings:
         distances.append(Distance(np.array(coords), np.array(dCoords)))
     if(k == 1):
         return userPoints[distances.index(min(distances))]
-    minDex = distances.index(min(distances))
-    add = userPoints[minDex]
-    labelledHeadings.remove(labelledHeadings[minDex])
-    userPoints.remove(userPoints[minDex])
-    distances.remove(distances[minDex])
-    for i in range(1,k):
+    add = 0
+    for i in range(k):
         minDex = distances.index(min(distances))
         add += userPoints[minDex]
         labelledHeadings.remove(labelledHeadings[minDex])

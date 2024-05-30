@@ -2,7 +2,7 @@ from Anime import Anime
 
 class AnimeDataBase:
     def __init__(self):
-        self.Animes = []
+        self.Animes:list[Anime] = []
     def AddAnime(self, Anime:Anime):
         if(self.HasAnime(Anime) == False):
             self.Animes.append(Anime)
