@@ -1,11 +1,13 @@
-import math
-
 
 class Anime:
     def __init__(self, name:str) -> None:
+        self.name = name
         self.names = set()
         self.names.add(name)
         self.tags = set()
+        
+    def setID(self, ID:int):
+        self.ID = ID
         
     def __eq__(self, value: object) -> bool:
         if(type(value) != Anime):
@@ -13,9 +15,7 @@ class Anime:
         return (self.names & value.names) != set()
     
     def __str__(self) -> str:
-         out = self.names.pop()
-         self.names.add(out)
-         return out
+         return self.name
     
     def AddName(self, name:str):
         self.names.add(name.strip())
@@ -62,6 +62,8 @@ class Anime:
         for tag in A2.tags.difference(self.tags):
             self.AddTag(tag)
             
+    def __hash__(self) -> int:
+        return self.ID
         
 def main():
     A = Anime('Fruits Basket (2019)')

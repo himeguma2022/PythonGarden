@@ -5,7 +5,16 @@ class AnimeDataBase:
         self.Animes:list[Anime] = []
     def AddAnime(self, Anime:Anime):
         if(self.HasAnime(Anime) == False):
+            YN = input(Anime.__str__() + " is being added to the database, is this okay? Type 'N' to reject")
+            if(not(YN=='N')):
+                self.Animes.append(Anime)
+                self.AssignHash(Anime)
+                
+    def AddAnimeNoUI(self, Anime:Anime):
+        if(self.HasAnime(Anime) == False):
             self.Animes.append(Anime)
+            self.AssignHash(Anime)
+                
     def ExportToFile(self, exportName:str):
         f = open(exportName,'w',encoding='U8')
         for A in self.Animes:
@@ -31,7 +40,10 @@ class AnimeDataBase:
             if(ToAnime.find(", tags: ") > 0):
                 AnimeTags = ToAnimeParts[1].split(", ")
             AddAnime.AddTagsList(AnimeTags)
-            self.AddAnime(AddAnime)
+            if(importName == 'AnimeDataBase.csv'):
+                self.AddAnimeNoUI(AddAnime)
+            else:
+                self.AddAnime(AddAnime)
             AnimeTags = []
             
         f.close()
@@ -60,7 +72,11 @@ class AnimeDataBase:
         for Anime in List:
             Adb.AddAnime(Anime)
         self.IncludeDB(Adb)
-    
+        
+    def AssignHash(self,A:Anime):
+        if(not(self.HasAnime(A))):
+            self.AddAnime(A)
+        A.setID(self.Animes.index(A))
 
 def main():
     A = Anime('Fruits Basket (2019)')
