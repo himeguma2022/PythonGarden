@@ -1,7 +1,11 @@
-import json
-import time
-import requests
+
 from Anime import Anime
+from AnimeDataBase import AnimeDataBase
+global Adb
+global missingAnime
+Adb = AnimeDataBase()
+if(Adb.IsEmpty()):
+    Adb.ImportFromFile('AnimeDataBase.txt')
 
 
 class ShounenActionAnimePredict:
@@ -16,67 +20,20 @@ class ShounenActionAnimePredict:
                         "ONE PIECE",
                         "BLEACH",
                         "Dragon Ball"]
-        response = requests.post('https://graphql.anilist.co') 
         OutputAnimeList:list[Anime] = []
         for s in OutputAnimes:
-            OutputAnimeList.append(FetchIntoAnime(s))
+            OutputAnimeList.append(RetrieveAnime(s))
         labelledData = dict()
         for u in csvdata:
             labelledData.update({u[0]:UserCsvToList(u[1])})
-        
-        
-def FetchIntoAnime(title:str) -> Anime:
-    query = '''
-    query ($title: String) { 
-        Media (search:$title, type:ANIME) {
-            id
-            title {
-                romaji
-                english
-                native
-            }
-            tags {
-                name
-                rank
-            }
-        }
-    }
-    ''' 
-
-    url = 'https://graphql.anilist.co'
-
-# Make the HTTP Api request
-    variables = {
-        'title': title
-    }
-    response = requests.post(url, json={'query': query, 'variables': variables})
-    if(response.status_code == 429):
-        time.sleep(60)
-        print('429 occured with '+title)
-        return FetchIntoAnime(title)
-    if(response.status_code == 404):
-        return None
-    raw = response.text
-    
-    return StringToAnime(raw)       
-
-def StringToAnime(raw:str) -> Anime:
-    lraw:dict[str:dict[str:dict]] = json.loads(raw)
-    llraw:dict[str:dict] = lraw.get('data')
-    organizedIn:dict[str] = llraw.get('Media')
-    titles:dict[str:str] = organizedIn.get('title')
-    titleList:list[str] = list(set(titles.values()).difference(set([None])))
-    out = Anime(titleList[0])
-    if(len(titleList) > 1):
-        out.AddNamesList(titleList[1:])
-    out.setID(organizedIn.get('id'))
-    tagTups:list[dict[str]] = organizedIn.get('tags')
-    tags = []
-    for tup in tagTups:
-        tags.append(tup.get('name'))
-    out.AddTagsList(tags)
+            
+def RetrieveAnime(title: str) -> Anime:
+    if(Adb.HasAnime(title)):
+        return Adb.LookUpAnime(title)
+    out:Anime = Anime(title)
+    out.AniListUpdate()
+    Adb.AddAnime(out)
     return out
-    
 
 def MediaListToAnimeList(raw:list) -> list[Anime]:
     out = []
@@ -95,13 +52,20 @@ def UserCsvToList(FileName:str) -> dict[Anime:float]:
             f.close()
             break
         ToAnimeParts = ToAnime.rsplit(",",1)
-        AddAnime = FetchIntoAnime(ToAnimeParts[0])
-        if(AddAnime != None):
+        AddAnime = RetrieveAnime(ToAnimeParts[0])
+        if(AddAnime != None and(hasattr(AddAnime, 'ID'))):
             out.update({AddAnime: float(ToAnimeParts[1])})
     f.close()
     return out
 
 def main():
-    A = ShounenActionAnimePredict([('LadyCassandra','LadyCassandra.csv'),('HanakoCheeks','HanakoCheeks.csv'),('StarShower','StarShowerC,csv')],[])       
+    A = ShounenActionAnimePredict([('LadyCassandra','LadyCassandra.csv'),('HanakoCheeks','HanakoCheeks.csv'),('StarShower','StarShowerC.csv')],[])
+    Adb.ExportToFile("AnimeDataBase.txt")  
+    missingAnime = [set(missingAnime)]
+    f = open("AniList Missing Anime.txt",'w',encoding='U8')
+    for s in missingAnime:
+        f.write(s+'\n')
+    f.close()
+         
 if __name__ == '__main__':
     main()

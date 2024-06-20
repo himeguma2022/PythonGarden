@@ -2,112 +2,68 @@ from Anime import Anime
 
 class AnimeDataBase:
     def __init__(self):
-        self.Animes:list[Anime] = []
+        self.AnimesID:dict[int:Anime] = dict()
+        self.AnimesNameToID:dict[str:int] = dict()
+        
     def AddAnime(self, Anime:Anime):
-        if(self.HasAnime(Anime) == False):
-            YN = input(Anime.__str__() + " is being added to the database, is this okay? Type 'N' to reject")
-            if(not(YN=='N')):
-                self.Animes.append(Anime)
-                self.AssignHash(Anime)
-                
-    def AddAnimeNoUI(self, Anime:Anime):
-        if(self.HasAnime(Anime) == False):
-            self.Animes.append(Anime)
-            self.AssignHash(Anime)
+        if(not hasattr(Anime,'ID')):
+            return 
+        self.AnimesID.update({Anime.ID:Anime})
+        for t in Anime.names:
+            self.AnimesNameToID.update({t:Anime.ID})
                 
     def ExportToFile(self, exportName:str):
         f = open(exportName,'w',encoding='U8')
-        for A in self.Animes:
-            if(A==self.Animes[-1]):
-                f.write(A.csvString())
-            else:
-                f.write(A.csvString()+'\n') 
+        for t in self.AnimesNameToID.keys():
+            f.write(t+'\t'+str(self.AnimesNameToID.get(t))+'\n')
         f.close()
+        for A in self.AnimesID.values():
+            A.AnimeToTxtFile()
+        
         
     def ImportFromFile(self, importName:str):
         f = open(importName,'r',encoding='U8')
         while(f.readable()):
-            ToAnime = f.readline()
-            ToAnime = ToAnime.strip()
-            if(ToAnime == ''):
-                f.close()
+            AniData = f.readline()
+            if(AniData == ''):
                 break
-            ToAnimeParts = ToAnime.split(", tags:")
-            AnimeNames = ToAnimeParts[0].split(", Name: ")
-            AddAnime = Anime(AnimeNames[0])
-            AddAnime.AddNamesList(AnimeNames[1:])
-            AnimeTags = []
-            if(ToAnime.find(", tags: ") > 0):
-                AnimeTags = ToAnimeParts[1].split(", ")
-            AddAnime.AddTagsList(AnimeTags)
-            if(importName == 'AnimeDataBase.csv'):
-                self.AddAnimeNoUI(AddAnime)
-            else:
-                self.AddAnime(AddAnime)
-            AnimeTags = []
-            
+            TitleID = AniData.rsplit('\t',1)
+            self.AnimesNameToID.update({TitleID[0]:int(TitleID[1])})
         f.close()
+        for id in set(self.AnimesNameToID.values()):
+            A = Anime('')
+            A.ImportAsFile(str(id)+'Anime.txt')
+            self.AnimesID.update({id:A})
+            
+    def IsEmpty(self) -> bool:
+        return set(self.AnimesID.keys()) == set([])  
         
-    def IncludeDB(self, Importing:object):
-        if(type(Importing) != AnimeDataBase):
-            pass
-        I:AnimeDataBase = Importing
-        
-        for anime in I.Animes:
-            if(anime in self.Animes):
-                ReAdd:Anime = self.Animes.pop(self.Animes.index(anime))
-                anime.Merge(ReAdd)
-            self.AddAnime(anime)
-        
-    def HasAnime(self,Anime:Anime):
-        return Anime in self.Animes
+    def HasAnime(self,Anime:str):
+        return Anime in self.AnimesNameToID.keys()
     
-    def LookUpAnime(self, Anime:Anime) -> Anime:
+    def LookUpAnime(self, Anime:str) -> Anime:
         if(not self.HasAnime(Anime)):
             return None
-        return self.Animes[self.Animes.index(Anime)]
-    
-    def IncludeAnimeList(self, List:list[Anime]):
-        Adb = AnimeDataBase()
-        for Anime in List:
-            Adb.AddAnime(Anime)
-        self.IncludeDB(Adb)
-        
-    def AssignHash(self,A:Anime):
-        if(not(self.HasAnime(A))):
-            self.AddAnime(A)
-        A.setID(self.Animes.index(A))
+        return self.AnimesID.get(self.AnimesNameToID.get(Anime))
+
 
 def main():
     A = Anime('Fruits Basket (2019)')
+    A.AniListUpdate()
     B = Anime('Maid-sama')
-    A.AddName('フルーツバスケット 1st Season')
-    B.AddTag('Maids')
-    A.AddTag('Zodiac')
-    C = Anime('Horimiya')
-    C.AddTag('Romance')
-    A.AddTag('Romance')
-    B.AddTag('Romance')
-    A.AddTag('Shojo')
-    B.AddTag('Shojo')
-    B.AddName('Kaichou wa Maid-sama!')
+    B.AniListUpdate()
+    C = Anime('Kamisama Kiss')
+    C.AniListUpdate()
+    Adb = AnimeDataBase()
+    Adb.AddAnime(A)
+    Adb.AddAnime(B)
+    Adb.AddAnime(C)
+    Adb.ExportToFile("TestBase.txt")
+    print(Adb.LookUpAnime('Kamisama Kiss').name)
     
-    AdB = AnimeDataBase()
-    AdB.AddAnime(A)
-    print(AdB.HasAnime(A))
-    print(AdB.HasAnime(B) == False)
-    AdB.AddAnime(B)
-    print(AdB.HasAnime(B))
-    AdB.AddAnime(C)
-    print(AdB.LookUpAnime(A))
-    AdB.ExportToFile('AnimeDataBaseT.csv')
-    
-    AdB2 = AnimeDataBase()
-    AdB2.ImportFromFile('AnimeDataBaseT.csv')
-    print(AdB2.HasAnime(A))
-    print(AdB2.HasAnime(C))
-    AdB.IncludeDB(AdB2)
-    AdB.ExportToFile('AnimeDataBaseT.csv')
+    Adb2 = AnimeDataBase()
+    Adb2.ImportFromFile("TestBase.txt")
+    print(Adb2.LookUpAnime('Kamisama Kiss').name)
     
     
     

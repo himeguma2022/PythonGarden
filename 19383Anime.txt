@@ -1,0 +1,9 @@
+ID:	19383
+Title:	Yami Shibai
+Title:	Theatre of Darkness: Yamishibai
+Title:	闇芝居
+Tag:	Ghost
+Tag:	Episodic
+Tag:	Demons
+Tag:	Anthology
+Tag:	Body Horror

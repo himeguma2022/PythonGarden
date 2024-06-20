@@ -1,0 +1,13 @@
+ID:	5454
+Title:	Modern Magic Made Simple
+Title:	Yoku Wakaru Gendai Mahou
+Title:	Yokuwakaru Gendaimahou
+Title:	よくわかる現代魔法
+Tag:	Magic
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Software Development
+Tag:	Idol
+Tag:	Slapstick
+Tag:	Kuudere
+Tag:	Time Manipulation
