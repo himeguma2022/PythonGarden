@@ -1,29 +1,29 @@
 ID:	21127
-Title:	シュタインズ・ゲート ゼロ
 Title:	Steins;Gate 0
-Tag:	Post-Apocalyptic
-Tag:	Amnesia
-Tag:	Time Skip
-Tag:	Artificial Intelligence
-Tag:	War
+Title:	シュタインズ・ゲート ゼロ
 Tag:	Disability
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Fugitive
+Tag:	Age Regression
+Tag:	Shrine Maiden
+Tag:	Amnesia
+Tag:	Dystopian
+Tag:	Time Manipulation
+Tag:	War
+Tag:	Gore
+Tag:	Post-Apocalyptic
+Tag:	Memory Manipulation
+Tag:	Primarily Adult Cast
+Tag:	Otaku Culture
+Tag:	Kuudere
+Tag:	Chuunibyou
+Tag:	Philosophy
+Tag:	Tragedy
 Tag:	Military
 Tag:	Alternate Universe
-Tag:	Otaku Culture
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	College
-Tag:	Fugitive
 Tag:	Denpa
-Tag:	Shrine Maiden
-Tag:	Age Regression
-Tag:	Philosophy
 Tag:	Dissociative Identities
-Tag:	Dystopian
-Tag:	Primarily Adult Cast
-Tag:	Urban
-Tag:	Tragedy
-Tag:	Memory Manipulation
-Tag:	Chuunibyou
-Tag:	Kuudere
-Tag:	Time Manipulation
+Tag:	College
+Tag:	Male Protagonist
+Tag:	Time Skip

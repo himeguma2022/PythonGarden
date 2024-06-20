@@ -1,22 +1,22 @@
 ID:	10165
+Title:	Nichijou - My Ordinary Life
 Title:	Nichijou
 Title:	日常
-Title:	Nichijou - My Ordinary Life
-Tag:	Guns
-Tag:	Shounen
 Tag:	Parody
 Tag:	School
-Tag:	Episodic
-Tag:	Cute Girls Doing Cute Things
-Tag:	Drawing
-Tag:	Robots
-Tag:	Primarily Teen Cast
-Tag:	Achronological Order
-Tag:	Philosophy
-Tag:	Primarily Female Cast
+Tag:	Surreal Comedy
 Tag:	Ensemble Cast
 Tag:	Slapstick
+Tag:	Drawing
 Tag:	Tsundere
-Tag:	Surreal Comedy
-Tag:	Female Protagonist
+Tag:	Guns
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Robots
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
+Tag:	Philosophy
+Tag:	Achronological Order
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Shounen

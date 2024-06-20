@@ -1,13 +1,13 @@
 ID:	20553
-Title:	KanColle
 Title:	Kantai Collection: KanColle
+Title:	KanColle
 Title:	艦隊これくしょん -艦これ-
-Tag:	School
-Tag:	Military
-Tag:	Cute Girls Doing Cute Things
-Tag:	Ships
-Tag:	Tragedy
-Tag:	Primarily Female Cast
 Tag:	CGI
+Tag:	School
+Tag:	Ships
+Tag:	Military
 Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Tragedy
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast

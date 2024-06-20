@@ -1,21 +1,21 @@
 ID:	108357
 Title:	ヴァンパイア・イン・ザ・ガーデン
 Title:	Vampire in the Garden
-Tag:	Guns
-Tag:	War
-Tag:	Post-Apocalyptic
-Tag:	Urban Fantasy
-Tag:	Dystopian
-Tag:	Vampire
-Tag:	Swordplay
-Tag:	Military
-Tag:	Foreign
-Tag:	Travel
-Tag:	Survival
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
-Tag:	Gore
-Tag:	Tragedy
-Tag:	CGI
 Tag:	LGBTQ+ Themes
 Tag:	Fugitive
+Tag:	CGI
+Tag:	Military
+Tag:	Foreign
+Tag:	Survival
+Tag:	Dystopian
+Tag:	Urban Fantasy
+Tag:	Guns
+Tag:	War
+Tag:	Swordplay
+Tag:	Gore
+Tag:	Vampire
+Tag:	Tragedy
+Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Post-Apocalyptic
+Tag:	Travel

@@ -1,14 +1,14 @@
 ID:	10321
-Title:	うたの☆プリンスさまっ♪ マジLOVE1000%
-Title:	Uta no☆Prince-sama♪ Maji Love 1000%
-Title:	Uta no☆Prince-sama♪ Maji LOVE 1000%
 Title:	Uta no Prince Sama
-Tag:	Male Harem
-Tag:	School
-Tag:	Crossdressing
+Title:	Uta no☆Prince-sama♪ Maji Love 1000%
+Title:	うたの☆プリンスさまっ♪ マジLOVE1000%
+Title:	Uta no☆Prince-sama♪ Maji LOVE 1000%
 Tag:	Primarily Male Cast
-Tag:	Idol
-Tag:	Ensemble Cast
-Tag:	Cute Boys Doing Cute Things
 Tag:	Musical Theater
+Tag:	Idol
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Male Harem
+Tag:	Cute Boys Doing Cute Things
+Tag:	Crossdressing
 Tag:	Female Protagonist

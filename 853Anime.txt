@@ -1,34 +1,34 @@
 ID:	853
-Title:	Ouran High School Host Club
-Title:	Ouran Koukou Host Club
 Title:	桜蘭高校ホスト部
-Tag:	Unrequited Love
-Tag:	Male Harem
+Title:	Ouran Koukou Host Club
+Title:	Ouran High School Host Club
 Tag:	School
-Tag:	Crossdressing
-Tag:	Primarily Male Cast
-Tag:	Surreal Comedy
+Tag:	Femboy
 Tag:	Tomboy
-Tag:	Female Protagonist
+Tag:	Chibi
+Tag:	Found Family
+Tag:	Unrequited Love
 Tag:	Twins
+Tag:	Ojou-sama
+Tag:	Surreal Comedy
+Tag:	Ensemble Cast
+Tag:	Male Harem
+Tag:	LGBTQ+ Themes
+Tag:	Shoujo
 Tag:	School Club
 Tag:	Parody
-Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Femboy
-Tag:	Meta
-Tag:	Love Triangle
-Tag:	Episodic
-Tag:	Primarily Teen Cast
-Tag:	Ojou-sama
-Tag:	Gangs
-Tag:	LGBTQ+ Themes
-Tag:	Chibi
-Tag:	Yakuza
-Tag:	Mixed Gender Harem
 Tag:	Delinquents
-Tag:	Found Family
-Tag:	Shoujo
-Tag:	Food
+Tag:	Heterosexual
+Tag:	Yakuza
+Tag:	Cute Boys Doing Cute Things
+Tag:	Meta
+Tag:	Crossdressing
+Tag:	Love Triangle
+Tag:	Primarily Male Cast
 Tag:	Martial Arts
+Tag:	Mixed Gender Harem
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Food
+Tag:	Female Protagonist
+Tag:	Gangs

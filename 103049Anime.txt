@@ -1,9 +1,9 @@
 ID:	103049
 Title:	Piano no Mori (TV) 2nd Season
 Title:	Forest of Piano Season 2
-Title:	Piano no Mori 2 (TV)
 Title:	ピアノの森 2 (TV)
-Tag:	Coming of Age
-Tag:	Foreign
+Title:	Piano no Mori 2 (TV)
 Tag:	CGI
+Tag:	Coming of Age
 Tag:	Classical Music
+Tag:	Foreign

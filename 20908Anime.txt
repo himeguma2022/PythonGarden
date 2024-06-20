@@ -1,16 +1,16 @@
 ID:	20908
+Title:	花とアリス 殺人事件
 Title:	The Case of Hana & Alice
 Title:	Hana to Alice: Satsujin Jiken
 Title:	Hana to Alice Satsujin Jiken
-Title:	花とアリス 殺人事件
-Tag:	Urban
-Tag:	School
-Tag:	Rotoscoping
-Tag:	Crossdressing
-Tag:	Coming of Age
 Tag:	Religion
-Tag:	Bullying
+Tag:	Hikikomori
 Tag:	Dancing
 Tag:	CGI
-Tag:	Hikikomori
+Tag:	School
+Tag:	Urban
+Tag:	Coming of Age
+Tag:	Rotoscoping
+Tag:	Crossdressing
 Tag:	Female Protagonist
+Tag:	Bullying

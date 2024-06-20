@@ -1,18 +1,18 @@
 ID:	21050
-Title:	Momokuri
 Title:	ももくり
-Tag:	Chibi
+Title:	Momokuri
 Tag:	School
-Tag:	Yandere
+Tag:	Seinen
+Tag:	Slapstick
+Tag:	Photography
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
 Tag:	Heterosexual
 Tag:	Cute Girls Doing Cute Things
-Tag:	Photography
-Tag:	Cute Boys Doing Cute Things
-Tag:	Primarily Teen Cast
-Tag:	Seinen
-Tag:	Female Protagonist
-Tag:	Slapstick
-Tag:	Nekomimi
+Tag:	Chibi
 Tag:	Tomboy
-Tag:	Kuudere
+Tag:	Cute Boys Doing Cute Things
+Tag:	Yandere
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Nekomimi

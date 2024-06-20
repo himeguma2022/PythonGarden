@@ -1,19 +1,19 @@
 ID:	3457
-Title:	ヴァンパイア騎士
 Title:	Vampire Knight
-Tag:	Unrequited Love
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Adoption
-Tag:	Male Harem
-Tag:	School
-Tag:	Heterosexual
-Tag:	Amnesia
-Tag:	Primarily Teen Cast
+Title:	ヴァンパイア騎士
 Tag:	Primarily Male Cast
+Tag:	Unrequited Love
 Tag:	Shoujo
-Tag:	Female Protagonist
+Tag:	School
+Tag:	Amnesia
+Tag:	Male Harem
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
-Tag:	Incest
-Tag:	Boarding School
+Tag:	Heterosexual
+Tag:	Vampire
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Incest
+Tag:	Adoption

@@ -1,20 +1,20 @@
 ID:	5365
 Title:	Tsumiki no Ie
-Title:	つみきのいえ
 Title:	La Maison en Petits Cubes
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
-Tag:	Environmental
+Title:	つみきのいえ
 Tag:	Elderly Protagonist
-Tag:	Fishing
-Tag:	Photography
 Tag:	Ships
-Tag:	Marriage
-Tag:	Coming of Age
 Tag:	Cosmic Horror
+Tag:	Dystopian
+Tag:	Photography
+Tag:	Marriage
 Tag:	No Dialogue
-Tag:	Achronological Order
-Tag:	Tragedy
+Tag:	Coming of Age
 Tag:	Scuba Diving
 Tag:	Family Life
+Tag:	Environmental
 Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Achronological Order
+Tag:	Fishing

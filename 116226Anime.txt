@@ -1,7 +1,7 @@
 ID:	116226
 Title:	Kimi wa Kanata
-Title:	Over the Sky
 Title:	君は彼方
-Tag:	Isekai
+Title:	Over the Sky
 Tag:	Urban Fantasy
+Tag:	Isekai
 Tag:	Love Triangle

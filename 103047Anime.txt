@@ -1,24 +1,24 @@
 ID:	103047
 Title:	劇場版 ヴァイオレット・エヴァーガーデン
-Title:	Violet Evergarden: the Movie
 Title:	Violet Evergarden Movie
-Tag:	Foreign
-Tag:	Time Skip
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Age Gap
-Tag:	Disability
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Military
+Title:	Violet Evergarden: the Movie
 Tag:	Steampunk
-Tag:	Ships
-Tag:	Achronological Order
-Tag:	Travel
-Tag:	Historical
+Tag:	Disability
+Tag:	Family Life
+Tag:	War
 Tag:	Primarily Adult Cast
-Tag:	Writing
-Tag:	Tragedy
 Tag:	Agriculture
+Tag:	Heterosexual
+Tag:	Age Gap
+Tag:	Tragedy
 Tag:	Rehabilitation
+Tag:	Historical
+Tag:	Work
+Tag:	Travel
+Tag:	Ships
+Tag:	Military
+Tag:	Foreign
+Tag:	Achronological Order
+Tag:	Time Skip
+Tag:	Female Protagonist
+Tag:	Writing

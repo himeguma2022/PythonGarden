@@ -1,20 +1,20 @@
 ID:	10379
-Title:	Natsume Yuujinchou San
 Title:	夏目友人帳 参
 Title:	Natsume's Book of Friends 3
-Tag:	Estranged Family
-Tag:	Urban Fantasy
-Tag:	Adoption
-Tag:	Mythology
-Tag:	Episodic
-Tag:	Youkai
-Tag:	Rotoscoping
-Tag:	Primarily Teen Cast
-Tag:	Iyashikei
-Tag:	Found Family
+Title:	Natsume Yuujinchou San
 Tag:	Shoujo
-Tag:	Male Protagonist
-Tag:	Shapeshifting
-Tag:	Family Life
+Tag:	Estranged Family
 Tag:	Rural
+Tag:	Iyashikei
+Tag:	Urban Fantasy
 Tag:	Outdoor
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Mythology
+Tag:	Rotoscoping
+Tag:	Youkai
+Tag:	Shapeshifting
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Found Family
+Tag:	Adoption

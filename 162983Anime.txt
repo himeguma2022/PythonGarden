@@ -2,28 +2,28 @@ ID:	162983
 Title:	Undead Girl Murder Farce
 Title:	アンデッドガール・マーダーファルス
 Title:	Undead Murder Farce
-Tag:	Guns
-Tag:	Foreign
-Tag:	Monster Boy
-Tag:	Revenge
-Tag:	Classic Literature
-Tag:	Fairy Tale
-Tag:	Female Protagonist
-Tag:	Crime
-Tag:	Youkai
-Tag:	Demons
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Monster Girl
-Tag:	Rakugo
 Tag:	Detective
-Tag:	Travel
-Tag:	Historical
+Tag:	Demons
+Tag:	Guns
+Tag:	Revenge
+Tag:	Maids
+Tag:	Vampire
+Tag:	Fairy Tale
+Tag:	Crime
 Tag:	Conspiracy
+Tag:	Monster Boy
+Tag:	Gore
+Tag:	Monster Girl
 Tag:	LGBTQ+ Themes
 Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Maids
+Tag:	Rakugo
+Tag:	Historical
+Tag:	Travel
 Tag:	Werewolf
+Tag:	Foreign
 Tag:	Rural
+Tag:	Urban Fantasy
+Tag:	Youkai
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Classic Literature

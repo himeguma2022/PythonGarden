@@ -1,22 +1,22 @@
 ID:	139093
-Title:	シャドーハウス 2nd Season
 Title:	Shadows House 2nd Season
 Title:	SHADOWS HOUSE 2nd Season
-Tag:	Memory Manipulation
+Title:	シャドーハウス 2nd Season
 Tag:	Twins
-Tag:	Slavery
-Tag:	Urban Fantasy
-Tag:	Butler
-Tag:	Amnesia
-Tag:	Suicide
-Tag:	Seinen
-Tag:	Cosmic Horror
 Tag:	Ojou-sama
-Tag:	Drugs
-Tag:	Ensemble Cast
-Tag:	Tragedy
-Tag:	Maids
-Tag:	Primarily Child Cast
 Tag:	Conspiracy
+Tag:	Cosmic Horror
+Tag:	Amnesia
+Tag:	Drugs
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Slavery
 Tag:	Kuudere
+Tag:	Primarily Child Cast
+Tag:	Maids
+Tag:	Tragedy
+Tag:	Butler
 Tag:	Female Protagonist
+Tag:	Suicide
+Tag:	Memory Manipulation

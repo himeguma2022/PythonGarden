@@ -1,15 +1,15 @@
 ID:	1028
-Title:	Arete-hime
-Title:	Princess Arete
 Title:	Arete Hime
+Title:	Arete-hime
 Title:	アリーテ姫
-Tag:	Lost Civilization
-Tag:	Magic
+Title:	Princess Arete
 Tag:	Anachronism
-Tag:	Coming of Age
+Tag:	Magic
+Tag:	Lost Civilization
 Tag:	Politics
-Tag:	Philosophy
-Tag:	Shapeshifting
 Tag:	Aviation
-Tag:	Fairy Tale
+Tag:	Coming of Age
+Tag:	Philosophy
 Tag:	Female Protagonist
+Tag:	Fairy Tale
+Tag:	Shapeshifting

@@ -1,34 +1,34 @@
 ID:	9253
-Title:	シュタインズ・ゲート
 Title:	Steins;Gate
-Tag:	Post-Apocalyptic
-Tag:	Amnesia
-Tag:	Time Loop
-Tag:	Memory Manipulation
-Tag:	War
-Tag:	Heterosexual
-Tag:	Alternate Universe
-Tag:	Ensemble Cast
-Tag:	Otaku Culture
-Tag:	Male Protagonist
-Tag:	Boys' Love
-Tag:	Denpa
-Tag:	Trains
+Title:	シュタインズ・ゲート
 Tag:	Transgender
-Tag:	Cosplay
-Tag:	Suicide
-Tag:	Shrine Maiden
-Tag:	Philosophy
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	LGBTQ+ Themes
-Tag:	Dissociative Identities
-Tag:	Dystopian
+Tag:	Time Loop
 Tag:	Gender Bending
-Tag:	Primarily Adult Cast
-Tag:	Urban
-Tag:	Tragedy
+Tag:	Tsundere
 Tag:	Maids
-Tag:	Chuunibyou
-Tag:	Kuudere
+Tag:	Urban
+Tag:	Shrine Maiden
+Tag:	Conspiracy
+Tag:	Amnesia
+Tag:	Ensemble Cast
+Tag:	Dystopian
 Tag:	Time Manipulation
+Tag:	Trains
+Tag:	War
+Tag:	Post-Apocalyptic
+Tag:	Suicide
+Tag:	Memory Manipulation
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Adult Cast
+Tag:	Otaku Culture
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Chuunibyou
+Tag:	Philosophy
+Tag:	Tragedy
+Tag:	Alternate Universe
+Tag:	Denpa
+Tag:	Dissociative Identities
+Tag:	Boys' Love
+Tag:	Male Protagonist
+Tag:	Cosplay

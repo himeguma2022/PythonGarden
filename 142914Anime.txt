@@ -1,14 +1,14 @@
 ID:	142914
+Title:	吸血鬼すぐ死ぬ２
 Title:	Kyuuketsuki Sugu Shinu 2
 Title:	The Vampire Dies in No Time Season 2
-Title:	吸血鬼すぐ死ぬ２
-Tag:	Animals
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Vampire
 Tag:	Primarily Adult Cast
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Male Protagonist
 Tag:	Surreal Comedy
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
+Tag:	Urban
+Tag:	Episodic
+Tag:	Vampire
+Tag:	Male Protagonist
+Tag:	Slapstick
+Tag:	Animals

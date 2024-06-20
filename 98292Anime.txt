@@ -1,23 +1,23 @@
 ID:	98292
 Title:	New Game!!
 Title:	NEW GAME!!
-Tag:	Software Development
-Tag:	Drawing
-Tag:	Cute Girls Doing Cute Things
-Tag:	Video Games
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Work
 Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Otaku Culture
-Tag:	College
-Tag:	Episodic
-Tag:	Cosplay
-Tag:	Primarily Female Cast
-Tag:	Office Lady
-Tag:	LGBTQ+ Themes
-Tag:	Airsoft
-Tag:	Primarily Adult Cast
-Tag:	Tanned Skin
+Tag:	Software Development
+Tag:	Tomboy
 Tag:	Office
+Tag:	Primarily Female Cast
+Tag:	Ensemble Cast
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Adult Cast
+Tag:	Office Lady
+Tag:	Otaku Culture
+Tag:	Tanned Skin
+Tag:	Video Games
+Tag:	Work
+Tag:	Drawing
+Tag:	Airsoft
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	College
+Tag:	Female Protagonist
+Tag:	Cosplay

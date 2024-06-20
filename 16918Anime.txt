@@ -2,19 +2,19 @@ ID:	16918
 Title:	銀の匙
 Title:	Gin no Saji
 Title:	Silver Spoon
-Tag:	Chibi
-Tag:	Animals
-Tag:	Twins
-Tag:	Shounen
-Tag:	Agriculture
 Tag:	School Club
+Tag:	Twins
 Tag:	School
-Tag:	Environmental
+Tag:	Rural
+Tag:	Educational
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Baseball
-Tag:	Educational
-Tag:	Philosophy
+Tag:	Agriculture
+Tag:	Chibi
 Tag:	Food
+Tag:	Environmental
 Tag:	Male Protagonist
-Tag:	Rural
+Tag:	Philosophy
+Tag:	Shounen
+Tag:	Animals
+Tag:	Baseball

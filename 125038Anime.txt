@@ -2,21 +2,21 @@ ID:	125038
 Title:	Shadows House
 Title:	シャドーハウス
 Title:	SHADOWS HOUSE
-Tag:	Memory Manipulation
-Tag:	Slavery
-Tag:	Urban Fantasy
 Tag:	Death Game
-Tag:	Butler
-Tag:	Amnesia
-Tag:	Seinen
-Tag:	Cosmic Horror
-Tag:	Fairy
-Tag:	Demons
 Tag:	Ojou-sama
-Tag:	Drugs
-Tag:	Tragedy
-Tag:	Maids
-Tag:	Primarily Child Cast
 Tag:	Conspiracy
+Tag:	Cosmic Horror
+Tag:	Amnesia
+Tag:	Drugs
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Slavery
 Tag:	Kuudere
+Tag:	Primarily Child Cast
+Tag:	Maids
+Tag:	Fairy
+Tag:	Tragedy
+Tag:	Butler
 Tag:	Female Protagonist
+Tag:	Memory Manipulation

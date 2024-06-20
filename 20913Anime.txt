@@ -1,17 +1,17 @@
 ID:	20913
-Title:	K: Return of Kings
 Title:	K: RETURN OF KINGS
+Title:	K: Return of Kings
 Title:	K RETURN OF KINGS
-Tag:	Super Power
-Tag:	Urban
-Tag:	Urban Fantasy
 Tag:	Primarily Adult Cast
-Tag:	Swordplay
-Tag:	Primarily Male Cast
 Tag:	Body Swapping
 Tag:	Ensemble Cast
-Tag:	Nekomimi
-Tag:	Gangs
+Tag:	Urban Fantasy
+Tag:	Urban
+Tag:	Swordplay
+Tag:	Kuudere
 Tag:	Male Protagonist
 Tag:	Skateboarding
-Tag:	Kuudere
+Tag:	Super Power
+Tag:	Primarily Male Cast
+Tag:	Gangs
+Tag:	Nekomimi

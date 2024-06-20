@@ -1,17 +1,17 @@
 ID:	140830
-Title:	Birdie Wing: Golf Girls' Story
-Title:	BIRDIE WING: Golf Girls' Story
 Title:	BIRDIE WING -Golf Girls' Story-
+Title:	BIRDIE WING: Golf Girls' Story
+Title:	Birdie Wing: Golf Girls' Story
 Tag:	Virtual World
-Tag:	Super Power
+Tag:	LGBTQ+ Themes
+Tag:	Golf
 Tag:	School
 Tag:	Foreign
 Tag:	Amnesia
-Tag:	Primarily Teen Cast
 Tag:	Gambling
-Tag:	Primarily Female Cast
-Tag:	Golf
-Tag:	Gangs
+Tag:	Primarily Teen Cast
 Tag:	Mafia
-Tag:	LGBTQ+ Themes
+Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Gangs

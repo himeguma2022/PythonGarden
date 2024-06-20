@@ -1,26 +1,26 @@
 ID:	126403
 Title:	Shiguang Dailiren
-Title:	时光代理人
 Title:	Link Click
-Tag:	Super Power
+Title:	时光代理人
 Tag:	School
-Tag:	Photography
 Tag:	Family Life
-Tag:	Crime
-Tag:	Police
-Tag:	Male Protagonist
-Tag:	College
-Tag:	Boys' Love
-Tag:	Episodic
-Tag:	Suicide
-Tag:	Body Swapping
-Tag:	Office Lady
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
 Tag:	Urban
 Tag:	Office
+Tag:	Crime
 Tag:	Time Manipulation
-Tag:	Tragedy
-Tag:	Memory Manipulation
 Tag:	Basketball
+Tag:	Suicide
+Tag:	Memory Manipulation
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Adult Cast
+Tag:	Office Lady
+Tag:	Tragedy
+Tag:	Body Swapping
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Photography
+Tag:	Episodic
+Tag:	Boys' Love
+Tag:	College
+Tag:	Male Protagonist
+Tag:	Super Power

@@ -1,10 +1,10 @@
 ID:	4063
-Title:	Sekirei
 Title:	セキレイ
+Title:	Sekirei
 Tag:	Nudity
-Tag:	Super Power
-Tag:	Battle Royale
-Tag:	Female Harem
 Tag:	Seinen
-Tag:	Primarily Female Cast
+Tag:	Female Harem
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Primarily Female Cast
+Tag:	Battle Royale

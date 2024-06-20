@@ -1,15 +1,15 @@
 ID:	114840
 Title:	恋と呼ぶには気持ち悪い
-Title:	Koikimo
 Title:	Koi to Yobu ni wa Kimochi Warui
-Tag:	Age Gap
-Tag:	Urban
+Title:	Koikimo
 Tag:	School
-Tag:	Yandere
-Tag:	Heterosexual
 Tag:	Ensemble Cast
-Tag:	Josei
+Tag:	Urban
 Tag:	Otaku Culture
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	Yandere
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Josei

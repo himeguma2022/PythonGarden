@@ -1,14 +1,14 @@
 ID:	21558
-Title:	D.Gray-man Hallow
 Title:	D.Gray-man HALLOW
 Title:	ディー・グレイマン ハロー
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Circus
+Title:	D.Gray-man Hallow
 Tag:	Steampunk
 Tag:	Foreign
-Tag:	Primarily Male Cast
 Tag:	Demons
+Tag:	Circus
+Tag:	Kuudere
 Tag:	Gore
 Tag:	Male Protagonist
-Tag:	Kuudere
+Tag:	Super Power
+Tag:	Primarily Male Cast
+Tag:	Shounen

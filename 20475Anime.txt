@@ -1,24 +1,24 @@
 ID:	20475
-Title:	Sabage-bu!
 Title:	さばげぶっ!
-Title:	Sabagebu!
 Title:	Sabagebu! - Survival Game Club!
+Title:	Sabage-bu!
+Title:	Sabagebu!
 Tag:	School
-Tag:	Cute Girls Doing Cute Things
-Tag:	Crossdressing
-Tag:	Athletics
-Tag:	Surreal Comedy
-Tag:	Female Protagonist
 Tag:	Anti-Hero
+Tag:	Primarily Female Cast
+Tag:	Surreal Comedy
+Tag:	LGBTQ+ Themes
+Tag:	Shoujo
 Tag:	School Club
 Tag:	Parody
-Tag:	Military
 Tag:	Otaku Culture
-Tag:	Meta
-Tag:	Primarily Teen Cast
-Tag:	Primarily Female Cast
-Tag:	LGBTQ+ Themes
-Tag:	Airsoft
-Tag:	Shoujo
-Tag:	Chuunibyou
 Tag:	Kuudere
+Tag:	Chuunibyou
+Tag:	Meta
+Tag:	Crossdressing
+Tag:	Military
+Tag:	Airsoft
+Tag:	Primarily Teen Cast
+Tag:	Athletics
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist

@@ -1,24 +1,24 @@
 ID:	759
 Title:	Tokyo Godfathers
 Title:	東京ゴッドファーザーズ
-Tag:	Language Barrier
-Tag:	Guns
-Tag:	Snowscape
-Tag:	Class Struggle
-Tag:	Family Life
-Tag:	Surreal Comedy
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Ensemble Cast
 Tag:	Transgender
-Tag:	Rotoscoping
+Tag:	Guns
+Tag:	Family Life
+Tag:	Urban
+Tag:	Found Family
+Tag:	Surreal Comedy
+Tag:	Ensemble Cast
+Tag:	Homeless
 Tag:	Suicide
 Tag:	LGBTQ+ Themes
+Tag:	Language Barrier
+Tag:	Nudity
 Tag:	Primarily Adult Cast
-Tag:	Urban
+Tag:	Rotoscoping
+Tag:	Delinquents
 Tag:	Yakuza
 Tag:	Tanned Skin
-Tag:	Delinquents
-Tag:	Found Family
 Tag:	Tragedy
-Tag:	Homeless
+Tag:	Snowscape
+Tag:	Class Struggle
+Tag:	Female Protagonist

@@ -1,21 +1,21 @@
 ID:	21659
-Title:	甘々と稲妻
-Title:	Amaama to Inazuma
 Title:	Sweetness & Lightning
-Tag:	Chibi
-Tag:	Orphan
-Tag:	Teacher
+Title:	Amaama to Inazuma
+Title:	甘々と稲妻
+Tag:	Parenthood
 Tag:	School
-Tag:	Episodic
-Tag:	Cute Girls Doing Cute Things
 Tag:	Seinen
-Tag:	Coming of Age
-Tag:	Found Family
+Tag:	Teacher
 Tag:	Iyashikei
 Tag:	Educational
-Tag:	Parenthood
-Tag:	Restaurant
-Tag:	Family Life
+Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Chibi
 Tag:	Food
+Tag:	Restaurant
 Tag:	Male Protagonist
+Tag:	Family Life
 Tag:	Female Protagonist
+Tag:	Orphan
+Tag:	Found Family

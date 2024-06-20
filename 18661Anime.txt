@@ -1,8 +1,8 @@
 ID:	18661
-Title:	Kamisama Hajimemashita OVA
 Title:	神様はじめました
-Tag:	Youkai
-Tag:	Demons
-Tag:	Shoujo
+Title:	Kamisama Hajimemashita OVA
 Tag:	Kemonomimi
+Tag:	Shoujo
+Tag:	Demons
+Tag:	Youkai
 Tag:	Female Protagonist

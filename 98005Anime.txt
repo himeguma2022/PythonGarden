@@ -1,16 +1,16 @@
 ID:	98005
-Title:	ボールルームへようこそ
 Title:	Ballroom e Youkoso
+Title:	ボールルームへようこそ
 Title:	Welcome to the Ballroom
-Tag:	Shounen
+Tag:	LGBTQ+ Themes
+Tag:	CGI
 Tag:	School
-Tag:	Heterosexual
+Tag:	Dancing
+Tag:	Ensemble Cast
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Bullying
-Tag:	Ensemble Cast
-Tag:	Dancing
-Tag:	CGI
+Tag:	Heterosexual
 Tag:	Male Protagonist
 Tag:	Rehabilitation
-Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Bullying

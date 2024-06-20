@@ -1,19 +1,19 @@
 ID:	20751
-Title:	蟲師 続章 2
-Title:	MUSHI-SHI The Next Passage 2
-Title:	Mushishi Zoku Shou 2
 Title:	Mushishi Zoku Shou 2nd Season
+Title:	Mushishi Zoku Shou 2
+Title:	MUSHI-SHI The Next Passage 2
+Title:	蟲師 続章 2
 Tag:	Denpa
+Tag:	Rural
+Tag:	Seinen
 Tag:	Urban Fantasy
-Tag:	Mythology
-Tag:	Environmental
+Tag:	Demons
+Tag:	Time Manipulation
 Tag:	Episodic
 Tag:	Youkai
-Tag:	Travel
-Tag:	Demons
-Tag:	Seinen
-Tag:	Historical
-Tag:	Philosophy
+Tag:	Mythology
 Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Time Manipulation
+Tag:	Environmental
+Tag:	Philosophy
+Tag:	Historical
+Tag:	Travel

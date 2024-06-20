@@ -1,25 +1,25 @@
 ID:	142455
 Title:	バブル
 Title:	Bubble
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Amnesia
-Tag:	Surreal Comedy
-Tag:	Female Protagonist
 Tag:	Disability
-Tag:	Heterosexual
-Tag:	Male Protagonist
+Tag:	Urban
+Tag:	Parkour
+Tag:	CGI
+Tag:	Surreal Comedy
 Tag:	Aliens
+Tag:	Dystopian
+Tag:	Amnesia
+Tag:	Post-Apocalyptic
+Tag:	Shapeshifting
+Tag:	Cosmic Horror
+Tag:	Lost Civilization
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Mermaid
+Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Cosmic Horror
-Tag:	Parkour
-Tag:	Philosophy
-Tag:	Shapeshifting
-Tag:	Lost Civilization
-Tag:	Dystopian
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Tragedy
-Tag:	Mermaid
-Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Female Protagonist

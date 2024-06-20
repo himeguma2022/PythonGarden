@@ -1,7 +1,7 @@
 ID:	20927
 Title:	Fastening Days 4
 Title:	FASTENING DAYS
+Tag:	Robots
 Tag:	Primarily Child Cast
 Tag:	Superhero
-Tag:	Robots
 Tag:	Advertisement

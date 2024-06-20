@@ -1,18 +1,18 @@
 ID:	18893
-Title:	蒼き鋼のアルペジオ
 Title:	Arpeggio of Blue Steel
+Title:	蒼き鋼のアルペジオ
 Title:	Aoki Hagane no Arpeggio: Ars Nova
-Tag:	Dystopian
-Tag:	War
-Tag:	Full CGI
-Tag:	Post-Apocalyptic
-Tag:	Military
-Tag:	Ships
-Tag:	Primarily Teen Cast
-Tag:	Travel
-Tag:	Seinen
-Tag:	Artificial Intelligence
-Tag:	Male Protagonist
-Tag:	Tsundere
-Tag:	Kuudere
 Tag:	Fugitive
+Tag:	Artificial Intelligence
+Tag:	Full CGI
+Tag:	Ships
+Tag:	Military
+Tag:	Seinen
+Tag:	Dystopian
+Tag:	Tsundere
+Tag:	Primarily Teen Cast
+Tag:	War
+Tag:	Kuudere
+Tag:	Male Protagonist
+Tag:	Post-Apocalyptic
+Tag:	Travel

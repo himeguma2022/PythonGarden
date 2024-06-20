@@ -1,12 +1,12 @@
 ID:	97669
-Title:	Orange: Future
-Title:	Orange: Mirai
-Title:	orange -未来-
 Title:	orange: Mirai
-Tag:	Love Triangle
-Tag:	School
-Tag:	Heterosexual
-Tag:	Alternate Universe
+Title:	Orange: Mirai
+Title:	Orange: Future
+Title:	orange -未来-
 Tag:	Shoujo
-Tag:	Male Protagonist
+Tag:	School
+Tag:	Alternate Universe
 Tag:	Time Manipulation
+Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Love Triangle

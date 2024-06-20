@@ -1,17 +1,17 @@
 ID:	100093
 Title:	Gaikotsu Shotenin Honda-san
-Title:	ガイコツ書店員本田さん
 Title:	Skull-face Bookseller Honda-san
+Title:	ガイコツ書店員本田さん
 Tag:	Language Barrier
-Tag:	Urban
-Tag:	Autobiographical
-Tag:	Primarily Adult Cast
-Tag:	Work
-Tag:	Episodic
-Tag:	Skeleton
 Tag:	Shoujo
+Tag:	Primarily Adult Cast
+Tag:	Surreal Comedy
 Tag:	Educational
-Tag:	Slapstick
+Tag:	Urban
+Tag:	Episodic
 Tag:	Otaku Culture
 Tag:	Male Protagonist
-Tag:	Surreal Comedy
+Tag:	Slapstick
+Tag:	Skeleton
+Tag:	Autobiographical
+Tag:	Work

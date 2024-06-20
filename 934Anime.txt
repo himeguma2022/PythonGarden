@@ -1,33 +1,33 @@
 ID:	934
-Title:	When They Cry
-Title:	Higurashi no Naku Koro ni
 Title:	ひぐらしのなく頃に
-Tag:	Yandere
-Tag:	Crossdressing
+Title:	Higurashi no Naku Koro ni
+Title:	When They Cry
 Tag:	Time Loop
-Tag:	Female Protagonist
-Tag:	Twins
-Tag:	School Club
-Tag:	Mythology
-Tag:	Alternate Universe
-Tag:	Bullying
-Tag:	Police
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Pandemic
-Tag:	Denpa
-Tag:	Achronological Order
-Tag:	Primarily Teen Cast
-Tag:	Cosmic Horror
-Tag:	Shrine Maiden
 Tag:	Primarily Female Cast
-Tag:	Historical
-Tag:	Body Horror
 Tag:	Board Game
+Tag:	Body Horror
+Tag:	Twins
+Tag:	Shrine Maiden
 Tag:	Conspiracy
-Tag:	Urban Fantasy
-Tag:	Tragedy
-Tag:	Rural
+Tag:	Ensemble Cast
 Tag:	Time Manipulation
+Tag:	Gore
+Tag:	School Club
+Tag:	Cosmic Horror
+Tag:	Mythology
+Tag:	Yandere
+Tag:	Torture
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Historical
+Tag:	Alternate Universe
+Tag:	Rural
+Tag:	Denpa
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Pandemic
+Tag:	Female Protagonist
+Tag:	Bullying

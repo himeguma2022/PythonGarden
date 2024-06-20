@@ -1,8 +1,8 @@
 ID:	2751
 Title:	Miyori no Mori
 Title:	ミヨリの森
-Tag:	Environmental
-Tag:	Youkai
 Tag:	Shoujo
 Tag:	Rural
+Tag:	Youkai
+Tag:	Environmental
 Tag:	Female Protagonist

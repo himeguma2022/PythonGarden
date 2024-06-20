@@ -1,18 +1,18 @@
 ID:	21281
-Title:	Attack on Titan: Junior High
 Title:	進撃！巨人中学校
+Title:	Attack on Titan: Junior High
 Title:	Shingeki! Kyojin Chuugakkou
-Tag:	Chibi
 Tag:	Ghost
-Tag:	Urban Fantasy
-Tag:	Kaiju
 Tag:	Parody
-Tag:	Shounen
 Tag:	School
-Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Cute Boys Doing Cute Things
-Tag:	Food
-Tag:	Male Protagonist
+Tag:	Urban Fantasy
+Tag:	Cute Girls Doing Cute Things
+Tag:	Chibi
 Tag:	Primarily Child Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Male Protagonist
+Tag:	Food
+Tag:	Slapstick
+Tag:	Shounen
+Tag:	Kaiju

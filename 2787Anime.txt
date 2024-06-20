@@ -1,16 +1,16 @@
 ID:	2787
-Title:	Shakugan no Shana II (Second)
 Title:	灼眼のシャナⅡ(Second)
 Title:	Shakugan no Shana: Season II
-Tag:	Super Power
-Tag:	Kaiju
-Tag:	Urban Fantasy
-Tag:	Primarily Adult Cast
+Title:	Shakugan no Shana II (Second)
 Tag:	School
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Urban Fantasy
 Tag:	Tsundere
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Male Protagonist
 Tag:	Love Triangle
+Tag:	Super Power
+Tag:	Female Protagonist
+Tag:	Kaiju

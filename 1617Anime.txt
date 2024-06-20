@@ -1,9 +1,9 @@
 ID:	1617
-Title:	まっすぐにいこう。
-Title:	Massugu ni Ikou
 Title:	Massugu ni Ikou.
-Tag:	Chibi
-Tag:	Animals
-Tag:	Heterosexual
+Title:	Massugu ni Ikou
+Title:	まっすぐにいこう。
 Tag:	Shoujo
+Tag:	Heterosexual
+Tag:	Chibi
 Tag:	Male Protagonist
+Tag:	Animals

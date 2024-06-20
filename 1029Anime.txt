@@ -1,19 +1,19 @@
 ID:	1029
-Title:	Omoide Poro Poro
 Title:	Omoide Poroporo
-Title:	おもひでぽろぽろ
 Title:	Only Yesterday
-Tag:	Biographical
-Tag:	Agriculture
+Title:	おもひでぽろぽろ
+Title:	Omoide Poro Poro
 Tag:	School
-Tag:	Travel
-Tag:	Coming of Age
-Tag:	Iyashikei
-Tag:	Baseball
-Tag:	Josei
-Tag:	Historical
-Tag:	Philosophy
-Tag:	Family Life
 Tag:	Rural
+Tag:	Iyashikei
 Tag:	Acting
+Tag:	Coming of Age
+Tag:	Josei
+Tag:	Agriculture
+Tag:	Family Life
+Tag:	Philosophy
+Tag:	Biographical
 Tag:	Female Protagonist
+Tag:	Historical
+Tag:	Baseball
+Tag:	Travel

@@ -2,21 +2,21 @@ ID:	151252
 Title:	氷属性男子とクールな同僚女子
 Title:	The Ice Guy and His Cool Female Colleague
 Title:	Koori Zokusei Danshi to Cool na Douryou Joshi
-Tag:	Super Power
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Episodic
-Tag:	Youkai
-Tag:	Office
-Tag:	Iyashikei
-Tag:	Josei
-Tag:	Shrine Maiden
-Tag:	Age Regression
 Tag:	Kemonomimi
-Tag:	Male Protagonist
+Tag:	Age Regression
+Tag:	Shrine Maiden
+Tag:	Primarily Adult Cast
 Tag:	Office Lady
+Tag:	Iyashikei
 Tag:	Tsundere
+Tag:	Urban Fantasy
+Tag:	Episodic
+Tag:	Josei
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Youkai
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Office
+Tag:	Work

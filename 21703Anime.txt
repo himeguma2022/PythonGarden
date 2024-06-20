@@ -1,17 +1,17 @@
 ID:	21703
-Title:	The Great Passage
 Title:	Fune wo Amu
 Title:	舟を編む
+Title:	The Great Passage
 Tag:	Primarily Adult Cast
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Office
+Tag:	Office Lady
+Tag:	Educational
 Tag:	Marriage
 Tag:	Coming of Age
-Tag:	Time Skip
-Tag:	Writing
-Tag:	Educational
+Tag:	Heterosexual
 Tag:	Philosophy
 Tag:	Male Protagonist
-Tag:	Office Lady
+Tag:	Time Skip
+Tag:	Office
 Tag:	Meta
+Tag:	Writing
+Tag:	Work

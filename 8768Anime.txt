@@ -1,8 +1,8 @@
 ID:	8768
-Title:	Hiyokoi
 Title:	ひよ恋
+Title:	Hiyokoi
+Tag:	Shoujo
 Tag:	School
 Tag:	Heterosexual
-Tag:	Shoujo
 Tag:	Male Protagonist
 Tag:	Female Protagonist

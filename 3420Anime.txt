@@ -1,32 +1,32 @@
 ID:	3420
 Title:	Shigofumi
 Title:	シゴフミ
-Tag:	Guns
-Tag:	Tennis
-Tag:	School
-Tag:	Gods
-Tag:	Amnesia
-Tag:	Revenge
-Tag:	Family Life
-Tag:	Tomboy
-Tag:	Female Protagonist
 Tag:	Disability
-Tag:	Crime
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Bullying
-Tag:	Police
-Tag:	Denpa
-Tag:	Episodic
-Tag:	Suicide
+Tag:	School
 Tag:	Detective
-Tag:	Coming of Age
-Tag:	Office Lady
-Tag:	Dissociative Identities
-Tag:	Afterlife
+Tag:	Guns
+Tag:	Revenge
+Tag:	Tomboy
+Tag:	Family Life
+Tag:	Crime
+Tag:	Amnesia
+Tag:	Suicide
 Tag:	Magic
-Tag:	Urban Fantasy
-Tag:	Writing
-Tag:	Tragedy
-Tag:	Rehabilitation
+Tag:	Office Lady
+Tag:	Tennis
+Tag:	Heterosexual
 Tag:	Kuudere
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Rehabilitation
+Tag:	Afterlife
+Tag:	Work
+Tag:	Denpa
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Dissociative Identities
+Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Female Protagonist
+Tag:	Writing
+Tag:	Bullying

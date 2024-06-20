@@ -1,29 +1,29 @@
 ID:	133965
 Title:	古見さんは、コミュ症です。
-Title:	"Komi-san wa, Comyushou desu."
 Title:	Komi-san wa, Komyushou desu.
 Title:	Komi Can’t Communicate
-Tag:	Unrequited Love
-Tag:	School
-Tag:	Yandere
-Tag:	Cute Girls Doing Cute Things
-Tag:	Crossdressing
-Tag:	Female Protagonist
+Title:	"Komi-san wa, Comyushou desu."
 Tag:	Disability
-Tag:	Shounen
-Tag:	Heterosexual
-Tag:	Bullying
-Tag:	Male Protagonist
-Tag:	Agender
-Tag:	Femboy
-Tag:	Meta
+Tag:	School
 Tag:	Transgender
-Tag:	Episodic
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Slapstick
-Tag:	Gangs
 Tag:	Gender Bending
+Tag:	Femboy
 Tag:	Maids
-Tag:	Chuunibyou
+Tag:	Unrequited Love
+Tag:	Shounen
+Tag:	Bullying
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Chuunibyou
+Tag:	Yandere
+Tag:	Meta
+Tag:	Crossdressing
+Tag:	Slapstick
+Tag:	Agender
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Gangs

@@ -2,27 +2,27 @@ ID:	110350
 Title:	ID: INVADED
 Title:	イド：インヴェイデッド
 Title:	Id:Invaded
+Tag:	Virtual World
+Tag:	Anti-Hero
+Tag:	Detective
 Tag:	Guns
 Tag:	Prison
-Tag:	Amnesia
 Tag:	Revenge
-Tag:	Female Protagonist
-Tag:	Anti-Hero
-Tag:	Crime
-Tag:	Alternate Universe
-Tag:	Police
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Augmented Reality
-Tag:	Suicide
-Tag:	Detective
-Tag:	Philosophy
-Tag:	Virtual World
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
 Tag:	Cyberpunk
-Tag:	Tragedy
-Tag:	Memory Manipulation
+Tag:	Augmented Reality
 Tag:	CGI
+Tag:	Crime
+Tag:	Amnesia
 Tag:	Time Manipulation
+Tag:	Gore
+Tag:	Suicide
+Tag:	Memory Manipulation
+Tag:	Primarily Adult Cast
+Tag:	Meta
+Tag:	Philosophy
+Tag:	Tragedy
+Tag:	Alternate Universe
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Male Protagonist
+Tag:	Female Protagonist

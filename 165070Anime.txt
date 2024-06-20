@@ -1,17 +1,17 @@
 ID:	165070
+Title:	Atarashii Joushi wa Dotennen
 Title:	My New Boss is Goofy
 Title:	Atarashii Joushi wa Do Tennen
 Title:	新しい上司はど天然
-Title:	Atarashii Joushi wa Dotennen
-Tag:	Chibi
-Tag:	Primarily Adult Cast
-Tag:	Bisexual
-Tag:	Work
-Tag:	Office
 Tag:	Primarily Male Cast
-Tag:	Iyashikei
 Tag:	Shoujo
+Tag:	Primarily Adult Cast
 Tag:	Slapstick
+Tag:	Iyashikei
+Tag:	Boys' Love
+Tag:	Chibi
+Tag:	Bisexual
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Boys' Love
+Tag:	Office
+Tag:	Work

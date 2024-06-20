@@ -2,16 +2,16 @@ ID:	163137
 Title:	Oooku
 Title:	大奥
 Title:	Ōoku: The Inner Chambers
-Tag:	Pandemic
-Tag:	Matriarchy
-Tag:	Gender Bending
-Tag:	Primarily Adult Cast
-Tag:	Swordplay
-Tag:	Suicide
-Tag:	Politics
-Tag:	Shoujo
-Tag:	Samurai
-Tag:	Rape
-Tag:	Historical
-Tag:	Male Protagonist
 Tag:	LGBTQ+ Themes
+Tag:	Shoujo
+Tag:	Matriarchy
+Tag:	Rape
+Tag:	Primarily Adult Cast
+Tag:	Gender Bending
+Tag:	Politics
+Tag:	Samurai
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Pandemic
+Tag:	Historical
+Tag:	Suicide

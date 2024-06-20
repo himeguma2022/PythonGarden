@@ -1,18 +1,18 @@
 ID:	1482
-Title:	ディー・グレイマン
 Title:	D.Gray-man
-Tag:	Super Power
-Tag:	Urban Fantasy
-Tag:	Shounen
+Title:	ディー・グレイマン
 Tag:	Anachronism
+Tag:	LGBTQ+ Themes
 Tag:	Steampunk
 Tag:	Foreign
-Tag:	Primarily Teen Cast
-Tag:	Demons
-Tag:	Primarily Male Cast
 Tag:	Ensemble Cast
-Tag:	Philosophy
-Tag:	LGBTQ+ Themes
-Tag:	Male Protagonist
-Tag:	Rehabilitation
+Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
+Tag:	Rehabilitation
+Tag:	Male Protagonist
+Tag:	Philosophy
+Tag:	Super Power
+Tag:	Primarily Male Cast
+Tag:	Shounen

@@ -1,24 +1,24 @@
 ID:	21455
-Title:	NEW GAME!
 Title:	New Game!
-Tag:	Software Development
-Tag:	Drawing
-Tag:	Cute Girls Doing Cute Things
-Tag:	Video Games
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Work
+Title:	NEW GAME!
 Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	College
-Tag:	Episodic
-Tag:	Cosplay
-Tag:	Primarily Female Cast
-Tag:	Office Lady
+Tag:	Politics
 Tag:	Tsundere
+Tag:	Software Development
+Tag:	Tomboy
+Tag:	Office
+Tag:	Urban
+Tag:	Primarily Female Cast
+Tag:	Ensemble Cast
 Tag:	LGBTQ+ Themes
 Tag:	Primarily Adult Cast
-Tag:	Urban
+Tag:	Office Lady
 Tag:	Tanned Skin
-Tag:	Office
-Tag:	Politics
+Tag:	Video Games
+Tag:	Work
+Tag:	Drawing
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	College
+Tag:	Female Protagonist
+Tag:	Cosplay

@@ -1,36 +1,36 @@
 ID:	97986
 Title:	メイドインアビス
 Title:	Made in Abyss
-Tag:	Orphan
-Tag:	School
-Tag:	Amnesia
-Tag:	Crossdressing
-Tag:	Primarily Child Cast
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Seinen
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Agender
-Tag:	Femboy
 Tag:	Steampunk
-Tag:	Environmental
-Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Religion
-Tag:	Anthropomorphism
-Tag:	Philosophy
-Tag:	Lost Civilization
+Tag:	School
+Tag:	Seinen
+Tag:	Femboy
+Tag:	Chibi
+Tag:	Maids
+Tag:	Robots
 Tag:	Body Horror
 Tag:	Conspiracy
-Tag:	Robots
-Tag:	Dissociative Identities
-Tag:	Chibi
+Tag:	Amnesia
+Tag:	Time Manipulation
+Tag:	Gore
+Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Cosmic Horror
+Tag:	Lost Civilization
 Tag:	Dungeon
 Tag:	Tanned Skin
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Maids
-Tag:	Food
+Tag:	Philosophy
+Tag:	Crossdressing
 Tag:	Rehabilitation
-Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Orphan
+Tag:	Travel
+Tag:	Agender
+Tag:	Religion
+Tag:	Survival
+Tag:	Dissociative Identities
+Tag:	Primarily Child Cast
+Tag:	Food
+Tag:	Male Protagonist
+Tag:	Environmental
+Tag:	Female Protagonist

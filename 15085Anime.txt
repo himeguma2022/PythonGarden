@@ -1,13 +1,13 @@
 ID:	15085
 Title:	AMNESIA
 Title:	Amnesia
-Tag:	Primarily Adult Cast
-Tag:	Male Harem
-Tag:	Yandere
-Tag:	Amnesia
 Tag:	Primarily Male Cast
-Tag:	Fairy
+Tag:	Primarily Adult Cast
 Tag:	Alternate Universe
+Tag:	Amnesia
+Tag:	Male Harem
 Tag:	Tsundere
 Tag:	Kuudere
+Tag:	Yandere
+Tag:	Fairy
 Tag:	Female Protagonist

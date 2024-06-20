@@ -1,23 +1,23 @@
 ID:	3455
+Title:	To LOVE-Ru
 Title:	To LOVEる -とらぶる-
 Title:	To Love Ru
-Title:	To LOVE-Ru
 Tag:	School
-Tag:	Female Harem
-Tag:	Surreal Comedy
-Tag:	Nudity
-Tag:	Shounen
-Tag:	Parody
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Monster Girl
-Tag:	Ghost
-Tag:	Episodic
-Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Slapstick
-Tag:	Primarily Female Cast
-Tag:	Tsundere
 Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Primarily Female Cast
+Tag:	Ghost
+Tag:	Surreal Comedy
+Tag:	Aliens
+Tag:	Shounen
+Tag:	Monster Girl
+Tag:	Nudity
+Tag:	Parody
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Slapstick
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Male Protagonist

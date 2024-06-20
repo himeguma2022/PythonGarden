@@ -1,5 +1,5 @@
 ID:	21807
 Title:	Tsubasa to Hotaru (2015)
 Title:	つばさとホタル
-Tag:	School
 Tag:	Shoujo
+Tag:	School

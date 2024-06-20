@@ -1,17 +1,17 @@
 ID:	16157
+Title:	Choujigen Game Neptune The Animation
 Title:	Hyperdimension Neptunia
 Title:	Choujigen Game Neptune THE ANIMATION
 Title:	超次元ゲイム ネプテューヌ THE ANIMATION
-Title:	Choujigen Game Neptune The Animation
-Tag:	Meta
-Tag:	Henshin
 Tag:	Parody
-Tag:	Gods
-Tag:	Video Games
-Tag:	Cute Girls Doing Cute Things
+Tag:	Henshin
 Tag:	Alternate Universe
-Tag:	Time Skip
-Tag:	Primarily Female Cast
-Tag:	Memory Manipulation
 Tag:	Kuudere
 Tag:	Female Protagonist
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Gods
+Tag:	Time Skip
+Tag:	Video Games
+Tag:	Primarily Female Cast
+Tag:	Memory Manipulation

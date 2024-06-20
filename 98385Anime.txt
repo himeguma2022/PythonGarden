@@ -1,21 +1,21 @@
 ID:	98385
 Title:	After the Rain
-Title:	Koi wa Ameagari no You ni
 Title:	恋は雨上がりのように
-Tag:	Twins
+Title:	Koi wa Ameagari no You ni
 Tag:	Martial Arts
-Tag:	Age Gap
-Tag:	Urban
+Tag:	Twins
 Tag:	School
-Tag:	Work
+Tag:	Seinen
+Tag:	Urban
+Tag:	Coming of Age
+Tag:	Athletics
+Tag:	Age Gap
 Tag:	Heterosexual
 Tag:	Tanned Skin
-Tag:	Seinen
-Tag:	Coming of Age
-Tag:	Writing
 Tag:	Restaurant
-Tag:	Classic Literature
-Tag:	Athletics
+Tag:	Love Triangle
 Tag:	Rehabilitation
 Tag:	Female Protagonist
-Tag:	Love Triangle
+Tag:	Classic Literature
+Tag:	Writing
+Tag:	Work

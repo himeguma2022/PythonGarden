@@ -1,15 +1,15 @@
 ID:	10863
 Title:	Steins;Gate: Egoistic Poriomania
-Title:	シュタインズ・ゲート 横行跋扈のポリオマニア
 Title:	Steins;Gate: Oukoubakko no Poriomania
+Title:	シュタインズ・ゲート 横行跋扈のポリオマニア
 Tag:	Language Barrier
 Tag:	Foreign
-Tag:	Heterosexual
+Tag:	Tsundere
 Tag:	Time Manipulation
 Tag:	Otaku Culture
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Chuunibyou
 Tag:	Maids
 Tag:	Male Protagonist
-Tag:	Tsundere
-Tag:	Chuunibyou
-Tag:	Kuudere
 Tag:	Female Protagonist

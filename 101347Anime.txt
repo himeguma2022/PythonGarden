@@ -1,30 +1,30 @@
 ID:	101347
-Title:	どろろ
 Title:	Dororo
-Tag:	Orphan
-Tag:	Crossdressing
-Tag:	Primarily Male Cast
-Tag:	Revenge
-Tag:	Rural
-Tag:	Cannibalism
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Anti-Hero
-Tag:	War
+Title:	どろろ
 Tag:	Disability
-Tag:	Shounen
-Tag:	Youkai
+Tag:	Anti-Hero
 Tag:	Demons
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Ghost
-Tag:	Swordplay
-Tag:	Episodic
-Tag:	Travel
-Tag:	Samurai
-Tag:	Philosophy
-Tag:	Historical
+Tag:	Revenge
+Tag:	Tomboy
 Tag:	Body Horror
-Tag:	Urban Fantasy
-Tag:	Tragedy
+Tag:	Ghost
+Tag:	War
+Tag:	Gore
+Tag:	Shounen
+Tag:	Samurai
 Tag:	Kuudere
+Tag:	Swordplay
+Tag:	Tragedy
+Tag:	Crossdressing
+Tag:	Philosophy
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Historical
+Tag:	Cannibalism
+Tag:	Travel
+Tag:	Rural
+Tag:	Urban Fantasy
+Tag:	Episodic
+Tag:	Youkai
+Tag:	Male Protagonist
+Tag:	Female Protagonist

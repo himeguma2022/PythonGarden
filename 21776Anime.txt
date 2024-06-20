@@ -1,30 +1,30 @@
 ID:	21776
-Title:	小林さんちのメイドラゴン
 Title:	Kobayashi-san Chi no Maidragon
-Title:	Miss Kobayashi's Dragon Maid
 Title:	Kobayashi-san Chi no Maid Dragon
-Tag:	Software Development
-Tag:	Cute Girls Doing Cute Things
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Yuri
+Title:	小林さんちのメイドラゴン
+Title:	Miss Kobayashi's Dragon Maid
 Tag:	Seinen
-Tag:	Otaku Culture
-Tag:	Bisexual
-Tag:	Monster Girl
-Tag:	Large Breasts
-Tag:	Episodic
-Tag:	Isekai
-Tag:	Philosophy
+Tag:	Software Development
+Tag:	Maids
+Tag:	Family Life
+Tag:	Urban
 Tag:	Primarily Female Cast
-Tag:	Office Lady
+Tag:	Found Family
+Tag:	Dragons
+Tag:	Large Breasts
+Tag:	Monster Girl
 Tag:	LGBTQ+ Themes
 Tag:	Magic
+Tag:	Nudity
 Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Found Family
-Tag:	Maids
-Tag:	Dragons
+Tag:	Office Lady
+Tag:	Otaku Culture
 Tag:	Kuudere
+Tag:	Philosophy
+Tag:	Urban Fantasy
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Yuri
+Tag:	Cute Girls Doing Cute Things
+Tag:	Bisexual
+Tag:	Female Protagonist

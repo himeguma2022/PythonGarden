@@ -1,19 +1,19 @@
 ID:	12531
+Title:	坂道のアポロン
 Title:	Kids on the Slope
 Title:	Sakamichi no Apollon
-Title:	坂道のアポロン
-Tag:	Jazz Music
-Tag:	Age Gap
 Tag:	School
-Tag:	Heterosexual
+Tag:	Rural
+Tag:	Jazz Music
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Love Triangle
 Tag:	Time Skip
-Tag:	Found Family
 Tag:	Primarily Male Cast
-Tag:	Josei
 Tag:	Historical
 Tag:	Band
-Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Love Triangle
+Tag:	Found Family
+Tag:	Josei

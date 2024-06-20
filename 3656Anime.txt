@@ -1,9 +1,9 @@
 ID:	3656
-Title:	Monochrome Factor
 Title:	モノクローム･ファクター
-Tag:	Age Gap
-Tag:	Urban Fantasy
+Title:	Monochrome Factor
 Tag:	Shoujo
-Tag:	Slapstick
-Tag:	Male Protagonist
+Tag:	Urban Fantasy
 Tag:	Boys' Love
+Tag:	Age Gap
+Tag:	Male Protagonist
+Tag:	Slapstick

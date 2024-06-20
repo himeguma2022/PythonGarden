@@ -1,39 +1,39 @@
 ID:	11061
-Title:	Hunter x Hunter (2011)
 Title:	HUNTER×HUNTER (2011)
-Tag:	Super Power
-Tag:	Yandere
-Tag:	Video Games
-Tag:	Shogi
-Tag:	Primarily Male Cast
-Tag:	Revenge
-Tag:	Vore
-Tag:	Cultivation
+Title:	Hunter x Hunter (2011)
+Tag:	Virtual World
 Tag:	Anti-Hero
-Tag:	Animals
-Tag:	Shounen
+Tag:	Vore
+Tag:	Gender Bending
+Tag:	Masturbation
+Tag:	Politics
+Tag:	Revenge
+Tag:	Board Game
+Tag:	Body Horror
+Tag:	Cultivation
+Tag:	Found Family
 Tag:	Crime
+Tag:	Shogi
 Tag:	Ensemble Cast
 Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Mafia
-Tag:	Assassins
+Tag:	Shounen
+Tag:	Animals
+Tag:	Anthropomorphism
+Tag:	Yandere
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Video Games
+Tag:	Primarily Male Cast
 Tag:	Card Battle
-Tag:	Environmental
+Tag:	Travel
+Tag:	Martial Arts
+Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Travel
-Tag:	Anthropomorphism
-Tag:	Philosophy
-Tag:	Gangs
-Tag:	Body Horror
-Tag:	Board Game
-Tag:	Virtual World
-Tag:	Gender Bending
-Tag:	Urban Fantasy
+Tag:	Mafia
+Tag:	Environmental
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Assassins
 Tag:	Chimera
-Tag:	Masturbation
-Tag:	Found Family
-Tag:	Politics
-Tag:	Tragedy
-Tag:	Martial Arts
+Tag:	Gangs

@@ -1,17 +1,17 @@
 ID:	108581
-Title:	High Score Girl II
-Title:	Hi Score Girl II
 Title:	ハイスコアガール II
-Tag:	Mopeds
+Title:	Hi Score Girl II
+Title:	High Score Girl II
 Tag:	Full CGI
-Tag:	Urban
-Tag:	Heterosexual
-Tag:	Video Games
-Tag:	Achronological Order
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
 Tag:	Seinen
 Tag:	Slapstick
-Tag:	Primarily Child Cast
+Tag:	Urban
 Tag:	Tsundere
+Tag:	Primarily Teen Cast
+Tag:	Coming of Age
+Tag:	Mopeds
+Tag:	Heterosexual
+Tag:	Primarily Child Cast
 Tag:	Love Triangle
+Tag:	Achronological Order
+Tag:	Video Games

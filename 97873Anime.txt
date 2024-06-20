@@ -1,10 +1,10 @@
 ID:	97873
-Title:	Isekai Izakaya: Koto Aitheria no Izakaya Nobu.
 Title:	Isekai Izakaya: Japanese Food From Another World
-Title:	異世界居酒屋～古都アイテーリアの居酒屋のぶ～
 Title:	Isekai Izakaya: Koto Aitheria no Izakaya Nobu
+Title:	Isekai Izakaya: Koto Aitheria no Izakaya Nobu.
+Title:	異世界居酒屋～古都アイテーリアの居酒屋のぶ～
+Tag:	Bar
 Tag:	Primarily Adult Cast
-Tag:	Work
 Tag:	Isekai
 Tag:	Food
-Tag:	Bar
+Tag:	Work

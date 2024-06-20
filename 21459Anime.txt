@@ -1,17 +1,17 @@
 ID:	21459
-Title:	僕のヒーローアカデミア
 Title:	My Hero Academia
 Title:	Boku no Hero Academia
-Tag:	Super Power
-Tag:	Prison
-Tag:	Urban Fantasy
-Tag:	Superhero
-Tag:	Shounen
-Tag:	School
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Primarily Male Cast
-Tag:	Bullying
-Tag:	Ensemble Cast
+Title:	僕のヒーローアカデミア
 Tag:	Cultivation
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
+Tag:	Prison
+Tag:	Coming of Age
+Tag:	Primarily Teen Cast
+Tag:	Superhero
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Primarily Male Cast
+Tag:	Shounen
+Tag:	Bullying

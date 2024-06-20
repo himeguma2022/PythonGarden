@@ -1,11 +1,11 @@
 ID:	9754
-Title:	Kuragehime: Eiyuu Retsuden☆
-Title:	Kuragehime Eiyuu Retsuden☆
-Title:	海月姫 英雄列伝☆
 Title:	Princess Jellyfish Specials
-Tag:	Urban
+Title:	Kuragehime Eiyuu Retsuden☆
+Title:	Kuragehime: Eiyuu Retsuden☆
+Title:	海月姫 英雄列伝☆
 Tag:	Primarily Adult Cast
-Tag:	Crossdressing
-Tag:	Josei
-Tag:	Slapstick
+Tag:	Urban
 Tag:	Otaku Culture
+Tag:	Crossdressing
+Tag:	Slapstick
+Tag:	Josei

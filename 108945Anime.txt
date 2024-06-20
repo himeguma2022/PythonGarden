@@ -1,16 +1,16 @@
 ID:	108945
+Title:	ワンパンマン 2 OVA
 Title:	One Punch Man 2nd Season
 Title:	One-Punch Man Season 2 OVA
 Title:	One Punch Man 2 OVA
-Title:	ワンパンマン 2 OVA
-Tag:	Super Power
-Tag:	Primarily Adult Cast
-Tag:	Superhero
-Tag:	Urban Fantasy
-Tag:	Parody
-Tag:	Video Games
-Tag:	Fishing
-Tag:	Ninja
-Tag:	Seinen
-Tag:	Male Protagonist
 Tag:	Martial Arts
+Tag:	Parody
+Tag:	Primarily Adult Cast
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Superhero
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Video Games
+Tag:	Ninja
+Tag:	Fishing

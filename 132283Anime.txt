@@ -1,11 +1,11 @@
 ID:	132283
 Title:	夜の国
-Title:	Night World
 Title:	Yoru no Kuni
+Title:	Night World
+Tag:	Iyashikei
 Tag:	Episodic
 Tag:	Coming of Age
-Tag:	Iyashikei
 Tag:	Tragedy
+Tag:	Female Protagonist
 Tag:	Primarily Female Cast
 Tag:	Fairy Tale
-Tag:	Female Protagonist

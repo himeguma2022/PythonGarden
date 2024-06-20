@@ -1,14 +1,14 @@
 ID:	6773
-Title:	Shakugan no Shana: Season III
-Title:	灼眼のシャナIII (Final)
 Title:	Shakugan no Shana III (Final)
-Tag:	Anti-Hero
-Tag:	War
-Tag:	Kaiju
-Tag:	Urban Fantasy
-Tag:	Super Power
+Title:	灼眼のシャナIII (Final)
+Title:	Shakugan no Shana: Season III
 Tag:	Religion
-Tag:	Male Protagonist
+Tag:	Anti-Hero
+Tag:	Urban Fantasy
 Tag:	Tsundere
+Tag:	War
 Tag:	Kuudere
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Kaiju

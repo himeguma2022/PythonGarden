@@ -1,16 +1,16 @@
 ID:	162002
-Title:	休日のわるものさん
 Title:	Kyuujitsu no Warumono-san
+Title:	休日のわるものさん
 Title:	Mr. Villain's Day Off
-Tag:	Henshin
-Tag:	Twins
-Tag:	Animals
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Monster Boy
-Tag:	Aliens
-Tag:	Konbini
-Tag:	Iyashikei
 Tag:	Shoujo
+Tag:	Twins
+Tag:	Primarily Adult Cast
+Tag:	Henshin
+Tag:	Aliens
+Tag:	Iyashikei
 Tag:	Tokusatsu
+Tag:	Konbini
+Tag:	Monster Boy
 Tag:	Male Protagonist
+Tag:	Urban
+Tag:	Animals

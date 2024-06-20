@@ -1,24 +1,24 @@
 ID:	20590
 Title:	Rage of Bahamut: Genesis
-Title:	神撃のバハムート GENESIS
 Title:	Shingeki no Bahamut: GENESIS
+Title:	神撃のバハムート GENESIS
 Title:	Shingeki no Bahamut: Genesis
-Tag:	Gods
-Tag:	Zombie
-Tag:	Revenge
-Tag:	Angels
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Demons
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Pirates
-Tag:	Fugitive
-Tag:	Archery
-Tag:	CGI
 Tag:	Steampunk
-Tag:	Swordplay
+Tag:	Demons
+Tag:	Archery
+Tag:	Revenge
+Tag:	Fugitive
+Tag:	CGI
+Tag:	Ensemble Cast
+Tag:	Dragons
+Tag:	Nudity
 Tag:	Magic
 Tag:	Primarily Adult Cast
-Tag:	Dragons
+Tag:	Angels
+Tag:	Swordplay
+Tag:	Heterosexual
+Tag:	Pirates
+Tag:	Gods
+Tag:	Zombie
+Tag:	Male Protagonist
+Tag:	Female Protagonist

@@ -1,9 +1,9 @@
 ID:	21795
-Title:	ほのぼのログ
 Title:	Honobono Log
-Tag:	Heterosexual
-Tag:	Episodic
-Tag:	Achronological Order
-Tag:	Iyashikei
+Title:	ほのぼのログ
 Tag:	Ensemble Cast
+Tag:	Iyashikei
+Tag:	Episodic
 Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Achronological Order

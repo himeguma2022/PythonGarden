@@ -1,15 +1,15 @@
 ID:	6637
-Title:	Eden of the East the Movie II: Paradise Lost
 Title:	東のエデン 劇場版II Paradise Lost
 Title:	Higashi no Eden Movie II: Paradise Lost
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Battle Royale
-Tag:	Heterosexual
-Tag:	Politics
+Title:	Eden of the East the Movie II: Paradise Lost
 Tag:	Artificial Intelligence
-Tag:	Police
+Tag:	Crime
+Tag:	Primarily Adult Cast
 Tag:	Memory Manipulation
 Tag:	Conspiracy
 Tag:	Terrorism
+Tag:	Politics
+Tag:	Police
+Tag:	Heterosexual
+Tag:	Urban
+Tag:	Battle Royale

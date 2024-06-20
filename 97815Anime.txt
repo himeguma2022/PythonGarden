@@ -1,15 +1,15 @@
 ID:	97815
 Title:	Fate/Grand Order: First Order
 Title:	Fate/Grand Order -First Order-
-Tag:	Anti-Hero
 Tag:	Magic
-Tag:	Archery
-Tag:	Urban
+Tag:	Anti-Hero
 Tag:	Urban Fantasy
-Tag:	Mythology
+Tag:	Time Manipulation
+Tag:	Archery
 Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Crossover
+Tag:	Mythology
 Tag:	Gore
 Tag:	Male Protagonist
-Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Crossover
+Tag:	Urban

@@ -1,35 +1,35 @@
 ID:	16592
-Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation
 Title:	ダンガンロンパ 希望の学園と絶望の高校生 The Animation
+Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation
 Title:	Danganronpa: The Animation
-Tag:	Post-Apocalyptic
-Tag:	School
-Tag:	Yandere
-Tag:	Amnesia
-Tag:	Crossdressing
+Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
 Tag:	Artificial Intelligence
-Tag:	Surreal Comedy
-Tag:	Twins
-Tag:	School Club
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Male Protagonist
+Tag:	School
 Tag:	Femboy
-Tag:	Meta
-Tag:	Gyaru
-Tag:	Battle Royale
-Tag:	Suicide
 Tag:	Detective
-Tag:	Primarily Teen Cast
-Tag:	Idol
-Tag:	Dissociative Identities
-Tag:	Dystopian
-Tag:	Primarily Adult Cast
-Tag:	Death Game
-Tag:	Tanned Skin
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Memory Manipulation
 Tag:	CGI
+Tag:	Twins
+Tag:	Gyaru
+Tag:	Amnesia
+Tag:	Ensemble Cast
+Tag:	Dystopian
+Tag:	Surreal Comedy
+Tag:	Gore
+Tag:	Post-Apocalyptic
+Tag:	Suicide
+Tag:	Memory Manipulation
+Tag:	Battle Royale
+Tag:	School Club
+Tag:	Primarily Adult Cast
 Tag:	Kuudere
+Tag:	Yandere
+Tag:	Tanned Skin
+Tag:	Meta
+Tag:	Crossdressing
+Tag:	Idol
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Dissociative Identities
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Death Game

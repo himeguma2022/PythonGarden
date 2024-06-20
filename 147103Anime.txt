@@ -1,26 +1,26 @@
 ID:	147103
-Title:	My Happy Marriage
 Title:	Watashi no Shiawase na Kekkon
+Title:	My Happy Marriage
 Title:	わたしの幸せな結婚
 Title:	Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi
-Tag:	Guns
-Tag:	Super Power
+Tag:	Politics
 Tag:	Marriage
-Tag:	Royal Affairs
+Tag:	Guns
 Tag:	Fairy Tale
-Tag:	Female Protagonist
+Tag:	Royal Affairs
+Tag:	Shoujo
+Tag:	Primarily Adult Cast
+Tag:	Arranged Marriage
+Tag:	Kuudere
+Tag:	Heterosexual
 Tag:	Age Gap
 Tag:	Makeup
-Tag:	Heterosexual
-Tag:	Military
-Tag:	Arranged Marriage
-Tag:	Bullying
-Tag:	Clone
-Tag:	Coming of Age
-Tag:	Historical
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Politics
-Tag:	Shoujo
 Tag:	Rehabilitation
-Tag:	Kuudere
+Tag:	Historical
+Tag:	Military
+Tag:	Urban Fantasy
+Tag:	Coming of Age
+Tag:	Clone
+Tag:	Super Power
+Tag:	Female Protagonist
+Tag:	Bullying

@@ -1,18 +1,18 @@
 ID:	113311
-Title:	かくしごと
 Title:	Kakushigoto
-Tag:	Meta
+Title:	かくしごと
 Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Work
 Tag:	Amnesia
-Tag:	Drawing
-Tag:	Achronological Order
-Tag:	Coming of Age
-Tag:	Time Skip
-Tag:	Parenthood
-Tag:	Tragedy
 Tag:	Slapstick
+Tag:	Drawing
+Tag:	Coming of Age
 Tag:	Family Life
 Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Meta
+Tag:	Tragedy
+Tag:	Parenthood
+Tag:	Work

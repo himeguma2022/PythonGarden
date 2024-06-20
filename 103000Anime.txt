@@ -2,13 +2,13 @@ ID:	103000
 Title:	人外さんの嫁
 Title:	Jingai-san no Yome
 Tag:	Language Barrier
-Tag:	Chibi
-Tag:	Satire
 Tag:	Twins
-Tag:	Urban Fantasy
 Tag:	School
+Tag:	Satire
+Tag:	Urban Fantasy
 Tag:	Marriage
-Tag:	Josei
+Tag:	Boys' Love
+Tag:	Chibi
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Boys' Love
+Tag:	Josei

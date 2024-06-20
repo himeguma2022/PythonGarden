@@ -1,16 +1,16 @@
 ID:	141911
-Title:	Skip to Loafer
-Title:	スキップとローファー
 Title:	Skip and Loafer
-Tag:	Urban
+Title:	スキップとローファー
+Title:	Skip to Loafer
 Tag:	School
-Tag:	Heterosexual
 Tag:	Transgender
+Tag:	Rural
+Tag:	Seinen
+Tag:	Iyashikei
 Tag:	Coastal
+Tag:	Urban
+Tag:	Acting
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Iyashikei
-Tag:	Seinen
-Tag:	Rural
-Tag:	Acting
+Tag:	Heterosexual
 Tag:	Female Protagonist

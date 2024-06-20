@@ -1,7 +1,7 @@
 ID:	3655
-Title:	Nabari no Ou
 Title:	隠の王
-Tag:	Assassins
-Tag:	Amnesia
+Title:	Nabari no Ou
 Tag:	Shounen
 Tag:	Ninja
+Tag:	Assassins
+Tag:	Amnesia

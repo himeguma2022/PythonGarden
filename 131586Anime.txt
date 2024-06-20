@@ -1,27 +1,27 @@
 ID:	131586
-Title:	86 Part 2
 Title:	86－エイティシックス－ 第2クール
+Title:	86 Part 2
 Title:	86: Eighty Six Part 2
 Title:	86 EIGHTY-SIX Part 2
-Tag:	Guns
-Tag:	Super Power
-Tag:	Unrequited Love
-Tag:	Class Struggle
-Tag:	Time Skip
-Tag:	Real Robot
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Military
-Tag:	Necromancy
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Ghost
-Tag:	Suicide
-Tag:	Primarily Teen Cast
-Tag:	Robots
-Tag:	Dystopian
 Tag:	Politics
-Tag:	Survival
+Tag:	Guns
+Tag:	Necromancy
+Tag:	Robots
 Tag:	POV
-Tag:	Tragedy
+Tag:	Unrequited Love
 Tag:	CGI
+Tag:	Ghost
+Tag:	Ensemble Cast
+Tag:	Dystopian
+Tag:	War
+Tag:	Suicide
+Tag:	Real Robot
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Military
+Tag:	Survival
+Tag:	Class Struggle
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Time Skip
+Tag:	Female Protagonist

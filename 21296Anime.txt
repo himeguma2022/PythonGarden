@@ -1,12 +1,12 @@
 ID:	21296
-Title:	Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai
-Title:	ずっと前から好きでした。～告白実行委員会～
-Title:	I've Always Liked You
 Title:	Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai
+Title:	ずっと前から好きでした。～告白実行委員会～
+Title:	Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai
+Title:	I've Always Liked You
 Tag:	School
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
 Tag:	Ensemble Cast
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist

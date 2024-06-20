@@ -1,11 +1,7 @@
 
 from Anime import Anime
 from AnimeDataBase import AnimeDataBase
-global Adb
-global missingAnime
-Adb = AnimeDataBase()
-if(Adb.IsEmpty()):
-    Adb.ImportFromFile('AnimeDataBase.txt')
+
 
 
 class ShounenActionAnimePredict:
@@ -26,6 +22,28 @@ class ShounenActionAnimePredict:
         labelledData = dict()
         for u in csvdata:
             labelledData.update({u[0]:UserCsvToList(u[1])})
+        nonTrainTest = dict()
+        for u in Uin:
+            nonTrainTest.update({u[0]:UserCsvToList(u[1])})
+        AniPopularity = dict()
+        for u in labelledData:
+            for A in labelledData.get(u):
+                if(not A in AniPopularity.keys()):
+                    AniPopularity.update({A:0})
+                val = AniPopularity.get(A)
+                val += 1
+                AniPopularity.update({A:val})
+        inAnis = []
+        while(len(inAnis) < 20):
+            top = max(AniPopularity.values())
+            for A in AniPopularity.keys():
+                if(AniPopularity.get(A) == top):
+                    AniPopularity.pop(A)
+                if(A not in OutputAnimeList):
+                    inAnis.append(A)
+                    break
+            
+            
             
 def RetrieveAnime(title: str) -> Anime:
     if(Adb.HasAnime(title)):
@@ -59,13 +77,23 @@ def UserCsvToList(FileName:str) -> dict[Anime:float]:
     return out
 
 def main():
-    A = ShounenActionAnimePredict([('LadyCassandra','LadyCassandra.csv'),('HanakoCheeks','HanakoCheeks.csv'),('StarShower','StarShowerC.csv')],[])
+    global Adb
+    Adb = AnimeDataBase()
+    if(Adb.IsEmpty()):
+        Adb.ImportFromFile('AnimeDataBase.txt')
+    A = ShounenActionAnimePredict([('LadyCassandra','LadyCassandra.csv'),
+                                   ('StarShower','StarShowerC.csv'),
+                                   ('Neb','Neb.csv'),
+                                   ('FakeName','FakeName.csv'),
+                                   ('Hypersilver69','Hypersilver69.csv'),
+                                   ('FinalShion','FinalShion.csv'),
+                                   ('CultureKing','CultureKing.csv'),
+                                   ('SuperVak','SuperVak.csv'),
+                                   ('LoveKaga123','LoveKaga123.csv')
+                                   ],[
+                                    ('himeguma','himegumaCAnimeList.csv')
+                                   ])
     Adb.ExportToFile("AnimeDataBase.txt")  
-    missingAnime = [set(missingAnime)]
-    f = open("AniList Missing Anime.txt",'w',encoding='U8')
-    for s in missingAnime:
-        f.write(s+'\n')
-    f.close()
          
 if __name__ == '__main__':
     main()

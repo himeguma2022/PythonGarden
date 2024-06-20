@@ -1,24 +1,24 @@
 ID:	140439
 Title:	モブサイコ100 Ⅲ
 Title:	Mob Psycho 100 III
-Tag:	Unrequited Love
-Tag:	Super Power
 Tag:	School
-Tag:	Cult
-Tag:	Primarily Male Cast
+Tag:	Satire
+Tag:	Urban
+Tag:	Unrequited Love
+Tag:	Ghost
 Tag:	Surreal Comedy
+Tag:	Aliens
 Tag:	Shounen
 Tag:	School Club
 Tag:	Parody
-Tag:	Male Protagonist
-Tag:	Ghost
-Tag:	Aliens
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Primarily Male Cast
+Tag:	Rural
+Tag:	Cult
+Tag:	Urban Fantasy
+Tag:	Dissociative Identities
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Philosophy
-Tag:	Dissociative Identities
-Tag:	Satire
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Tragedy
-Tag:	Rural
+Tag:	Male Protagonist
+Tag:	Super Power

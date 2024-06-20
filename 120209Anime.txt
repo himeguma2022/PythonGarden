@@ -1,32 +1,32 @@
 ID:	120209
-Title:	乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ
-Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X
-Title:	My Next Life as a Villainess: All Routes Lead to Doom! X
 Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X
-Tag:	Male Harem
-Tag:	School
-Tag:	Video Games
-Tag:	Royal Affairs
-Tag:	Villainess
-Tag:	Female Harem
-Tag:	Female Protagonist
-Tag:	Twins
-Tag:	Parody
-Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Inseki
-Tag:	Bisexual
-Tag:	Episodic
-Tag:	Isekai
-Tag:	Ojou-sama
-Tag:	Tsundere
-Tag:	LGBTQ+ Themes
-Tag:	Dissociative Identities
-Tag:	Magic
+Title:	乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ
+Title:	My Next Life as a Villainess: All Routes Lead to Doom! X
+Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X
 Tag:	Virtual World
+Tag:	School
 Tag:	Gender Bending
-Tag:	Mixed Gender Harem
+Tag:	Tsundere
+Tag:	Inseki
+Tag:	Royal Affairs
+Tag:	Twins
+Tag:	Ojou-sama
 Tag:	Reincarnation
+Tag:	Ensemble Cast
+Tag:	Male Harem
+Tag:	Villainess
+Tag:	LGBTQ+ Themes
+Tag:	Magic
 Tag:	Shoujo
+Tag:	Parody
 Tag:	Agriculture
+Tag:	Heterosexual
+Tag:	Torture
+Tag:	Video Games
+Tag:	Female Harem
+Tag:	Mixed Gender Harem
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Dissociative Identities
+Tag:	Bisexual
+Tag:	Female Protagonist

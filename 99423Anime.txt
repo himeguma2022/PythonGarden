@@ -1,54 +1,54 @@
 ID:	99423
-Title:	Darling in the Franxx
-Title:	ダーリン・イン・ザ・フランキス
-Title:	Darling in the FranXX
 Title:	DARLING in the FRANXX
-Tag:	Unrequited Love
-Tag:	Orphan
-Tag:	Post-Apocalyptic
-Tag:	Yandere
-Tag:	Monster Boy
-Tag:	Drawing
-Tag:	Fishing
-Tag:	Marriage
-Tag:	Time Skip
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Military
-Tag:	Demons
+Title:	Darling in the Franxx
+Title:	Darling in the FranXX
+Title:	ダーリン・イン・ザ・フランキス
 Tag:	Virginity
-Tag:	Gore
-Tag:	Football
-Tag:	Male Protagonist
-Tag:	Agender
-Tag:	Love Triangle
-Tag:	Clone
-Tag:	Pandemic
-Tag:	Monster Girl
 Tag:	Super Robot
-Tag:	Environmental
-Tag:	Aliens
+Tag:	Politics
+Tag:	Tsundere
+Tag:	Demons
+Tag:	Marriage
+Tag:	Aviation
 Tag:	Netorare
+Tag:	Family Life
+Tag:	Robots
+Tag:	Found Family
+Tag:	Body Horror
+Tag:	Unrequited Love
+Tag:	Reincarnation
+Tag:	Conspiracy
+Tag:	Aliens
+Tag:	Dystopian
+Tag:	Monster Boy
+Tag:	Gore
+Tag:	Post-Apocalyptic
+Tag:	Monster Girl
+Tag:	Football
+Tag:	Memory Manipulation
+Tag:	LGBTQ+ Themes
+Tag:	Nudity
+Tag:	Lost Civilization
+Tag:	Space
+Tag:	Agriculture
+Tag:	Heterosexual
+Tag:	Yandere
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Orphan
+Tag:	Fishing
+Tag:	Kaiju
+Tag:	Travel
+Tag:	Agender
+Tag:	Military
+Tag:	Survival
+Tag:	Drawing
+Tag:	Pandemic
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Travel
+Tag:	Clone
+Tag:	Environmental
+Tag:	Male Protagonist
+Tag:	Time Skip
+Tag:	Female Protagonist
 Tag:	Medicine
-Tag:	Lost Civilization
-Tag:	Body Horror
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	LGBTQ+ Themes
-Tag:	Robots
-Tag:	Dystopian
-Tag:	Kaiju
-Tag:	Reincarnation
-Tag:	Found Family
-Tag:	Politics
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Aviation
-Tag:	Memory Manipulation
-Tag:	Agriculture
-Tag:	Space

@@ -1,25 +1,25 @@
 ID:	20815
-Title:	The Rolling Girls
-Title:	Rolling☆Girls
 Title:	ローリング☆ガールズ
-Tag:	Super Power
-Tag:	Superhero
-Tag:	Drawing
-Tag:	Cute Girls Doing Cute Things
-Tag:	Family Life
-Tag:	Surreal Comedy
-Tag:	Female Protagonist
-Tag:	Mopeds
-Tag:	Ensemble Cast
-Tag:	Meta
+Title:	Rolling☆Girls
+Title:	The Rolling Girls
 Tag:	Super Robot
-Tag:	Aliens
-Tag:	Motorcycles
-Tag:	Coming of Age
-Tag:	Idol
-Tag:	Primarily Female Cast
-Tag:	Lost Civilization
 Tag:	Politics
-Tag:	Space
-Tag:	Rural
+Tag:	Family Life
+Tag:	Primarily Female Cast
+Tag:	Surreal Comedy
+Tag:	Ensemble Cast
+Tag:	Aliens
 Tag:	Time Manipulation
+Tag:	Superhero
+Tag:	Motorcycles
+Tag:	Lost Civilization
+Tag:	Space
+Tag:	Mopeds
+Tag:	Meta
+Tag:	Idol
+Tag:	Rural
+Tag:	Drawing
+Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Super Power
+Tag:	Female Protagonist

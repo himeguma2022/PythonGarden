@@ -1,10 +1,10 @@
 ID:	18849
-Title:	Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai
 Title:	Natsume's Book of Friends LaLa Special
+Title:	Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai
 Title:	夏目友人帳新 ニャンコ先生とはじめてのおつかい
-Tag:	Adoption
-Tag:	Youkai
-Tag:	Shapeshifting
-Tag:	Male Protagonist
-Tag:	Primarily Child Cast
 Tag:	Rural
+Tag:	Youkai
+Tag:	Primarily Child Cast
+Tag:	Male Protagonist
+Tag:	Shapeshifting
+Tag:	Adoption

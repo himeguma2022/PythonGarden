@@ -1,29 +1,29 @@
 ID:	1889
 Title:	When They Cry Kai
-Title:	ひぐらしのなく頃に解
 Title:	Higurashi no Naku Koro ni Kai
+Title:	ひぐらしのなく頃に解
 Tag:	School
-Tag:	Gods
-Tag:	Crossdressing
 Tag:	Time Loop
-Tag:	Rural
-Tag:	Female Protagonist
-Tag:	Twins
-Tag:	School Club
-Tag:	Mythology
-Tag:	Military
-Tag:	Alternate Universe
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Gore
-Tag:	Denpa
-Tag:	Primarily Teen Cast
-Tag:	Shrine Maiden
-Tag:	Primarily Female Cast
-Tag:	Historical
-Tag:	Body Horror
-Tag:	Conspiracy
-Tag:	Urban Fantasy
 Tag:	Politics
-Tag:	Kuudere
+Tag:	Primarily Female Cast
+Tag:	Body Horror
+Tag:	Twins
+Tag:	Shrine Maiden
+Tag:	Conspiracy
+Tag:	Ensemble Cast
 Tag:	Time Manipulation
+Tag:	Gore
+Tag:	School Club
+Tag:	Kuudere
+Tag:	Mythology
+Tag:	Torture
+Tag:	Crossdressing
+Tag:	Gods
+Tag:	Historical
+Tag:	Military
+Tag:	Rural
+Tag:	Alternate Universe
+Tag:	Denpa
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist

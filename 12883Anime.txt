@@ -1,19 +1,19 @@
 ID:	12883
-Title:	Tsuritama
 Title:	つり球
-Tag:	Memory Manipulation
+Title:	Tsuritama
+Tag:	Primarily Male Cast
+Tag:	Fugitive
 Tag:	School
-Tag:	Coastal
+Tag:	Dancing
 Tag:	Aliens
-Tag:	Fishing
-Tag:	Tanned Skin
+Tag:	Outdoor
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Primarily Male Cast
-Tag:	Dancing
-Tag:	Shapeshifting
+Tag:	Tanned Skin
 Tag:	Cute Boys Doing Cute Things
-Tag:	Family Life
 Tag:	Male Protagonist
-Tag:	Outdoor
-Tag:	Fugitive
+Tag:	Family Life
+Tag:	Coastal
+Tag:	Fishing
+Tag:	Shapeshifting
+Tag:	Memory Manipulation

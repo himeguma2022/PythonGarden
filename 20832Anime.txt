@@ -1,33 +1,33 @@
 ID:	20832
 Title:	Overlord
 Title:	オーバーロード
-Tag:	Yandere
-Tag:	Monster Boy
-Tag:	Crossdressing
-Tag:	Villainess
-Tag:	Female Harem
-Tag:	Tomboy
-Tag:	Anti-Hero
-Tag:	Twins
-Tag:	Necromancy
-Tag:	Demons
-Tag:	Ensemble Cast
-Tag:	Elf
-Tag:	Male Protagonist
-Tag:	Femboy
-Tag:	Love Triangle
-Tag:	Dragons
-Tag:	Monster Girl
-Tag:	Butler
-Tag:	Isekai
-Tag:	Goblin
-Tag:	Magic
 Tag:	Virtual World
-Tag:	Primarily Adult Cast
-Tag:	Vampire
-Tag:	Succubus
+Tag:	Anti-Hero
+Tag:	Femboy
 Tag:	Politics
+Tag:	Demons
+Tag:	Necromancy
 Tag:	Maids
-Tag:	CGI
+Tag:	Tomboy
+Tag:	Vampire
 Tag:	Skeleton
+Tag:	CGI
+Tag:	Twins
+Tag:	Ensemble Cast
+Tag:	Villainess
+Tag:	Goblin
+Tag:	Monster Boy
+Tag:	Dragons
+Tag:	Butler
+Tag:	Monster Girl
+Tag:	Magic
+Tag:	Primarily Adult Cast
+Tag:	Elf
 Tag:	Kuudere
+Tag:	Yandere
+Tag:	Love Triangle
+Tag:	Crossdressing
+Tag:	Succubus
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Male Protagonist

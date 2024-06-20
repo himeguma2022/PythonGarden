@@ -1,20 +1,20 @@
 ID:	130166
 Title:	Leadale no Daichi nite
-Title:	リアデイルの大地にて
 Title:	In the Land of Leadale
-Tag:	Chibi
+Title:	リアデイルの大地にて
 Tag:	Virtual World
 Tag:	Magic
 Tag:	Gender Bending
-Tag:	Super Power
-Tag:	Adoption
-Tag:	Video Games
-Tag:	Cute Girls Doing Cute Things
-Tag:	Travel
-Tag:	Iyashikei
-Tag:	Zombie
-Tag:	Isekai
-Tag:	Primarily Female Cast
-Tag:	Elf
 Tag:	Mermaid
+Tag:	Iyashikei
+Tag:	Elf
+Tag:	Isekai
+Tag:	Adoption
+Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Video Games
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Super Power
+Tag:	Zombie
+Tag:	Travel

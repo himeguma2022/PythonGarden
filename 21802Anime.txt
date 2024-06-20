@@ -1,9 +1,9 @@
 ID:	21802
+Title:	Kiitaro's yokai picture diary
 Title:	奇異太郎少年の妖怪絵日記
 Title:	Kiitarou Shounen no Youkai Enikki
-Title:	Kiitaro's yokai picture diary
 Tag:	Parody
-Tag:	Youkai
 Tag:	Seinen
-Tag:	Primarily Female Cast
+Tag:	Youkai
 Tag:	Male Protagonist
+Tag:	Primarily Female Cast

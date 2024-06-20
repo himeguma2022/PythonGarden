@@ -1,26 +1,26 @@
 ID:	98707
+Title:	Houseki no Kuni
 Title:	宝石の国
 Title:	Land of the Lustrous
-Title:	Houseki no Kuni
-Tag:	Language Barrier
-Tag:	Post-Apocalyptic
-Tag:	Amnesia
-Tag:	Time Skip
-Tag:	Twins
-Tag:	War
-Tag:	Astronomy
 Tag:	Seinen
-Tag:	Agender
+Tag:	Astronomy
+Tag:	Tsundere
+Tag:	Body Horror
 Tag:	Full CGI
-Tag:	Swordplay
-Tag:	Coming of Age
+Tag:	Twins
+Tag:	Conspiracy
+Tag:	Amnesia
+Tag:	War
+Tag:	Post-Apocalyptic
 Tag:	Anthropomorphism
 Tag:	Shapeshifting
-Tag:	Slapstick
-Tag:	Philosophy
-Tag:	Body Horror
-Tag:	Conspiracy
-Tag:	Tsundere
-Tag:	Survival
-Tag:	Tragedy
 Tag:	Memory Manipulation
+Tag:	Language Barrier
+Tag:	Swordplay
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Slapstick
+Tag:	Agender
+Tag:	Survival
+Tag:	Coming of Age
+Tag:	Time Skip

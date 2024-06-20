@@ -2,26 +2,26 @@ ID:	21234
 Title:	Boku dake ga Inai Machi
 Title:	僕だけがいない街
 Title:	ERASED
-Tag:	Snowscape
-Tag:	Super Power
-Tag:	Teacher
 Tag:	School
-Tag:	Amnesia
-Tag:	Time Skip
-Tag:	Revenge
-Tag:	Primarily Child Cast
-Tag:	Crime
-Tag:	Heterosexual
 Tag:	Seinen
-Tag:	Alternate Universe
-Tag:	Bullying
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Fugitive
 Tag:	Detective
-Tag:	Age Regression
-Tag:	Tragedy
+Tag:	Revenge
+Tag:	Fugitive
 Tag:	CGI
-Tag:	Rehabilitation
-Tag:	Kuudere
+Tag:	Crime
+Tag:	Age Regression
+Tag:	Amnesia
+Tag:	Ensemble Cast
 Tag:	Time Manipulation
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	Rehabilitation
+Tag:	Super Power
+Tag:	Alternate Universe
+Tag:	Teacher
+Tag:	Snowscape
+Tag:	Primarily Child Cast
+Tag:	Male Protagonist
+Tag:	Time Skip
+Tag:	Bullying

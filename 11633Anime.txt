@@ -1,22 +1,22 @@
 ID:	11633
 Title:	ブラッドラッド
 Title:	Blood Lad
-Tag:	Zombie
+Tag:	Seinen
+Tag:	Demons
+Tag:	Vampire
+Tag:	Skeleton
+Tag:	Ghost
+Tag:	Boxing
+Tag:	Dragons
 Tag:	Nudity
 Tag:	Parody
-Tag:	Heterosexual
-Tag:	Seinen
-Tag:	Boxing
-Tag:	Demons
 Tag:	Otaku Culture
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Ghost
-Tag:	Isekai
-Tag:	Afterlife
-Tag:	Werewolf
-Tag:	Vampire
-Tag:	Delinquents
-Tag:	Dragons
-Tag:	Skeleton
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Delinquents
+Tag:	Love Triangle
+Tag:	Afterlife
+Tag:	Zombie
+Tag:	Werewolf
+Tag:	Isekai
+Tag:	Male Protagonist

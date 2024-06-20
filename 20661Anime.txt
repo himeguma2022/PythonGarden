@@ -1,20 +1,20 @@
 ID:	20661
-Title:	Terror in Resonance
 Title:	Zankyou no Terror
 Title:	残響のテロル
-Tag:	Anti-Hero
-Tag:	Urban
-Tag:	Crime
-Tag:	Mythology
-Tag:	Software Development
-Tag:	Suicide
-Tag:	Motorcycles
-Tag:	Detective
+Title:	Terror in Resonance
 Tag:	Primarily Male Cast
+Tag:	Crime
+Tag:	Anti-Hero
+Tag:	Terrorism
 Tag:	Politics
+Tag:	Detective
+Tag:	Software Development
 Tag:	Police
+Tag:	Urban
 Tag:	Revenge
+Tag:	Mythology
 Tag:	Tragedy
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Terrorism
+Tag:	Suicide
+Tag:	Motorcycles

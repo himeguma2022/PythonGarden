@@ -1,18 +1,18 @@
 ID:	98503
+Title:	School Babysitters
 Title:	学園ベビーシッターズ
 Title:	Gakuen Babysitters
-Title:	School Babysitters
-Tag:	Chibi
-Tag:	Twins
 Tag:	School Club
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Iyashikei
-Tag:	Parenthood
+Tag:	Twins
 Tag:	Shoujo
-Tag:	Tragedy
-Tag:	Cute Boys Doing Cute Things
-Tag:	Family Life
-Tag:	Male Protagonist
-Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Iyashikei
 Tag:	Tsundere
+Tag:	Family Life
+Tag:	Chibi
+Tag:	Primarily Child Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Parenthood

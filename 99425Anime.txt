@@ -1,21 +1,21 @@
 ID:	99425
 Title:	プロメア
 Title:	Promare
-Tag:	Dragons
-Tag:	Satire
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Environmental
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Robots
-Tag:	Motorcycles
-Tag:	Alternate Universe
-Tag:	Politics
 Tag:	Artificial Intelligence
-Tag:	Philosophy
 Tag:	CGI
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Super Robot
+Tag:	Satire
+Tag:	Aliens
+Tag:	Politics
+Tag:	Urban
+Tag:	Alternate Universe
+Tag:	Robots
+Tag:	Dragons
 Tag:	Firefighters
+Tag:	Male Protagonist
+Tag:	Environmental
+Tag:	Super Power
+Tag:	Philosophy
+Tag:	Post-Apocalyptic
+Tag:	Motorcycles

@@ -1,13 +1,13 @@
 ID:	104562
-Title:	Ashita Sekai ga Owaru toshitemo
 Title:	あした世界が終わるとしても
 Title:	The Relative Worlds
+Title:	Ashita Sekai ga Owaru toshitemo
 Tag:	Magic
+Tag:	Artificial Intelligence
 Tag:	Twins
 Tag:	Full CGI
-Tag:	Urban Fantasy
-Tag:	Swordplay
 Tag:	Alternate Universe
+Tag:	Urban Fantasy
 Tag:	Isekai
-Tag:	Artificial Intelligence
+Tag:	Swordplay
 Tag:	Tragedy

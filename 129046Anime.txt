@@ -1,8 +1,8 @@
 ID:	129046
 Title:	6 Lovers
 Title:	6 LOVERS
-Tag:	Primarily Male Cast
 Tag:	Anthology
-Tag:	Nekomimi
-Tag:	Male Protagonist
 Tag:	Boys' Love
+Tag:	Male Protagonist
+Tag:	Primarily Male Cast
+Tag:	Nekomimi

@@ -1,13 +1,13 @@
 ID:	153841
-Title:	Tsurune: Tsunagari no Issha
-Title:	ツルネ －つながりの一射－
 Title:	Tsurune - The Linking Shot -
-Tag:	Twins
-Tag:	Archery
+Title:	ツルネ －つながりの一射－
+Title:	Tsurune: Tsunagari no Issha
+Tag:	Martial Arts
 Tag:	School Club
+Tag:	Twins
 Tag:	School
+Tag:	Archery
 Tag:	Primarily Teen Cast
-Tag:	Primarily Male Cast
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Martial Arts
+Tag:	Primarily Male Cast

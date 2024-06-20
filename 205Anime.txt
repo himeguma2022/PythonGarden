@@ -1,32 +1,32 @@
 ID:	205
-Title:	サムライチャンプルー
 Title:	Samurai Champloo
-Tag:	Language Barrier
-Tag:	Orphan
-Tag:	Crossdressing
-Tag:	Zombie
-Tag:	Drugs
-Tag:	Rural
-Tag:	Female Protagonist
-Tag:	Anti-Hero
-Tag:	Nudity
-Tag:	Prostitution
-Tag:	Male Protagonist
-Tag:	Assassins
-Tag:	Swordplay
-Tag:	Episodic
-Tag:	Travel
-Tag:	Baseball
-Tag:	Religion
-Tag:	Noir
-Tag:	Samurai
-Tag:	Historical
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
-Tag:	Yakuza
+Title:	サムライチャンプルー
 Tag:	Anachronism
-Tag:	Tanned Skin
-Tag:	Ninja
+Tag:	Anti-Hero
 Tag:	Politics
+Tag:	Prostitution
+Tag:	Drugs
+Tag:	LGBTQ+ Themes
+Tag:	Language Barrier
+Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Samurai
 Tag:	Kuudere
+Tag:	Swordplay
+Tag:	Yakuza
+Tag:	Tanned Skin
+Tag:	Crossdressing
+Tag:	Orphan
+Tag:	Historical
+Tag:	Zombie
+Tag:	Noir
+Tag:	Travel
 Tag:	Martial Arts
+Tag:	Religion
+Tag:	Rural
+Tag:	Episodic
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Ninja
+Tag:	Baseball
+Tag:	Assassins

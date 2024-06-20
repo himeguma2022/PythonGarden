@@ -1,28 +1,28 @@
 ID:	151807
-Title:	俺だけレベルアップな件
-Title:	Ore dake Level Up na Ken
 Title:	Solo Leveling
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Cultivation
-Tag:	Angels
+Title:	Ore dake Level Up na Ken
+Title:	俺だけレベルアップな件
 Tag:	Anti-Hero
-Tag:	War
-Tag:	Shounen
-Tag:	Heterosexual
 Tag:	Necromancy
-Tag:	Alternate Universe
-Tag:	Bullying
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Swordplay
-Tag:	Travel
-Tag:	Cosmic Horror
+Tag:	Cultivation
 Tag:	Age Regression
-Tag:	Magic
-Tag:	Urban Fantasy
-Tag:	Dungeon
-Tag:	Ninja
-Tag:	Tragedy
-Tag:	Dragons
 Tag:	Time Manipulation
+Tag:	War
+Tag:	Dragons
+Tag:	Gore
+Tag:	Post-Apocalyptic
+Tag:	Shounen
+Tag:	Magic
+Tag:	Cosmic Horror
+Tag:	Dungeon
+Tag:	Angels
+Tag:	Swordplay
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	Travel
+Tag:	Alternate Universe
+Tag:	Urban Fantasy
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Ninja
+Tag:	Bullying

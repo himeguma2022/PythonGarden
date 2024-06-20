@@ -2,16 +2,16 @@ ID:	21647
 Title:	orange
 Title:	Orange
 Tag:	Unrequited Love
+Tag:	Shoujo
 Tag:	School
-Tag:	Heterosexual
-Tag:	Suicide
+Tag:	Alternate Universe
+Tag:	Tsundere
 Tag:	Time Manipulation
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Alternate Universe
-Tag:	Shoujo
-Tag:	Bullying
+Tag:	Heterosexual
 Tag:	Tragedy
-Tag:	Tsundere
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Suicide
+Tag:	Bullying

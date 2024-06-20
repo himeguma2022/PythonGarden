@@ -1,28 +1,28 @@
 ID:	3588
 Title:	Soul Eater
 Title:	ソウルイーター
-Tag:	Guns
-Tag:	Super Power
-Tag:	School
-Tag:	Foreign
-Tag:	Gods
-Tag:	Nekomimi
-Tag:	Cultivation
-Tag:	Witch
-Tag:	Female Protagonist
-Tag:	Twins
-Tag:	Nudity
-Tag:	Shounen
-Tag:	Ensemble Cast
-Tag:	Agender
-Tag:	Male Protagonist
-Tag:	Assassins
-Tag:	Henshin
-Tag:	Swordplay
-Tag:	Philosophy
 Tag:	Kemonomimi
-Tag:	Magic
+Tag:	School
+Tag:	Guns
 Tag:	Urban
-Tag:	Urban Fantasy
+Tag:	Cultivation
+Tag:	Twins
+Tag:	Ensemble Cast
+Tag:	Shounen
+Tag:	Nekomimi
+Tag:	Nudity
+Tag:	Magic
+Tag:	Swordplay
 Tag:	Tanned Skin
+Tag:	Philosophy
+Tag:	Gods
+Tag:	Agender
 Tag:	Martial Arts
+Tag:	Henshin
+Tag:	Foreign
+Tag:	Urban Fantasy
+Tag:	Witch
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Female Protagonist
+Tag:	Assassins

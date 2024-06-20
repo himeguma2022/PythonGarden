@@ -1,21 +1,21 @@
 ID:	101165
-Title:	Goblin Slayer
-Title:	ゴブリンスレイヤー
 Title:	GOBLIN SLAYER
-Tag:	Anti-Hero
-Tag:	Magic
+Title:	ゴブリンスレイヤー
+Title:	Goblin Slayer
 Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Gore
-Tag:	Gods
-Tag:	Swordplay
-Tag:	Dungeon
-Tag:	Revenge
-Tag:	Rape
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Goblin
-Tag:	Elf
+Tag:	Magic
 Tag:	CGI
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Rape
+Tag:	Anti-Hero
 Tag:	Rural
+Tag:	Survival
+Tag:	Dungeon
+Tag:	Elf
+Tag:	Revenge
+Tag:	Swordplay
+Tag:	Goblin
+Tag:	Gore
+Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Gods

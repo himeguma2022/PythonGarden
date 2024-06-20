@@ -1,25 +1,25 @@
 ID:	20931
 Title:	Death Parade
 Title:	デス・パレード
-Tag:	Amnesia
-Tag:	Revenge
-Tag:	Female Protagonist
-Tag:	Mythology
 Tag:	Ice Skating
-Tag:	Male Protagonist
-Tag:	Bar
-Tag:	Gyaru
-Tag:	Episodic
-Tag:	Suicide
-Tag:	Philosophy
-Tag:	Afterlife
-Tag:	Primarily Adult Cast
-Tag:	Death Game
-Tag:	Reincarnation
-Tag:	Bowling
-Tag:	Tanned Skin
 Tag:	Gambling
-Tag:	Tragedy
-Tag:	Memory Manipulation
+Tag:	Revenge
+Tag:	Death Game
 Tag:	CGI
+Tag:	Reincarnation
+Tag:	Gyaru
+Tag:	Amnesia
+Tag:	Suicide
+Tag:	Memory Manipulation
+Tag:	Primarily Adult Cast
 Tag:	Kuudere
+Tag:	Mythology
+Tag:	Tanned Skin
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Bowling
+Tag:	Afterlife
+Tag:	Bar
+Tag:	Episodic
+Tag:	Male Protagonist
+Tag:	Female Protagonist

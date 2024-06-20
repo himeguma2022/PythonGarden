@@ -1,9 +1,9 @@
 ID:	104286
-Title:	劇場版王室教師ハイネ
 Title:	The Royal Tutor Movie
 Title:	Oushitsu Kyoushi Heine Movie
-Tag:	Teacher
-Tag:	Shounen
-Tag:	Primarily Male Cast
-Tag:	Musical Theater
+Title:	劇場版王室教師ハイネ
 Tag:	Historical
+Tag:	Musical Theater
+Tag:	Teacher
+Tag:	Primarily Male Cast
+Tag:	Shounen

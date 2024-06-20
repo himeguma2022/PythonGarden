@@ -1,12 +1,12 @@
 ID:	16866
 Title:	Tonari no Kaibutsu-kun: Tonari no Gokudou-kun
 Title:	となりの極道くん
-Tag:	Teacher
-Tag:	School
-Tag:	Heterosexual
-Tag:	Aliens
-Tag:	Ninja
 Tag:	Shoujo
-Tag:	Historical
+Tag:	School
+Tag:	Aliens
+Tag:	Teacher
 Tag:	Kuudere
+Tag:	Heterosexual
 Tag:	Female Protagonist
+Tag:	Historical
+Tag:	Ninja

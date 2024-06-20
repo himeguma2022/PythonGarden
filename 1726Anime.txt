@@ -1,9 +1,9 @@
 ID:	1726
 Title:	Devil May Cry
 Title:	デビル メイ クライ
-Tag:	Guns
-Tag:	Video Games
 Tag:	Demons
+Tag:	Guns
 Tag:	Gore
 Tag:	Male Protagonist
+Tag:	Video Games
 Tag:	Body Horror

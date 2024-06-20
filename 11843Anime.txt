@@ -1,18 +1,18 @@
 ID:	11843
+Title:	Daily Lives of High School Boys
 Title:	男子高校生の日常
 Title:	Danshi Koukousei no Nichijou
-Title:	Daily Lives of High School Boys
-Tag:	Satire
-Tag:	Shounen
-Tag:	School
-Tag:	Episodic
-Tag:	Tanned Skin
-Tag:	Crossdressing
-Tag:	Primarily Teen Cast
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Satire
 Tag:	Ensemble Cast
-Tag:	Slapstick
+Tag:	Episodic
+Tag:	Primarily Teen Cast
+Tag:	Tomboy
+Tag:	Tanned Skin
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Tomboy
+Tag:	Crossdressing
 Tag:	Meta
+Tag:	Slapstick
+Tag:	Shounen

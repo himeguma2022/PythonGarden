@@ -1,10 +1,10 @@
 ID:	11553
+Title:	とらドラ！ 弁当の極意
 Title:	Toradora!: Bento Battle
 Title:	Toradora!: Bentou no Gokui
-Title:	とらドラ！ 弁当の極意
 Tag:	School
-Tag:	Heterosexual
 Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Food
 Tag:	Male Protagonist
 Tag:	Female Protagonist

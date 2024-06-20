@@ -1,15 +1,15 @@
 ID:	21472
-Title:	Please tell me! Galko-chan
 Title:	おしえて！ ギャル子ちゃん
 Title:	Oshiete! Galko-chan
-Tag:	Gyaru
+Title:	Please tell me! Galko-chan
 Tag:	School
-Tag:	Episodic
-Tag:	Tanned Skin
-Tag:	Primarily Teen Cast
-Tag:	Seinen
 Tag:	Ojou-sama
+Tag:	Gyaru
+Tag:	Seinen
 Tag:	Educational
-Tag:	Primarily Female Cast
 Tag:	Otaku Culture
+Tag:	Episodic
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast

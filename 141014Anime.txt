@@ -1,22 +1,22 @@
 ID:	141014
-Title:	Tomodachi Game
 Title:	トモダチゲーム
-Tag:	Revenge
-Tag:	Acting
-Tag:	Anti-Hero
-Tag:	Shounen
-Tag:	Crime
-Tag:	Heterosexual
-Tag:	Bullying
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Battle Royale
+Title:	Tomodachi Game
 Tag:	Gangs
-Tag:	LGBTQ+ Themes
-Tag:	Death Game
-Tag:	Survival
+Tag:	Anti-Hero
 Tag:	Gambling
-Tag:	Tragedy
+Tag:	Revenge
 Tag:	CGI
+Tag:	Crime
+Tag:	Ensemble Cast
+Tag:	Shounen
+Tag:	Battle Royale
+Tag:	LGBTQ+ Themes
+Tag:	Acting
+Tag:	Heterosexual
+Tag:	Torture
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Survival
+Tag:	Male Protagonist
+Tag:	Death Game
+Tag:	Bullying

@@ -1,19 +1,19 @@
 ID:	437
-Title:	PERFECT BLUE
 Title:	Perfect Blue
-Tag:	Meta
+Title:	PERFECT BLUE
 Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Rape
 Tag:	Denpa
 Tag:	Filmmaking
-Tag:	Primarily Adult Cast
-Tag:	Work
-Tag:	Acting
+Tag:	Dissociative Identities
 Tag:	Otaku Culture
-Tag:	Rape
-Tag:	Idol
-Tag:	Noir
-Tag:	Tragedy
+Tag:	Acting
 Tag:	Gore
 Tag:	Philosophy
+Tag:	Idol
+Tag:	Meta
 Tag:	Female Protagonist
-Tag:	Dissociative Identities
+Tag:	Tragedy
+Tag:	Noir
+Tag:	Work

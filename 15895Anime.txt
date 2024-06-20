@@ -1,8 +1,8 @@
 ID:	15895
-Title:	Hiyokoi (2012)
 Title:	ひよ恋
-Tag:	School
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
+Title:	Hiyokoi (2012)
 Tag:	Shoujo
+Tag:	School
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Female Protagonist

@@ -2,11 +2,11 @@ ID:	122348
 Title:	Those Snow White Notes
 Title:	ましろのおと
 Title:	Mashiro no Oto
-Tag:	Urban
-Tag:	Shounen
+Tag:	Musical Theater
 Tag:	School Club
 Tag:	School
 Tag:	Coming of Age
-Tag:	Tragedy
-Tag:	Musical Theater
 Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Urban
+Tag:	Shounen

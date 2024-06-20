@@ -1,18 +1,18 @@
 ID:	21686
-Title:	Watashi ga Motete Dousunda
-Title:	Kiss Him, Not Me
 Title:	私がモテてどうすんだ
-Tag:	Yuri
-Tag:	Parody
+Title:	Kiss Him, Not Me
+Title:	Watashi ga Motete Dousunda
+Tag:	LGBTQ+ Themes
 Tag:	School Club
+Tag:	Parody
+Tag:	Shoujo
+Tag:	School
 Tag:	Male Harem
 Tag:	Mixed Gender Harem
-Tag:	School
-Tag:	Tomboy
-Tag:	Crossdressing
-Tag:	Shoujo
 Tag:	Otaku Culture
-Tag:	Bisexual
+Tag:	Yuri
 Tag:	Boys' Love
-Tag:	LGBTQ+ Themes
+Tag:	Tomboy
+Tag:	Bisexual
+Tag:	Crossdressing
 Tag:	Female Protagonist

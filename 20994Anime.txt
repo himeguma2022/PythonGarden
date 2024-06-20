@@ -1,23 +1,23 @@
 ID:	20994
-Title:	"Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
-Title:	Gate
-Title:	GATE 自衛隊 彼の地にて、斯く戦えり
 Title:	GATE: Jieitai Kanochi nite, Kaku Tatakaeri
+Title:	GATE 自衛隊 彼の地にて、斯く戦えり
+Title:	Gate
+Title:	"Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+Tag:	Anachronism
 Tag:	Language Barrier
+Tag:	Kemonomimi
 Tag:	Magic
+Tag:	Primarily Adult Cast
+Tag:	Tanks
+Tag:	Military
+Tag:	Alternate Universe
+Tag:	Politics
+Tag:	Elf
+Tag:	Isekai
+Tag:	Otaku Culture
 Tag:	War
 Tag:	Slavery
-Tag:	Elf
-Tag:	Primarily Adult Cast
-Tag:	Anachronism
-Tag:	Military
-Tag:	Tanks
-Tag:	Alternate Universe
-Tag:	Isekai
-Tag:	Politics
-Tag:	Primarily Female Cast
-Tag:	Otaku Culture
-Tag:	Kemonomimi
 Tag:	Dragons
-Tag:	Male Protagonist
 Tag:	Kuudere
+Tag:	Male Protagonist
+Tag:	Primarily Female Cast

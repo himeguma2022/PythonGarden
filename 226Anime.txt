@@ -1,34 +1,34 @@
 ID:	226
-Title:	エルフェンリート
 Title:	Elfen Lied
-Tag:	Super Power
-Tag:	Yandere
-Tag:	Amnesia
+Title:	エルフェンリート
+Tag:	Kemonomimi
+Tag:	Rape
+Tag:	Seinen
 Tag:	Revenge
 Tag:	Family Life
+Tag:	Primarily Female Cast
 Tag:	Incest
-Tag:	Female Harem
-Tag:	Female Protagonist
+Tag:	Body Horror
+Tag:	Fugitive
+Tag:	Conspiracy
+Tag:	Amnesia
+Tag:	Gore
+Tag:	Coastal
+Tag:	Monster Girl
 Tag:	Nudity
 Tag:	Heterosexual
-Tag:	Military
-Tag:	Seinen
-Tag:	Bullying
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Fugitive
-Tag:	Love Triangle
-Tag:	Monster Girl
-Tag:	Primarily Teen Cast
+Tag:	Yandere
 Tag:	Philosophy
-Tag:	Slapstick
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Body Horror
-Tag:	Conspiracy
-Tag:	Dissociative Identities
-Tag:	Urban Fantasy
-Tag:	Coastal
-Tag:	Rape
 Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Slapstick
+Tag:	Military
 Tag:	Rural
+Tag:	Female Harem
+Tag:	Urban Fantasy
+Tag:	Dissociative Identities
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Female Protagonist
+Tag:	Bullying

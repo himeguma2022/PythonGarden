@@ -1,10 +1,10 @@
 ID:	101085
-Title:	Dies irae: To the ring reincarnation
 Title:	ディエス・イレ「To the ring reincarnation」
 Title:	Dies Irae: To the Ring Reincarnation
+Title:	Dies irae: To the ring reincarnation
 Tag:	Magic
-Tag:	Super Power
-Tag:	Urban Fantasy
 Tag:	Crime
+Tag:	Urban Fantasy
 Tag:	Classic Literature
+Tag:	Super Power
 Tag:	Historical

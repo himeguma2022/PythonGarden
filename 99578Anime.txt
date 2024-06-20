@@ -2,24 +2,24 @@ ID:	99578
 Title:	Wotaku ni Koi wa Muzukashii
 Title:	Wotakoi: Love is Hard for Otaku
 Title:	ヲタクに恋は難しい
-Tag:	Video Games
-Tag:	Josei
-Tag:	Classic Literature
-Tag:	Athletics
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Otaku Culture
-Tag:	Male Protagonist
-Tag:	Bisexual
-Tag:	Episodic
-Tag:	Cosplay
-Tag:	Office Lady
 Tag:	Tsundere
+Tag:	Tomboy
+Tag:	Office
+Tag:	Urban
+Tag:	Ensemble Cast
 Tag:	LGBTQ+ Themes
 Tag:	Primarily Adult Cast
-Tag:	Urban
-Tag:	Office
+Tag:	Office Lady
+Tag:	Otaku Culture
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Video Games
+Tag:	Josei
+Tag:	Work
+Tag:	Classic Literature
+Tag:	Episodic
+Tag:	Athletics
+Tag:	Bisexual
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Cosplay

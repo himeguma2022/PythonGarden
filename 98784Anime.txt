@@ -1,10 +1,10 @@
 ID:	98784
-Title:	Hakubo
 Title:	薄暮
-Tag:	School Club
-Tag:	Environmental
-Tag:	Heterosexual
-Tag:	Drawing
+Title:	Hakubo
 Tag:	Musical Theater
+Tag:	School Club
 Tag:	Rural
+Tag:	Drawing
+Tag:	Heterosexual
+Tag:	Environmental
 Tag:	Female Protagonist

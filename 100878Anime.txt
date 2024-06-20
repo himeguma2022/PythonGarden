@@ -1,21 +1,21 @@
 ID:	100878
-Title:	劇場版 幼女戦記
-Title:	Youjo Senki Movie
 Title:	Saga of Tanya the Evil - the Movie -
-Tag:	Anti-Hero
+Title:	Youjo Senki Movie
+Title:	劇場版 幼女戦記
 Tag:	Magic
-Tag:	War
-Tag:	Gender Bending
-Tag:	Guns
+Tag:	CGI
 Tag:	Primarily Adult Cast
 Tag:	Reincarnation
 Tag:	Military
-Tag:	Gods
 Tag:	Foreign
-Tag:	Primarily Male Cast
+Tag:	Gender Bending
+Tag:	Anti-Hero
 Tag:	Isekai
+Tag:	Guns
+Tag:	War
 Tag:	Revenge
-Tag:	Tragedy
-Tag:	CGI
-Tag:	Historical
 Tag:	Female Protagonist
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Primarily Male Cast
+Tag:	Historical

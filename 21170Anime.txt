@@ -1,24 +1,24 @@
 ID:	21170
-Title:	Ansatsu Kyoushitsu 2nd Season
-Title:	暗殺教室 2
-Title:	Assassination Classroom 2
 Title:	Ansatsu Kyoushitsu 2
-Tag:	Teacher
-Tag:	Super Power
+Title:	Assassination Classroom 2
+Title:	暗殺教室 2
+Title:	Ansatsu Kyoushitsu 2nd Season
 Tag:	School
-Tag:	Yandere
-Tag:	Crossdressing
-Tag:	Time Skip
 Tag:	Anti-Hero
-Tag:	Shounen
-Tag:	Heterosexual
-Tag:	Military
 Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Assassins
-Tag:	Episodic
+Tag:	Shounen
 Tag:	Suicide
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Urban Fantasy
+Tag:	Heterosexual
+Tag:	Yandere
 Tag:	Tragedy
+Tag:	Crossdressing
+Tag:	Super Power
+Tag:	Military
+Tag:	Teacher
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Time Skip
+Tag:	Assassins

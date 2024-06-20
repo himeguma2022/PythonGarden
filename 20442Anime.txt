@@ -1,18 +1,18 @@
 ID:	20442
-Title:	ベヨネッタ ブラッディフェイト
 Title:	Bayonetta: Bloody Fate
 Title:	BAYONETTA Bloody Fate
-Tag:	Magic
-Tag:	Guns
-Tag:	Super Power
-Tag:	Urban Fantasy
-Tag:	Primarily Adult Cast
+Title:	ベヨネッタ ブラッディフェイト
 Tag:	Nudity
+Tag:	Magic
+Tag:	Bar
+Tag:	Primarily Adult Cast
 Tag:	Foreign
 Tag:	Amnesia
+Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Guns
+Tag:	Female Protagonist
+Tag:	Witch
+Tag:	Super Power
 Tag:	Video Games
 Tag:	Motorcycles
-Tag:	Demons
-Tag:	Witch
-Tag:	Bar
-Tag:	Female Protagonist

@@ -1,15 +1,15 @@
 ID:	20752
 Title:	Mushishi Zoku Shou: Odoro no Michi
-Title:	蟲師 続章「棘のみち」
 Title:	MUSHI-SHI The Next Passage Special - Path of Thorns
+Title:	蟲師 続章「棘のみち」
 Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	Mythology
-Tag:	Environmental
-Tag:	Youkai
-Tag:	Travel
-Tag:	Demons
-Tag:	Seinen
-Tag:	Philosophy
-Tag:	Male Protagonist
 Tag:	Rural
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Youkai
+Tag:	Mythology
+Tag:	Male Protagonist
+Tag:	Environmental
+Tag:	Philosophy
+Tag:	Travel

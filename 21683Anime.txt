@@ -1,12 +1,12 @@
 ID:	21683
-Title:	Kimi no Koe wo Todoketai
-Title:	I Want to Deliver Your Voice
 Title:	きみの声をとどけたい
-Tag:	Coastal
-Tag:	Coming of Age
-Tag:	Iyashikei
-Tag:	Idol
-Tag:	Primarily Female Cast
+Title:	I Want to Deliver Your Voice
+Title:	Kimi no Koe wo Todoketai
 Tag:	CGI
+Tag:	Iyashikei
+Tag:	Coastal
 Tag:	Lacrosse
+Tag:	Coming of Age
+Tag:	Idol
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast

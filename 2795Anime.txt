@@ -1,7 +1,7 @@
 ID:	2795
-Title:	Dragonaut: The Resonance
-Title:	Dragonaut -THE RESONANCE-
 Title:	ドラゴノーツ-ザ・レソナンス-
+Title:	Dragonaut -THE RESONANCE-
+Title:	Dragonaut: The Resonance
 Tag:	Dragons
 Tag:	Super Robot
 Tag:	Aliens

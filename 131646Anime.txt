@@ -1,31 +1,31 @@
 ID:	131646
-Title:	Vanitas no Karte
-Title:	The Case Study of Vanitas
 Title:	ヴァニタスの手記
+Title:	Vanitas no Karte
 Title:	Vanitas no Carte
-Tag:	Adoption
-Tag:	Foreign
-Tag:	Primarily Male Cast
-Tag:	Drugs
-Tag:	Surreal Comedy
-Tag:	Anti-Hero
-Tag:	Shounen
-Tag:	Heterosexual
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Assassins
-Tag:	Boys' Love
-Tag:	Henshin
-Tag:	Steampunk
-Tag:	Coming of Age
-Tag:	Religion
-Tag:	Historical
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	LGBTQ+ Themes
-Tag:	Chibi
-Tag:	Primarily Adult Cast
-Tag:	Vampire
+Title:	The Case Study of Vanitas
 Tag:	Anachronism
+Tag:	Steampunk
+Tag:	Anti-Hero
+Tag:	Tsundere
+Tag:	Chibi
+Tag:	Vampire
+Tag:	Conspiracy
+Tag:	Surreal Comedy
+Tag:	Drugs
+Tag:	Gore
+Tag:	Shounen
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
 Tag:	Tanned Skin
 Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Adoption
+Tag:	Religion
+Tag:	Henshin
+Tag:	Foreign
+Tag:	Coming of Age
+Tag:	Boys' Love
+Tag:	Male Protagonist
+Tag:	Assassins

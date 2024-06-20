@@ -1,10 +1,10 @@
 ID:	10391
+Title:	Princess Jellyfish: Go
 Title:	それいけ！尼～ず探検隊
 Title:	Kuragehime: Soreike! Amars Tankentai
-Title:	Princess Jellyfish: Go
-Tag:	Primarily Adult Cast
 Tag:	Parody
-Tag:	Josei
-Tag:	Primarily Female Cast
+Tag:	Primarily Adult Cast
 Tag:	Outdoor
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Josei

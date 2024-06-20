@@ -1,37 +1,37 @@
 ID:	145064
-Title:	呪術廻戦 第2期
 Title:	Jujutsu Kaisen 2nd Season
+Title:	呪術廻戦 第2期
 Title:	JUJUTSU KAISEN Season 2
-Tag:	Guns
-Tag:	Super Power
-Tag:	Primarily Male Cast
-Tag:	Real Robot
-Tag:	Revenge
-Tag:	Tokusatsu
-Tag:	Surreal Comedy
-Tag:	Cannibalism
-Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Youkai
-Tag:	Demons
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Femboy
-Tag:	Henshin
-Tag:	Battle Royale
-Tag:	Swordplay
 Tag:	Super Robot
-Tag:	Rotoscoping
-Tag:	Primarily Teen Cast
-Tag:	Idol
-Tag:	Body Horror
-Tag:	Dissociative Identities
-Tag:	Magic
+Tag:	Femboy
+Tag:	Tokusatsu
+Tag:	Demons
+Tag:	Guns
+Tag:	Revenge
 Tag:	Urban
-Tag:	Urban Fantasy
+Tag:	Body Horror
 Tag:	Reincarnation
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Martial Arts
+Tag:	Surreal Comedy
+Tag:	Ensemble Cast
 Tag:	Time Manipulation
+Tag:	Gore
+Tag:	Shounen
+Tag:	Real Robot
+Tag:	Battle Royale
+Tag:	Magic
+Tag:	Rotoscoping
+Tag:	Swordplay
+Tag:	Tragedy
+Tag:	Idol
+Tag:	Primarily Male Cast
+Tag:	Cannibalism
+Tag:	Martial Arts
+Tag:	Henshin
+Tag:	Survival
+Tag:	Urban Fantasy
+Tag:	Dissociative Identities
+Tag:	Primarily Teen Cast
+Tag:	Youkai
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Female Protagonist

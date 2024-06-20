@@ -1,24 +1,24 @@
 ID:	5681
-Title:	サマーウォーズ
 Title:	Summer Wars
-Tag:	Revenge
-Tag:	Artificial Intelligence
-Tag:	Family Life
-Tag:	War
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Military
-Tag:	Alternate Universe
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Card Battle
-Tag:	Baseball
-Tag:	Coming of Age
-Tag:	Kemonomimi
-Tag:	Fake Relationship
-Tag:	Robots
+Title:	サマーウォーズ
 Tag:	Virtual World
-Tag:	Tanned Skin
-Tag:	CGI
-Tag:	Rural
+Tag:	Kemonomimi
+Tag:	Artificial Intelligence
 Tag:	Terrorism
+Tag:	Fake Relationship
+Tag:	Revenge
+Tag:	Family Life
+Tag:	Robots
+Tag:	CGI
+Tag:	Ensemble Cast
+Tag:	War
+Tag:	Heterosexual
+Tag:	Tanned Skin
+Tag:	Card Battle
+Tag:	Work
+Tag:	Military
+Tag:	Rural
+Tag:	Alternate Universe
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Baseball

@@ -1,14 +1,14 @@
 ID:	99753
-Title:	たくのみ。
 Title:	Takunomi.
 Title:	Takunomi
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Work
-Tag:	Cute Girls Doing Cute Things
+Title:	たくのみ。
 Tag:	Office
+Tag:	Primarily Adult Cast
+Tag:	Office Lady
 Tag:	Educational
+Tag:	Cute Girls Doing Cute Things
 Tag:	Primarily Female Cast
 Tag:	Food
-Tag:	Office Lady
 Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Work

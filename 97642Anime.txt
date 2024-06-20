@@ -1,15 +1,15 @@
 ID:	97642
+Title:	有頂天家族 2
 Title:	The Eccentric Family 2
 Title:	Uchouten Kazoku 2
-Title:	有頂天家族 2
 Tag:	Twins
-Tag:	Animals
-Tag:	Urban
 Tag:	Urban Fantasy
-Tag:	Mythology
+Tag:	Tsundere
 Tag:	Youkai
-Tag:	Philosophy
-Tag:	Shapeshifting
+Tag:	Mythology
 Tag:	Family Life
 Tag:	Male Protagonist
-Tag:	Tsundere
+Tag:	Philosophy
+Tag:	Urban
+Tag:	Animals
+Tag:	Shapeshifting

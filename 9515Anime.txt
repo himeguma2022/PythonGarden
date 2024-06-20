@@ -1,22 +1,22 @@
 ID:	9515
 Title:	Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD - Drifters of the Dead
-Title:	学園黙示録HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド
 Title:	Highschool of the Dead: Drifters of the Dead
 Title:	High School of the Dead: Drifters of the Dead
-Tag:	Guns
-Tag:	Animals
-Tag:	Pandemic
-Tag:	Shounen
+Title:	学園黙示録HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド
 Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Female Harem
-Tag:	Primarily Teen Cast
-Tag:	Zombie
-Tag:	Primarily Male Cast
-Tag:	Crossdressing
+Tag:	Drugs
 Tag:	Survival
 Tag:	Ensemble Cast
-Tag:	Primarily Female Cast
-Tag:	Drugs
-Tag:	Male Protagonist
+Tag:	Female Harem
 Tag:	Outdoor
+Tag:	Guns
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Crossdressing
+Tag:	Pandemic
+Tag:	Primarily Male Cast
+Tag:	Shounen
+Tag:	Animals
+Tag:	Zombie

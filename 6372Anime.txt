@@ -1,17 +1,17 @@
 ID:	6372
+Title:	Eden of the East the Movie I: The King of Eden
 Title:	Higashi no Eden Movie I: The King of Eden
 Title:	東のエデン 劇場版I The King of Eden
-Title:	Eden of the East the Movie I: The King of Eden
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Crime
 Tag:	Battle Royale
-Tag:	Foreign
-Tag:	Heterosexual
-Tag:	Amnesia
-Tag:	Politics
 Tag:	Artificial Intelligence
-Tag:	Police
-Tag:	Memory Manipulation
+Tag:	Crime
+Tag:	Primarily Adult Cast
 Tag:	Conspiracy
+Tag:	Foreign
 Tag:	Terrorism
+Tag:	Politics
+Tag:	Amnesia
+Tag:	Police
+Tag:	Heterosexual
+Tag:	Urban
+Tag:	Memory Manipulation

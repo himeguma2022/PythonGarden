@@ -1,14 +1,14 @@
 ID:	126357
 Title:	Xian Wang de Richang Shenghuo 2
-Title:	The Daily Life of the Immortal King Season 2
 Title:	Xian Wang De Richang Shenghuo 2
+Title:	The Daily Life of the Immortal King Season 2
 Title:	仙王的日常生活 第二季
-Tag:	Magic
-Tag:	Super Power
-Tag:	CGI
-Tag:	Parody
-Tag:	School
-Tag:	Family Life
 Tag:	Cultivation
-Tag:	Male Protagonist
+Tag:	Magic
+Tag:	Parody
+Tag:	CGI
+Tag:	School
 Tag:	Surreal Comedy
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Super Power

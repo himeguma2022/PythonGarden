@@ -1,15 +1,15 @@
 ID:	21319
-Title:	蒼の彼方のフォーリズム
 Title:	AOKANA: Four Rhythm Across the Blue
+Title:	蒼の彼方のフォーリズム
 Title:	Ao no Kanata no Four Rhythm
 Tag:	School Club
-Tag:	Athletics
+Tag:	CGI
+Tag:	Ojou-sama
 Tag:	School
 Tag:	Coastal
-Tag:	Ojou-sama
 Tag:	Aviation
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Male Protagonist
+Tag:	Athletics
 Tag:	Kuudere
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast

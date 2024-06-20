@@ -1,9 +1,9 @@
 ID:	21398
-Title:	Kaze no Matasaburou (Movie)
 Title:	風の又三郎 (Movie)
-Tag:	Animals
-Tag:	Full CGI
-Tag:	Urban Fantasy
+Title:	Kaze no Matasaburou (Movie)
 Tag:	School
-Tag:	Kids
+Tag:	Full CGI
 Tag:	Rural
+Tag:	Urban Fantasy
+Tag:	Kids
+Tag:	Animals

@@ -1,15 +1,15 @@
 ID:	155982
-Title:	Ayaka
 Title:	AYAKA
-Tag:	Guns
-Tag:	Orphan
-Tag:	Super Power
-Tag:	Urban Fantasy
-Tag:	Adoption
-Tag:	Coastal
-Tag:	Rehabilitation
+Title:	Ayaka
 Tag:	Primarily Male Cast
-Tag:	Time Skip
-Tag:	CGI
-Tag:	Male Protagonist
 Tag:	Hikikomori
+Tag:	CGI
+Tag:	Urban Fantasy
+Tag:	Guns
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Rehabilitation
+Tag:	Super Power
+Tag:	Coastal
+Tag:	Orphan
+Tag:	Adoption

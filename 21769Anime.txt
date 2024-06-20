@@ -1,11 +1,11 @@
 ID:	21769
-Title:	やはり俺の青春ラブコメはまちがっている。 続 「きっと、女の子はお砂糖とスパイスと素敵な何かでできている。」
-Title:	Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru
 Title:	My Teen Romantic Comedy SNAFU TOO! OVA
 Title:	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
-Tag:	Table Tennis
+Title:	Yahari Ore no Seishun Love Come wa Machigatteiru. Zoku: Kitto, Onnanoko wa Osatou to Spice to Suteki na Nanika de Dekiteiru
+Title:	やはり俺の青春ラブコメはまちがっている。 続 「きっと、女の子はお砂糖とスパイスと素敵な何かでできている。」
 Tag:	School Club
 Tag:	School
-Tag:	Heterosexual
+Tag:	Table Tennis
 Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Male Protagonist

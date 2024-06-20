@@ -1,21 +1,21 @@
 ID:	16417
 Title:	Tamako Market
 Title:	たまこまーけっと
-Tag:	Animals
-Tag:	Urban
+Tag:	LGBTQ+ Themes
+Tag:	Anthropomorphism
 Tag:	School Club
 Tag:	School
-Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Urban
 Tag:	Episodic
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
+Tag:	Heterosexual
 Tag:	Cute Girls Doing Cute Things
 Tag:	Tanned Skin
-Tag:	Primarily Teen Cast
-Tag:	Anthropomorphism
-Tag:	Primarily Female Cast
-Tag:	Kuudere
-Tag:	Female Protagonist
 Tag:	Food
-Tag:	Ensemble Cast
-Tag:	Family Life
-Tag:	LGBTQ+ Themes
 Tag:	Love Triangle
+Tag:	Family Life
+Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Animals

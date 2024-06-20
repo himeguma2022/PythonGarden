@@ -1,44 +1,44 @@
 ID:	146065
-Title:	Mushoku Tensei II: Isekai Ittara Honki Dasu
 Title:	無職転生 Ⅱ ～異世界行ったら本気だす～
+Title:	Mushoku Tensei II: Isekai Ittara Honki Dasu
 Title:	Mushoku Tensei: Jobless Reincarnation Season 2
-Tag:	Language Barrier
-Tag:	Snowscape
-Tag:	Super Power
+Tag:	Kemonomimi
+Tag:	Hikikomori
 Tag:	School
-Tag:	Gods
-Tag:	Crossdressing
-Tag:	Time Skip
-Tag:	Drugs
-Tag:	Nekomimi
-Tag:	Family Life
-Tag:	Female Harem
-Tag:	Tomboy
-Tag:	Nudity
-Tag:	Slavery
-Tag:	Heterosexual
+Tag:	Tsundere
 Tag:	Demons
-Tag:	Otaku Culture
-Tag:	Elf
-Tag:	Male Protagonist
-Tag:	Love Triangle
 Tag:	Archery
-Tag:	Swordplay
+Tag:	Tomboy
+Tag:	Maids
+Tag:	Family Life
+Tag:	Found Family
+Tag:	Reincarnation
+Tag:	Drugs
+Tag:	Polyamorous
+Tag:	Dragons
 Tag:	Suicide
+Tag:	Nekomimi
+Tag:	Language Barrier
+Tag:	Magic
+Tag:	Nudity
+Tag:	Dungeon
+Tag:	Elf
+Tag:	Otaku Culture
+Tag:	Delinquents
+Tag:	Heterosexual
+Tag:	Swordplay
+Tag:	Tragedy
+Tag:	Crossdressing
+Tag:	Gods
+Tag:	Rehabilitation
+Tag:	Love Triangle
+Tag:	Super Power
+Tag:	Religion
+Tag:	Female Harem
+Tag:	Survival
+Tag:	Snowscape
 Tag:	Isekai
 Tag:	Coming of Age
-Tag:	Religion
-Tag:	Kemonomimi
-Tag:	Tsundere
-Tag:	Hikikomori
-Tag:	Magic
-Tag:	Polyamorous
-Tag:	Reincarnation
-Tag:	Dungeon
-Tag:	Delinquents
-Tag:	Found Family
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Maids
-Tag:	Dragons
-Tag:	Rehabilitation
+Tag:	Slavery
+Tag:	Male Protagonist
+Tag:	Time Skip

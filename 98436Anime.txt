@@ -1,33 +1,33 @@
 ID:	98436
-Title:	魔法使いの嫁
 Title:	The Ancient Magus' Bride
+Title:	魔法使いの嫁
 Title:	Mahoutsukai no Yome
-Tag:	Teacher
-Tag:	Male Harem
-Tag:	Foreign
-Tag:	Monster Boy
 Tag:	Marriage
-Tag:	Witch
-Tag:	Female Protagonist
-Tag:	Age Gap
-Tag:	Slavery
+Tag:	Chibi
+Tag:	Skeleton
+Tag:	Body Horror
+Tag:	Male Harem
+Tag:	Monster Boy
+Tag:	Dragons
+Tag:	Gore
 Tag:	Shounen
+Tag:	Suicide
+Tag:	Shapeshifting
+Tag:	Magic
+Tag:	Primarily Adult Cast
 Tag:	Mythology
 Tag:	Heterosexual
-Tag:	Gore
-Tag:	Suicide
-Tag:	Travel
-Tag:	Philosophy
-Tag:	Shapeshifting
-Tag:	Body Horror
-Tag:	Magic
-Tag:	Chibi
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Chimera
+Tag:	Age Gap
 Tag:	Tanned Skin
-Tag:	Fairy
+Tag:	Philosophy
 Tag:	Tragedy
-Tag:	Dragons
-Tag:	Skeleton
+Tag:	Travel
+Tag:	Foreign
 Tag:	Rural
+Tag:	Teacher
+Tag:	Urban Fantasy
+Tag:	Slavery
+Tag:	Fairy
+Tag:	Witch
+Tag:	Female Protagonist
+Tag:	Chimera

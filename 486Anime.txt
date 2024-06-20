@@ -1,26 +1,26 @@
 ID:	486
 Title:	Kino no Tabi: The Beautiful World
-Title:	キノの旅 -the Beautiful World-
 Title:	Kino's Journey
 Title:	Kino no Tabi: the Beautiful World
-Tag:	Guns
-Tag:	Snowscape
-Tag:	Foreign
-Tag:	Cannibalism
-Tag:	Female Protagonist
-Tag:	Mopeds
-Tag:	Tanks
-Tag:	Kuudere
-Tag:	Agender
-Tag:	Denpa
+Title:	キノの旅 -the Beautiful World-
 Tag:	Steampunk
-Tag:	Episodic
-Tag:	Motorcycles
-Tag:	Achronological Order
-Tag:	Travel
-Tag:	Philosophy
+Tag:	Politics
+Tag:	Guns
 Tag:	Robots
 Tag:	Dystopian
-Tag:	Politics
+Tag:	Motorcycles
+Tag:	Tanks
+Tag:	Kuudere
+Tag:	Mopeds
+Tag:	Philosophy
 Tag:	Tragedy
+Tag:	Cannibalism
+Tag:	Travel
+Tag:	Agender
+Tag:	Denpa
+Tag:	Foreign
 Tag:	Rural
+Tag:	Snowscape
+Tag:	Episodic
+Tag:	Achronological Order
+Tag:	Female Protagonist

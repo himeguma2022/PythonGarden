@@ -1,11 +1,11 @@
 ID:	125838
-Title:	岬のマヨイガ
 Title:	The House of the Lost on the Cape
+Title:	岬のマヨイガ
 Title:	Misaki no Mayoiga
-Tag:	Orphan
+Tag:	Rural
 Tag:	Youkai
 Tag:	Coming of Age
-Tag:	Found Family
 Tag:	Primarily Female Cast
-Tag:	Rural
 Tag:	Female Protagonist
+Tag:	Orphan
+Tag:	Found Family

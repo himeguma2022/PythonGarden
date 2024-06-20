@@ -2,20 +2,20 @@ ID:	21126
 Title:	Chaos;Child
 Title:	ChäoS;Child
 Title:	カオスチャイルド
-Tag:	Super Power
-Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	Gore
-Tag:	Urban
-Tag:	Adoption
-Tag:	Gods
-Tag:	School
 Tag:	School Club
-Tag:	Primarily Teen Cast
-Tag:	Tragedy
-Tag:	Otaku Culture
+Tag:	School
 Tag:	Memory Manipulation
-Tag:	Male Protagonist
+Tag:	Denpa
 Tag:	Conspiracy
-Tag:	Chuunibyou
+Tag:	Urban Fantasy
+Tag:	Urban
+Tag:	Otaku Culture
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
+Tag:	Chuunibyou
+Tag:	Gore
+Tag:	Male Protagonist
+Tag:	Gods
+Tag:	Super Power
+Tag:	Tragedy
+Tag:	Adoption

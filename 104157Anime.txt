@@ -2,20 +2,20 @@ ID:	104157
 Title:	Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
 Title:	青春ブタ野郎はゆめみる少女の夢を見ない
 Title:	Rascal Does Not Dream of a Dreaming Girl
-Tag:	Afterlife
 Tag:	Magic
-Tag:	Urban
-Tag:	Urban Fantasy
 Tag:	School
-Tag:	Heterosexual
+Tag:	Age Regression
+Tag:	Alternate Universe
 Tag:	Amnesia
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
+Tag:	Urban
 Tag:	Time Manipulation
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Alternate Universe
-Tag:	Ensemble Cast
-Tag:	Tragedy
-Tag:	Age Regression
+Tag:	Heterosexual
 Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Tragedy
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Afterlife

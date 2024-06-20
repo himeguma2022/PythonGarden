@@ -1,21 +1,21 @@
 ID:	143653
-Title:	Insomniacs after school
-Title:	君は放課後インソムニア
 Title:	Kimi wa Houkago Insomnia
-Tag:	Animals
-Tag:	Disability
+Title:	君は放課後インソムニア
+Title:	Insomniacs after school
 Tag:	School Club
+Tag:	Disability
 Tag:	School
-Tag:	Heterosexual
-Tag:	Tanned Skin
+Tag:	Rural
+Tag:	Seinen
 Tag:	Astronomy
+Tag:	Iyashikei
 Tag:	Photography
+Tag:	Outdoor
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Iyashikei
-Tag:	Seinen
-Tag:	Male Protagonist
-Tag:	Rural
+Tag:	Heterosexual
 Tag:	Tomboy
-Tag:	Outdoor
+Tag:	Tanned Skin
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Animals

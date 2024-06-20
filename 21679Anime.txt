@@ -1,28 +1,28 @@
 ID:	21679
 Title:	Bungo Stray Dogs 2
-Title:	文豪ストレイドッグス 第2シーズン
 Title:	Bungou Stray Dogs 2nd Season
-Tag:	Guns
-Tag:	Super Power
-Tag:	Orphan
-Tag:	Primarily Male Cast
-Tag:	Espionage
-Tag:	Classic Literature
+Title:	文豪ストレイドッグス 第2シーズン
 Tag:	Anti-Hero
-Tag:	War
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Mafia
-Tag:	Bar
-Tag:	Detective
-Tag:	Cosmic Horror
-Tag:	Philosophy
-Tag:	Shapeshifting
-Tag:	Conspiracy
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Primarily Adult Cast
-Tag:	Tragedy
-Tag:	Kuudere
 Tag:	Terrorism
+Tag:	Detective
+Tag:	Seinen
+Tag:	Guns
+Tag:	Urban
+Tag:	Conspiracy
+Tag:	Ensemble Cast
+Tag:	War
+Tag:	Shapeshifting
+Tag:	Primarily Adult Cast
+Tag:	Cosmic Horror
+Tag:	Kuudere
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Bar
+Tag:	Urban Fantasy
+Tag:	Mafia
+Tag:	Espionage
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Classic Literature

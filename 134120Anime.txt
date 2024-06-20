@@ -1,14 +1,14 @@
 ID:	134120
 Title:	Artiswitch
-Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	CGI
-Tag:	Achromatic
-Tag:	Episodic
-Tag:	Suicide
-Tag:	Fashion
-Tag:	Ensemble Cast
-Tag:	Musical Theater
-Tag:	Witch
 Tag:	LGBTQ+ Themes
+Tag:	Musical Theater
+Tag:	CGI
+Tag:	Denpa
+Tag:	Achromatic
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
+Tag:	Episodic
+Tag:	Witch
+Tag:	Fashion
 Tag:	Female Protagonist
+Tag:	Suicide

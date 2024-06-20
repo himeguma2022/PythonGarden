@@ -1,18 +1,18 @@
 ID:	120150
+Title:	Bungou Stray Dogs Wan!
 Title:	文豪ストレイドッグス わん！
 Title:	Bungo Stray Dogs WAN!
-Title:	Bungou Stray Dogs Wan!
-Tag:	Chibi
-Tag:	Super Power
 Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Tsundere
-Tag:	Episodic
-Tag:	Detective
 Tag:	Seinen
 Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Male Protagonist
+Tag:	Urban Fantasy
+Tag:	Tsundere
+Tag:	Detective
+Tag:	Episodic
+Tag:	Kuudere
 Tag:	Mafia
 Tag:	Chuunibyou
-Tag:	Kuudere
+Tag:	Chibi
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Slapstick

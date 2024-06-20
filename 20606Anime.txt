@@ -1,18 +1,18 @@
 ID:	20606
 Title:	Kuroshitsuji: Book of Circus
-Title:	黒執事 Book of Circus
 Title:	Black Butler: Book of Circus
+Title:	黒執事 Book of Circus
+Tag:	Historical
+Tag:	Transgender
 Tag:	Anti-Hero
 Tag:	Gender Bending
-Tag:	Shounen
-Tag:	Circus
 Tag:	Foreign
-Tag:	Transgender
+Tag:	Demons
+Tag:	Circus
+Tag:	Kuudere
+Tag:	Food
+Tag:	Gore
+Tag:	Tragedy
 Tag:	Butler
 Tag:	Primarily Male Cast
-Tag:	Demons
-Tag:	Tragedy
-Tag:	Gore
-Tag:	Food
-Tag:	Historical
-Tag:	Kuudere
+Tag:	Shounen

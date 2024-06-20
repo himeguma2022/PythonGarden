@@ -1,20 +1,20 @@
 ID:	974
-Title:	デッド　リーブス
 Title:	Dead Leaves
-Tag:	Anti-Hero
-Tag:	Guns
-Tag:	Super Power
-Tag:	Primarily Adult Cast
+Title:	デッド　リーブス
 Tag:	Nudity
+Tag:	Fugitive
 Tag:	Crime
-Tag:	Amnesia
-Tag:	Delinquents
-Tag:	Revenge
-Tag:	Espionage
+Tag:	Primarily Adult Cast
+Tag:	Anti-Hero
+Tag:	Surreal Comedy
 Tag:	Slapstick
+Tag:	Amnesia
+Tag:	Space
+Tag:	Guns
+Tag:	Revenge
+Tag:	Delinquents
+Tag:	Espionage
 Tag:	Gore
 Tag:	Male Protagonist
-Tag:	Space
-Tag:	Surreal Comedy
+Tag:	Super Power
 Tag:	Female Protagonist
-Tag:	Fugitive

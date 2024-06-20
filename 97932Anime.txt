@@ -1,12 +1,12 @@
 ID:	97932
 Title:	Oushitsu Kyoushi Heine
-Title:	The Royal Tutor
 Title:	王室教師ハイネ
-Tag:	Chibi
-Tag:	Teacher
-Tag:	Shounen
-Tag:	Royal Affairs
-Tag:	Primarily Male Cast
+Title:	The Royal Tutor
 Tag:	Historical
-Tag:	Male Protagonist
+Tag:	Royal Affairs
+Tag:	Teacher
 Tag:	Tsundere
+Tag:	Chibi
+Tag:	Male Protagonist
+Tag:	Primarily Male Cast
+Tag:	Shounen

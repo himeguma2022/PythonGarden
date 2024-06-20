@@ -2,19 +2,19 @@ ID:	12477
 Title:	サカサマのパテマ
 Title:	Patema Inverted
 Title:	Sakasama no Patema
-Tag:	Guns
+Tag:	Primarily Male Cast
 Tag:	Unrequited Love
-Tag:	Post-Apocalyptic
-Tag:	Dystopian
 Tag:	Steampunk
 Tag:	School
-Tag:	Environmental
-Tag:	Heterosexual
-Tag:	Primarily Male Cast
-Tag:	Survival
-Tag:	Philosophy
-Tag:	Aviation
 Tag:	Lost Civilization
+Tag:	Survival
+Tag:	Dystopian
+Tag:	Guns
+Tag:	Aviation
+Tag:	Heterosexual
 Tag:	Tragedy
 Tag:	Male Protagonist
+Tag:	Environmental
 Tag:	Female Protagonist
+Tag:	Philosophy
+Tag:	Post-Apocalyptic

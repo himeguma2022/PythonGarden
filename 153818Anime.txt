@@ -1,25 +1,25 @@
 ID:	153818
 Title:	魔女と野獣
-Title:	Majo to Yajuu
 Title:	The Witch and the Beast
-Tag:	Cult
-Tag:	Zombie
-Tag:	Revenge
-Tag:	Drugs
-Tag:	Witch
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Necromancy
+Title:	Majo to Yajuu
+Tag:	Gender Bending
 Tag:	Seinen
 Tag:	Demons
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Body Swapping
-Tag:	Historical
+Tag:	Revenge
+Tag:	Necromancy
+Tag:	Vampire
+Tag:	Urban
 Tag:	Body Horror
+Tag:	Drugs
+Tag:	Gore
+Tag:	Nudity
 Tag:	Magic
 Tag:	Primarily Adult Cast
+Tag:	Historical
+Tag:	Zombie
+Tag:	Body Swapping
+Tag:	Cult
 Tag:	Urban Fantasy
-Tag:	Gender Bending
-Tag:	Urban
-Tag:	Vampire
+Tag:	Witch
+Tag:	Male Protagonist
+Tag:	Female Protagonist

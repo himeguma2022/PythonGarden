@@ -1,16 +1,16 @@
 ID:	139643
 Title:	Ame wo Tsugeru Hyouryuu Danchi
-Title:	雨を告げる漂流団地
 Title:	Drifting Home
+Title:	雨を告げる漂流団地
 Tag:	Ghost
-Tag:	Urban Fantasy
-Tag:	Coastal
-Tag:	Photography
-Tag:	Coming of Age
-Tag:	Iyashikei
 Tag:	Found Family
-Tag:	Isekai
 Tag:	Survival
-Tag:	Football
-Tag:	Primarily Child Cast
+Tag:	Iyashikei
+Tag:	Urban Fantasy
+Tag:	Photography
 Tag:	Kids
+Tag:	Isekai
+Tag:	Coming of Age
+Tag:	Primarily Child Cast
+Tag:	Coastal
+Tag:	Football

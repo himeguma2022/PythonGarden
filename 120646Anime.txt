@@ -1,22 +1,22 @@
 ID:	120646
+Title:	Senpai ga Uzai Kouhai no Hanashi
 Title:	My Senpai is Annoying
 Title:	先輩がうざい後輩の話
-Title:	Senpai ga Uzai Kouhai no Hanashi
-Tag:	Age Gap
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Cosplay
-Tag:	Video Games
-Tag:	Tanned Skin
 Tag:	Office
-Tag:	Coming of Age
-Tag:	Josei
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
 Tag:	Office Lady
+Tag:	Ensemble Cast
+Tag:	Urban
 Tag:	Tsundere
-Tag:	Tomboy
+Tag:	Josei
+Tag:	Coming of Age
 Tag:	Female Protagonist
+Tag:	Age Gap
+Tag:	Tomboy
+Tag:	Tanned Skin
+Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Video Games
+Tag:	Cosplay
 Tag:	Basketball
+Tag:	Work

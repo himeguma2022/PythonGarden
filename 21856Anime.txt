@@ -1,21 +1,21 @@
 ID:	21856
-Title:	僕のヒーローアカデミア２
-Title:	Boku no Hero Academia 2
 Title:	Boku no Hero Academia 2nd Season
 Title:	My Hero Academia Season 2
-Tag:	Super Power
-Tag:	Urban Fantasy
-Tag:	Superhero
-Tag:	Shounen
-Tag:	Bisexual
-Tag:	School
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
-Tag:	Primarily Male Cast
-Tag:	Revenge
-Tag:	Ensemble Cast
-Tag:	Cheerleading
+Title:	Boku no Hero Academia 2
+Title:	僕のヒーローアカデミア２
 Tag:	Cultivation
-Tag:	Male Protagonist
 Tag:	Bar
+Tag:	Cheerleading
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Revenge
+Tag:	Superhero
+Tag:	Heterosexual
 Tag:	Tomboy
+Tag:	Bisexual
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Primarily Male Cast
+Tag:	Shounen

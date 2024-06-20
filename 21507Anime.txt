@@ -1,30 +1,30 @@
 ID:	21507
-Title:	Mob Psycho 100
 Title:	モブサイコ100
-Tag:	Unrequited Love
-Tag:	Super Power
-Tag:	School
-Tag:	Cult
-Tag:	Primarily Male Cast
-Tag:	Family Life
-Tag:	Surreal Comedy
+Title:	Mob Psycho 100
 Tag:	Disability
+Tag:	School
+Tag:	Gangs
+Tag:	Satire
+Tag:	Demons
+Tag:	Family Life
+Tag:	Urban
+Tag:	Unrequited Love
+Tag:	Ghost
+Tag:	Conspiracy
+Tag:	Surreal Comedy
 Tag:	Shounen
 Tag:	School Club
 Tag:	Parody
-Tag:	Demons
-Tag:	Bullying
-Tag:	Male Protagonist
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Philosophy
-Tag:	Slapstick
-Tag:	Gangs
-Tag:	Conspiracy
-Tag:	Dissociative Identities
-Tag:	Satire
-Tag:	Urban
-Tag:	Urban Fantasy
 Tag:	Fitness
 Tag:	Delinquents
+Tag:	Philosophy
+Tag:	Slapstick
+Tag:	Primarily Male Cast
+Tag:	Cult
+Tag:	Urban Fantasy
+Tag:	Dissociative Identities
+Tag:	Primarily Teen Cast
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Bullying

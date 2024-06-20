@@ -1,27 +1,27 @@
 ID:	20829
-Title:	Seraph of the End: Vampire Reign
-Title:	Owari no Seraph
 Title:	終わりのセラフ
-Tag:	Post-Apocalyptic
+Title:	Owari no Seraph
+Title:	Seraph of the End: Vampire Reign
 Tag:	School
-Tag:	Time Skip
-Tag:	Revenge
-Tag:	War
-Tag:	Shounen
-Tag:	Heterosexual
-Tag:	Military
+Tag:	Tsundere
 Tag:	Demons
+Tag:	Revenge
+Tag:	Vampire
+Tag:	War
 Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Boys' Love
-Tag:	Pandemic
-Tag:	Swordplay
+Tag:	Post-Apocalyptic
+Tag:	Shounen
+Tag:	Primarily Adult Cast
+Tag:	Lost Civilization
 Tag:	Rotoscoping
+Tag:	Heterosexual
+Tag:	Swordplay
+Tag:	Tragedy
+Tag:	Military
+Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Lost Civilization
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Pandemic

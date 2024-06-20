@@ -3,12 +3,12 @@ Title:	Toki wo Kakeru Shoujo
 Title:	時をかける少女
 Title:	The Girl Who Leapt Through Time
 Tag:	School
-Tag:	Heterosexual
 Tag:	Time Manipulation
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Baseball
-Tag:	Tragedy
+Tag:	Heterosexual
 Tag:	Tomboy
-Tag:	Female Protagonist
+Tag:	Tragedy
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Baseball

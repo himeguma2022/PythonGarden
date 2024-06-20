@@ -1,16 +1,16 @@
 ID:	159074
-Title:	放課後少年花子くん
 Title:	After-school Hanako-kun
+Title:	放課後少年花子くん
 Title:	Houkago Shounen Hanako-kun
-Tag:	Afterlife
-Tag:	Twins
 Tag:	Ghost
-Tag:	Urban Fantasy
-Tag:	Gender Bending
-Tag:	Shounen
-Tag:	Mythology
+Tag:	Twins
 Tag:	School
-Tag:	Heterosexual
+Tag:	Gender Bending
+Tag:	Ensemble Cast
+Tag:	Urban Fantasy
 Tag:	Episodic
 Tag:	Youkai
-Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Heterosexual
+Tag:	Shounen
+Tag:	Afterlife

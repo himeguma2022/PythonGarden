@@ -1,14 +1,14 @@
 ID:	100537
-Title:	Servamp Movie: Alice in the Garden
-Title:	SERVAMP: Alice in the Garden
 Title:	SERVAMP -サーヴァンプ-: Alice in the Garden
-Tag:	Memory Manipulation
-Tag:	Guns
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Primarily Male Cast
-Tag:	Isekai
+Title:	SERVAMP: Alice in the Garden
+Title:	Servamp Movie: Alice in the Garden
 Tag:	Ojou-sama
-Tag:	Tragedy
+Tag:	Urban Fantasy
+Tag:	Isekai
+Tag:	Guns
 Tag:	Maids
+Tag:	Vampire
 Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Memory Manipulation

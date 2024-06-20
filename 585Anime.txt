@@ -1,19 +1,19 @@
 ID:	585
 Title:	Mimi wo Sumaseba
-Title:	耳をすませば
 Title:	Whisper of the Heart
+Title:	耳をすませば
 Tag:	Unrequited Love
-Tag:	Animals
+Tag:	Kemonomimi
+Tag:	Shoujo
 Tag:	School
-Tag:	Heterosexual
+Tag:	Tsundere
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Writing
-Tag:	Shoujo
+Tag:	Heterosexual
 Tag:	Crossover
-Tag:	Nekomimi
-Tag:	Fairy Tale
-Tag:	Kemonomimi
-Tag:	Tsundere
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Animals
+Tag:	Writing
+Tag:	Fairy Tale
+Tag:	Nekomimi

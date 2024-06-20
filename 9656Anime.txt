@@ -1,16 +1,16 @@
 ID:	9656
-Title:	Kimi ni Todoke 2ND SEASON
 Title:	Kimi ni Todoke 2nd Season
+Title:	Kimi ni Todoke 2ND SEASON
 Title:	Kimi ni Todoke: From Me to You Season 2
 Title:	君に届け 2ND SEASON
-Tag:	Gyaru
-Tag:	Chibi
+Tag:	Shoujo
 Tag:	School
-Tag:	Heterosexual
+Tag:	Gyaru
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Shoujo
-Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Chibi
 Tag:	Tomboy
-Tag:	Female Protagonist
+Tag:	Male Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist

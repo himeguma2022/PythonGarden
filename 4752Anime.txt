@@ -2,18 +2,18 @@ ID:	4752
 Title:	ヴァンパイア騎士
 Title:	Vampire Knight Guilty
 Title:	Vampire Knight: Guilty
-Tag:	Unrequited Love
-Tag:	Twins
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Male Harem
-Tag:	School
-Tag:	Primarily Teen Cast
 Tag:	Primarily Male Cast
-Tag:	Politics
+Tag:	Unrequited Love
 Tag:	Shoujo
-Tag:	Female Protagonist
+Tag:	Twins
+Tag:	School
+Tag:	Politics
+Tag:	Urban Fantasy
+Tag:	Male Harem
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
-Tag:	Incest
-Tag:	Boarding School
+Tag:	Vampire
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Incest

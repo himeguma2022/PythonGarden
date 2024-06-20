@@ -1,15 +1,15 @@
 ID:	100178
+Title:	リズと青い鳥
 Title:	Liz and the Blue Bird
 Title:	Liz to Aoi Tori
-Title:	リズと青い鳥
-Tag:	Yuri
+Tag:	LGBTQ+ Themes
 Tag:	School Club
 Tag:	School
-Tag:	Fairy Tale
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Primarily Female Cast
-Tag:	Band
+Tag:	Yuri
 Tag:	Classical Music
-Tag:	LGBTQ+ Themes
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Fairy Tale
+Tag:	Band

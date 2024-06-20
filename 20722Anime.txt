@@ -1,19 +1,19 @@
 ID:	20722
-Title:	ばらかもん
 Title:	Barakamon
-Tag:	Calligraphy
+Title:	ばらかもん
+Tag:	Rural
+Tag:	Seinen
 Tag:	Teacher
+Tag:	Iyashikei
+Tag:	Tsundere
+Tag:	Slapstick
+Tag:	Calligraphy
 Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Family Life
+Tag:	Rehabilitation
+Tag:	Male Protagonist
+Tag:	Philosophy
 Tag:	Coastal
 Tag:	Fishing
-Tag:	Rehabilitation
-Tag:	Coming of Age
 Tag:	Found Family
-Tag:	Iyashikei
-Tag:	Seinen
-Tag:	Philosophy
-Tag:	Slapstick
-Tag:	Family Life
-Tag:	Male Protagonist
-Tag:	Tsundere
-Tag:	Rural

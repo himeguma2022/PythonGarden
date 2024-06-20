@@ -1,12 +1,12 @@
 ID:	21577
 Title:	彼女と彼女の猫 -Everything Flows-
-Title:	She and Her Cat -Everything Flows-
 Title:	Kanojo to Kanojo no Neko: Everything Flows
-Tag:	Animals
+Title:	She and Her Cat -Everything Flows-
 Tag:	Primarily Adult Cast
 Tag:	Reincarnation
-Tag:	Episodic
 Tag:	Iyashikei
-Tag:	Time Skip
+Tag:	Episodic
 Tag:	Tragedy
+Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Animals

@@ -2,19 +2,19 @@ ID:	10500
 Title:	Ojiisan no Lamp
 Title:	おぢいさんのランプ
 Title:	Ojii-san no Lamp
-Tag:	Orphan
-Tag:	Agriculture
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Youkai
-Tag:	Tanned Skin
-Tag:	Marriage
-Tag:	Coming of Age
-Tag:	Time Skip
-Tag:	Revenge
-Tag:	Historical
-Tag:	Family Life
-Tag:	Outdoor
-Tag:	Male Protagonist
-Tag:	Economics
 Tag:	Rural
+Tag:	Orphan
+Tag:	Outdoor
+Tag:	Marriage
+Tag:	Youkai
+Tag:	Coming of Age
+Tag:	Agriculture
+Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Economics
+Tag:	Tanned Skin
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Time Skip
+Tag:	Historical
+Tag:	Work

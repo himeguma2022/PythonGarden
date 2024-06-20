@@ -5,8 +5,8 @@ Title:	"Kuroshitsuji: Sono Shitsuji, Kougyou"
 Title:	Kuroshitsuji: Sono Shitsuji, Kougyou
 Tag:	Parody
 Tag:	Foreign
-Tag:	Butler
 Tag:	Demons
-Tag:	Historical
-Tag:	Male Protagonist
 Tag:	Kuudere
+Tag:	Male Protagonist
+Tag:	Butler
+Tag:	Historical

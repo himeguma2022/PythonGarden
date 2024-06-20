@@ -1,23 +1,23 @@
 ID:	130592
-Title:	Hataraku Maou-sama!!
 Title:	The Devil is a Part-Timer! Season 2
+Title:	Hataraku Maou-sama!!
 Title:	はたらく魔王さま！！
-Tag:	Family Life
-Tag:	Angels
-Tag:	Anti-Hero
-Tag:	Shounen
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Demons
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Isekai
 Tag:	Hikikomori
-Tag:	Tsundere
+Tag:	Anti-Hero
 Tag:	Satire
+Tag:	Tsundere
+Tag:	Demons
+Tag:	Family Life
+Tag:	Urban
+Tag:	Ensemble Cast
+Tag:	Shounen
 Tag:	Magic
 Tag:	Primarily Adult Cast
+Tag:	Angels
+Tag:	Heterosexual
+Tag:	Love Triangle
+Tag:	Work
 Tag:	Urban Fantasy
-Tag:	Urban
+Tag:	Isekai
 Tag:	Food
+Tag:	Male Protagonist

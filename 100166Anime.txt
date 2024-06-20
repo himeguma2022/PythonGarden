@@ -1,27 +1,27 @@
 ID:	100166
 Title:	Boku no Hero Academia 3rd Season
-Title:	Boku no Hero Academia 3
 Title:	僕のヒーローアカデミア３
+Title:	Boku no Hero Academia 3
 Title:	My Hero Academia Season 3
-Tag:	Super Power
-Tag:	Superhero
 Tag:	School
-Tag:	Primarily Male Cast
+Tag:	Transgender
 Tag:	Revenge
-Tag:	Cultivation
 Tag:	Tomboy
-Tag:	Nudity
-Tag:	Shounen
-Tag:	Heterosexual
-Tag:	Police
+Tag:	Body Horror
+Tag:	Cultivation
+Tag:	CGI
 Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Bisexual
-Tag:	Bar
+Tag:	Superhero
+Tag:	Shounen
 Tag:	Boarding School
 Tag:	Battle Royale
-Tag:	Transgender
-Tag:	Primarily Teen Cast
-Tag:	Body Horror
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Primarily Male Cast
+Tag:	Bar
 Tag:	Urban Fantasy
-Tag:	CGI
+Tag:	Police
+Tag:	Primarily Teen Cast
+Tag:	Bisexual
+Tag:	Male Protagonist
+Tag:	Super Power

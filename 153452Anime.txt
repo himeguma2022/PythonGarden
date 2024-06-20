@@ -1,17 +1,17 @@
 ID:	153452
+Title:	Ousama Ranking: Yuuki no Takarabako
 Title:	王様ランキング 勇気の宝箱
 Title:	Ranking of Kings: The Treasure Chest of Courage
-Title:	Ousama Ranking: Yuuki no Takarabako
 Tag:	Language Barrier
 Tag:	Magic
 Tag:	Disability
-Tag:	Swordplay
-Tag:	Episodic
-Tag:	Monster Boy
-Tag:	Achronological Order
-Tag:	Primarily Male Cast
-Tag:	Demons
 Tag:	Seinen
 Tag:	Ensemble Cast
-Tag:	Fairy Tale
+Tag:	Demons
+Tag:	Episodic
+Tag:	Swordplay
+Tag:	Monster Boy
 Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Primarily Male Cast
+Tag:	Fairy Tale

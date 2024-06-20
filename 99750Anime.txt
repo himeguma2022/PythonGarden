@@ -4,13 +4,13 @@ Title:	Kimi no Suizou wo Tabetai
 Title:	君の膵臓をたべたい
 Tag:	Unrequited Love
 Tag:	School
-Tag:	Heterosexual
-Tag:	Achronological Order
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Tragedy
-Tag:	Classic Literature
-Tag:	Philosophy
-Tag:	Male Protagonist
+Tag:	Heterosexual
 Tag:	Rehabilitation
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Philosophy
 Tag:	Female Protagonist
+Tag:	Classic Literature
+Tag:	Tragedy

@@ -1,37 +1,37 @@
 ID:	127230
 Title:	チェンソーマン
 Title:	Chainsaw Man
-Tag:	Guns
-Tag:	Yandere
-Tag:	Amnesia
-Tag:	Monster Boy
-Tag:	Zombie
-Tag:	Revenge
-Tag:	Surreal Comedy
-Tag:	Tomboy
-Tag:	Angels
-Tag:	Cannibalism
 Tag:	Anti-Hero
-Tag:	Age Gap
-Tag:	Shounen
-Tag:	Crime
-Tag:	Heterosexual
 Tag:	Demons
-Tag:	Police
+Tag:	Guns
+Tag:	Revenge
+Tag:	Tomboy
+Tag:	Urban
+Tag:	POV
+Tag:	Body Horror
+Tag:	Found Family
+Tag:	CGI
+Tag:	Crime
+Tag:	Amnesia
+Tag:	Surreal Comedy
+Tag:	Monster Boy
 Tag:	Gore
+Tag:	Homeless
+Tag:	Monster Girl
+Tag:	Anthropomorphism
+Tag:	Shounen
+Tag:	Shapeshifting
+Tag:	Primarily Adult Cast
+Tag:	Angels
+Tag:	Heterosexual
+Tag:	Age Gap
+Tag:	Yandere
+Tag:	Tragedy
+Tag:	Cannibalism
+Tag:	Zombie
+Tag:	Henshin
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Coming of Age
 Tag:	Male Protagonist
 Tag:	Assassins
-Tag:	Henshin
-Tag:	Monster Girl
-Tag:	Coming of Age
-Tag:	Anthropomorphism
-Tag:	Shapeshifting
-Tag:	Body Horror
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Found Family
-Tag:	POV
-Tag:	Tragedy
-Tag:	CGI
-Tag:	Homeless

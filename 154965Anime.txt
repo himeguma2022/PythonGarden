@@ -2,17 +2,17 @@ ID:	154965
 Title:	My Love Story with Yamada-kun at Lv999
 Title:	山田くんとLv999の恋をする
 Title:	Yamada-kun to Lv999 no Koi wo Suru
-Tag:	E-Sports
 Tag:	Unrequited Love
-Tag:	Age Gap
-Tag:	Primarily Adult Cast
-Tag:	Heterosexual
-Tag:	Video Games
-Tag:	Konbini
 Tag:	Shoujo
-Tag:	Kuudere
-Tag:	Otaku Culture
 Tag:	CGI
+Tag:	Primarily Adult Cast
+Tag:	E-Sports
+Tag:	Otaku Culture
+Tag:	Konbini
+Tag:	Kuudere
+Tag:	Age Gap
+Tag:	Heterosexual
 Tag:	College
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Video Games
+Tag:	Female Protagonist

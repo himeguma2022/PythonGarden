@@ -1,11 +1,11 @@
 ID:	2175
-Title:	Kino no Tabi: The Beautiful World - Byouki no Kuni - For You
-Title:	Kino no Tabi: the Beautiful World - Byouki no Kuni: For You
 Title:	キノの旅 the Beautiful World 病気の国 -For You-
+Title:	Kino no Tabi: the Beautiful World - Byouki no Kuni: For You
+Title:	Kino no Tabi: The Beautiful World - Byouki no Kuni - For You
+Tag:	Agender
 Tag:	Foreign
-Tag:	Motorcycles
+Tag:	Kuudere
 Tag:	Tragedy
 Tag:	Philosophy
-Tag:	Agender
-Tag:	Kuudere
 Tag:	Female Protagonist
+Tag:	Motorcycles

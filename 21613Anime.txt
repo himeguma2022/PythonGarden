@@ -1,25 +1,25 @@
 ID:	21613
-Title:	幼女戦記
 Title:	Youjo Senki
+Title:	幼女戦記
 Title:	Saga of Tanya the Evil
-Tag:	Guns
-Tag:	Gods
-Tag:	Foreign
-Tag:	Primarily Male Cast
-Tag:	Revenge
-Tag:	Female Protagonist
 Tag:	Anti-Hero
+Tag:	Gender Bending
+Tag:	Politics
+Tag:	Guns
+Tag:	Revenge
+Tag:	CGI
+Tag:	Reincarnation
 Tag:	War
-Tag:	Military
-Tag:	Tanks
 Tag:	Gore
-Tag:	Episodic
-Tag:	Isekai
-Tag:	Philosophy
-Tag:	Historical
 Tag:	Magic
 Tag:	Primarily Adult Cast
-Tag:	Gender Bending
-Tag:	Reincarnation
-Tag:	Politics
-Tag:	CGI
+Tag:	Tanks
+Tag:	Philosophy
+Tag:	Gods
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Military
+Tag:	Foreign
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Female Protagonist

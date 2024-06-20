@@ -1,11 +1,11 @@
 ID:	20471
 Title:	陽なたのアオシグレ
 Title:	Hinata no Aoshigure
-Tag:	Animals
 Tag:	School
-Tag:	Heterosexual
+Tag:	Surreal Comedy
 Tag:	Drawing
+Tag:	Heterosexual
+Tag:	Primarily Child Cast
 Tag:	Time Skip
 Tag:	Slapstick
-Tag:	Primarily Child Cast
-Tag:	Surreal Comedy
+Tag:	Animals

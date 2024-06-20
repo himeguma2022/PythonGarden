@@ -1,26 +1,26 @@
 ID:	21637
-Title:	宇宙パトロールルル子
-Title:	Uchuu Patrol Luluco
 Title:	Space Patrol Luluco
-Tag:	Guns
-Tag:	Super Power
+Title:	Uchuu Patrol Luluco
+Title:	宇宙パトロールルル子
 Tag:	School
 Tag:	Tokusatsu
+Tag:	Guns
 Tag:	Surreal Comedy
-Tag:	Female Protagonist
-Tag:	Estranged Family
-Tag:	Parody
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Meta
-Tag:	Pirates
-Tag:	Henshin
-Tag:	Monster Girl
 Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Philosophy
-Tag:	Crossover
+Tag:	Monster Girl
+Tag:	Parody
 Tag:	Space
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Pirates
+Tag:	Crossover
+Tag:	Meta
+Tag:	Philosophy
+Tag:	Work
+Tag:	Henshin
+Tag:	Estranged Family
+Tag:	Police
+Tag:	Primarily Teen Cast
+Tag:	Coming of Age
+Tag:	Super Power
+Tag:	Female Protagonist

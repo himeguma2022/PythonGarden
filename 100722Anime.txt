@@ -1,21 +1,21 @@
 ID:	100722
-Title:	デート・ア・ライブⅢ
 Title:	Date A Live III
-Tag:	Twins
-Tag:	Super Power
-Tag:	Urban Fantasy
+Title:	デート・ア・ライブⅢ
 Tag:	Parody
-Tag:	Witch
+Tag:	Twins
+Tag:	CGI
 Tag:	School
-Tag:	Yandere
-Tag:	Heterosexual
 Tag:	Female Harem
+Tag:	Urban Fantasy
+Tag:	Time Manipulation
 Tag:	Primarily Teen Cast
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Yandere
 Tag:	Time Skip
+Tag:	Witch
+Tag:	Male Protagonist
 Tag:	Idol
+Tag:	Super Power
 Tag:	Tragedy
 Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Male Protagonist
-Tag:	Kuudere
-Tag:	Time Manipulation

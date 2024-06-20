@@ -1,27 +1,27 @@
 ID:	116566
-Title:	Akudama Drive
 Title:	アクダマドライブ
-Tag:	Prison
-Tag:	Yandere
-Tag:	Artificial Intelligence
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Anti-Hero
-Tag:	Crime
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Fugitive
-Tag:	Trains
-Tag:	Motorcycles
-Tag:	Conspiracy
-Tag:	Dystopian
+Title:	Akudama Drive
 Tag:	Virtual World
-Tag:	Primarily Adult Cast
-Tag:	Urban
-Tag:	Cyberpunk
-Tag:	Tanned Skin
+Tag:	Artificial Intelligence
+Tag:	Anti-Hero
 Tag:	Politics
-Tag:	Tragedy
+Tag:	Prison
+Tag:	Cyberpunk
+Tag:	Tomboy
+Tag:	Urban
+Tag:	Fugitive
 Tag:	CGI
+Tag:	Crime
+Tag:	Conspiracy
+Tag:	Ensemble Cast
+Tag:	Dystopian
+Tag:	Trains
+Tag:	Gore
+Tag:	Motorcycles
+Tag:	Primarily Adult Cast
 Tag:	Space
 Tag:	Kuudere
+Tag:	Yandere
+Tag:	Tanned Skin
+Tag:	Tragedy
+Tag:	Female Protagonist

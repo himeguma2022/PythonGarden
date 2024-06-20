@@ -2,18 +2,18 @@ ID:	20966
 Title:	Yamada-kun to 7-nin no Majo
 Title:	山田くんと7人の魔女
 Title:	Yamada and the Seven Witches
-Tag:	Gender Bending
-Tag:	Urban Fantasy
-Tag:	Shounen
-Tag:	Witch
-Tag:	School Club
-Tag:	Mixed Gender Harem
-Tag:	School
-Tag:	Episodic
-Tag:	Amnesia
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
-Tag:	Body Swapping
-Tag:	Male Protagonist
 Tag:	LGBTQ+ Themes
+Tag:	School Club
+Tag:	School
+Tag:	Body Swapping
+Tag:	Gender Bending
+Tag:	Amnesia
+Tag:	Urban Fantasy
+Tag:	Mixed Gender Harem
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Heterosexual
+Tag:	Witch
+Tag:	Male Protagonist
 Tag:	Love Triangle
+Tag:	Shounen

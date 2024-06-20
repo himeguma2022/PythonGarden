@@ -1,11 +1,11 @@
 ID:	1559
-Title:	Kenichi: The Mightiest Disciple
 Title:	史上最強の弟子 ケンイチ
 Title:	Shijou Saikyou no Deshi Kenichi
-Tag:	Shounen
+Title:	Kenichi: The Mightiest Disciple
+Tag:	Martial Arts
 Tag:	School
 Tag:	Fitness
 Tag:	Delinquents
-Tag:	Male Protagonist
 Tag:	Kuudere
-Tag:	Martial Arts
+Tag:	Male Protagonist
+Tag:	Shounen

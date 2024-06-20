@@ -1,22 +1,22 @@
 ID:	1033
-Title:	Millennium Actress
-Title:	Sennen Joyuu
 Title:	千年女優
-Tag:	Biographical
-Tag:	Meta
-Tag:	Unrequited Love
-Tag:	War
-Tag:	Snowscape
-Tag:	Age Gap
-Tag:	Denpa
-Tag:	Primarily Adult Cast
+Title:	Sennen Joyuu
+Title:	Millennium Actress
 Tag:	Anachronism
-Tag:	Swordplay
-Tag:	Work
-Tag:	Heterosexual
+Tag:	Fugitive
+Tag:	Unrequited Love
+Tag:	Primarily Adult Cast
+Tag:	Denpa
+Tag:	Snowscape
+Tag:	Acting
 Tag:	Coming of Age
+Tag:	Swordplay
+Tag:	Age Gap
+Tag:	War
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Biographical
 Tag:	Time Skip
 Tag:	Female Protagonist
 Tag:	Historical
-Tag:	Acting
-Tag:	Fugitive
+Tag:	Work

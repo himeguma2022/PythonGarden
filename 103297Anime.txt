@@ -1,10 +1,10 @@
 ID:	103297
-Title:	Larva
 Title:	라바
-Tag:	Animals
-Tag:	Full CGI
+Title:	Larva
 Tag:	Parody
+Tag:	Full CGI
+Tag:	Kids
 Tag:	Episodic
 Tag:	No Dialogue
+Tag:	Animals
 Tag:	Body Horror
-Tag:	Kids

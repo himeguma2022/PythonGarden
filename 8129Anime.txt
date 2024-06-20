@@ -1,23 +1,23 @@
 ID:	8129
+Title:	海月姫
 Title:	Princess Jellyfish
 Title:	Kuragehime
-Title:	海月姫
-Tag:	Drawing
-Tag:	Crossdressing
-Tag:	Josei
-Tag:	Female Protagonist
-Tag:	Makeup
-Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Otaku Culture
+Tag:	Gender Bending
 Tag:	Femboy
-Tag:	Love Triangle
-Tag:	Slapstick
+Tag:	Politics
+Tag:	Urban
 Tag:	Primarily Female Cast
+Tag:	Found Family
+Tag:	Ensemble Cast
+Tag:	Fashion
 Tag:	LGBTQ+ Themes
 Tag:	Primarily Adult Cast
-Tag:	Gender Bending
-Tag:	Urban
-Tag:	Found Family
-Tag:	Politics
-Tag:	Fashion
+Tag:	Otaku Culture
+Tag:	Heterosexual
+Tag:	Makeup
+Tag:	Love Triangle
+Tag:	Crossdressing
+Tag:	Slapstick
+Tag:	Josei
+Tag:	Drawing
+Tag:	Female Protagonist

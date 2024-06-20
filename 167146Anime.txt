@@ -1,13 +1,13 @@
 ID:	167146
-Title:	百千さん家のあやかし王子
-Title:	The Demon Prince of Momochi House
 Title:	Momochi-san Chi no Ayakashi Ouji
-Tag:	Orphan
-Tag:	Urban Fantasy
-Tag:	Male Harem
-Tag:	Youkai
+Title:	The Demon Prince of Momochi House
+Title:	百千さん家のあやかし王子
 Tag:	Primarily Male Cast
-Tag:	Shoujo
-Tag:	Nekomimi
 Tag:	Kemonomimi
+Tag:	Shoujo
+Tag:	Male Harem
+Tag:	Urban Fantasy
+Tag:	Youkai
 Tag:	Female Protagonist
+Tag:	Orphan
+Tag:	Nekomimi

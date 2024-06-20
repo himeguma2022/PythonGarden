@@ -1,8 +1,8 @@
 ID:	98615
-Title:	ひとり暮らしの小学生
 Title:	Hitorigurashi no Shougakusei
-Tag:	Orphan
+Title:	ひとり暮らしの小学生
 Tag:	School
-Tag:	Food
 Tag:	Primarily Child Cast
+Tag:	Food
 Tag:	Female Protagonist
+Tag:	Orphan

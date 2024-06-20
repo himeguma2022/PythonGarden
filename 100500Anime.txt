@@ -1,17 +1,17 @@
 ID:	100500
 Title:	Kakuriyo no Yadomeshi
-Title:	かくりよの宿飯
 Title:	Kakuriyo -Bed & Breakfast for Spirits-
+Title:	かくりよの宿飯
+Tag:	Shoujo
 Tag:	Twins
 Tag:	Primarily Adult Cast
-Tag:	Male Harem
-Tag:	Heterosexual
-Tag:	Monster Boy
-Tag:	Youkai
 Tag:	Arranged Marriage
+Tag:	Male Harem
 Tag:	Isekai
-Tag:	Shoujo
+Tag:	Youkai
+Tag:	Monster Boy
+Tag:	Heterosexual
 Tag:	Food
-Tag:	Inn
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Inn

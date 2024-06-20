@@ -1,18 +1,18 @@
 ID:	132806
-Title:	Restaurant to Another World 2
-Title:	Isekai Shokudou 2
 Title:	異世界食堂２
-Tag:	Dragons
-Tag:	Monster Girl
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Episodic
+Title:	Isekai Shokudou 2
+Title:	Restaurant to Another World 2
 Tag:	Iyashikei
-Tag:	Isekai
+Tag:	Urban Fantasy
 Tag:	Demons
-Tag:	Fairy
-Tag:	Restaurant
+Tag:	Isekai
+Tag:	Episodic
 Tag:	Elf
+Tag:	Dragons
+Tag:	Heterosexual
+Tag:	Fairy
 Tag:	Food
+Tag:	Restaurant
+Tag:	Vampire
+Tag:	Monster Girl
+Tag:	Work

@@ -1,13 +1,13 @@
 ID:	2817
-Title:	The Story of Cinderella
-Title:	Cinderella Monogatari
 Title:	シンデレラ物語
-Tag:	Animals
-Tag:	Urban Fantasy
-Tag:	Foreign
-Tag:	Heterosexual
-Tag:	Bullying
+Title:	Cinderella Monogatari
+Title:	The Story of Cinderella
 Tag:	Anthropomorphism
-Tag:	Classic Literature
+Tag:	Foreign
+Tag:	Urban Fantasy
+Tag:	Heterosexual
 Tag:	Fairy Tale
 Tag:	Female Protagonist
+Tag:	Classic Literature
+Tag:	Animals
+Tag:	Bullying

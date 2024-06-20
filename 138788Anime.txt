@@ -1,21 +1,21 @@
 ID:	138788
-Title:	UNDER NINJA
 Title:	Under Ninja
 Title:	アンダーニンジャ
-Tag:	Meta
-Tag:	School
-Tag:	Military
-Tag:	Ninja
-Tag:	Achronological Order
-Tag:	Seinen
-Tag:	Time Skip
-Tag:	Espionage
-Tag:	Tragedy
-Tag:	Ensemble Cast
-Tag:	Gore
+Title:	UNDER NINJA
 Tag:	CGI
-Tag:	Male Protagonist
+Tag:	School
 Tag:	Conspiracy
+Tag:	Military
 Tag:	Surreal Comedy
+Tag:	Seinen
+Tag:	Ensemble Cast
 Tag:	Kuudere
+Tag:	Espionage
+Tag:	Gore
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Meta
+Tag:	Ninja
+Tag:	Tragedy

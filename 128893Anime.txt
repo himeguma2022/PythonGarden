@@ -1,36 +1,36 @@
 ID:	128893
+Title:	Jigokuraku
 Title:	Hell’s Paradise
 Title:	地獄楽
-Title:	Jigokuraku
-Tag:	Super Power
-Tag:	Orphan
-Tag:	Gods
-Tag:	Amnesia
-Tag:	Cult
-Tag:	Primarily Male Cast
-Tag:	Cultivation
-Tag:	Cannibalism
 Tag:	Anti-Hero
-Tag:	Nudity
-Tag:	Shounen
-Tag:	Crime
-Tag:	Heterosexual
-Tag:	Gore
-Tag:	Bisexual
-Tag:	Fugitive
-Tag:	Battle Royale
-Tag:	Swordplay
-Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Religion
-Tag:	Samurai
-Tag:	Philosophy
-Tag:	Historical
-Tag:	Body Horror
-Tag:	Primarily Adult Cast
 Tag:	Gender Bending
+Tag:	Body Horror
+Tag:	Cultivation
+Tag:	Fugitive
+Tag:	Crime
+Tag:	Amnesia
+Tag:	Gore
+Tag:	Shounen
+Tag:	Battle Royale
+Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Cosmic Horror
+Tag:	Samurai
+Tag:	Swordplay
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Gods
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Historical
+Tag:	Cannibalism
+Tag:	Travel
+Tag:	Martial Arts
+Tag:	Religion
+Tag:	Survival
+Tag:	Cult
+Tag:	Bisexual
+Tag:	Super Power
 Tag:	Death Game
 Tag:	Ninja
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Martial Arts

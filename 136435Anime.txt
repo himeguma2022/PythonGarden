@@ -1,13 +1,13 @@
 ID:	136435
-Title:	Ippon! again
 Title:	Mou Ippon!
 Title:	もういっぽん！
-Tag:	Judo
-Tag:	Shounen
+Title:	Ippon! again
+Tag:	Martial Arts
 Tag:	School Club
+Tag:	Judo
 Tag:	School
-Tag:	Cute Girls Doing Cute Things
 Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	Primarily Female Cast
 Tag:	Female Protagonist
-Tag:	Martial Arts
+Tag:	Shounen

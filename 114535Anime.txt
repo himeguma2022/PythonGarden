@@ -1,35 +1,35 @@
 ID:	114535
+Title:	Fumetsu no Anata e
 Title:	不滅のあなたへ
 Title:	To Your Eternity
-Title:	Fumetsu no Anata e
-Tag:	Language Barrier
-Tag:	Snowscape
-Tag:	Prison
-Tag:	Orphan
-Tag:	Adoption
-Tag:	Yandere
-Tag:	Foreign
-Tag:	Zombie
-Tag:	Time Skip
-Tag:	Animals
-Tag:	Shounen
+Tag:	Rape
+Tag:	Gender Bending
 Tag:	Demons
+Tag:	Prison
+Tag:	Primarily Female Cast
+Tag:	Body Horror
+Tag:	CGI
 Tag:	Ensemble Cast
 Tag:	Gore
-Tag:	Agender
-Tag:	Battle Royale
-Tag:	Travel
-Tag:	Coming of Age
-Tag:	Philosophy
+Tag:	Shounen
+Tag:	Animals
 Tag:	Shapeshifting
-Tag:	Primarily Female Cast
-Tag:	Historical
-Tag:	Body Horror
-Tag:	Afterlife
-Tag:	Gender Bending
-Tag:	Rape
-Tag:	Survival
-Tag:	Tragedy
+Tag:	Battle Royale
+Tag:	Language Barrier
 Tag:	Memory Manipulation
-Tag:	CGI
+Tag:	Yandere
+Tag:	Philosophy
+Tag:	Tragedy
+Tag:	Orphan
+Tag:	Historical
+Tag:	Zombie
+Tag:	Afterlife
+Tag:	Travel
+Tag:	Adoption
+Tag:	Agender
+Tag:	Foreign
 Tag:	Rural
+Tag:	Survival
+Tag:	Snowscape
+Tag:	Coming of Age
+Tag:	Time Skip

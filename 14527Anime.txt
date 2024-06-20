@@ -1,12 +1,12 @@
 ID:	14527
-Title:	Medaka Box Abnormal
 Title:	めだかボックス アブノーマル
-Tag:	Anti-Hero
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Achromatic
+Title:	Medaka Box Abnormal
 Tag:	School
-Tag:	Tragedy
-Tag:	Incest
+Tag:	Anti-Hero
 Tag:	Conspiracy
+Tag:	Achromatic
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Incest

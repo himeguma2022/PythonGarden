@@ -1,14 +1,14 @@
 ID:	11867
-Title:	Cipher
 Title:	CIPHER
-Tag:	Meta
+Title:	Cipher
+Tag:	LGBTQ+ Themes
+Tag:	Shoujo
 Tag:	Twins
+Tag:	Dancing
 Tag:	School
+Tag:	American Football
 Tag:	Foreign
 Tag:	Acting
-Tag:	American Football
-Tag:	Shoujo
-Tag:	Dancing
-Tag:	Incest
 Tag:	Boys' Love
-Tag:	LGBTQ+ Themes
+Tag:	Meta
+Tag:	Incest

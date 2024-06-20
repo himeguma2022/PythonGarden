@@ -1,24 +1,24 @@
 ID:	21087
-Title:	ワンパンマン
 Title:	One Punch Man
 Title:	One-Punch Man
-Tag:	Super Power
-Tag:	Superhero
-Tag:	Cyborg
-Tag:	Gods
-Tag:	Primarily Male Cast
-Tag:	Cultivation
-Tag:	Surreal Comedy
-Tag:	Parody
+Title:	ワンパンマン
+Tag:	Satire
 Tag:	Seinen
 Tag:	Demons
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Henshin
-Tag:	Aliens
-Tag:	Satire
-Tag:	Kaiju
-Tag:	Urban Fantasy
 Tag:	Urban
+Tag:	Cultivation
+Tag:	Surreal Comedy
+Tag:	Aliens
+Tag:	Superhero
+Tag:	Gore
+Tag:	Parody
 Tag:	Primarily Adult Cast
+Tag:	Gods
+Tag:	Primarily Male Cast
+Tag:	Kaiju
 Tag:	Martial Arts
+Tag:	Henshin
+Tag:	Urban Fantasy
+Tag:	Male Protagonist
+Tag:	Cyborg
+Tag:	Super Power

@@ -2,8 +2,8 @@ ID:	108973
 Title:	Kino no Tabi -the Beautiful World- Haikyo no Kuni
 Title:	キノの旅 -the Beautiful World- 廃墟の国
 Title:	Kino no Tabi: The Beautiful World - The Animated Series
-Tag:	Guns
-Tag:	Foreign
-Tag:	Motorcycles
-Tag:	Kuudere
 Tag:	Rural
+Tag:	Foreign
+Tag:	Guns
+Tag:	Kuudere
+Tag:	Motorcycles

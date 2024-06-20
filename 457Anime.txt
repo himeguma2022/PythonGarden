@@ -2,22 +2,22 @@ ID:	457
 Title:	MUSHI-SHI
 Title:	Mushishi
 Title:	蟲師
-Tag:	Snowscape
-Tag:	Amnesia
-Tag:	Cult
-Tag:	Mythology
-Tag:	Youkai
 Tag:	Seinen
-Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Episodic
+Tag:	Amnesia
+Tag:	Outdoor
+Tag:	Coastal
 Tag:	Suicide
-Tag:	Travel
+Tag:	Primarily Adult Cast
+Tag:	Mythology
+Tag:	Tragedy
 Tag:	Philosophy
 Tag:	Historical
-Tag:	Outdoor
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Coastal
-Tag:	Tragedy
+Tag:	Travel
 Tag:	Rural
+Tag:	Cult
+Tag:	Snowscape
+Tag:	Urban Fantasy
+Tag:	Episodic
+Tag:	Youkai
+Tag:	Environmental
+Tag:	Male Protagonist

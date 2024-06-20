@@ -1,10 +1,10 @@
 ID:	98217
-Title:	サンリオ男子
 Title:	Sanrio Danshi
 Title:	SANRIO BOYS
-Tag:	Gyaru
+Title:	サンリオ男子
+Tag:	Shoujo
 Tag:	School
+Tag:	Gyaru
+Tag:	Cute Boys Doing Cute Things
 Tag:	Primarily Male Cast
 Tag:	Bullying
-Tag:	Shoujo
-Tag:	Cute Boys Doing Cute Things

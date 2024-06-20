@@ -1,12 +1,12 @@
 ID:	156632
+Title:	Uma Musume: Pretty Derby Season 3
 Title:	Umamusume: Pretty Derby Season 3
 Title:	ウマ娘 プリティーダービー Season 3
-Title:	Uma Musume: Pretty Derby Season 3
-Tag:	Animals
+Tag:	Kemonomimi
 Tag:	School
 Tag:	Primarily Teen Cast
-Tag:	Idol
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
 Tag:	Athletics
+Tag:	Idol
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Animals

@@ -1,10 +1,10 @@
 ID:	103872
-Title:	Okoshiyasu, Chitose-chan
-Title:	おこしやす、ちとせちゃん
-Title:	Welcome, Chitose
 Title:	"Okoshiyasu, Chitose-chan"
-Tag:	Animals
-Tag:	Episodic
+Title:	Okoshiyasu, Chitose-chan
+Title:	Welcome, Chitose
+Title:	おこしやす、ちとせちゃん
 Tag:	Anthropomorphism
-Tag:	Josei
+Tag:	Episodic
 Tag:	Female Protagonist
+Tag:	Animals
+Tag:	Josei

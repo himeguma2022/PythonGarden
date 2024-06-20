@@ -1,20 +1,20 @@
 ID:	4975
 Title:	カオスヘッド
 Title:	ChäoS;HEAd
-Tag:	Anti-Hero
-Tag:	Super Power
-Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	School
-Tag:	Heterosexual
-Tag:	Software Development
-Tag:	Otaku Culture
-Tag:	Female Harem
-Tag:	Primarily Teen Cast
-Tag:	Primarily Female Cast
-Tag:	Conspiracy
-Tag:	Memory Manipulation
-Tag:	Male Protagonist
 Tag:	Hikikomori
+Tag:	School
+Tag:	Anti-Hero
+Tag:	Conspiracy
+Tag:	Denpa
+Tag:	Female Harem
+Tag:	Urban Fantasy
+Tag:	Software Development
+Tag:	Primarily Teen Cast
+Tag:	Otaku Culture
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Urban
+Tag:	Primarily Female Cast
+Tag:	Memory Manipulation

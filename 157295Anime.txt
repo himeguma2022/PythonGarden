@@ -1,12 +1,12 @@
 ID:	157295
-Title:	事情を知らない転校生がグイグイくる。
 Title:	Jijou wo Shiranai Tenkousei ga Guigui Kuru.
+Title:	事情を知らない転校生がグイグイくる。
 Title:	My Clueless First Friend
-Tag:	Shounen
 Tag:	School
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Iyashikei
-Tag:	Bullying
-Tag:	Primarily Child Cast
+Tag:	Coming of Age
+Tag:	Heterosexual
 Tag:	Chuunibyou
+Tag:	Primarily Child Cast
+Tag:	Shounen
+Tag:	Bullying

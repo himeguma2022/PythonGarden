@@ -1,7 +1,7 @@
 ID:	14189
-Title:	Dusk Maiden of Amnesia: "Ghost Girl"
-Title:	黄昏乙女×アムネジア 退魔乙女
 Title:	Tasogare Otome x Amnesia: Taima Otome
-Tag:	School
-Tag:	Ghost
+Title:	黄昏乙女×アムネジア 退魔乙女
+Title:	Dusk Maiden of Amnesia: "Ghost Girl"
 Tag:	Shounen
+Tag:	Ghost
+Tag:	School

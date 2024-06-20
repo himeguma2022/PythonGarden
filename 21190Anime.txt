@@ -1,20 +1,20 @@
 ID:	21190
-Title:	The Perfect Insider
-Title:	Subete ga F ni Naru: THE PERFECT INSIDER
-Title:	Subete ga F ni Naru
 Title:	すべてがFになる THE PERFECT INSIDER
-Tag:	Orphan
-Tag:	Teacher
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Prison
-Tag:	Software Development
-Tag:	Detective
-Tag:	Time Skip
-Tag:	Artificial Intelligence
-Tag:	Dissociative Identities
-Tag:	Police
-Tag:	Philosophy
-Tag:	Incest
-Tag:	College
+Title:	Subete ga F ni Naru: THE PERFECT INSIDER
+Title:	The Perfect Insider
+Title:	Subete ga F ni Naru
 Tag:	Fugitive
+Tag:	Artificial Intelligence
+Tag:	Crime
+Tag:	Primarily Adult Cast
+Tag:	Teacher
+Tag:	Detective
+Tag:	Software Development
+Tag:	Police
+Tag:	Dissociative Identities
+Tag:	Prison
+Tag:	College
+Tag:	Philosophy
+Tag:	Time Skip
+Tag:	Orphan
+Tag:	Incest

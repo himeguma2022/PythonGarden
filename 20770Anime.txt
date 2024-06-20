@@ -1,30 +1,30 @@
 ID:	20770
+Title:	Yona of the Dawn
 Title:	暁のヨナ
 Title:	Akatsuki no Yona
-Title:	Yona of the Dawn
-Tag:	Orphan
-Tag:	Male Harem
-Tag:	Gods
-Tag:	Foreign
-Tag:	Crossdressing
-Tag:	Royal Affairs
-Tag:	Primarily Male Cast
+Tag:	Politics
+Tag:	Archery
 Tag:	Revenge
-Tag:	Female Protagonist
+Tag:	Found Family
+Tag:	Fugitive
+Tag:	Royal Affairs
+Tag:	Reincarnation
+Tag:	Ensemble Cast
+Tag:	Male Harem
+Tag:	Dragons
+Tag:	Shoujo
+Tag:	Primarily Adult Cast
 Tag:	Mythology
 Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Pirates
-Tag:	Fugitive
-Tag:	Archery
 Tag:	Swordplay
-Tag:	Travel
-Tag:	Coming of Age
-Tag:	Historical
-Tag:	Primarily Adult Cast
-Tag:	Reincarnation
-Tag:	Found Family
-Tag:	Politics
-Tag:	Shoujo
+Tag:	Pirates
 Tag:	Tragedy
-Tag:	Dragons
+Tag:	Crossdressing
+Tag:	Gods
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Orphan
+Tag:	Travel
+Tag:	Foreign
+Tag:	Coming of Age
+Tag:	Female Protagonist

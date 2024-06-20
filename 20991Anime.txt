@@ -1,13 +1,13 @@
 ID:	20991
-Title:	緋弾のアリアAA
-Title:	Aria the Scarlet Ammo AA
 Title:	Hidan no Aria AA
-Tag:	Guns
-Tag:	Yuri
+Title:	Aria the Scarlet Ammo AA
+Title:	緋弾のアリアAA
 Tag:	School
-Tag:	Yandere
-Tag:	Primarily Teen Cast
 Tag:	Seinen
-Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Primarily Teen Cast
+Tag:	Yuri
 Tag:	Kuudere
+Tag:	Yandere
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast

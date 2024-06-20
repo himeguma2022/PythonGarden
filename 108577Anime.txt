@@ -1,14 +1,14 @@
 ID:	108577
-Title:	Sora no Aosa wo Shiru Hito yo
 Title:	Her Blue Sky
+Title:	Sora no Aosa wo Shiru Hito yo
 Title:	空の青さを知る人よ
-Tag:	Orphan
 Tag:	Musical Theater
+Tag:	Rural
 Tag:	Rock Music
-Tag:	Heterosexual
 Tag:	Time Manipulation
 Tag:	Coming of Age
-Tag:	Band
-Tag:	Rural
-Tag:	Female Protagonist
+Tag:	Heterosexual
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Orphan
+Tag:	Band

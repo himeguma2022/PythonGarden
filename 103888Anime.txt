@@ -1,12 +1,12 @@
 ID:	103888
 Title:	からめるハニー
 Title:	Caramel Honey
+Tag:	LGBTQ+ Themes
 Tag:	School
-Tag:	Primarily Male Cast
 Tag:	Delinquents
-Tag:	Time Skip
-Tag:	Bullying
+Tag:	Boys' Love
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Boys' Love
-Tag:	LGBTQ+ Themes
+Tag:	Time Skip
+Tag:	Primarily Male Cast
+Tag:	Bullying

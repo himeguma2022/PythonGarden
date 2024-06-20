@@ -1,17 +1,17 @@
 ID:	108623
-Title:	GOBLIN SLAYER -GOBLIN’S CROWN-
 Title:	ゴブリンスレイヤー -GOBLIN'S CROWN-
 Title:	Goblin Slayer: GOBLIN'S CROWN
 Title:	Goblin Slayer: Goblin's Crown
-Tag:	Anti-Hero
+Title:	GOBLIN SLAYER -GOBLIN’S CROWN-
 Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Gore
-Tag:	Swordplay
-Tag:	Revenge
-Tag:	Survival
-Tag:	Goblin
-Tag:	Elf
 Tag:	CGI
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Anti-Hero
 Tag:	Rural
+Tag:	Survival
+Tag:	Elf
+Tag:	Revenge
+Tag:	Swordplay
+Tag:	Goblin
+Tag:	Gore
+Tag:	Male Protagonist

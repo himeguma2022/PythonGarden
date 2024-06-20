@@ -1,20 +1,20 @@
 ID:	127271
 Title:	Ryuu to Sobakasu no Hime
-Title:	BELLE
 Title:	竜とそばかすの姫
-Tag:	Dragons
+Title:	BELLE
 Tag:	Virtual World
-Tag:	Augmented Reality
+Tag:	Fugitive
+Tag:	Artificial Intelligence
 Tag:	CGI
-Tag:	Cyberpunk
 Tag:	School
-Tag:	Heterosexual
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Artificial Intelligence
-Tag:	Idol
-Tag:	Anthropomorphism
+Tag:	Cyberpunk
+Tag:	Dragons
+Tag:	Heterosexual
+Tag:	Augmented Reality
 Tag:	Tragedy
-Tag:	Fairy Tale
+Tag:	Idol
 Tag:	Female Protagonist
-Tag:	Fugitive
+Tag:	Anthropomorphism
+Tag:	Fairy Tale

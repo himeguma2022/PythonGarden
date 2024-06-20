@@ -2,21 +2,21 @@ ID:	127911
 Title:	Shikimori's Not Just a Cutie
 Title:	Kawaii dake ja Nai Shikimori-san
 Title:	可愛いだけじゃない式守さん
-Tag:	Meta
-Tag:	Love Triangle
-Tag:	Gender Bending
-Tag:	Shounen
-Tag:	Athletics
+Tag:	Martial Arts
 Tag:	School
-Tag:	Heterosexual
-Tag:	Episodic
+Tag:	Gender Bending
+Tag:	Iyashikei
+Tag:	Tsundere
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Iyashikei
-Tag:	Female Protagonist
-Tag:	Martial Arts
-Tag:	Male Protagonist
-Tag:	Tsundere
+Tag:	Episodic
+Tag:	Athletics
+Tag:	Heterosexual
 Tag:	Tomboy
 Tag:	Kuudere
+Tag:	Male Protagonist
+Tag:	Meta
+Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Shounen
 Tag:	Basketball

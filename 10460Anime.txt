@@ -1,15 +1,15 @@
 ID:	10460
 Title:	You and Me.
-Title:	Kimi to Boku.
 Title:	君と僕。
+Title:	Kimi to Boku.
 Tag:	Twins
-Tag:	Shounen
 Tag:	School
-Tag:	Heterosexual
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
-Tag:	Iyashikei
 Tag:	Ensemble Cast
-Tag:	Cute Boys Doing Cute Things
 Tag:	Femboy
+Tag:	Iyashikei
+Tag:	Coming of Age
+Tag:	Heterosexual
+Tag:	Cute Boys Doing Cute Things
 Tag:	Love Triangle
+Tag:	Primarily Male Cast
+Tag:	Shounen

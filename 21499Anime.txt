@@ -1,17 +1,17 @@
 ID:	21499
-Title:	双星の陰陽師
 Title:	Twin Star Exorcists
 Title:	Sousei no Onmyouji
+Title:	双星の陰陽師
 Tag:	Magic
-Tag:	Twins
 Tag:	Ghost
-Tag:	Shounen
-Tag:	Yandere
-Tag:	Swordplay
+Tag:	Twins
 Tag:	Demons
-Tag:	Time Skip
 Tag:	Revenge
-Tag:	Tragedy
+Tag:	Swordplay
+Tag:	Yandere
 Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Shounen
 Tag:	Love Triangle

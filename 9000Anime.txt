@@ -1,12 +1,12 @@
 ID:	9000
-Title:	Toaru Hikuushi e no Tsuioku
 Title:	The Princess and the Pilot
 Title:	とある飛空士への追憶
-Tag:	War
+Title:	Toaru Hikuushi e no Tsuioku
 Tag:	Primarily Adult Cast
 Tag:	Military
 Tag:	Politics
 Tag:	Survival
 Tag:	Aviation
+Tag:	War
 Tag:	Male Protagonist
 Tag:	Female Protagonist

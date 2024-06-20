@@ -1,14 +1,14 @@
 ID:	9333
 Title:	Koi☆Sento
-Title:	Coicent
 Title:	コイ☆セント
-Tag:	Animals
+Title:	Coicent
+Tag:	Anachronism
+Tag:	Artificial Intelligence
+Tag:	Religion
 Tag:	Full CGI
 Tag:	Urban
-Tag:	Mythology
-Tag:	Anachronism
-Tag:	Heterosexual
 Tag:	Primarily Teen Cast
-Tag:	Religion
-Tag:	Artificial Intelligence
+Tag:	Mythology
+Tag:	Heterosexual
 Tag:	Robots
+Tag:	Animals

@@ -1,19 +1,19 @@
 ID:	108489
-Title:	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
 Title:	Yahari Ore no Seishun Love Come wa Machigatteiru. Kan
-Title:	やはり俺の青春ラブコメはまちがっている。完
 Title:	My Teen Romantic Comedy SNAFU Climax!
-Tag:	Anti-Hero
+Title:	やはり俺の青春ラブコメはまちがっている。完
+Title:	Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan
 Tag:	School Club
+Tag:	Hikikomori
+Tag:	Anti-Hero
 Tag:	School
-Tag:	Heterosexual
+Tag:	Femboy
 Tag:	Female Harem
 Tag:	Primarily Teen Cast
 Tag:	Coming of Age
+Tag:	Heterosexual
+Tag:	Male Protagonist
 Tag:	Idol
 Tag:	Philosophy
-Tag:	Male Protagonist
-Tag:	Femboy
-Tag:	Hikikomori
 Tag:	Meta
 Tag:	Love Triangle

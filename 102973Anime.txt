@@ -1,11 +1,11 @@
 ID:	102973
-Title:	昨日青空
 Title:	Zuori Qing Kong
-Tag:	Trains
+Title:	昨日青空
 Tag:	School
+Tag:	Rural
 Tag:	Foreign
 Tag:	Drawing
 Tag:	Primarily Teen Cast
+Tag:	Trains
 Tag:	Coming of Age
-Tag:	Rural
 Tag:	Love Triangle

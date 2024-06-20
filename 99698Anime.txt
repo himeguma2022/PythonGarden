@@ -1,16 +1,16 @@
 ID:	99698
-Title:	Ousama Game The Animation
-Title:	King's Game
 Title:	王様ゲーム The Animation
-Tag:	Battle Royale
-Tag:	Death Game
+Title:	King's Game
+Title:	Ousama Game The Animation
 Tag:	School
-Tag:	Yandere
-Tag:	Suicide
-Tag:	Netorare
 Tag:	Rape
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Gore
-Tag:	Tsundere
 Tag:	Surreal Comedy
+Tag:	Survival
+Tag:	Tsundere
+Tag:	Yandere
+Tag:	Gore
+Tag:	Tragedy
+Tag:	Netorare
+Tag:	Death Game
+Tag:	Suicide
+Tag:	Battle Royale

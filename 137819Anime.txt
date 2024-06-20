@@ -1,12 +1,12 @@
 ID:	137819
-Title:	Yojouhan Time Machine Blues
 Title:	The Tatami Time Machine Blues
 Title:	四畳半タイムマシンブルース
-Tag:	Primarily Adult Cast
+Title:	Yojouhan Time Machine Blues
 Tag:	School Club
+Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
 Tag:	Trains
 Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
 Tag:	College
-Tag:	Time Manipulation
+Tag:	Male Protagonist

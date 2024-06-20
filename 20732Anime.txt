@@ -2,14 +2,14 @@ ID:	20732
 Title:	Cool-headed Hoozuki OVA
 Title:	鬼灯の冷徹 OVA
 Title:	Hoozuki no Reitetsu OVA
-Tag:	Anti-Hero
-Tag:	Afterlife
-Tag:	Animals
 Tag:	Parody
-Tag:	Mythology
-Tag:	Work
+Tag:	Anti-Hero
+Tag:	Demons
 Tag:	Episodic
 Tag:	Youkai
-Tag:	Demons
-Tag:	Idol
+Tag:	Mythology
 Tag:	Male Protagonist
+Tag:	Idol
+Tag:	Animals
+Tag:	Afterlife
+Tag:	Work

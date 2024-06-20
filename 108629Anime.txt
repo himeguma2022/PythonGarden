@@ -1,18 +1,18 @@
 ID:	108629
-Title:	Woodpecker Detective’s Office
 Title:	Kitsutsuki Tantei Dokoro
-Title:	啄木鳥探偵處
 Title:	Kitsutsuki Tanteidokoro
+Title:	Woodpecker Detective’s Office
+Title:	啄木鳥探偵處
 Tag:	Ghost
 Tag:	Primarily Adult Cast
 Tag:	Prostitution
+Tag:	Rural
 Tag:	Detective
-Tag:	Primarily Male Cast
-Tag:	Writing
 Tag:	Police
-Tag:	Historical
 Tag:	Classic Literature
 Tag:	Tragedy
-Tag:	Philosophy
 Tag:	Male Protagonist
-Tag:	Rural
+Tag:	Philosophy
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Writing

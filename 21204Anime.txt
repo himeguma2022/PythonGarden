@@ -1,12 +1,12 @@
 ID:	21204
-Title:	Wakako-zake
 Title:	ワカコ酒
+Title:	Wakako-zake
 Title:	Wakakozake
+Tag:	Bar
 Tag:	Primarily Adult Cast
-Tag:	Episodic
+Tag:	Office Lady
 Tag:	Seinen
 Tag:	Iyashikei
+Tag:	Episodic
 Tag:	Food
-Tag:	Office Lady
-Tag:	Bar
 Tag:	Female Protagonist

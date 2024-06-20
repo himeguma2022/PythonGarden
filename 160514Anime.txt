@@ -1,14 +1,14 @@
 ID:	160514
 Title:	DOG SIGNAL
 Title:	Dog Signal
+Tag:	Kemonomimi
+Tag:	Josei
+Tag:	Boys' Love
 Tag:	Chibi
-Tag:	Animals
-Tag:	Work
+Tag:	Veterinarian
+Tag:	Gore
+Tag:	Male Protagonist
 Tag:	Cute Boys Doing Cute Things
 Tag:	Primarily Male Cast
-Tag:	Veterinarian
-Tag:	Josei
-Tag:	Gore
-Tag:	Kemonomimi
-Tag:	Male Protagonist
-Tag:	Boys' Love
+Tag:	Animals
+Tag:	Work

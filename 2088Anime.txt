@@ -1,6 +1,6 @@
 ID:	2088
-Title:	Nora
 Title:	ノーラ
+Title:	Nora
+Tag:	Female Protagonist
 Tag:	Space
 Tag:	Artificial Intelligence
-Tag:	Female Protagonist

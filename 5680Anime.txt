@@ -2,19 +2,19 @@ ID:	5680
 Title:	けいおん!
 Title:	K-ON!
 Title:	K-On!
-Tag:	Food
 Tag:	School Club
-Tag:	Rock Music
 Tag:	School
-Tag:	Episodic
-Tag:	Cute Girls Doing Cute Things
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Iyashikei
 Tag:	Seinen
+Tag:	Rock Music
+Tag:	Iyashikei
 Tag:	Ensemble Cast
-Tag:	Primarily Female Cast
 Tag:	Slapstick
-Tag:	Band
+Tag:	Episodic
+Tag:	Coming of Age
+Tag:	Primarily Teen Cast
+Tag:	Cute Girls Doing Cute Things
 Tag:	Tomboy
+Tag:	Food
 Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Band

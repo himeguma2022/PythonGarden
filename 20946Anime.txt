@@ -3,14 +3,14 @@ Title:	My Love Story!!
 Title:	俺物語!!
 Title:	Ore Monogatari!!
 Tag:	Unrequited Love
+Tag:	Shoujo
 Tag:	School
-Tag:	Asexual
+Tag:	Primarily Teen Cast
 Tag:	Episodic
 Tag:	Heterosexual
-Tag:	Primarily Teen Cast
-Tag:	Bullying
-Tag:	Shoujo
 Tag:	Food
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Love Triangle
+Tag:	Female Protagonist
+Tag:	Asexual
+Tag:	Bullying

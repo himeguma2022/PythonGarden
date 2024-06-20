@@ -1,13 +1,13 @@
 ID:	109963
-Title:	Shokugeki no Souma: Shin no Sara
-Title:	食戟のソーマ 神ノ皿
 Title:	Food Wars! The Fourth Plate
+Title:	食戟のソーマ 神ノ皿
+Title:	Shokugeki no Souma: Shin no Sara
 Tag:	Nudity
-Tag:	Shounen
 Tag:	School
-Tag:	Time Skip
 Tag:	Educational
+Tag:	Tsundere
 Tag:	Food
 Tag:	Male Protagonist
-Tag:	Tsundere
+Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Shounen

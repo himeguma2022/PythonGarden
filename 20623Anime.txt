@@ -1,25 +1,25 @@
 ID:	20623
-Title:	寄生獣 セイの格率
 Title:	Kiseijuu: Sei no Kakuritsu
 Title:	Parasyte -the maxim-
+Title:	寄生獣 セイの格率
 Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Revenge
-Tag:	Villainess
-Tag:	Cannibalism
 Tag:	Anti-Hero
-Tag:	Crime
-Tag:	Heterosexual
 Tag:	Seinen
-Tag:	Bullying
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Environmental
-Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Philosophy
-Tag:	Shapeshifting
+Tag:	Revenge
 Tag:	Body Horror
-Tag:	Survival
+Tag:	Crime
+Tag:	Aliens
+Tag:	Villainess
+Tag:	Gore
+Tag:	Shapeshifting
+Tag:	Heterosexual
 Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Love Triangle
+Tag:	Primarily Male Cast
+Tag:	Cannibalism
+Tag:	Survival
+Tag:	Primarily Teen Cast
+Tag:	Environmental
+Tag:	Male Protagonist
+Tag:	Bullying

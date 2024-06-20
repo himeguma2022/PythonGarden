@@ -1,25 +1,25 @@
 ID:	11757
 Title:	ソードアート・オンライン
 Title:	Sword Art Online
-Tag:	Unrequited Love
+Tag:	Virtual World
+Tag:	Artificial Intelligence
 Tag:	Prison
+Tag:	Primarily Female Cast
+Tag:	Incest
+Tag:	Found Family
+Tag:	Unrequited Love
 Tag:	Amnesia
-Tag:	Fishing
+Tag:	Swordplay
+Tag:	Heterosexual
+Tag:	Tragedy
 Tag:	Video Games
 Tag:	Primarily Male Cast
-Tag:	Time Skip
-Tag:	Artificial Intelligence
-Tag:	Incest
-Tag:	Female Harem
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Swordplay
-Tag:	Primarily Teen Cast
-Tag:	Isekai
+Tag:	Fishing
 Tag:	Travel
-Tag:	Primarily Female Cast
-Tag:	Virtual World
-Tag:	Death Game
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Primarily Teen Cast
 Tag:	Fairy
-Tag:	Found Family
-Tag:	Tragedy
+Tag:	Male Protagonist
+Tag:	Time Skip
+Tag:	Death Game

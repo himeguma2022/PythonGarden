@@ -1,9 +1,9 @@
 ID:	20610
-Title:	Momo Kyun Sword
 Title:	モモキュンソード
+Title:	Momo Kyun Sword
 Tag:	Magic
-Tag:	Youkai
 Tag:	Demons
-Tag:	Idol
+Tag:	Youkai
 Tag:	Kuudere
+Tag:	Idol
 Tag:	Female Protagonist

@@ -1,26 +1,26 @@
 ID:	13759
-Title:	The Pet Girl of Sakurasou
 Title:	Sakurasou no Pet na Kanojo
-Title:	Sakura-sou no Pet na Kanojo
 Title:	さくら荘のペットな彼女
-Tag:	School
-Tag:	Yandere
-Tag:	Software Development
-Tag:	Drawing
-Tag:	Video Games
-Tag:	Crossdressing
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Nudity
+Title:	The Pet Girl of Sakurasou
+Title:	Sakura-sou no Pet na Kanojo
 Tag:	Disability
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Ghost
-Tag:	Coming of Age
-Tag:	Tsundere
 Tag:	Hikikomori
+Tag:	School
+Tag:	Tsundere
+Tag:	Software Development
+Tag:	Family Life
 Tag:	Found Family
+Tag:	Ghost
+Tag:	Ensemble Cast
+Tag:	Nudity
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Yandere
+Tag:	Love Triangle
+Tag:	Crossdressing
+Tag:	Video Games
+Tag:	Work
+Tag:	Drawing
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Female Protagonist

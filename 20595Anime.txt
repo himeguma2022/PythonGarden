@@ -2,19 +2,19 @@ ID:	20595
 Title:	MUSHI-SHI The Next Passage
 Title:	蟲師 続章
 Title:	Mushishi Zoku Shou
-Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	Primarily Adult Cast
-Tag:	Mythology
 Tag:	Anachronism
-Tag:	Environmental
+Tag:	Primarily Adult Cast
+Tag:	Denpa
+Tag:	Rural
+Tag:	Seinen
+Tag:	Iyashikei
+Tag:	Urban Fantasy
+Tag:	Demons
 Tag:	Episodic
 Tag:	Youkai
-Tag:	Travel
-Tag:	Iyashikei
-Tag:	Seinen
-Tag:	Demons
-Tag:	Historical
-Tag:	Philosophy
+Tag:	Mythology
 Tag:	Male Protagonist
-Tag:	Rural
+Tag:	Environmental
+Tag:	Philosophy
+Tag:	Historical
+Tag:	Travel

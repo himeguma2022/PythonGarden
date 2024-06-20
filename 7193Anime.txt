@@ -1,28 +1,28 @@
 ID:	7193
 Title:	Blue Literature Series
-Title:	青い文学シリーズ
 Title:	Aoi Bungaku Series
-Tag:	Psychosexual
-Tag:	Autobiographical
-Tag:	Drawing
-Tag:	Classic Literature
-Tag:	Fairy Tale
-Tag:	Female Harem
-Tag:	War
-Tag:	Demons
-Tag:	Gore
-Tag:	Anthology
-Tag:	Trains
-Tag:	Suicide
-Tag:	Ojou-sama
-Tag:	Philosophy
-Tag:	Historical
-Tag:	Afterlife
-Tag:	Urban
-Tag:	Primarily Adult Cast
-Tag:	Delinquents
-Tag:	Writing
+Title:	青い文学シリーズ
 Tag:	Rape
 Tag:	Politics
+Tag:	Demons
+Tag:	Urban
+Tag:	Fairy Tale
+Tag:	Ojou-sama
+Tag:	Psychosexual
+Tag:	War
+Tag:	Trains
+Tag:	Gore
+Tag:	Suicide
+Tag:	Autobiographical
+Tag:	Primarily Adult Cast
+Tag:	Delinquents
+Tag:	Philosophy
 Tag:	Tragedy
+Tag:	Historical
+Tag:	Afterlife
+Tag:	Anthology
 Tag:	Rural
+Tag:	Female Harem
+Tag:	Drawing
+Tag:	Classic Literature
+Tag:	Writing

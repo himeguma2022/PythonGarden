@@ -1,26 +1,26 @@
 ID:	338
-Title:	Lady Oscar: The Rose of Versailles
 Title:	Versailles no Bara
 Title:	ベルサイユのばら
-Tag:	Guns
-Tag:	Class Struggle
-Tag:	Foreign
-Tag:	Crossdressing
-Tag:	Royal Affairs
-Tag:	Time Skip
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Heterosexual
-Tag:	Military
-Tag:	Swordplay
-Tag:	Ojou-sama
-Tag:	Philosophy
-Tag:	Historical
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
+Title:	Lady Oscar: The Rose of Versailles
 Tag:	Gender Bending
 Tag:	Politics
-Tag:	Shoujo
-Tag:	Tragedy
+Tag:	Guns
+Tag:	Tomboy
 Tag:	Maids
+Tag:	Royal Affairs
+Tag:	Ojou-sama
+Tag:	War
+Tag:	LGBTQ+ Themes
+Tag:	Shoujo
+Tag:	Primarily Adult Cast
+Tag:	Swordplay
+Tag:	Heterosexual
+Tag:	Philosophy
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Historical
+Tag:	Military
+Tag:	Foreign
+Tag:	Class Struggle
+Tag:	Time Skip
+Tag:	Female Protagonist

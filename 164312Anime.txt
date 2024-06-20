@@ -1,18 +1,18 @@
 ID:	164312
-Title:	Yuzuki-san Chi no Yon Kyoudai.
-Title:	柚木さんちの四兄弟。
-Title:	Yuzuki-san Chi no Yonkyoudai.
 Title:	The Yuzuki Family’s Four Sons
-Tag:	Orphan
-Tag:	Teacher
-Tag:	School
-Tag:	Episodic
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
-Tag:	Iyashikei
+Title:	柚木さんちの四兄弟。
+Title:	Yuzuki-san Chi no Yon Kyoudai.
+Title:	Yuzuki-san Chi no Yonkyoudai.
 Tag:	Shoujo
+Tag:	School
 Tag:	Ensemble Cast
-Tag:	Family Life
-Tag:	Male Protagonist
+Tag:	Teacher
+Tag:	Iyashikei
+Tag:	Episodic
+Tag:	Coming of Age
 Tag:	Primarily Child Cast
 Tag:	Tomboy
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Primarily Male Cast
+Tag:	Orphan

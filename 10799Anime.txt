@@ -1,4 +1,4 @@
 ID:	10799
-Title:	Chime
 Title:	チャイム
+Title:	Chime
 Tag:	Full CGI

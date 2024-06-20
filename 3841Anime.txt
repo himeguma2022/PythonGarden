@@ -1,11 +1,11 @@
 ID:	3841
 Title:	チーズスイートホーム
 Title:	Chi's Sweet Home
-Tag:	Animals
-Tag:	Urban
-Tag:	Primarily Animal Cast
-Tag:	Episodic
-Tag:	Iyashikei
 Tag:	Ensemble Cast
+Tag:	Iyashikei
+Tag:	Urban
+Tag:	Episodic
 Tag:	Family Life
 Tag:	Female Protagonist
+Tag:	Animals
+Tag:	Primarily Animal Cast

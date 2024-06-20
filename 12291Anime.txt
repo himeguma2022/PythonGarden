@@ -1,15 +1,15 @@
 ID:	12291
+Title:	あっちこっち
 Title:	Acchi Kocchi
 Title:	Place to Place
-Title:	あっちこっち
 Tag:	School
-Tag:	Heterosexual
-Tag:	Female Harem
 Tag:	Seinen
+Tag:	Female Harem
 Tag:	Iyashikei
-Tag:	Slapstick
-Tag:	Nekomimi
-Tag:	Male Protagonist
 Tag:	Tsundere
+Tag:	Slapstick
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Nekomimi

@@ -1,22 +1,22 @@
 ID:	145139
-Title:	Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc
 Title:	Kimetsu no Yaiba: Katanakaji no Sato-hen
+Title:	Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc
 Title:	鬼滅の刃 刀鍛冶の里編
-Tag:	Guns
 Tag:	Monster Girl
-Tag:	Orphan
-Tag:	Twins
-Tag:	Shounen
-Tag:	Super Power
-Tag:	Swordplay
-Tag:	Amnesia
-Tag:	Demons
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Gore
 Tag:	CGI
-Tag:	Male Protagonist
-Tag:	Body Horror
-Tag:	Clone
+Tag:	Twins
+Tag:	Amnesia
 Tag:	Rural
+Tag:	Orphan
+Tag:	Demons
+Tag:	Guns
+Tag:	Shounen
+Tag:	Swordplay
+Tag:	Clone
+Tag:	Gore
+Tag:	Male Protagonist
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Historical
+Tag:	Body Horror

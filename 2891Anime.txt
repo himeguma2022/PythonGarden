@@ -1,8 +1,8 @@
 ID:	2891
 Title:	Iblard Jikan
 Title:	イバラード時間
-Tag:	Urban Fantasy
-Tag:	Trains
-Tag:	No Dialogue
 Tag:	CGI
 Tag:	Rural
+Tag:	Urban Fantasy
+Tag:	No Dialogue
+Tag:	Trains

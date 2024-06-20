@@ -1,19 +1,19 @@
 ID:	322
 Title:	Paradise Kiss
 Title:	パラダイス・キス
-Tag:	Gender Bending
+Tag:	LGBTQ+ Themes
 Tag:	School Club
-Tag:	Makeup
-Tag:	School
-Tag:	Heterosexual
-Tag:	Transgender
 Tag:	Crossdressing
+Tag:	Transgender
+Tag:	School
+Tag:	Gender Bending
+Tag:	Ensemble Cast
 Tag:	Coming of Age
-Tag:	Josei
+Tag:	Boys' Love
+Tag:	Heterosexual
+Tag:	Makeup
+Tag:	Bisexual
+Tag:	Love Triangle
 Tag:	Fashion
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Bisexual
-Tag:	Boys' Love
-Tag:	LGBTQ+ Themes
-Tag:	Love Triangle
+Tag:	Josei

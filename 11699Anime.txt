@@ -1,8 +1,8 @@
 ID:	11699
 Title:	Yurumates wa?
-Title:	Yurumates ha?
 Title:	ゆるめいつ は?
+Title:	Yurumates ha?
 Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Iyashikei
 Tag:	Primarily Adult Cast
-Tag:	Female Protagonist

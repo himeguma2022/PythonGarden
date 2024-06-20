@@ -2,39 +2,39 @@ ID:	110277
 Title:	進撃の巨人 The Final Season
 Title:	Shingeki no Kyojin: The Final Season
 Title:	Attack on Titan Final Season
-Tag:	Guns
-Tag:	Super Power
-Tag:	Class Struggle
-Tag:	Foreign
-Tag:	Monster Boy
-Tag:	Primarily Male Cast
-Tag:	Time Skip
-Tag:	Espionage
-Tag:	Revenge
 Tag:	Anti-Hero
-Tag:	War
-Tag:	Matriarchy
-Tag:	Shounen
-Tag:	Military
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Rotoscoping
-Tag:	Baseball
-Tag:	Coming of Age
-Tag:	Philosophy
-Tag:	Shapeshifting
-Tag:	Body Horror
-Tag:	Conspiracy
-Tag:	Dissociative Identities
-Tag:	Dystopian
-Tag:	Kaiju
-Tag:	Primarily Adult Cast
-Tag:	Tanned Skin
-Tag:	Politics
-Tag:	Survival
-Tag:	Tragedy
-Tag:	Memory Manipulation
-Tag:	CGI
-Tag:	Rural
 Tag:	Terrorism
+Tag:	Politics
+Tag:	Guns
+Tag:	Revenge
+Tag:	Body Horror
+Tag:	CGI
+Tag:	Matriarchy
+Tag:	Conspiracy
+Tag:	Ensemble Cast
+Tag:	Dystopian
+Tag:	War
+Tag:	Monster Boy
+Tag:	Gore
+Tag:	Shounen
+Tag:	Shapeshifting
+Tag:	Memory Manipulation
+Tag:	Primarily Adult Cast
+Tag:	Rotoscoping
+Tag:	Tanned Skin
+Tag:	Philosophy
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Kaiju
+Tag:	Military
+Tag:	Foreign
+Tag:	Rural
+Tag:	Survival
+Tag:	Dissociative Identities
+Tag:	Class Struggle
+Tag:	Coming of Age
+Tag:	Espionage
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Baseball

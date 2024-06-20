@@ -1,7 +1,7 @@
 ID:	13349
-Title:	超訳百人一首 うた恋い。
-Title:	Utakoi
 Title:	Chouyaku Hyakuninisshu: Uta Koi.
+Title:	Utakoi
+Title:	超訳百人一首 うた恋い。
 Tag:	Historical
-Tag:	Josei
 Tag:	Classic Literature
+Tag:	Josei

@@ -2,20 +2,20 @@ ID:	6774
 Title:	Welcome to Irabu's Office
 Title:	Kuuchuu Buranko
 Title:	空中ブランコ
-Tag:	Psychosexual
-Tag:	Meta
-Tag:	Satire
-Tag:	Denpa
-Tag:	Urban
-Tag:	Yakuza
-Tag:	Primarily Adult Cast
-Tag:	Episodic
-Tag:	Rotoscoping
-Tag:	Achronological Order
 Tag:	Primarily Male Cast
-Tag:	Baseball
-Tag:	Educational
-Tag:	Medicine
-Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Satire
 Tag:	Surreal Comedy
+Tag:	Denpa
+Tag:	Educational
+Tag:	Urban
+Tag:	Psychosexual
+Tag:	Episodic
 Tag:	Kuudere
+Tag:	Rotoscoping
+Tag:	Yakuza
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Medicine
+Tag:	Meta
+Tag:	Baseball
