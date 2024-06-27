@@ -2,16 +2,20 @@ ID:	98657
 Title:	Osake wa Fuufu ni Natte kara
 Title:	Love is Like a Cocktail
 Title:	お酒は夫婦になってから
-Tag:	Bar
-Tag:	Primarily Adult Cast
 Tag:	Office Lady
-Tag:	Seinen
-Tag:	Marriage
-Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Chibi
-Tag:	Food
 Tag:	Male Protagonist
-Tag:	Family Life
 Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
+Tag:	Food
+Tag:	Marriage
+Tag:	Chibi
+Tag:	Bar
+Tag:	Seinen
+Tag:	Heterosexual
 Tag:	Work
+Tag:	Primarily Adult Cast
+Related:	104530
+Related:	19004
+Related:	25390
+Related:	98831

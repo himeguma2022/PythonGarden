@@ -1,0 +1,9 @@
+ID:	1766
+Title:	妖世紀水滸伝
+Title:	Youseiki Suikoden
+Title:	Suikoden Demon Century
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Martial Arts
+Related:	141259
+Related:	64884

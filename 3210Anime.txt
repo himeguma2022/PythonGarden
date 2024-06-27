@@ -1,9 +1,9 @@
 ID:	3210
 Title:	異国色恋浪漫譚
 Title:	Ikoku Irokoi Romantan
+Tag:	Male Protagonist
+Tag:	Boys' Love
+Tag:	Netorare
+Tag:	Foreign
 Tag:	LGBTQ+ Themes
 Tag:	Ships
-Tag:	Foreign
-Tag:	Boys' Love
-Tag:	Male Protagonist
-Tag:	Netorare

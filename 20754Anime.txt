@@ -1,22 +1,25 @@
 ID:	20754
-Title:	Gakkou Gurashi!
-Title:	Gakkougurashi!
 Title:	がっこうぐらし!
 Title:	SCHOOL-LIVE!
-Tag:	School Club
-Tag:	CGI
-Tag:	School
-Tag:	Seinen
-Tag:	Survival
-Tag:	Ensemble Cast
-Tag:	Episodic
-Tag:	Coming of Age
-Tag:	Cute Girls Doing Cute Things
-Tag:	Gore
+Title:	Gakkou Gurashi!
 Tag:	Tragedy
-Tag:	Achronological Order
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	CGI
 Tag:	Post-Apocalyptic
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Survival
+Tag:	School
 Tag:	Zombie
+Tag:	Achronological Order
+Tag:	Gore
+Tag:	Seinen
 Tag:	Memory Manipulation
+Tag:	Coming of Age
+Tag:	School Club
+Related:	9383
+Related:	47315
+Related:	106606
+Related:	85235

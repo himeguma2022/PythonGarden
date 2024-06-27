@@ -1,5 +1,5 @@
 ID:	145709
-Title:	Artiswitch Picture Drama
 Title:	Artiswitch ピクチャードラマ
-Tag:	Primarily Female Cast
+Title:	Artiswitch Picture Drama
 Tag:	Episodic
+Tag:	Primarily Female Cast

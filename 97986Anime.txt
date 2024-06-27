@@ -1,36 +1,44 @@
 ID:	97986
-Title:	メイドインアビス
 Title:	Made in Abyss
-Tag:	Steampunk
-Tag:	School
-Tag:	Seinen
-Tag:	Femboy
-Tag:	Chibi
-Tag:	Maids
-Tag:	Robots
-Tag:	Body Horror
-Tag:	Conspiracy
-Tag:	Amnesia
-Tag:	Time Manipulation
-Tag:	Gore
-Tag:	Anthropomorphism
-Tag:	Nudity
-Tag:	Cosmic Horror
-Tag:	Lost Civilization
-Tag:	Dungeon
-Tag:	Tanned Skin
-Tag:	Philosophy
-Tag:	Crossdressing
-Tag:	Rehabilitation
+Title:	メイドインアビス
 Tag:	Tragedy
-Tag:	Orphan
-Tag:	Travel
-Tag:	Agender
-Tag:	Religion
-Tag:	Survival
 Tag:	Dissociative Identities
+Tag:	Tanned Skin
+Tag:	Anthropomorphism
+Tag:	Crossdressing
+Tag:	Gore
+Tag:	Religion
+Tag:	Conspiracy
 Tag:	Primarily Child Cast
-Tag:	Food
 Tag:	Male Protagonist
-Tag:	Environmental
 Tag:	Female Protagonist
+Tag:	Lost Civilization
+Tag:	Food
+Tag:	Body Horror
+Tag:	Travel
+Tag:	Cosmic Horror
+Tag:	Seinen
+Tag:	Time Manipulation
+Tag:	Orphan
+Tag:	Environmental
+Tag:	Survival
+Tag:	School
+Tag:	Nudity
+Tag:	Steampunk
+Tag:	Robots
+Tag:	Chibi
+Tag:	Dungeon
+Tag:	Philosophy
+Tag:	Femboy
+Tag:	Agender
+Tag:	Amnesia
+Tag:	Maids
+Tag:	Rehabilitation
+Related:	101344
+Related:	22433
+Related:	22434
+Related:	100643
+Related:	21541
+Related:	86551
+Related:	25818
+Related:	101343

@@ -1,0 +1,24 @@
+ID:	9617
+Title:	映画けいおん！
+Title:	K-ON! Movie
+Title:	K-ON!: The Movie
+Tag:	Language Barrier
+Tag:	Iyashikei
+Tag:	Tomboy
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	School Club
+Tag:	Cute Girls Doing Cute Things
+Tag:	Band
+Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Travel
+Tag:	Seinen
+Tag:	Rock Music
+Tag:	Coming of Age
+Tag:	Foreign
+Related:	43001
+Related:	6765
+Related:	6766
+Related:	7791

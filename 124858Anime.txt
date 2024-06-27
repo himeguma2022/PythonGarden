@@ -1,27 +1,33 @@
 ID:	124858
-Title:	Moriarty the Patriot Part 2
 Title:	憂国のモリアーティ2クール
 Title:	Yuukoku no Moriarty Part 2
-Tag:	Transgender
-Tag:	Anti-Hero
-Tag:	Politics
-Tag:	Detective
-Tag:	Guns
-Tag:	Urban
-Tag:	Crime
-Tag:	Conspiracy
-Tag:	Dystopian
-Tag:	Shounen
-Tag:	Suicide
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
-Tag:	Primarily Male Cast
+Title:	Moriarty the Patriot Part 2
 Tag:	Historical
-Tag:	Foreign
-Tag:	Cult
-Tag:	Police
-Tag:	Class Struggle
-Tag:	Episodic
 Tag:	Boys' Love
-Tag:	Mafia
+Tag:	Urban
+Tag:	Cult
+Tag:	Class Struggle
+Tag:	Primarily Adult Cast
+Tag:	Conspiracy
+Tag:	Crime
+Tag:	Transgender
+Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Politics
+Tag:	Suicide
+Tag:	Foreign
+Tag:	Guns
+Tag:	Primarily Male Cast
+Tag:	Mafia
+Tag:	LGBTQ+ Themes
+Tag:	Police
+Tag:	Dystopian
+Tag:	Detective
+Tag:	Anti-Hero
+Related:	48001
+Related:	48003
+Related:	114124
+Related:	138700
+Related:	98544
+Related:	61789

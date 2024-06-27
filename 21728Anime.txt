@@ -1,8 +1,16 @@
 ID:	21728
-Title:	BROTHERHOOD FINAL FANTASY XV
 Title:	Brotherhood: Final Fantasy XV
 Title:	Brotherhood Final Fantasy XV
+Title:	BROTHERHOOD FINAL FANTASY XV
 Tag:	Primarily Male Cast
-Tag:	Video Games
 Tag:	Fishing
 Tag:	Coming of Age
+Tag:	Video Games
+Related:	21729
+Related:	91238
+Related:	107624
+Related:	11145
+Related:	131784
+Related:	29688
+Related:	53469
+Related:	130079

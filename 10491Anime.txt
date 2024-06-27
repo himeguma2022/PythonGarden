@@ -1,16 +1,22 @@
 ID:	10491
 Title:	Higurashi no Naku Koro ni Kira
 Title:	ひぐらしのなく頃に煌
-Tag:	Parody
-Tag:	Twins
-Tag:	Henshin
-Tag:	Denpa
-Tag:	Rural
-Tag:	Female Harem
-Tag:	Urban Fantasy
+Tag:	Primarily Female Cast
 Tag:	Time Manipulation
-Tag:	Heterosexual
 Tag:	Cute Girls Doing Cute Things
 Tag:	Love Triangle
+Tag:	Female Harem
+Tag:	Urban Fantasy
 Tag:	Gods
-Tag:	Primarily Female Cast
+Tag:	Denpa
+Tag:	Parody
+Tag:	Henshin
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	Rural
+Related:	1889
+Related:	55075
+Related:	158215
+Related:	44922
+Related:	81660
+Related:	65790

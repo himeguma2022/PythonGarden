@@ -1,24 +1,28 @@
 ID:	125446
-Title:	Kageki Shoujo!!
 Title:	かげきしょうじょ!!
 Title:	Kageki Shojo!!
-Tag:	Musical Theater
-Tag:	School
-Tag:	Primarily Female Cast
-Tag:	Twins
-Tag:	Ensemble Cast
-Tag:	LGBTQ+ Themes
-Tag:	Shoujo
-Tag:	Rakugo
-Tag:	Otaku Culture
-Tag:	Acting
+Title:	Kageki Shoujo!!
 Tag:	Kuudere
-Tag:	Idol
-Tag:	Crossdressing
-Tag:	Work
 Tag:	Denpa
-Tag:	Primarily Teen Cast
+Tag:	Crossdressing
 Tag:	Yuri
-Tag:	Coming of Age
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
 Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Rakugo
+Tag:	Shoujo
+Tag:	School
+Tag:	Acting
+Tag:	LGBTQ+ Themes
+Tag:	Twins
+Tag:	Coming of Age
+Tag:	Musical Theater
+Tag:	Otaku Culture
+Tag:	Work
+Tag:	Idol
+Related:	96360
+Related:	58609
+Related:	61595
+Related:	93901

@@ -1,18 +1,26 @@
 ID:	113311
 Title:	Kakushigoto
 Title:	かくしごと
-Tag:	Primarily Adult Cast
-Tag:	Amnesia
-Tag:	Slapstick
-Tag:	Drawing
-Tag:	Coming of Age
-Tag:	Family Life
-Tag:	Male Protagonist
-Tag:	Achronological Order
-Tag:	Time Skip
-Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Meta
 Tag:	Tragedy
+Tag:	Drawing
+Tag:	Shounen
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Achronological Order
 Tag:	Parenthood
+Tag:	Time Skip
+Tag:	Amnesia
 Tag:	Work
+Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Tag:	Meta
+Related:	40705
+Related:	97603
+Related:	132615
+Related:	76843
+Related:	56021
+Related:	115925
+Related:	127227
+Related:	36571

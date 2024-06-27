@@ -2,14 +2,20 @@ ID:	6166
 Title:	Asobi ni Iku yo!
 Title:	あそびにいくヨ!
 Title:	Cat Planet Cuties
-Tag:	Nudity
+Tag:	Guns
+Tag:	Aliens
+Tag:	Primarily Female Cast
 Tag:	Kemonomimi
 Tag:	CGI
-Tag:	Aliens
 Tag:	Female Harem
-Tag:	Space
-Tag:	Guns
 Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Primarily Female Cast
+Tag:	Space
+Tag:	Nudity
 Tag:	Nekomimi
+Tag:	Heterosexual
+Related:	5577
+Related:	5578
+Related:	9618
+Related:	84088
+Related:	43066
+Related:	43068

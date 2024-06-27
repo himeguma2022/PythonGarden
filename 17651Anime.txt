@@ -1,22 +1,26 @@
 ID:	17651
 Title:	Day Break Illusion
-Title:	Genei wo Kakeru Taiyou
 Title:	幻影ヲ駆ケル太陽
+Title:	Genei wo Kakeru Taiyou
+Tag:	Witch
+Tag:	Tragedy
+Tag:	Primarily Female Cast
+Tag:	Primarily Child Cast
+Tag:	Transgender
+Tag:	Orphan
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Family Life
+Tag:	School
+Tag:	Kuudere
+Tag:	Shapeshifting
 Tag:	LGBTQ+ Themes
+Tag:	Henshin
 Tag:	Magic
 Tag:	Monster Girl
-Tag:	School
-Tag:	Transgender
-Tag:	Henshin
 Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Family Life
-Tag:	Primarily Child Cast
-Tag:	Shapeshifting
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Tragedy
-Tag:	Female Protagonist
-Tag:	Orphan
-Tag:	Boarding School
 Tag:	Found Family
+Related:	8913
+Related:	84739
+Related:	63916
+Related:	20187

@@ -1,14 +1,18 @@
 ID:	21320
-Title:	あにトレ！EX
-Title:	Anime De Training! EX
 Title:	Anitore! EX
-Tag:	CGI
-Tag:	Ensemble Cast
-Tag:	Educational
-Tag:	Fitness
-Tag:	Chuunibyou
-Tag:	Chibi
-Tag:	Cute Girls Doing Cute Things
-Tag:	Meta
+Title:	Anime De Training! EX
+Title:	あにトレ！EX
 Tag:	Primarily Female Cast
+Tag:	Fitness
+Tag:	Educational
+Tag:	CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Chuunibyou
 Tag:	POV
+Tag:	Chibi
+Tag:	Meta
+Related:	21035
+Related:	11443
+Related:	21886
+Related:	100071

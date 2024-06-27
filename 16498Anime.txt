@@ -1,38 +1,60 @@
 ID:	16498
-Title:	進撃の巨人
 Title:	Shingeki no Kyojin
 Title:	Attack on Titan
-Tag:	Politics
-Tag:	Revenge
-Tag:	Unrequited Love
-Tag:	CGI
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	Monster Boy
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Monster Girl
-Tag:	Shounen
-Tag:	Suicide
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	Swordplay
-Tag:	Yandere
+Title:	進撃の巨人
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Orphan
-Tag:	Cannibalism
-Tag:	Kaiju
-Tag:	Adoption
-Tag:	Religion
-Tag:	Military
-Tag:	Rural
-Tag:	Survival
-Tag:	Class Struggle
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Espionage
-Tag:	Time Skip
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Post-Apocalyptic
+Tag:	Unrequited Love
+Tag:	Cannibalism
+Tag:	Gore
+Tag:	Memory Manipulation
+Tag:	Religion
+Tag:	Class Struggle
+Tag:	Kaiju
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Suicide
+Tag:	Monster Girl
+Tag:	Orphan
+Tag:	Swordplay
+Tag:	Survival
+Tag:	Primarily Male Cast
+Tag:	Espionage
+Tag:	Rural
+Tag:	Coming of Age
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Shapeshifting
+Tag:	Military
+Tag:	Time Skip
+Tag:	Yandere
+Tag:	Amnesia
+Tag:	Adoption
+Related:	9217
+Related:	9218
+Related:	53390
+Related:	67086
+Related:	10393
+Related:	143391
+Related:	21281
+Related:	33839
+Related:	99634
+Related:	19391
+Related:	43715
+Related:	119113
+Related:	43594
+Related:	20811
+Related:	9811
+Related:	20691
+Related:	51541
+Related:	20692
+Related:	18397
+Related:	20958
+Related:	8302
+Related:	42623

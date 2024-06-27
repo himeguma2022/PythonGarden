@@ -1,24 +1,28 @@
 ID:	141774
-Title:	パリピ孔明
-Title:	Paripi Koumei
 Title:	Ya Boy Kongming!
-Tag:	Anachronism
-Tag:	Seinen
-Tag:	Hip-hop Music
-Tag:	Urban
-Tag:	Fugitive
-Tag:	Reincarnation
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Dancing
-Tag:	Primarily Adult Cast
-Tag:	Rock Music
-Tag:	Idol
+Title:	Paripi Koumei
+Title:	パリピ孔明
 Tag:	Historical
+Tag:	Urban
 Tag:	Band
-Tag:	Work
-Tag:	Bar
-Tag:	Military
+Tag:	Fugitive
+Tag:	Anachronism
+Tag:	Primarily Adult Cast
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Seinen
+Tag:	Time Manipulation
+Tag:	Reincarnation
+Tag:	Bar
 Tag:	Classic Literature
+Tag:	Rock Music
+Tag:	Hip-hop Music
+Tag:	Military
+Tag:	Dancing
+Tag:	Work
+Tag:	Idol
+Related:	91833
+Related:	123034
+Related:	65339
+Related:	171026

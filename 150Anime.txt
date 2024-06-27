@@ -1,16 +1,26 @@
 ID:	150
-Title:	Blood+
 Title:	BLOOD+
-Tag:	Rape
-Tag:	Amnesia
-Tag:	Demons
-Tag:	War
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Time Skip
-Tag:	Gore
-Tag:	Vampire
+Title:	Blood+
 Tag:	Tragedy
 Tag:	Super Power
+Tag:	Swordplay
 Tag:	Female Protagonist
+Tag:	War
+Tag:	Amnesia
+Tag:	Vampire
+Tag:	Rape
+Tag:	Gore
+Tag:	Time Skip
+Tag:	Heterosexual
+Tag:	Demons
 Tag:	Found Family
+Related:	24197
+Related:	24198
+Related:	10490
+Related:	378
+Related:	405
+Related:	33335
+Related:	33336
+Related:	10681
+Related:	40410
+Related:	30747

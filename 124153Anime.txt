@@ -2,18 +2,26 @@ ID:	124153
 Title:	SK∞
 Title:	SK8 the Infinity
 Title:	SK∞ エスケーエイト
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Male Cast
-Tag:	Artificial Intelligence
-Tag:	Parkour
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Gambling
-Tag:	Urban
-Tag:	Motorcycles
-Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
 Tag:	Skateboarding
-Tag:	Butler
+Tag:	Cute Boys Doing Cute Things
+Tag:	Motorcycles
 Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Butler
+Tag:	Urban
+Tag:	Parkour
+Tag:	Artificial Intelligence
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	LGBTQ+ Themes
 Tag:	Found Family
+Related:	129672
+Related:	52553
+Related:	153676
+Related:	59601
+Related:	76918
+Related:	129369
+Related:	136381
+Related:	52830

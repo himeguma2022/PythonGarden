@@ -1,15 +1,19 @@
 ID:	1691
-Title:	Kaze no Stigma
 Title:	風のスティグマ
-Tag:	Magic
-Tag:	Ojou-sama
-Tag:	Urban Fantasy
-Tag:	Tsundere
+Title:	Kaze no Stigma
 Tag:	Revenge
-Tag:	Dragons
 Tag:	Clone
-Tag:	Fairy
-Tag:	Male Protagonist
 Tag:	Love Triangle
 Tag:	Coastal
+Tag:	Male Protagonist
+Tag:	Ojou-sama
 Tag:	Incest
+Tag:	Urban Fantasy
+Tag:	Tsundere
+Tag:	Fairy
+Tag:	Magic
+Tag:	Dragons
+Related:	40312
+Related:	2721
+Related:	33237
+Related:	90703

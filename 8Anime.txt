@@ -1,0 +1,11 @@
+ID:	8
+Title:	冒険王ビィト
+Title:	Beet the Vandel Buster
+Title:	Bouken Ou Beet
+Tag:	Swordplay
+Tag:	Shounen
+Tag:	Spearplay
+Related:	9
+Related:	10
+Related:	1123
+Related:	31348

@@ -20,6 +20,7 @@ class Anime:
         self.names = set()
         self.names.add(name)
         self.tags = set()
+        self.relatedIDs = set()
         
     def setID(self, ID:int):
         self.ID = ID
@@ -79,6 +80,16 @@ class Anime:
                     name
                     rank
                 }
+                relations{
+                    edges {
+                        id
+                        relationType
+                    }
+                    nodes {
+                        id
+                    }
+      
+                }
             }
         }
         ''' 
@@ -99,12 +110,23 @@ class Anime:
             f.write(self.name+'\n')
             f.close()
             return None
+        
+        if(response.status_code == 502):
+            yn = input('502 occured with '+ self.name+', wanna try again? Y/N')
+            if(yn.upper() == 'N'):
+                return None
+            return self.AniListUpdate()             
+            
         raw = response.text
         lraw:dict[str:dict[str:dict]] = json.loads(raw)
         llraw:dict[str:dict] = lraw.get('data')
         organizedIn:dict[str] = llraw.get('Media')
         titles:dict[str:str] = organizedIn.get('title')
         titleList:list[str] = list(set(titles.values()).difference(set([None])))
+        relationsList:dict[str:list] = organizedIn.get("relations")
+        edges:list[dict[str]] = relationsList.get("edges")
+        nodes:list[dict[str]] = relationsList.get("nodes")
+        relationsListIDs:list[dict[str]] = edges + nodes
         self.name = titleList[0]
         self.names.add(self.name)
         if(len(titleList) > 1):
@@ -115,6 +137,8 @@ class Anime:
         for tup in tagTups:
             tags.append(tup.get('name'))
         self.AddTagsList(tags)
+        for i in relationsListIDs:
+            self.relatedIDs.add(i.get("id"))
         
     def AnimeToTxtFile(self):
         f:FileIO = open(str(self.ID)+'Anime.txt', 'w',encoding='U8')
@@ -123,6 +147,8 @@ class Anime:
             f.write('Title:\t'+t+'\n')
         for t in self.tags:
             f.write('Tag:\t'+t+'\n')
+        for r in self.relatedIDs:
+            f.write('Related:\t'+str(r)+'\n')
         f.close()
         
     def ImportAsFile(self, FileName:str):
@@ -141,6 +167,8 @@ class Anime:
                 self.AddName(AniData.rsplit('Title:\t',1)[-1])
             if(AniData.startswith('Tag:\t')):
                 self.AddTag(AniData.rsplit('Tag:\t',1)[-1])
+            if(AniData.startswith('Related:\t')):
+                self.relatedIDs.add(int(AniData.rsplit('Related:\t',1)[-1]))
         if(self.name not in self.names):
             self.name = self.names.pop()
             self.names.add(self.name)
@@ -157,6 +185,10 @@ class Anime:
             
     def __hash__(self) -> int:
         return self.ID
+    
+    def Related(self, other:int) -> bool:
+        return other in self.relatedIDs
+
         
 def main():
     A = Anime('Fruits Basket (2019)')

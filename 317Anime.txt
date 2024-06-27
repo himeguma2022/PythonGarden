@@ -1,13 +1,25 @@
 ID:	317
-Title:	ファイナルファンタジーVII アドベントチルドレン
 Title:	Final Fantasy VII: Advent Children
-Tag:	CGI
-Tag:	Full CGI
-Tag:	Aliens
+Title:	ファイナルファンタジーVII アドベントチルドレン
 Tag:	Guns
-Tag:	Cyberpunk
-Tag:	Swordplay
-Tag:	Dragons
-Tag:	Male Protagonist
+Tag:	Full CGI
 Tag:	Super Power
+Tag:	Aliens
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Cyberpunk
 Tag:	Video Games
+Tag:	Dragons
+Related:	95808
+Related:	110503
+Related:	6152
+Related:	2952
+Related:	6151
+Related:	751
+Related:	752
+Related:	753
+Related:	754
+Related:	33714
+Related:	408
+Related:	156571

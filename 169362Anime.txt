@@ -1,12 +1,12 @@
 ID:	169362
 Title:	Burn the Witch #0.8
 Title:	BURN THE WITCH #0.8
-Tag:	Magic
+Tag:	Idol
+Tag:	Work
+Tag:	Shounen
+Tag:	Female Protagonist
 Tag:	Foreign
-Tag:	Urban Fantasy
 Tag:	Dragons
 Tag:	Witch
-Tag:	Idol
-Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Work
+Tag:	Magic
+Tag:	Urban Fantasy

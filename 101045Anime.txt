@@ -1,15 +1,17 @@
 ID:	101045
-Title:	HANEBADO!
-Title:	Hanebado!
 Title:	はねバド!
-Tag:	School Club
-Tag:	CGI
-Tag:	Anti-Hero
-Tag:	School
-Tag:	Estranged Family
-Tag:	Seinen
-Tag:	Rotoscoping
+Title:	Hanebado!
+Title:	HANEBADO!
 Tag:	Tomboy
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Estranged Family
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Rotoscoping
 Tag:	Badminton
+Tag:	Seinen
+Tag:	Anti-Hero
+Tag:	School Club
+Related:	22104
+Related:	86875

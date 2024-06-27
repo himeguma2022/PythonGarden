@@ -1,35 +1,58 @@
 ID:	16592
-Title:	ダンガンロンパ 希望の学園と絶望の高校生 The Animation
 Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation
+Title:	ダンガンロンパ 希望の学園と絶望の高校生 The Animation
 Title:	Danganronpa: The Animation
-Title:	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
-Tag:	Artificial Intelligence
-Tag:	School
-Tag:	Femboy
-Tag:	Detective
-Tag:	CGI
-Tag:	Twins
-Tag:	Gyaru
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	Surreal Comedy
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Suicide
-Tag:	Memory Manipulation
-Tag:	Battle Royale
-Tag:	School Club
-Tag:	Primarily Adult Cast
-Tag:	Kuudere
-Tag:	Yandere
-Tag:	Tanned Skin
-Tag:	Meta
-Tag:	Crossdressing
-Tag:	Idol
 Tag:	Tragedy
-Tag:	Survival
+Tag:	Post-Apocalyptic
 Tag:	Dissociative Identities
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Tanned Skin
+Tag:	Crossdressing
+Tag:	Gore
+Tag:	Memory Manipulation
+Tag:	Death Game
+Tag:	Primarily Adult Cast
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Death Game
+Tag:	Ensemble Cast
+Tag:	Suicide
+Tag:	Meta
+Tag:	Survival
+Tag:	School
+Tag:	Twins
+Tag:	School Club
+Tag:	Surreal Comedy
+Tag:	Dystopian
+Tag:	Battle Royale
+Tag:	CGI
+Tag:	Detective
+Tag:	Femboy
+Tag:	Gyaru
+Tag:	Yandere
+Tag:	Amnesia
+Tag:	Idol
+Related:	40321
+Related:	115961
+Related:	116880
+Related:	117649
+Related:	36243
+Related:	43001
+Related:	82868
+Related:	43454
+Related:	119488
+Related:	21825
+Related:	119489
+Related:	40261
+Related:	40263
+Related:	67917
+Related:	120144
+Related:	116818
+Related:	77917
+Related:	39392
+Related:	89313
+Related:	40816
+Related:	40817
+Related:	41209
+Related:	87418
+Related:	43003

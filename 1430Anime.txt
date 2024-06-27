@@ -1,0 +1,18 @@
+ID:	1430
+Title:	Lupin The 3rd: The Castle of Cagliostro
+Title:	Lupin III: Cagliostro no Shiro
+Title:	ルパン三世 カリオストロの城
+Tag:	Guns
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Police
+Tag:	Fugitive
+Tag:	Seinen
+Tag:	Anti-Hero
+Tag:	Samurai
+Tag:	Conspiracy
+Tag:	Class Struggle
+Tag:	Primarily Adult Cast
+Tag:	Foreign
+Related:	1412
+Related:	2333

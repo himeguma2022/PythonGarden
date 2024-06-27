@@ -1,25 +1,31 @@
 ID:	142984
-Title:	Komi Can't Communicate Part 2
 Title:	古見さんは、コミュ症です。2
-Title:	"Komi-san wa, Komyushou desu."
 Title:	Komi-san wa, Komyushou desu. 2
-Tag:	Disability
-Tag:	School
-Tag:	Femboy
-Tag:	Unrequited Love
-Tag:	Shogi
-Tag:	Trains
-Tag:	Shounen
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Chuunibyou
-Tag:	Yandere
-Tag:	Meta
+Title:	Komi Can't Communicate Part 2
+Title:	"Komi-san wa, Komyushou desu. 2"
 Tag:	Love Triangle
 Tag:	Slapstick
-Tag:	Agender
+Tag:	Shogi
+Tag:	Kuudere
+Tag:	Unrequited Love
+Tag:	Trains
 Tag:	Primarily Teen Cast
-Tag:	Episodic
-Tag:	Coming of Age
+Tag:	Shounen
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Meta
+Tag:	School
+Tag:	Chuunibyou
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Femboy
+Tag:	Agender
+Tag:	Yandere
+Tag:	Disability
+Related:	172423
+Related:	66665
+Related:	66667
+Related:	133965
+Related:	93177
+Related:	97852

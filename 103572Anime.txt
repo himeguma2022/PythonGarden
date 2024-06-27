@@ -1,26 +1,32 @@
 ID:	103572
-Title:	5-toubun no Hanayome
 Title:	The Quintessential Quintuplets
 Title:	Go-toubun no Hanayome
 Title:	五等分の花嫁
-Tag:	School
+Title:	5-toubun no Hanayome
+Tag:	Teacher
+Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Primarily Female Cast
-Tag:	Twins
-Tag:	Ojou-sama
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
 Tag:	Ensemble Cast
 Tag:	Male Harem
-Tag:	Shounen
-Tag:	Animals
-Tag:	School Club
-Tag:	Samurai
-Tag:	Acting
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Work
 Tag:	Female Harem
-Tag:	Teacher
-Tag:	Primarily Teen Cast
+Tag:	School
+Tag:	Acting
+Tag:	Animals
+Tag:	Heterosexual
+Tag:	Twins
 Tag:	Coming of Age
-Tag:	Male Protagonist
+Tag:	School Club
 Tag:	Time Skip
+Tag:	Ojou-sama
+Tag:	Samurai
+Tag:	Work
+Related:	100230
+Related:	67084
+Related:	32236
+Related:	109261
+Related:	24501
+Related:	143391

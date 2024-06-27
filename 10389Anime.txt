@@ -1,11 +1,11 @@
 ID:	10389
-Title:	Momo e no Tegami
 Title:	ももへの手紙
+Title:	Momo e no Tegami
 Title:	A Letter to Momo
-Tag:	Ghost
 Tag:	Rural
-Tag:	Youkai
-Tag:	Coming of Age
-Tag:	Mopeds
 Tag:	Family Life
+Tag:	Ghost
 Tag:	Female Protagonist
+Tag:	Coming of Age
+Tag:	Youkai
+Tag:	Mopeds

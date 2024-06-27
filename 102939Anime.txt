@@ -1,16 +1,16 @@
 ID:	102939
+Title:	Midnight Occult Civil Servants
 Title:	真夜中のオカルト公務員
 Title:	Mayonaka no Occult Koumuin
-Title:	Midnight Occult Civil Servants
-Tag:	Language Barrier
-Tag:	Shoujo
-Tag:	Urban Fantasy
-Tag:	Demons
 Tag:	Outdoor
-Tag:	Episodic
+Tag:	Demons
+Tag:	Primarily Male Cast
+Tag:	Gods
+Tag:	Shoujo
+Tag:	Youkai
 Tag:	Angels
 Tag:	Mythology
-Tag:	Youkai
-Tag:	Gods
-Tag:	Primarily Male Cast
+Tag:	Episodic
 Tag:	Zombie
+Tag:	Urban Fantasy
+Tag:	Language Barrier

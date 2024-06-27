@@ -1,15 +1,21 @@
 ID:	4551
-Title:	Earl and Fairy
 Title:	Hakushaku to Yousei
+Title:	Earl and Fairy
 Title:	伯爵と妖精
-Tag:	Primarily Male Cast
-Tag:	Magic
-Tag:	Shoujo
-Tag:	Foreign
-Tag:	Mythology
-Tag:	Heterosexual
-Tag:	Fairy
-Tag:	Medicine
-Tag:	Female Protagonist
 Tag:	Historical
+Tag:	Mythology
+Tag:	Shoujo
+Tag:	Medicine
 Tag:	Butler
+Tag:	Female Protagonist
+Tag:	Primarily Male Cast
+Tag:	Fairy
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Foreign
+Related:	4902
+Related:	4904
+Related:	7083
+Related:	38418
+Related:	73467
+Related:	41597

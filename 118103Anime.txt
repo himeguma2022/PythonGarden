@@ -1,19 +1,23 @@
 ID:	118103
 Title:	The Vampire Dies in No Time
-Title:	Kyuuketsuki Sugu Shinu
 Title:	吸血鬼すぐ死ぬ
-Tag:	Parody
-Tag:	Primarily Adult Cast
+Title:	Kyuuketsuki Sugu Shinu
 Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Nun
-Tag:	Urban
-Tag:	Episodic
-Tag:	Male Protagonist
-Tag:	Vampire
 Tag:	Video Games
 Tag:	Shounen
+Tag:	Slapstick
+Tag:	Urban
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Vampire
+Tag:	Nun
 Tag:	Animals
+Tag:	Police
+Tag:	Primarily Adult Cast
+Related:	142914
+Related:	41651
+Related:	100572
+Related:	66575

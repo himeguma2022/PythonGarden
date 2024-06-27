@@ -1,11 +1,15 @@
 ID:	21489
-Title:	Shinmai Maou no Testament: BURST - Toujou Basara no Shigoku Heiwa na Nichijou
 Title:	Shinmai Maou no Testament Burst: Toujou Basara no Shigoku Heiwa na Nichijou
+Title:	Shinmai Maou no Testament: BURST - Toujou Basara no Shigoku Heiwa na Nichijou
 Title:	新妹魔王の契約者 BURST 東城刃更の至極平和な日常
 Title:	The Testament of Sister New Devil BURST: Tojo Basara’s Perfectly Peaceful Daily Life
-Tag:	Nudity
-Tag:	Female Harem
-Tag:	Demons
-Tag:	Kuudere
-Tag:	Male Protagonist
 Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Kuudere
+Tag:	Nudity
+Tag:	Demons
+Related:	42696
+Related:	42697
+Related:	100451
+Related:	21110

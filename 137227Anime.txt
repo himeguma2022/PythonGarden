@@ -1,11 +1,15 @@
 ID:	137227
+Title:	でーじミーツガール
 Title:	Deji Meets Girl
 Title:	Deiji Meets Girl
-Title:	でーじミーツガール
-Tag:	Rural
 Tag:	Iyashikei
+Tag:	Inn
 Tag:	Coastal
+Tag:	Female Protagonist
 Tag:	Urban Fantasy
 Tag:	Heterosexual
-Tag:	Female Protagonist
-Tag:	Inn
+Tag:	Rural
+Related:	148233
+Related:	72116
+Related:	65524
+Related:	141959

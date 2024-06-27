@@ -1,26 +1,32 @@
 ID:	17265
-Title:	Log Horizon
 Title:	ログ・ホライズン
-Tag:	Virtual World
-Tag:	Kemonomimi
-Tag:	Kingdom Management
-Tag:	Femboy
+Title:	Log Horizon
+Tag:	Love Triangle
+Tag:	Isekai
+Tag:	Kuudere
+Tag:	Elf
+Tag:	Anthropomorphism
+Tag:	Primarily Adult Cast
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
 Tag:	Politics
 Tag:	Skeleton
-Tag:	Found Family
-Tag:	Twins
-Tag:	Ensemble Cast
-Tag:	Goblin
-Tag:	Anthropomorphism
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Samurai
-Tag:	Dungeon
-Tag:	Elf
-Tag:	Kuudere
-Tag:	Love Triangle
 Tag:	Video Games
+Tag:	Kemonomimi
+Tag:	Magic
+Tag:	Kingdom Management
+Tag:	Twins
+Tag:	Found Family
+Tag:	Dungeon
+Tag:	Goblin
+Tag:	Virtual World
+Tag:	Femboy
+Tag:	Samurai
 Tag:	Alternate Universe
-Tag:	Isekai
-Tag:	Episodic
-Tag:	Male Protagonist
+Related:	9192
+Related:	51562
+Related:	8429
+Related:	75893
+Related:	76024
+Related:	20671

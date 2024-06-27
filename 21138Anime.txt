@@ -1,16 +1,20 @@
 ID:	21138
-Title:	暁のヨナ OVA
 Title:	Akatsuki no Yona OVA
+Title:	暁のヨナ OVA
 Title:	Yona of the Dawn OVA
-Tag:	Primarily Male Cast
+Tag:	Tragedy
+Tag:	Historical
+Tag:	Mythology
+Tag:	Archery
 Tag:	Shoujo
+Tag:	Female Protagonist
+Tag:	Primarily Male Cast
+Tag:	Gods
 Tag:	Politics
 Tag:	Male Harem
-Tag:	Archery
-Tag:	Mythology
-Tag:	Dragons
 Tag:	Heterosexual
-Tag:	Tragedy
-Tag:	Gods
-Tag:	Female Protagonist
-Tag:	Historical
+Tag:	Dragons
+Related:	20770
+Related:	10155
+Related:	51525
+Related:	11141

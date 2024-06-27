@@ -1,37 +1,45 @@
 ID:	128547
+Title:	ODDTAXI
 Title:	Odd Taxi
 Title:	オッドタクシー
-Title:	ODDTAXI
-Tag:	Cars
-Tag:	Anti-Hero
-Tag:	Satire
-Tag:	Revenge
-Tag:	Hip-hop Music
+Tag:	Noir
+Tag:	Tragedy
+Tag:	Yakuza
 Tag:	Urban
+Tag:	Satire
+Tag:	Martial Arts
 Tag:	Fugitive
-Tag:	Crime
-Tag:	Twins
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Animals
 Tag:	Anthropomorphism
-Tag:	Suicide
+Tag:	Cars
 Tag:	Primarily Adult Cast
 Tag:	Bullying
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Yakuza
-Tag:	Philosophy
-Tag:	Idol
-Tag:	Tragedy
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Suicide
 Tag:	Video Games
+Tag:	Gangs
 Tag:	Primarily Animal Cast
-Tag:	Noir
+Tag:	Mafia
+Tag:	Bar
+Tag:	Age Gap
+Tag:	Animals
+Tag:	Heterosexual
+Tag:	Police
+Tag:	Hip-hop Music
+Tag:	Twins
+Tag:	Revenge
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Amnesia
 Tag:	Work
 Tag:	Adoption
-Tag:	Bar
-Tag:	Martial Arts
-Tag:	Police
-Tag:	Mafia
-Tag:	Male Protagonist
-Tag:	Gangs
+Tag:	Idol
+Related:	51682
+Related:	143080
+Related:	72497
+Related:	158676
+Related:	128564
+Related:	177173
+Related:	81943
+Related:	97437

@@ -1,11 +1,13 @@
 ID:	21471
-Title:	ブブキ・ブランキ
-Title:	Bubuki Buranki
 Title:	BBK/BRNK
+Title:	Bubuki Buranki
+Title:	ブブキ・ブランキ
 Tag:	Full CGI
-Tag:	Super Robot
 Tag:	Aliens
-Tag:	Dystopian
+Tag:	Super Robot
 Tag:	Primarily Teen Cast
-Tag:	Trains
+Tag:	Dystopian
 Tag:	Male Protagonist
+Tag:	Trains
+Related:	11163
+Related:	21740

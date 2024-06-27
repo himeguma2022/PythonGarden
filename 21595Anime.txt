@@ -2,13 +2,17 @@ ID:	21595
 Title:	Haven't You Heard? I'm Sakamoto
 Title:	坂本ですが?
 Title:	Sakamoto desu ga?
-Tag:	School
-Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Episodic
-Tag:	Coming of Age
-Tag:	Delinquents
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Tragedy
 Tag:	Bullying
+Tag:	Tragedy
+Tag:	Surreal Comedy
+Tag:	Primarily Teen Cast
+Tag:	Delinquents
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	School
+Tag:	Seinen
+Tag:	Coming of Age
+Related:	78649
+Related:	17715
+Related:	10931
+Related:	21862

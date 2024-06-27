@@ -1,15 +1,21 @@
 ID:	12549
-Title:	Dakara Boku wa, H ga Dekinai.
-Title:	So, I Can't Play H!
 Title:	"Dakara Boku wa, H ga Dekinai."
 Title:	だから僕は、Hができない。
-Tag:	Nudity
-Tag:	Magic
-Tag:	School
-Tag:	Henshin
-Tag:	Female Harem
+Title:	Dakara Boku wa, H ga Dekinai.
+Title:	So, I Can't Play H!
 Tag:	Primarily Teen Cast
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Gods
 Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Gods
+Tag:	Nudity
+Tag:	Henshin
+Tag:	Magic
+Tag:	Heterosexual
+Related:	7716
+Related:	14893
+Related:	74957
+Related:	55597
+Related:	71667
+Related:	55547

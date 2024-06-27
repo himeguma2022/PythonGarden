@@ -1,7 +1,7 @@
 ID:	21704
-Title:	Bananya
 Title:	ばなにゃ
+Title:	Bananya
+Tag:	Episodic
+Tag:	Kids
 Tag:	Chibi
 Tag:	Animals
-Tag:	Kids
-Tag:	Episodic

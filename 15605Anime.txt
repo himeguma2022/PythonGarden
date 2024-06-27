@@ -1,15 +1,21 @@
 ID:	15605
-Title:	BROTHERS CONFLICT
 Title:	Brothers Conflict
+Title:	BROTHERS CONFLICT
+Tag:	Basketball
+Tag:	Female Protagonist
+Tag:	School
 Tag:	Primarily Male Cast
 Tag:	Unrequited Love
-Tag:	Twins
-Tag:	School
 Tag:	Male Harem
-Tag:	Tsundere
 Tag:	Age Gap
-Tag:	Heterosexual
+Tag:	Tsundere
 Tag:	Crossdressing
-Tag:	Female Protagonist
-Tag:	Basketball
+Tag:	Heterosexual
+Tag:	Twins
 Tag:	Incest
+Related:	54373
+Related:	9741
+Related:	9744
+Related:	8145
+Related:	20915
+Related:	20916

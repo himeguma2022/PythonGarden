@@ -1,13 +1,17 @@
 ID:	98425
-Title:	兄に付ける薬はない！
-Title:	Take My Brother Away!
 Title:	Ani ni Tsukeru Kusuri wa Nai!
-Tag:	School
-Tag:	Foreign
-Tag:	Slapstick
-Tag:	Episodic
+Title:	Take My Brother Away!
+Title:	兄に付ける薬はない！
 Tag:	Primarily Teen Cast
-Tag:	Bisexual
+Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Family Life
 Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
+Tag:	School
+Tag:	Bisexual
+Tag:	Foreign
+Related:	18984
+Related:	98808
+Related:	23026
+Related:	101844

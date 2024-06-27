@@ -1,0 +1,16 @@
+ID:	5306
+Title:	テイルズ オブ シンフォニア THE ANIMATION テセアラ編
+Title:	Tales of Symphonia: The Animation - Tethe'alla Arc
+Title:	Tales of Symphonia THE ANIMATION: Tethe'alla-hen
+Tag:	Swordplay
+Tag:	Angels
+Tag:	Male Protagonist
+Tag:	Elf
+Tag:	Cult
+Tag:	Magic
+Related:	5250
+Related:	8995
+Related:	5252
+Related:	5251
+Related:	1731
+Related:	8909

@@ -1,25 +1,31 @@
 ID:	10080
 Title:	神のみぞ知るセカイⅡ
-Title:	Kami nomi zo Shiru Sekai II
 Title:	The World God Only Knows II
-Tag:	Hikikomori
-Tag:	School
+Title:	Kami nomi zo Shiru Sekai II
+Tag:	Martial Arts
+Tag:	Kuudere
+Tag:	Gods
 Tag:	Tsundere
-Tag:	Demons
 Tag:	Primarily Female Cast
 Tag:	Ghost
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Parody
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Meta
-Tag:	Gods
-Tag:	Video Games
-Tag:	Martial Arts
-Tag:	Female Harem
-Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
-Tag:	Episodic
+Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Video Games
+Tag:	Meta
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Heterosexual
+Tag:	Hikikomori
 Tag:	Firefighters
+Tag:	Demons
+Related:	6978
+Related:	6979
+Related:	6980
+Related:	8525
+Related:	37519
+Related:	10805

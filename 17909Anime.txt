@@ -1,23 +1,27 @@
 ID:	17909
 Title:	The Eccentric Family
-Title:	Uchouten Kazoku
 Title:	有頂天家族
-Tag:	Gender Bending
+Title:	Uchouten Kazoku
+Tag:	Tragedy
 Tag:	Archery
+Tag:	Love Triangle
+Tag:	Crossdressing
+Tag:	Primarily Adult Cast
+Tag:	Male Protagonist
 Tag:	Family Life
+Tag:	Gender Bending
+Tag:	Youkai
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Bar
+Tag:	Age Gap
+Tag:	Animals
 Tag:	Twins
 Tag:	Surreal Comedy
-Tag:	Animals
 Tag:	Shapeshifting
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Mythology
-Tag:	Age Gap
 Tag:	Philosophy
-Tag:	Crossdressing
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Bar
-Tag:	Urban Fantasy
-Tag:	Youkai
-Tag:	Male Protagonist
+Related:	97642
+Related:	88499
+Related:	27822
+Related:	17614

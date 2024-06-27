@@ -1,12 +1,14 @@
 ID:	610
 Title:	Popotan
 Title:	ぽぽたん
-Tag:	Nudity
-Tag:	Artificial Intelligence
-Tag:	Denpa
-Tag:	Time Manipulation
-Tag:	Kuudere
 Tag:	Tomboy
-Tag:	Maids
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Nudity
+Tag:	Denpa
+Tag:	Maids
+Tag:	Time Manipulation
+Related:	51233
+Related:	47210

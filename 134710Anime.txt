@@ -1,9 +1,9 @@
 ID:	134710
-Title:	ギヴン うらがわの存在
-Title:	given: on the other hand
 Title:	Given: Uragawa no Sonzai
-Tag:	LGBTQ+ Themes
+Title:	given: on the other hand
+Title:	ギヴン うらがわの存在
+Tag:	Band
 Tag:	Boys' Love
 Tag:	Primarily Male Cast
-Tag:	Band
 Tag:	Josei
+Tag:	LGBTQ+ Themes

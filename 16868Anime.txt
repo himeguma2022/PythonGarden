@@ -1,8 +1,8 @@
 ID:	16868
-Title:	好きっていいなよ。誰かが
 Title:	Suki tte Ii na yo. Dareka ga
 Title:	Sukitte Ii na yo.: Dareka ga
+Title:	好きっていいなよ。誰かが
 Tag:	Heterosexual
-Tag:	Shoujo
-Tag:	School
 Tag:	Male Protagonist
+Tag:	School
+Tag:	Shoujo

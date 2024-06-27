@@ -1,21 +1,27 @@
 ID:	20678
-Title:	Shinmai Maou no Testament
 Title:	The Testament of Sister New Devil
 Title:	新妹魔王の契約者
-Tag:	Nudity
-Tag:	Monster Girl
-Tag:	Magic
-Tag:	School
-Tag:	Female Harem
+Title:	Shinmai Maou no Testament
 Tag:	Teacher
-Tag:	Succubus
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Kuudere
-Tag:	Heterosexual
 Tag:	Primarily Female Cast
+Tag:	Succubus
+Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Kuudere
+Tag:	Nudity
 Tag:	Philosophy
+Tag:	Tsundere
 Tag:	Classic Literature
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Monster Girl
+Tag:	Demons
+Related:	79305
+Related:	10324
+Related:	21209
+Related:	10269
+Related:	10270
+Related:	21247

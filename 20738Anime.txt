@@ -1,8 +1,8 @@
 ID:	20738
-Title:	The Master of Killing Time Specials
-Title:	Tonari no Seki-kun Specials
 Title:	となりの関くん
-Tag:	Seinen
+Title:	Tonari no Seki-kun Specials
+Title:	The Master of Killing Time Specials
 Tag:	Female Protagonist
-Tag:	Snowscape
 Tag:	School
+Tag:	Snowscape
+Tag:	Seinen

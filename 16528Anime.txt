@@ -1,13 +1,15 @@
 ID:	16528
-Title:	Hal
 Title:	ハル
-Tag:	Artificial Intelligence
-Tag:	CGI
-Tag:	Super Robot
-Tag:	Amnesia
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Rehabilitation
+Title:	Hal
 Tag:	Tragedy
+Tag:	Heterosexual
+Tag:	Super Robot
+Tag:	CGI
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Artificial Intelligence
+Tag:	Robots
+Tag:	Amnesia
+Tag:	Rehabilitation
+Related:	79611
+Related:	37621

@@ -1,18 +1,18 @@
 ID:	120150
-Title:	Bungou Stray Dogs Wan!
 Title:	文豪ストレイドッグス わん！
 Title:	Bungo Stray Dogs WAN!
-Tag:	Primarily Adult Cast
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Tsundere
-Tag:	Detective
-Tag:	Episodic
-Tag:	Kuudere
-Tag:	Mafia
+Title:	Bungou Stray Dogs Wan!
+Tag:	Male Protagonist
 Tag:	Chuunibyou
 Tag:	Chibi
-Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Kuudere
 Tag:	Slapstick
+Tag:	Ensemble Cast
+Tag:	Tsundere
+Tag:	Detective
+Tag:	Seinen
+Tag:	Mafia
+Tag:	Super Power
+Tag:	Primarily Adult Cast
+Tag:	Episodic
+Tag:	Urban Fantasy

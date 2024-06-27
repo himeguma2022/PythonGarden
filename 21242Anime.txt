@@ -2,9 +2,9 @@ ID:	21242
 Title:	Hatsukoi Monster
 Title:	First Love Monster
 Title:	初恋モンスター
-Tag:	Primarily Male Cast
-Tag:	Shoujo
-Tag:	School
 Tag:	Male Harem
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Shoujo
 Tag:	Age Gap
 Tag:	Female Protagonist

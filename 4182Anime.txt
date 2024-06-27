@@ -1,11 +1,15 @@
 ID:	4182
-Title:	DARKER THAN BLACK: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
-Title:	Darker than Black: Beneath Cherry Blossoms in Full Bloom
 Title:	DARKER THAN BLACK -黒の契約者- 桜の花の満開の下
 Title:	Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
-Tag:	Parody
+Title:	DARKER THAN BLACK: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita
+Title:	Darker than Black: Beneath Cherry Blossoms in Full Bloom
 Tag:	Crime
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Kuudere
 Tag:	Super Power
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Parody
+Tag:	Police
+Related:	10240
+Related:	2025
+Related:	7338
+Related:	10242

@@ -1,11 +1,11 @@
 ID:	155527
 Title:	お嬢と番犬くん
-Title:	Ojou to Banken-kun
 Title:	A Girl & Her Guard Dog
-Tag:	Shoujo
+Title:	Ojou to Banken-kun
 Tag:	Crime
-Tag:	School
-Tag:	Age Gap
 Tag:	Heterosexual
-Tag:	Yakuza
+Tag:	School
+Tag:	Shoujo
+Tag:	Age Gap
 Tag:	Female Protagonist
+Tag:	Yakuza

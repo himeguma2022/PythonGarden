@@ -1,10 +1,14 @@
 ID:	18441
 Title:	Blood Lad: Wagahai wa Neko de wa Nai
 Title:	ブラッドラッド 我輩は猫ではない
-Tag:	Werewolf
 Tag:	Ghost
-Tag:	Seinen
-Tag:	Demons
-Tag:	Otaku Culture
+Tag:	Werewolf
 Tag:	Kuudere
 Tag:	Vampire
+Tag:	Seinen
+Tag:	Otaku Culture
+Tag:	Demons
+Related:	11633
+Related:	9373
+Related:	51614
+Related:	8589

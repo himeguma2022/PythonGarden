@@ -2,20 +2,24 @@ ID:	16664
 Title:	Kaguya-hime no Monogatari
 Title:	かぐや姫の物語
 Title:	The Tale of The Princess Kaguya
-Tag:	Unrequited Love
-Tag:	Religion
-Tag:	Rural
-Tag:	Amnesia
-Tag:	Calligraphy
-Tag:	Classic Literature
-Tag:	Agriculture
-Tag:	Family Life
-Tag:	Adoption
 Tag:	Tragedy
-Tag:	Environmental
-Tag:	Philosophy
-Tag:	Female Protagonist
 Tag:	Historical
-Tag:	Gods
+Tag:	Calligraphy
+Tag:	Environmental
+Tag:	Family Life
+Tag:	Female Protagonist
 Tag:	Fairy Tale
+Tag:	Gods
+Tag:	Unrequited Love
 Tag:	Travel
+Tag:	Philosophy
+Tag:	Classic Literature
+Tag:	Religion
+Tag:	Amnesia
+Tag:	Rural
+Tag:	Adoption
+Tag:	Agriculture
+Related:	109352
+Related:	159162
+Related:	82493
+Related:	43862

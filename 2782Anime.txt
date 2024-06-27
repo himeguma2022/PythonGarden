@@ -1,0 +1,14 @@
+ID:	2782
+Title:	ファイアーエムブレム 紋章の謎
+Title:	Fire Emblem: Monshou no Nazo
+Title:	Fire Emblem
+Tag:	Swordplay
+Tag:	Magic
+Tag:	War
+Tag:	Historical
+Related:	31306
+Related:	56462
+Related:	100783
+Related:	56463
+Related:	132920
+Related:	27645

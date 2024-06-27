@@ -1,13 +1,13 @@
 ID:	11739
 Title:	Kimi to Boku. 2
-Title:	君と僕。2
 Title:	You and Me 2
-Tag:	Twins
-Tag:	School
+Title:	君と僕。2
 Tag:	Ensemble Cast
-Tag:	Episodic
-Tag:	Coming of Age
-Tag:	Cute Boys Doing Cute Things
-Tag:	Love Triangle
+Tag:	School
 Tag:	Primarily Male Cast
 Tag:	Shounen
+Tag:	Coming of Age
+Tag:	Cute Boys Doing Cute Things
+Tag:	Episodic
+Tag:	Love Triangle
+Tag:	Twins

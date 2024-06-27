@@ -2,10 +2,10 @@ ID:	99363
 Title:	Natsume Yuujinchou Go Specials
 Title:	夏目友人帳 伍 特別編
 Title:	Natsume Yujin-cho 5 Specials
-Tag:	Shoujo
-Tag:	Rural
-Tag:	Iyashikei
-Tag:	Outdoor
-Tag:	Youkai
 Tag:	Male Protagonist
+Tag:	Outdoor
+Tag:	Rural
+Tag:	Shoujo
 Tag:	Adoption
+Tag:	Youkai
+Tag:	Iyashikei

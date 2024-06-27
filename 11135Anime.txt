@@ -1,13 +1,13 @@
 ID:	11135
 Title:	ハイブリッド チャイルド
 Title:	Hybrid Child
-Tag:	Anachronism
-Tag:	CGI
-Tag:	War
-Tag:	Boys' Love
-Tag:	Age Gap
+Tag:	Historical
 Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	CGI
 Tag:	Achronological Order
 Tag:	Primarily Male Cast
-Tag:	Historical
+Tag:	Age Gap
+Tag:	Anachronism
 Tag:	Suicide
+Tag:	War

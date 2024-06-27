@@ -1,18 +1,22 @@
 ID:	97767
 Title:	High School DxD Hero
-Title:	ハイスクールD×D HERO
 Title:	High School DxD HERO
-Tag:	Nudity
-Tag:	Monster Girl
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Female Harem
-Tag:	Demons
-Tag:	Youkai
-Tag:	Kuudere
-Tag:	Dragons
-Tag:	Heterosexual
+Title:	ハイスクールD×D HERO
 Tag:	Tomboy
-Tag:	Male Protagonist
-Tag:	Super Power
 Tag:	Primarily Female Cast
+Tag:	Super Power
+Tag:	Kemonomimi
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Kuudere
+Tag:	Nudity
+Tag:	Youkai
+Tag:	Heterosexual
+Tag:	Monster Girl
+Tag:	Demons
+Tag:	Dragons
+Related:	55409
+Related:	46108
+Related:	17757
+Related:	20745

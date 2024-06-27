@@ -1,17 +1,25 @@
 ID:	2104
-Title:	瀬戸の花嫁
 Title:	My Bride is a Mermaid
 Title:	Seto no Hanayome
-Tag:	Parody
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Female Harem
-Tag:	Slapstick
-Tag:	Heterosexual
-Tag:	Yakuza
-Tag:	Chibi
-Tag:	Male Protagonist
-Tag:	Idol
+Title:	瀬戸の花嫁
 Tag:	Mermaid
+Tag:	Yakuza
 Tag:	Shounen
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Chibi
+Tag:	Parody
+Tag:	Heterosexual
 Tag:	Gangs
+Tag:	Idol
+Related:	4163
+Related:	47971
+Related:	30759
+Related:	5199
+Related:	107255
+Related:	3194
+Related:	3195
+Related:	3196

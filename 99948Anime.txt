@@ -1,4 +1,4 @@
 ID:	99948
 Title:	00:08
-Tag:	No Dialogue
 Tag:	Male Protagonist
+Tag:	No Dialogue

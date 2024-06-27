@@ -1,27 +1,33 @@
 ID:	1535
-Title:	DEATH NOTE
 Title:	Death Note
-Tag:	Anti-Hero
-Tag:	Detective
+Title:	DEATH NOTE
+Tag:	Tragedy
+Tag:	Time Skip
 Tag:	Urban
+Tag:	Gods
 Tag:	Unrequited Love
-Tag:	Crime
-Tag:	Amnesia
-Tag:	Shounen
-Tag:	Suicide
 Tag:	Memory Manipulation
 Tag:	Primarily Adult Cast
-Tag:	Acting
-Tag:	Tennis
-Tag:	Yandere
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Primarily Male Cast
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Espionage
+Tag:	Crime
+Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Achronological Order
-Tag:	Time Skip
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Acting
+Tag:	Primarily Male Cast
+Tag:	Espionage
 Tag:	Assassins
+Tag:	Police
+Tag:	Detective
+Tag:	Achronological Order
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Yandere
+Tag:	Amnesia
+Tag:	Tennis
+Related:	20931
+Related:	30021
+Related:	2469
+Related:	30257
+Related:	2994
+Related:	91665

@@ -1,24 +1,27 @@
 ID:	100876
-Title:	Kakegurui xx
-Title:	Kakegurui××
 Title:	賭ケグルイ××
+Title:	Kakegurui xx
 Title:	Kakegurui ××
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Gender Bending
 Tag:	Gambling
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	Death Game
-Tag:	Twins
-Tag:	Ojou-sama
-Tag:	Villainess
-Tag:	Shounen
-Tag:	LGBTQ+ Themes
-Tag:	School Club
-Tag:	Yandere
-Tag:	Idol
-Tag:	Primarily Teen Cast
-Tag:	Yuri
 Tag:	Slavery
+Tag:	Death Game
+Tag:	Yuri
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Shounen
 Tag:	Female Protagonist
+Tag:	Gender Bending
+Tag:	Villainess
+Tag:	Yandere
+Tag:	School
+Tag:	LGBTQ+ Themes
+Tag:	Twins
+Tag:	School Club
+Tag:	Revenge
+Tag:	Anti-Hero
+Tag:	Ojou-sama
+Tag:	Idol
+Related:	85793
+Related:	98314
+Related:	21861
+Related:	21863

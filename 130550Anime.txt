@@ -1,17 +1,17 @@
 ID:	130550
+Title:	とつくにの少女 (2022)
 Title:	The Girl from the Other Side
 Title:	Totsukuni no Shoujo (2022)
-Title:	とつくにの少女 (2022)
-Tag:	Magic
-Tag:	Religion
-Tag:	Rural
-Tag:	Teacher
-Tag:	Demons
-Tag:	Outdoor
 Tag:	Male Protagonist
+Tag:	Outdoor
+Tag:	Demons
+Tag:	Rural
+Tag:	Gods
+Tag:	Anthropomorphism
+Tag:	Shounen
+Tag:	Female Protagonist
 Tag:	Environmental
 Tag:	Philosophy
-Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Anthropomorphism
-Tag:	Gods
+Tag:	Magic
+Tag:	Religion
+Tag:	Teacher

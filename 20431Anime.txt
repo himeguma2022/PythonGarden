@@ -1,15 +1,15 @@
 ID:	20431
+Title:	Hozuki's Coolheadedness
 Title:	Hoozuki no Reitetsu
 Title:	鬼灯の冷徹
-Title:	Hozuki's Coolheadedness
-Tag:	Parody
-Tag:	Seinen
-Tag:	Demons
-Tag:	Episodic
-Tag:	Youkai
-Tag:	Mythology
-Tag:	Monster Boy
 Tag:	Male Protagonist
-Tag:	Monster Girl
-Tag:	Afterlife
+Tag:	Mythology
+Tag:	Parody
+Tag:	Demons
 Tag:	Work
+Tag:	Seinen
+Tag:	Monster Boy
+Tag:	Youkai
+Tag:	Monster Girl
+Tag:	Episodic
+Tag:	Afterlife

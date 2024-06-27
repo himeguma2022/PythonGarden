@@ -1,17 +1,17 @@
 ID:	98249
-Title:	夜明け告げるルーのうた
-Title:	Lu Over the Wall
 Title:	Yoake Tsugeru Lu no Uta
-Tag:	School
-Tag:	Dancing
-Tag:	Ships
-Tag:	Coastal
-Tag:	Coming of Age
-Tag:	Mythology
+Title:	Lu Over the Wall
+Title:	夜明け告げるルーのうた
 Tag:	Male Protagonist
-Tag:	Swimming
+Tag:	Band
+Tag:	Coastal
+Tag:	Mythology
 Tag:	Mermaid
+Tag:	Fishing
+Tag:	School
+Tag:	Swimming
+Tag:	Coming of Age
 Tag:	Monster Girl
 Tag:	Fairy Tale
-Tag:	Fishing
-Tag:	Band
+Tag:	Ships
+Tag:	Dancing

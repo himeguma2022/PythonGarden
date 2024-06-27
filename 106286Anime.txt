@@ -1,22 +1,26 @@
 ID:	106286
+Title:	Weathering With You
 Title:	Tenki no Ko
 Title:	天気の子
-Title:	Weathering With You
+Tag:	Guns
+Tag:	Orphan
+Tag:	Urban
+Tag:	Estranged Family
+Tag:	Environmental
+Tag:	Family Life
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Male Protagonist
+Tag:	Gods
 Tag:	Fugitive
 Tag:	Crossdressing
-Tag:	Magic
-Tag:	Estranged Family
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Guns
-Tag:	Family Life
-Tag:	Heterosexual
 Tag:	Restaurant
-Tag:	Male Protagonist
-Tag:	Environmental
 Tag:	Time Skip
-Tag:	Female Protagonist
-Tag:	Orphan
-Tag:	Gods
-Tag:	Found Family
+Tag:	Magic
+Tag:	Heterosexual
 Tag:	Work
+Tag:	Found Family
+Related:	33288
+Related:	110218
+Related:	40799
+Related:	21519

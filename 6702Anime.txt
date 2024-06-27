@@ -1,25 +1,43 @@
 ID:	6702
-Title:	FAIRY TAIL
 Title:	Fairy Tail
-Tag:	Astronomy
-Tag:	Demons
-Tag:	Found Family
-Tag:	Fairy Tale
-Tag:	Ensemble Cast
-Tag:	Dragons
-Tag:	Shounen
-Tag:	Animals
-Tag:	Nudity
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Lost Civilization
-Tag:	Tanned Skin
+Title:	FAIRY TAIL
 Tag:	Super Power
-Tag:	Work
-Tag:	Adoption
-Tag:	Travel
+Tag:	Tanned Skin
 Tag:	Alternate Universe
+Tag:	Primarily Adult Cast
 Tag:	Primarily Teen Cast
+Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Time Skip
+Tag:	Lost Civilization
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Fairy Tale
+Tag:	Travel
+Tag:	Nudity
+Tag:	Astronomy
+Tag:	Animals
+Tag:	Magic
+Tag:	Found Family
+Tag:	Time Skip
+Tag:	Work
+Tag:	Demons
+Tag:	Adoption
+Tag:	Dragons
+Related:	5792
+Related:	5793
+Related:	5794
+Related:	59971
+Related:	119683
+Related:	49369
+Related:	30598
+Related:	21961
+Related:	57358
+Related:	12049
+Related:	20626
+Related:	100948
+Related:	63317
+Related:	11511
+Related:	12121
+Related:	9114
+Related:	18393
+Related:	9982

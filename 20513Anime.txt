@@ -2,18 +2,24 @@ ID:	20513
 Title:	PSYCHO-PASS サイコパス2
 Title:	PSYCHO-PASS 2
 Title:	Psycho-Pass 2
-Tag:	Crime
-Tag:	Primarily Adult Cast
-Tag:	Terrorism
-Tag:	Dystopian
-Tag:	Detective
-Tag:	Police
-Tag:	Urban
 Tag:	Guns
-Tag:	Robots
-Tag:	Cyberpunk
-Tag:	Female Protagonist
-Tag:	Augmented Reality
-Tag:	Gore
-Tag:	Philosophy
+Tag:	Crime
+Tag:	Dystopian
 Tag:	Video Games
+Tag:	Urban
+Tag:	Terrorism
+Tag:	Female Protagonist
+Tag:	Detective
+Tag:	Cyberpunk
+Tag:	Philosophy
+Tag:	Gore
+Tag:	Robots
+Tag:	Augmented Reality
+Tag:	Police
+Tag:	Primarily Adult Cast
+Related:	13601
+Related:	20514
+Related:	8805
+Related:	102887
+Related:	25851
+Related:	9822

@@ -1,19 +1,29 @@
 ID:	20745
-Title:	ハイスクールD×D BorN
 Title:	High School DxD BorN
-Tag:	Nudity
-Tag:	Monster Girl
-Tag:	Magic
-Tag:	School
-Tag:	Femboy
-Tag:	Politics
-Tag:	Female Harem
-Tag:	Demons
-Tag:	Kuudere
-Tag:	Dragons
-Tag:	Heterosexual
+Title:	ハイスクールD×D BorN
 Tag:	Tomboy
-Tag:	Male Protagonist
 Tag:	Primarily Female Cast
-Tag:	Found Family
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Kuudere
+Tag:	Nudity
+Tag:	Politics
 Tag:	Nekomimi
+Tag:	Found Family
+Tag:	Femboy
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Monster Girl
+Tag:	Demons
+Tag:	Dragons
+Related:	21573
+Related:	97767
+Related:	46107
+Related:	10384
+Related:	55409
+Related:	46104
+Related:	46105
+Related:	9370
+Related:	15451
+Related:	21279

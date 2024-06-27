@@ -4,11 +4,11 @@ Title:	Plastic Elder Sister
 Title:	Plastic Neesan
 Title:	Plastic Nee-san
 Tag:	School Club
-Tag:	School
-Tag:	Surreal Comedy
-Tag:	Seinen
 Tag:	Slapstick
-Tag:	Episodic
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
+Tag:	Surreal Comedy
+Tag:	School
 Tag:	Primarily Female Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Episodic

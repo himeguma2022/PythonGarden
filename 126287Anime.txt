@@ -1,11 +1,11 @@
 ID:	126287
-Title:	PUPARIA
 Title:	Puparia
-Tag:	Anachronism
+Title:	PUPARIA
 Tag:	Agender
+Tag:	Animals
 Tag:	Anthropomorphism
+Tag:	Anachronism
 Tag:	Denpa
+Tag:	Female Protagonist
 Tag:	No Dialogue
 Tag:	Environmental
-Tag:	Female Protagonist
-Tag:	Animals

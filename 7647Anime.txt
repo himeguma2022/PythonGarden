@@ -1,16 +1,16 @@
 ID:	7647
 Title:	Arakawa Under the Bridge
 Title:	荒川アンダー ザ ブリッジ
-Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Samurai
-Tag:	Nun
-Tag:	Outdoor
-Tag:	Episodic
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Philosophy
 Tag:	Male Protagonist
+Tag:	Outdoor
+Tag:	Heterosexual
+Tag:	Kuudere
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
 Tag:	Homeless
+Tag:	Seinen
+Tag:	Nun
+Tag:	Philosophy
+Tag:	Samurai
+Tag:	Episodic
 Tag:	Love Triangle

@@ -1,13 +1,19 @@
 ID:	5277
 Title:	Sekirei: Pure Engagement
 Title:	セキレイ～Pure Engagement～
-Tag:	Nudity
-Tag:	Seinen
-Tag:	Female Harem
 Tag:	Yuri
-Tag:	Male Protagonist
-Tag:	Crossdressing
-Tag:	Super Power
 Tag:	Tragedy
+Tag:	Super Power
 Tag:	Primarily Female Cast
 Tag:	Battle Royale
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Nudity
+Tag:	Crossdressing
+Tag:	Seinen
+Related:	9355
+Related:	5232
+Related:	5233
+Related:	5234
+Related:	30873
+Related:	4063

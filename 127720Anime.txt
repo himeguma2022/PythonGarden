@@ -2,32 +2,42 @@ ID:	127720
 Title:	Mushoku Tensei: Jobless Reincarnation Cour 2
 Title:	無職転生 ～異世界行ったら本気だす～ 第2クール
 Title:	Mushoku Tensei: Isekai Ittara Honki Dasu Part 2
-Tag:	Kemonomimi
-Tag:	Hikikomori
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Prison
-Tag:	Incest
-Tag:	Reincarnation
-Tag:	Polyamorous
-Tag:	Dragons
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Nekomimi
-Tag:	Language Barrier
-Tag:	Magic
-Tag:	Nudity
-Tag:	Elf
-Tag:	Swordplay
+Tag:	Slavery
 Tag:	Tragedy
-Tag:	Rehabilitation
-Tag:	Gods
-Tag:	Travel
 Tag:	Desert
+Tag:	Isekai
+Tag:	Post-Apocalyptic
+Tag:	Gods
+Tag:	Elf
+Tag:	Tsundere
+Tag:	Gore
+Tag:	Prison
+Tag:	Male Protagonist
+Tag:	Travel
+Tag:	Rehabilitation
+Tag:	Polyamorous
 Tag:	Foreign
+Tag:	Reincarnation
+Tag:	Kemonomimi
+Tag:	Swordplay
 Tag:	Female Harem
 Tag:	Survival
-Tag:	Isekai
+Tag:	Nudity
+Tag:	Nekomimi
+Tag:	Magic
 Tag:	Coming of Age
-Tag:	Slavery
-Tag:	Male Protagonist
+Tag:	Hikikomori
+Tag:	Incest
+Tag:	Language Barrier
+Tag:	Demons
+Tag:	Dragons
+Related:	70113
+Related:	65125
+Related:	85470
+Related:	146065
+Related:	108465
+Related:	50967
+Related:	50969
+Related:	50970
+Related:	85564
+Related:	141534

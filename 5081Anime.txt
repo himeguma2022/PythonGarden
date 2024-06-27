@@ -1,34 +1,50 @@
 ID:	5081
 Title:	Bakemonogatari
 Title:	化物語
-Tag:	School
-Tag:	Satire
-Tag:	Tsundere
-Tag:	Tomboy
-Tag:	Vampire
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
 Tag:	Aliens
-Tag:	Amnesia
-Tag:	Psychosexual
+Tag:	Love Triangle
+Tag:	Dissociative Identities
+Tag:	Satire
+Tag:	Kuudere
+Tag:	Denpa
+Tag:	Tsundere
 Tag:	Gore
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Youkai
 Tag:	Monster Girl
+Tag:	Meta
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Vampire
 Tag:	Nekomimi
 Tag:	LGBTQ+ Themes
-Tag:	Parody
-Tag:	Kuudere
 Tag:	Heterosexual
-Tag:	Yandere
-Tag:	Meta
-Tag:	Love Triangle
-Tag:	Philosophy
-Tag:	Denpa
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Dissociative Identities
-Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Youkai
-Tag:	Male Protagonist
+Tag:	Psychosexual
+Tag:	Tomboy
+Tag:	Surreal Comedy
+Tag:	CGI
+Tag:	Philosophy
+Tag:	Yandere
+Tag:	Amnesia
+Related:	11043
+Related:	36771
+Related:	32005
+Related:	54499
+Related:	15689
+Related:	11597
+Related:	5134
+Related:	5135
+Related:	5136
+Related:	21520
+Related:	143663
+Related:	33396
+Related:	69078
+Related:	106495
+Related:	44893
+Related:	101311

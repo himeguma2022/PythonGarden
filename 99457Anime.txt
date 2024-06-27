@@ -1,25 +1,27 @@
 ID:	99457
-Title:	Sayonara no Asa ni Yakusoku no Hana wo Kazarou
-Title:	さよならの朝に約束の花をかざろう
 Title:	Maquia: When the Promised Flower Blooms
-Tag:	Rape
-Tag:	Family Life
-Tag:	Fugitive
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Dragons
-Tag:	Heterosexual
+Title:	さよならの朝に約束の花をかざろう
+Title:	Sayonara no Asa ni Yakusoku no Hana wo Kazarou
 Tag:	Tragedy
-Tag:	Orphan
-Tag:	Parenthood
-Tag:	Work
-Tag:	Adoption
+Tag:	Time Skip
+Tag:	Fugitive
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Ensemble Cast
 Tag:	Travel
 Tag:	Foreign
+Tag:	Orphan
 Tag:	Urban Fantasy
-Tag:	Photography
-Tag:	Coming of Age
 Tag:	Espionage
-Tag:	Time Skip
-Tag:	Female Protagonist
+Tag:	War
 Tag:	Assassins
+Tag:	Parenthood
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Rape
+Tag:	Photography
+Tag:	Work
+Tag:	Adoption
+Tag:	Dragons
+Related:	26579
+Related:	105139

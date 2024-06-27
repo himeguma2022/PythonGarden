@@ -1,23 +1,23 @@
 ID:	21519
-Title:	君の名は。
-Title:	Your Name.
 Title:	Kimi no Na wa.
+Title:	Your Name.
+Title:	君の名は。
+Tag:	Rural
+Tag:	Trains
 Tag:	School
-Tag:	Gender Bending
-Tag:	Urban
+Tag:	Tragedy
+Tag:	Alternate Universe
+Tag:	Coming of Age
+Tag:	Primarily Teen Cast
+Tag:	Philosophy
 Tag:	Shrine Maiden
 Tag:	Time Manipulation
-Tag:	Trains
-Tag:	Memory Manipulation
-Tag:	Heterosexual
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Body Swapping
-Tag:	Alternate Universe
-Tag:	Rural
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Time Skip
 Tag:	Female Protagonist
+Tag:	Urban
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Memory Manipulation
+Tag:	Gender Bending
+Tag:	Urban Fantasy
+Tag:	Body Swapping

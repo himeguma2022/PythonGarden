@@ -1,0 +1,52 @@
+ID:	1565
+Title:	Pocket Monsters Diamond & Pearl
+Title:	ポケットモンスター ダイヤモンド&パール
+Title:	Pokémon the Series: Diamond and Pearl
+Tag:	Kids
+Tag:	Primarily Child Cast
+Tag:	Super Robot
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Environmental
+Tag:	Rural
+Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Animals
+Tag:	Proxy Battle
+Tag:	Outdoor
+Tag:	Dragons
+Related:	6275
+Related:	8709
+Related:	67590
+Related:	5256
+Related:	7695
+Related:	9107
+Related:	6555
+Related:	1564
+Related:	2847
+Related:	49952
+Related:	6178
+Related:	4026
+Related:	84282
+Related:	11069
+Related:	10302
+Related:	2526
+Related:	2527
+Related:	2528
+Related:	2529
+Related:	2530
+Related:	2531
+Related:	2532
+Related:	2533
+Related:	2534
+Related:	97635
+Related:	2536
+Related:	48489
+Related:	48491
+Related:	48501
+Related:	49653
+Related:	143863
+Related:	8438
+Related:	161785
+Related:	7550

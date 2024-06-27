@@ -1,37 +1,43 @@
 ID:	131681
 Title:	Attack on Titan Final Season Part 2
-Title:	Shingeki no Kyojin: The Final Season Part 2
 Title:	進撃の巨人 The Final Season Part 2
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Guns
-Tag:	Revenge
-Tag:	Body Horror
-Tag:	CGI
+Title:	Shingeki no Kyojin: The Final Season Part 2
+Tag:	Slavery
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Amputation
-Tag:	Matriarchy
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Monster Boy
-Tag:	Gore
-Tag:	Monster Girl
-Tag:	Shounen
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
 Tag:	Kuudere
 Tag:	Tanned Skin
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Primarily Male Cast
 Tag:	Cannibalism
-Tag:	Kaiju
-Tag:	Military
-Tag:	Foreign
-Tag:	Alternate Universe
-Tag:	Survival
+Tag:	Gore
+Tag:	Memory Manipulation
 Tag:	Class Struggle
-Tag:	Slavery
-Tag:	Espionage
+Tag:	Primarily Adult Cast
+Tag:	Kaiju
+Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Monster Girl
+Tag:	Foreign
+Tag:	Guns
+Tag:	Terrorism
+Tag:	Survival
+Tag:	Primarily Male Cast
+Tag:	Espionage
+Tag:	War
+Tag:	Revenge
+Tag:	Matriarchy
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Alternate Universe
+Related:	110277
+Related:	146984
+Related:	71210
+Related:	53390
+Related:	55057
+Related:	55059

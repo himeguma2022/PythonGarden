@@ -1,13 +1,19 @@
 ID:	20849
-Title:	God Eater
 Title:	GOD EATER
-Tag:	CGI
+Title:	God Eater
 Tag:	Full CGI
-Tag:	Conspiracy
-Tag:	Dystopian
-Tag:	Male Protagonist
 Tag:	Super Power
-Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	CGI
 Tag:	Post-Apocalyptic
-Tag:	Kaiju
+Tag:	Male Protagonist
+Tag:	Female Protagonist
 Tag:	Body Horror
+Tag:	Conspiracy
+Tag:	Kaiju
+Related:	65633
+Related:	33507
+Related:	51365
+Related:	10470
+Related:	110344
+Related:	9613

@@ -1,19 +1,23 @@
 ID:	4214
-Title:	Rosario + Vampire Capu2
 Title:	ロザリオとバンパイア Capu2
 Title:	Rosario to Vampire Capu2
+Title:	Rosario + Vampire Capu2
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Succubus
+Tag:	Shounen
+Tag:	Dissociative Identities
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Kuudere
 Tag:	Nudity
+Tag:	Vampire
+Tag:	Meta
+Tag:	Heterosexual
 Tag:	Monster Girl
 Tag:	School Club
-Tag:	School
-Tag:	Female Harem
-Tag:	Succubus
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Primarily Female Cast
-Tag:	Witch
-Tag:	Vampire
-Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Shounen
+Related:	2993
+Related:	4778
+Related:	33403
+Related:	4779

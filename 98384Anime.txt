@@ -1,18 +1,26 @@
 ID:	98384
+Title:	Bungo Stray Dogs: DEAD APPLE
 Title:	文豪ストレイドッグス DEAD APPLE
 Title:	Bungou Stray Dogs: Dead Apple
-Title:	Bungo Stray Dogs: DEAD APPLE
 Title:	Bungou Stray Dogs: DEAD APPLE
+Tag:	Noir
 Tag:	Crime
-Tag:	Anti-Hero
-Tag:	Seinen
-Tag:	Detective
+Tag:	Super Power
+Tag:	Male Protagonist
 Tag:	Urban Fantasy
-Tag:	Police
+Tag:	Detective
 Tag:	Kuudere
 Tag:	Mafia
-Tag:	Male Protagonist
-Tag:	Super Power
-Tag:	Classic Literature
-Tag:	Noir
 Tag:	Body Horror
+Tag:	Classic Literature
+Tag:	Anti-Hero
+Tag:	Police
+Tag:	Seinen
+Related:	19978
+Related:	35310
+Related:	21679
+Related:	60190
+Related:	123124
+Related:	46300
+Related:	104030
+Related:	21311

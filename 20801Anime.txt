@@ -1,16 +1,22 @@
 ID:	20801
-Title:	Kamisama Kiss◎
 Title:	Kamisama Hajimemashita◎
 Title:	神様はじめました◎
-Tag:	Kemonomimi
+Title:	Kamisama Kiss◎
 Tag:	Shoujo
+Tag:	Kemonomimi
 Tag:	Slapstick
-Tag:	Male Harem
-Tag:	Urban Fantasy
-Tag:	Demons
-Tag:	Youkai
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Gods
 Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Gods
+Tag:	Youkai
+Tag:	Male Harem
+Tag:	Age Gap
 Tag:	Animals
+Tag:	Heterosexual
+Tag:	Demons
+Related:	38017
+Related:	21186
+Related:	38157
+Related:	9517
+Related:	10229
+Related:	14713

@@ -1,29 +1,51 @@
 ID:	223
-Title:	ドラゴンボール
 Title:	Dragon Ball
-Tag:	Anachronism
-Tag:	Demons
-Tag:	Revenge
-Tag:	Dinosaurs
-Tag:	Robots
-Tag:	Aliens
-Tag:	Dragons
-Tag:	Shounen
-Tag:	Wuxia
-Tag:	Shapeshifting
-Tag:	Nudity
-Tag:	Tanned Skin
-Tag:	Primarily Male Cast
-Tag:	Orphan
+Title:	ドラゴンボール
 Tag:	Super Power
-Tag:	Kaiju
-Tag:	Adoption
-Tag:	Travel
-Tag:	Martial Arts
-Tag:	Military
-Tag:	Urban Fantasy
+Tag:	Aliens
 Tag:	Dissociative Identities
-Tag:	Coming of Age
+Tag:	Martial Arts
+Tag:	Tanned Skin
+Tag:	Anachronism
+Tag:	Kaiju
+Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Time Skip
+Tag:	Travel
+Tag:	Orphan
+Tag:	Urban Fantasy
 Tag:	Ninja
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Wuxia
+Tag:	Robots
+Tag:	Coming of Age
+Tag:	Revenge
+Tag:	Shapeshifting
+Tag:	Military
+Tag:	Time Skip
+Tag:	Dinosaurs
+Tag:	Demons
+Tag:	Adoption
+Tag:	Dragons
+Related:	525
+Related:	526
+Related:	527
+Related:	529
+Related:	530
+Related:	531
+Related:	532
+Related:	6033
+Related:	57381
+Related:	813
+Related:	2222
+Related:	2520
+Related:	30042
+Related:	96746
+Related:	3312
+Related:	37745
+Related:	7157
+Related:	502
+Related:	37753
+Related:	891
+Related:	892
+Related:	893

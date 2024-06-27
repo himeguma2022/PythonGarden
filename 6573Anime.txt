@@ -1,21 +1,23 @@
 ID:	6573
-Title:	DARKER THAN BLACK -流星の双子-
-Title:	Darker than Black: Gemini of the Meteor
-Title:	Darker than Black: Ryuusei no Gemini
 Title:	DARKER THAN BLACK: Ryuusei no Gemini
-Tag:	Fugitive
-Tag:	Twins
-Tag:	Anti-Hero
-Tag:	Foreign
-Tag:	Rural
-Tag:	Police
-Tag:	Photography
-Tag:	Trains
-Tag:	Kuudere
-Tag:	Clone
-Tag:	Male Protagonist
+Title:	Darker than Black: Gemini of the Meteor
+Title:	DARKER THAN BLACK -流星の双子-
+Title:	Darker than Black: Ryuusei no Gemini
+Tag:	Memory Manipulation
 Tag:	Tragedy
 Tag:	Super Power
+Tag:	Clone
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Photography
+Tag:	Kuudere
+Tag:	Fugitive
 Tag:	Assassins
-Tag:	Memory Manipulation
+Tag:	Trains
+Tag:	Anti-Hero
+Tag:	Police
+Tag:	Twins
+Tag:	Rural
+Tag:	Foreign
+Related:	7338
+Related:	5738

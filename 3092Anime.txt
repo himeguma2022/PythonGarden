@@ -1,17 +1,17 @@
 ID:	3092
+Title:	Junjou Romantica
 Title:	Junjo Romantica
 Title:	純情ロマンチカ
-Title:	Junjou Romantica
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
-Tag:	Rape
-Tag:	Tsundere
-Tag:	Coming of Age
 Tag:	Boys' Love
+Tag:	Tsundere
+Tag:	Rape
+Tag:	Primarily Male Cast
+Tag:	College
+Tag:	Writing
 Tag:	Age Gap
+Tag:	Coming of Age
+Tag:	Josei
 Tag:	Bisexual
 Tag:	Cute Boys Doing Cute Things
-Tag:	College
-Tag:	Primarily Male Cast
-Tag:	Writing
-Tag:	Josei
+Tag:	Primarily Adult Cast
+Tag:	LGBTQ+ Themes

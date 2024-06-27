@@ -1,24 +1,32 @@
 ID:	21087
 Title:	One Punch Man
-Title:	One-Punch Man
 Title:	ワンパンマン
-Tag:	Satire
-Tag:	Seinen
-Tag:	Demons
+Title:	One-Punch Man
+Tag:	Super Power
+Tag:	Aliens
 Tag:	Urban
+Tag:	Satire
+Tag:	Martial Arts
+Tag:	Gods
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Kaiju
+Tag:	Male Protagonist
+Tag:	Parody
+Tag:	Cyborg
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Henshin
 Tag:	Cultivation
 Tag:	Surreal Comedy
-Tag:	Aliens
 Tag:	Superhero
-Tag:	Gore
-Tag:	Parody
-Tag:	Primarily Adult Cast
-Tag:	Gods
-Tag:	Primarily Male Cast
-Tag:	Kaiju
-Tag:	Martial Arts
-Tag:	Henshin
-Tag:	Urban Fantasy
-Tag:	Male Protagonist
-Tag:	Cyborg
-Tag:	Super Power
+Tag:	Demons
+Related:	17984
+Related:	10626
+Related:	97668
+Related:	21416
+Related:	21386
+Related:	74347
+Related:	17654
+Related:	10046

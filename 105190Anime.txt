@@ -2,22 +2,24 @@ ID:	105190
 Title:	ダーウィンズゲーム
 Title:	Darwin's Game
 Tag:	Gambling
-Tag:	Guns
-Tag:	Augmented Reality
-Tag:	Urban
-Tag:	Twins
-Tag:	Conspiracy
-Tag:	Gore
-Tag:	Shounen
-Tag:	Battle Royale
-Tag:	Samurai
-Tag:	Swordplay
-Tag:	Yandere
-Tag:	Philosophy
-Tag:	Martial Arts
-Tag:	Survival
-Tag:	Dissociative Identities
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Urban
+Tag:	Dissociative Identities
+Tag:	Martial Arts
+Tag:	Gore
+Tag:	Augmented Reality
 Tag:	Death Game
+Tag:	Conspiracy
+Tag:	Shounen
+Tag:	Male Protagonist
 Tag:	Gangs
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Survival
+Tag:	Twins
+Tag:	Battle Royale
+Tag:	Philosophy
+Tag:	Yandere
+Tag:	Samurai
+Related:	26608
+Related:	78881

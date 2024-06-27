@@ -1,28 +1,40 @@
 ID:	103223
 Title:	Bungo Stray Dogs 3
-Title:	Bungou Stray Dogs 3rd Season
 Title:	文豪ストレイドッグス 第3シーズン
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Detective
+Title:	Bungou Stray Dogs 3rd Season
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Urban
+Tag:	Kuudere
+Tag:	Gods
+Tag:	Primarily Adult Cast
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Suicide
 Tag:	Seinen
 Tag:	Guns
-Tag:	Urban
-Tag:	Crime
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Suicide
-Tag:	Primarily Adult Cast
-Tag:	Kuudere
 Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Primarily Male Cast
-Tag:	Work
+Tag:	Terrorism
 Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
 Tag:	Mafia
-Tag:	Male Protagonist
-Tag:	Super Power
-Tag:	Classic Literature
+Tag:	War
 Tag:	Assassins
+Tag:	Classic Literature
+Tag:	Detective
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Work
+Related:	155713
+Related:	141249
+Related:	64871
+Related:	46314
+Related:	88671
+Related:	21679
+Related:	78676
+Related:	123126
+Related:	85307
+Related:	24348
+Related:	24350
+Related:	21791

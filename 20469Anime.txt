@@ -1,9 +1,9 @@
 ID:	20469
 Title:	Shashinkan
 Title:	寫眞館
-Tag:	Photography
-Tag:	No Dialogue
-Tag:	Coming of Age
-Tag:	Tragedy
-Tag:	Time Skip
 Tag:	Historical
+Tag:	Tragedy
+Tag:	Photography
+Tag:	Coming of Age
+Tag:	No Dialogue
+Tag:	Time Skip

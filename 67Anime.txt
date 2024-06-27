@@ -1,14 +1,18 @@
 ID:	67
 Title:	Basilisk: Kouga Ninpou Chou
-Title:	Basilisk: Kouga Ninpouchou
 Title:	Basilisk
+Title:	Basilisk: Kouga Ninpouchou
 Title:	バジリスク 甲賀忍法帖
-Tag:	Rape
-Tag:	Primarily Adult Cast
-Tag:	Seinen
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Gore
 Tag:	Tragedy
 Tag:	Historical
+Tag:	Swordplay
 Tag:	Ninja
+Tag:	Rape
+Tag:	Gore
+Tag:	Seinen
+Tag:	Heterosexual
+Tag:	Primarily Adult Cast
+Related:	99569
+Related:	20370
+Related:	30221
+Related:	158

@@ -1,13 +1,15 @@
 ID:	160188
 Title:	Suki na Ko ga Megane wo Wasureta
-Title:	The Girl I Like Forgot Her Glasses
 Title:	好きな子がめがねを忘れた
-Tag:	Disability
-Tag:	CGI
-Tag:	School
+Title:	The Girl I Like Forgot Her Glasses
 Tag:	Iyashikei
+Tag:	Disability
 Tag:	Primarily Teen Cast
+Tag:	CGI
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	School
 Tag:	Kuudere
 Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Shounen
+Related:	83297
+Related:	105641

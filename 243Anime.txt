@@ -1,15 +1,15 @@
 ID:	243
 Title:	Gravitation TV
-Title:	グラビテーション
 Title:	Gravitation
-Tag:	Crossdressing
-Tag:	Shoujo
-Tag:	Primarily Adult Cast
-Tag:	Airsoft
-Tag:	Boys' Love
-Tag:	Bisexual
+Title:	グラビテーション
 Tag:	Male Protagonist
-Tag:	Idol
-Tag:	Tragedy
-Tag:	Primarily Male Cast
 Tag:	Band
+Tag:	Tragedy
+Tag:	Idol
+Tag:	Boys' Love
+Tag:	Primarily Male Cast
+Tag:	Shoujo
+Tag:	Airsoft
+Tag:	Bisexual
+Tag:	Primarily Adult Cast
+Tag:	Crossdressing

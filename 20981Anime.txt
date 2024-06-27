@@ -1,28 +1,34 @@
 ID:	20981
 Title:	The Boy and The Beast
-Title:	Bakemono no Ko
 Title:	バケモノの子
-Tag:	Kemonomimi
+Title:	Bakemono no Ko
+Tag:	Tragedy
+Tag:	Isekai
+Tag:	Martial Arts
+Tag:	Gods
+Tag:	Anthropomorphism
+Tag:	Bullying
+Tag:	Estranged Family
+Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Found Family
 Tag:	Body Horror
+Tag:	Youkai
+Tag:	Reincarnation
+Tag:	Kemonomimi
+Tag:	Orphan
+Tag:	Swordplay
+Tag:	Primarily Animal Cast
+Tag:	Urban Fantasy
+Tag:	Coming of Age
+Tag:	Found Family
 Tag:	Cultivation
 Tag:	CGI
-Tag:	Reincarnation
-Tag:	Anthropomorphism
-Tag:	Swordplay
 Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Gods
-Tag:	Orphan
-Tag:	Primarily Animal Cast
-Tag:	Adoption
-Tag:	Martial Arts
-Tag:	Estranged Family
-Tag:	Urban Fantasy
-Tag:	Isekai
-Tag:	Youkai
-Tag:	Coming of Age
-Tag:	Male Protagonist
 Tag:	Time Skip
-Tag:	Bullying
+Tag:	Adoption
+Related:	95169
+Related:	116195
+Related:	107629
+Related:	53274
+Related:	29564
+Related:	39679

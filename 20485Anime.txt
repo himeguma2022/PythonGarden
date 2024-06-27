@@ -1,16 +1,23 @@
 ID:	20485
-Title:	Yama no Susume: Second Season
-Title:	Encouragement of Climb Season 2
-Title:	Yama no Susume Second Season
 Title:	ヤマノススメ セカンドシーズン
+Title:	Encouragement of Climb Season 2
+Title:	Yama no Susume: Second Season
+Tag:	Iyashikei
+Tag:	Primarily Female Cast
+Tag:	Educational
+Tag:	Mountaineering
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
+Tag:	Family Life
 Tag:	School
 Tag:	Seinen
-Tag:	Iyashikei
-Tag:	Educational
-Tag:	Outdoor
-Tag:	Cute Girls Doing Cute Things
-Tag:	Mountaineering
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
 Tag:	Work
+Tag:	Outdoor
+Related:	9896
+Related:	71049
+Related:	49130
+Related:	21003
+Related:	24237
+Related:	14355
+Related:	98868
+Related:	48565

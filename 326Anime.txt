@@ -1,23 +1,23 @@
 ID:	326
 Title:	Petshop of Horrors
-Tag:	Necromancy
-Tag:	Urban
 Tag:	Body Horror
-Tag:	Crime
-Tag:	Animals
-Tag:	Anthropomorphism
-Tag:	Shapeshifting
-Tag:	Nudity
-Tag:	Magic
-Tag:	Mythology
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Love Triangle
 Tag:	Mermaid
-Tag:	Josei
-Tag:	Body Swapping
-Tag:	Foreign
-Tag:	Urban Fantasy
-Tag:	Police
+Tag:	Magic
 Tag:	Episodic
+Tag:	Crime
+Tag:	Tragedy
+Tag:	Shapeshifting
+Tag:	Foreign
+Tag:	Josei
+Tag:	Philosophy
+Tag:	Love Triangle
+Tag:	Animals
+Tag:	Police
+Tag:	Urban
 Tag:	Male Protagonist
+Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Necromancy
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Body Swapping

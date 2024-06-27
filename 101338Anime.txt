@@ -1,24 +1,32 @@
 ID:	101338
-Title:	モブサイコ100 II
 Title:	Mob Psycho 100 II
-Tag:	School
-Tag:	Satire
-Tag:	Terrorism
-Tag:	Urban
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Ghost
-Tag:	Surreal Comedy
-Tag:	Shounen
-Tag:	School Club
+Title:	モブサイコ100 II
 Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Primarily Male Cast
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Athletics
-Tag:	Coming of Age
-Tag:	Primarily Child Cast
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Urban
+Tag:	Satire
+Tag:	Unrequited Love
 Tag:	Bullying
+Tag:	Primarily Child Cast
+Tag:	Ghost
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Body Horror
+Tag:	Terrorism
+Tag:	Athletics
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Coming of Age
+Tag:	School Club
+Tag:	Surreal Comedy
+Tag:	Philosophy
+Related:	21507
+Related:	85189
+Related:	64207
+Related:	22419
+Related:	22421
+Related:	32919
+Related:	140439
+Related:	109819

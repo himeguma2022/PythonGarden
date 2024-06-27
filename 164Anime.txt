@@ -1,28 +1,27 @@
 ID:	164
 Title:	Mononoke-hime
 Title:	もののけ姫
-Title:	Mononoke Hime
 Title:	Princess Mononoke
-Tag:	Disability
-Tag:	Demons
-Tag:	Archery
-Tag:	Guns
-Tag:	Revenge
-Tag:	Tomboy
-Tag:	Body Horror
-Tag:	Outdoor
-Tag:	War
-Tag:	Gore
-Tag:	Animals
-Tag:	Mythology
-Tag:	Philosophy
-Tag:	Gods
 Tag:	Historical
+Tag:	Archery
+Tag:	Gods
+Tag:	Gore
 Tag:	Kaiju
-Tag:	Travel
-Tag:	Rural
-Tag:	Urban Fantasy
-Tag:	Youkai
-Tag:	Environmental
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Body Horror
+Tag:	Travel
+Tag:	Youkai
+Tag:	Guns
+Tag:	Mythology
+Tag:	Environmental
+Tag:	Urban Fantasy
+Tag:	War
+Tag:	Animals
+Tag:	Rural
+Tag:	Outdoor
+Tag:	Tomboy
+Tag:	Revenge
+Tag:	Philosophy
+Tag:	Disability
+Tag:	Demons

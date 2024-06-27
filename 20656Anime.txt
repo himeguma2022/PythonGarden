@@ -1,23 +1,23 @@
 ID:	20656
 Title:	繰繰れ!コックリさん
 Title:	Gugure! Kokkuri-san
-Tag:	Kemonomimi
-Tag:	Gender Bending
-Tag:	Tsundere
 Tag:	Guns
-Tag:	Chibi
-Tag:	Ghost
-Tag:	Age Regression
-Tag:	Aliens
-Tag:	Ensemble Cast
-Tag:	Amnesia
-Tag:	Shounen
-Tag:	Nekomimi
-Tag:	Iyashikei
 Tag:	Kuudere
 Tag:	Meta
-Tag:	Crossdressing
+Tag:	Iyashikei
 Tag:	Episodic
+Tag:	Age Regression
+Tag:	Chibi
+Tag:	Shounen
 Tag:	Youkai
-Tag:	Male Protagonist
+Tag:	Crossdressing
+Tag:	Kemonomimi
+Tag:	Ensemble Cast
 Tag:	Female Protagonist
+Tag:	Male Protagonist
+Tag:	Aliens
+Tag:	Amnesia
+Tag:	Ghost
+Tag:	Gender Bending
+Tag:	Nekomimi
+Tag:	Tsundere

@@ -1,21 +1,23 @@
 ID:	1462
-Title:	Memories
 Title:	MEMORIES
-Tag:	Steampunk
-Tag:	Primarily Adult Cast
-Tag:	Memory Manipulation
-Tag:	Military
-Tag:	Anthology
-Tag:	Seinen
-Tag:	Politics
-Tag:	Space
-Tag:	Dystopian
+Title:	Memories
 Tag:	Guns
-Tag:	Episodic
-Tag:	War
-Tag:	Cyberpunk
-Tag:	Mopeds
 Tag:	Tragedy
+Tag:	Dystopian
+Tag:	Mopeds
+Tag:	Anthology
 Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Space
 Tag:	Primarily Male Cast
+Tag:	War
+Tag:	Politics
+Tag:	Cyberpunk
+Tag:	Military
+Tag:	Steampunk
+Tag:	Seinen
+Tag:	Memory Manipulation
 Tag:	Work
+Tag:	Primarily Adult Cast
+Related:	47138
+Related:	102011

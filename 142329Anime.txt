@@ -2,24 +2,32 @@ ID:	142329
 Title:	鬼滅の刃 遊郭編
 Title:	Kimetsu no Yaiba: Yuukaku-hen
 Title:	Demon Slayer: Kimetsu no Yaiba Entertainment District Arc
-Tag:	Demons
-Tag:	Revenge
-Tag:	Urban
-Tag:	Body Horror
-Tag:	CGI
-Tag:	Polyamorous
-Tag:	Gore
-Tag:	Monster Girl
-Tag:	Shounen
-Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Crossdressing
-Tag:	Primarily Male Cast
 Tag:	Historical
-Tag:	Orphan
+Tag:	Tragedy
 Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Time Skip
-Tag:	Ninja
+Tag:	Urban
 Tag:	Oiran
+Tag:	Crossdressing
+Tag:	Gore
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Body Horror
+Tag:	Polyamorous
+Tag:	Monster Girl
+Tag:	Orphan
+Tag:	Swordplay
+Tag:	Ninja
+Tag:	Primarily Male Cast
+Tag:	Revenge
+Tag:	CGI
+Tag:	Time Skip
+Tag:	Demons
+Related:	65929
+Related:	65930
+Related:	65933
+Related:	87216
+Related:	129874
+Related:	145139
+Related:	112151
+Related:	68958

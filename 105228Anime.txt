@@ -1,32 +1,38 @@
 ID:	105228
-Title:	Dorohedoro
 Title:	ドロヘドロ
-Tag:	Anti-Hero
-Tag:	Vore
-Tag:	Seinen
-Tag:	Demons
-Tag:	Revenge
-Tag:	Found Family
-Tag:	Body Horror
-Tag:	CGI
-Tag:	Full CGI
-Tag:	Surreal Comedy
-Tag:	Drugs
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	Amnesia
-Tag:	Monster Boy
-Tag:	Gore
+Title:	Dorohedoro
 Tag:	Post-Apocalyptic
+Tag:	Baseball
 Tag:	Anthropomorphism
-Tag:	Nudity
-Tag:	Magic
+Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Restaurant
-Tag:	Zombie
-Tag:	Body Swapping
-Tag:	Urban Fantasy
-Tag:	Food
+Tag:	Full CGI
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Baseball
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Body Horror
+Tag:	Restaurant
+Tag:	Seinen
+Tag:	Drugs
+Tag:	Urban Fantasy
+Tag:	Zombie
+Tag:	Nudity
+Tag:	Magic
+Tag:	Found Family
+Tag:	Revenge
+Tag:	Surreal Comedy
+Tag:	Dystopian
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Anti-Hero
+Tag:	Body Swapping
+Tag:	Amnesia
+Tag:	Vore
+Tag:	Demons
+Related:	26628
+Related:	93736
+Related:	37971
+Related:	173172
+Related:	31133
+Related:	114622

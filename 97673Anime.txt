@@ -1,10 +1,10 @@
 ID:	97673
-Title:	Nyanko Days
 Title:	にゃんこデイズ
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
+Title:	Nyanko Days
 Tag:	Chibi
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
 Tag:	Animals
+Tag:	Primarily Female Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
 Tag:	Nekomimi
+Tag:	Kemonomimi

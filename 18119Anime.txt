@@ -1,13 +1,13 @@
 ID:	18119
 Title:	サーバント×サービス
 Title:	Servant x Service
-Tag:	Primarily Adult Cast
-Tag:	Office Lady
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Tsundere
-Tag:	Kuudere
-Tag:	Age Gap
 Tag:	Office
+Tag:	Kuudere
+Tag:	Slapstick
+Tag:	Ensemble Cast
+Tag:	Tsundere
+Tag:	Age Gap
 Tag:	Work
+Tag:	Seinen
+Tag:	Office Lady
+Tag:	Primarily Adult Cast

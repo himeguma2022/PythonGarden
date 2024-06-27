@@ -1,21 +1,27 @@
 ID:	4081
-Title:	夏目友人帳
-Title:	Natsume's Book of Friends
 Title:	Natsume Yuujinchou
-Tag:	LGBTQ+ Themes
-Tag:	Shoujo
-Tag:	Estranged Family
-Tag:	Rural
+Title:	Natsume's Book of Friends
+Title:	夏目友人帳
 Tag:	Iyashikei
-Tag:	Tsundere
-Tag:	Urban Fantasy
 Tag:	Outdoor
+Tag:	Shoujo
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
+Tag:	Estranged Family
+Tag:	Male Protagonist
+Tag:	Rural
 Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
 Tag:	Youkai
 Tag:	Shapeshifting
-Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Found Family
+Tag:	LGBTQ+ Themes
+Tag:	Tsundere
+Tag:	Coming of Age
 Tag:	Adoption
+Tag:	Found Family
+Related:	4704
+Related:	4705
+Related:	154978
+Related:	78095
+Related:	31859
+Related:	5300

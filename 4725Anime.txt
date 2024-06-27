@@ -1,17 +1,21 @@
 ID:	4725
 Title:	Ga-Rei-Zero
-Title:	Ga-Rei: Zero
 Title:	喰霊-零-
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Disability
-Tag:	Urban Fantasy
-Tag:	Swordplay
-Tag:	Gore
+Title:	Ga-Rei: Zero
 Tag:	Tragedy
-Tag:	Achronological Order
 Tag:	Super Power
-Tag:	Female Protagonist
 Tag:	Shounen
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
 Tag:	Zombie
+Tag:	Nudity
+Tag:	Achronological Order
+Tag:	LGBTQ+ Themes
+Tag:	Gore
+Tag:	Disability
 Tag:	Work
+Related:	38685
+Related:	115220
+Related:	61725
+Related:	31102

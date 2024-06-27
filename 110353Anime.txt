@@ -2,22 +2,22 @@ ID:	110353
 Title:	DECA-DENCE
 Title:	デカダンス
 Title:	Deca-Dence
-Tag:	Steampunk
-Tag:	Artificial Intelligence
-Tag:	Satire
-Tag:	Augmented Reality
-Tag:	Robots
-Tag:	Found Family
-Tag:	CGI
-Tag:	Dystopian
 Tag:	Post-Apocalyptic
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Tanned Skin
 Tag:	Slapstick
-Tag:	Video Games
+Tag:	Satire
+Tag:	Artificial Intelligence
+Tag:	Tanned Skin
+Tag:	Augmented Reality
 Tag:	Kaiju
-Tag:	Coming of Age
 Tag:	Male Protagonist
-Tag:	Cyborg
 Tag:	Female Protagonist
+Tag:	Cyborg
+Tag:	Video Games
+Tag:	Age Gap
+Tag:	Steampunk
+Tag:	Robots
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	Dystopian
+Tag:	CGI

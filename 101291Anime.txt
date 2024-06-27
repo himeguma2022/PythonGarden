@@ -1,26 +1,48 @@
 ID:	101291
-Title:	青春ブタ野郎はバニーガール先輩の夢を見ない
 Title:	Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai
 Title:	Rascal Does Not Dream of Bunny Girl Senpai
-Tag:	Hikikomori
-Tag:	School
-Tag:	Tsundere
+Title:	青春ブタ野郎はバニーガール先輩の夢を見ない
+Tag:	Tragedy
+Tag:	Love Triangle
 Tag:	Urban
-Tag:	Primarily Female Cast
-Tag:	Amnesia
-Tag:	Time Manipulation
+Tag:	Dissociative Identities
+Tag:	Tsundere
 Tag:	Memory Manipulation
+Tag:	Bullying
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Time Manipulation
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
 Tag:	Acting
 Tag:	Heterosexual
-Tag:	Tragedy
-Tag:	Idol
-Tag:	Rehabilitation
-Tag:	Love Triangle
-Tag:	Body Swapping
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Dissociative Identities
-Tag:	Primarily Teen Cast
 Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Bullying
+Tag:	Hikikomori
+Tag:	Body Swapping
+Tag:	Amnesia
+Tag:	Rehabilitation
+Tag:	Idol
+Related:	68996
+Related:	145157
+Related:	70151
+Related:	69000
+Related:	70153
+Related:	145159
+Related:	145160
+Related:	69004
+Related:	145162
+Related:	69006
+Related:	91170
+Related:	25001
+Related:	104236
+Related:	87471
+Related:	22337
+Related:	127683
+Related:	104157
+Related:	163683
+Related:	163684
+Related:	85862
+Related:	50926
+Related:	85870

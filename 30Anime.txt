@@ -1,0 +1,64 @@
+ID:	30
+Title:	新世紀エヴァンゲリオン
+Title:	Neon Genesis Evangelion
+Title:	Shin Seiki Evangelion
+Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	Super Robot
+Tag:	Aliens
+Tag:	Clone
+Tag:	Post-Apocalyptic
+Tag:	Angels
+Tag:	Kuudere
+Tag:	Tokusatsu
+Tag:	Denpa
+Tag:	Trains
+Tag:	Tsundere
+Tag:	Gore
+Tag:	Religion
+Tag:	Conspiracy
+Tag:	Kaiju
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Suicide
+Tag:	Mythology
+Tag:	Espionage
+Tag:	Nudity
+Tag:	Real Robot
+Tag:	LGBTQ+ Themes
+Tag:	Coming of Age
+Tag:	Psychosexual
+Tag:	Dystopian
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Bisexual
+Related:	30087
+Related:	100620
+Related:	29839
+Related:	31
+Related:	32
+Related:	4130
+Related:	37415
+Related:	92711
+Related:	55594
+Related:	46259
+Related:	110131
+Related:	101195
+Related:	48975
+Related:	102096
+Related:	86
+Related:	87
+Related:	88
+Related:	125785
+Related:	61786
+Related:	57434
+Related:	48987
+Related:	128737
+Related:	125796
+Related:	30698
+Related:	61936
+Related:	171643

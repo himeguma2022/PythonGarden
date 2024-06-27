@@ -1,22 +1,28 @@
 ID:	108725
+Title:	The Promised Neverland Season 2
 Title:	Yakusoku no Neverland 2
 Title:	約束のネバーランド2
-Title:	The Promised Neverland Season 2
-Tag:	Fugitive
 Tag:	Crime
-Tag:	Ensemble Cast
-Tag:	Orphan
-Tag:	Survival
-Tag:	Dystopian
-Tag:	Demons
-Tag:	Body Horror
-Tag:	Archery
 Tag:	Revenge
 Tag:	Primarily Child Cast
-Tag:	Food
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Time Skip
-Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Archery
+Tag:	Orphan
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Survival
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Body Horror
 Tag:	Travel
+Tag:	Fugitive
+Tag:	Gore
+Tag:	Time Skip
+Tag:	Demons
+Related:	131047
+Related:	87423
+Related:	31639
+Related:	31641
+Related:	54875
+Related:	101759

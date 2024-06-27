@@ -1,8 +1,8 @@
 ID:	130448
-Title:	Pretending to forget
 Title:	忘れたフリをして
+Title:	Pretending to forget
 Title:	Wasureta Furi wo Shite
-Tag:	Drawing
-Tag:	Rehabilitation
 Tag:	Autobiographical
+Tag:	Drawing
 Tag:	Advertisement
+Tag:	Rehabilitation

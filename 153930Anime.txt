@@ -1,26 +1,28 @@
 ID:	153930
 Title:	ロマンティック・キラー
 Title:	Romantic Killer
-Tag:	Disability
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Tsundere
-Tag:	CGI
-Tag:	Male Harem
-Tag:	Shounen
-Tag:	Asexual
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Parody
-Tag:	Heterosexual
-Tag:	Yandere
-Tag:	Meta
 Tag:	Love Triangle
 Tag:	Slapstick
-Tag:	Video Games
-Tag:	Work
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
 Tag:	Baseball
+Tag:	Tsundere
+Tag:	Memory Manipulation
+Tag:	Asexual
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Male Harem
+Tag:	Video Games
+Tag:	Meta
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	CGI
+Tag:	Shapeshifting
+Tag:	Anti-Hero
+Tag:	Yandere
+Tag:	Disability
+Tag:	Work
+Related:	77137
+Related:	113531

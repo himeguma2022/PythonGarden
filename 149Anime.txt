@@ -1,9 +1,9 @@
 ID:	149
 Title:	Loveless
 Title:	LOVELESS
+Tag:	Boys' Love
+Tag:	Primarily Male Cast
+Tag:	Age Gap
+Tag:	Josei
 Tag:	Magic
 Tag:	Kemonomimi
-Tag:	Boys' Love
-Tag:	Age Gap
-Tag:	Primarily Male Cast
-Tag:	Josei

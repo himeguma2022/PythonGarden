@@ -1,12 +1,14 @@
 ID:	99390
-Title:	Miira no Kaikata
 Title:	ミイラの飼い方
 Title:	How to Keep a Mummy
-Tag:	School
-Tag:	Ensemble Cast
+Title:	Miira no Kaikata
 Tag:	Iyashikei
-Tag:	Youkai
-Tag:	Dragons
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Youkai
 Tag:	Animals
+Tag:	Dragons
+Related:	87444
+Related:	20181

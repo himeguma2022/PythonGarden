@@ -1,18 +1,30 @@
 ID:	100977
+Title:	はたらく細胞
 Title:	Cells at Work!
 Title:	Hataraku Saibou
-Title:	はたらく細胞
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Educational
-Tag:	Episodic
-Tag:	Chibi
-Tag:	Gore
 Tag:	Tragedy
+Tag:	Educational
+Tag:	CGI
+Tag:	Slapstick
 Tag:	Medicine
-Tag:	Female Protagonist
 Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
 Tag:	Anthropomorphism
+Tag:	Gore
+Tag:	Chibi
 Tag:	Work
+Tag:	Primarily Adult Cast
+Related:	109085
+Related:	50787
+Related:	41091
+Related:	27108
+Related:	31563
+Related:	61775
+Related:	22003
+Related:	138675
+Related:	108631
+Related:	86778
+Related:	117533
+Related:	105662

@@ -1,26 +1,30 @@
 ID:	8841
-Title:	Kore wa Zombie desu ka?
 Title:	Is this a Zombie?
+Title:	Kore wa Zombie desu ka?
 Title:	これはゾンビですか?
-Tag:	School
-Tag:	Vampire
-Tag:	Primarily Female Cast
-Tag:	Reincarnation
-Tag:	Surreal Comedy
-Tag:	Gore
-Tag:	Monster Girl
-Tag:	Memory Manipulation
-Tag:	Nudity
-Tag:	Magic
-Tag:	Circus
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Yandere
 Tag:	Crossdressing
-Tag:	Zombie
-Tag:	Henshin
-Tag:	Female Harem
+Tag:	Gore
+Tag:	Memory Manipulation
 Tag:	Yuri
+Tag:	Primarily Female Cast
 Tag:	Male Protagonist
+Tag:	Circus
+Tag:	Monster Girl
+Tag:	Reincarnation
+Tag:	Female Harem
+Tag:	School
 Tag:	Ninja
+Tag:	Zombie
+Tag:	Vampire
 Tag:	Assassins
+Tag:	Nudity
+Tag:	Henshin
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Surreal Comedy
+Tag:	Yandere
+Related:	6504
+Related:	6505
+Related:	53067
+Related:	10209

@@ -1,19 +1,25 @@
 ID:	104464
+Title:	俺を好きなのはお前だけかよ
 Title:	ORESUKI: Are you the only one who loves me?
 Title:	Ore wo Suki nano wa Omae dake ka yo
-Title:	俺を好きなのはお前だけかよ
-Tag:	Parody
-Tag:	School
-Tag:	Anti-Hero
+Tag:	Bullying
+Tag:	Revenge
+Tag:	Primarily Female Cast
+Tag:	Love Triangle
+Tag:	Male Protagonist
+Tag:	Baseball
 Tag:	Female Harem
+Tag:	School
 Tag:	Detective
+Tag:	Parody
 Tag:	Male Harem
 Tag:	Tsundere
-Tag:	Revenge
+Tag:	Anti-Hero
 Tag:	Heterosexual
-Tag:	Male Protagonist
 Tag:	Meta
-Tag:	Love Triangle
-Tag:	Primarily Female Cast
-Tag:	Baseball
-Tag:	Bullying
+Related:	32320
+Related:	37536
+Related:	32322
+Related:	114195
+Related:	96855
+Related:	98648

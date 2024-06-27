@@ -1,20 +1,28 @@
 ID:	111321
-Title:	Tate no Yuusha no Nariagari Season 2
 Title:	盾の勇者の成り上がり Season 2
 Title:	The Rising of the Shield Hero Season 2
-Tag:	Nudity
-Tag:	Magic
-Tag:	Kemonomimi
-Tag:	CGI
-Tag:	Age Regression
-Tag:	Anti-Hero
-Tag:	Female Harem
-Tag:	Isekai
+Title:	Tate no Yuusha no Nariagari Season 2
+Tag:	Slavery
 Tag:	Prison
 Tag:	Revenge
-Tag:	Slavery
-Tag:	Gore
-Tag:	Male Protagonist
+Tag:	Kemonomimi
 Tag:	Fishing
-Tag:	Kaiju
+Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Age Regression
+Tag:	Isekai
+Tag:	Female Harem
+Tag:	Nudity
 Tag:	Travel
+Tag:	Gore
+Tag:	Anti-Hero
+Tag:	Magic
+Tag:	Kaiju
+Related:	85442
+Related:	36937
+Related:	85743
+Related:	34457
+Related:	111322
+Related:	34459
+Related:	34462
+Related:	99263

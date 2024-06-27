@@ -1,23 +1,25 @@
 ID:	20565
-Title:	Gonna be the Twin-Tail!!
-Title:	Ore, Twintail ni Narimasu.
 Title:	俺、ツインテールになります。
+Title:	Gonna be the Twin-Tail!!
 Title:	"Ore, Twintail ni Narimasu."
-Tag:	Crossdressing
-Tag:	School
-Tag:	Ojou-sama
-Tag:	Henshin
-Tag:	Satire
+Title:	Ore, Twintail ni Narimasu.
+Tag:	Super Power
 Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	Love Triangle
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Satire
 Tag:	Female Harem
+Tag:	Superhero
+Tag:	School
 Tag:	Gender Bending
 Tag:	Tokusatsu
+Tag:	Crossdressing
 Tag:	Tsundere
+Tag:	Henshin
+Tag:	Ojou-sama
 Tag:	Otaku Culture
-Tag:	Swordplay
-Tag:	Superhero
-Tag:	Male Protagonist
 Tag:	Idol
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Primarily Female Cast
+Related:	88187
+Related:	22351

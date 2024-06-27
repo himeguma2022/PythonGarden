@@ -1,21 +1,25 @@
 ID:	12355
-Title:	おおかみこどもの雨と雪
 Title:	Ookami Kodomo no Ame to Yuki
+Title:	おおかみこどもの雨と雪
 Title:	Wolf Children
-Tag:	Werewolf
-Tag:	Parenthood
+Tag:	Tragedy
 Tag:	Kemonomimi
-Tag:	School
-Tag:	Rural
+Tag:	Werewolf
 Tag:	Urban
-Tag:	Snowscape
-Tag:	Coming of Age
-Tag:	Family Life
-Tag:	Heterosexual
-Tag:	Agriculture
 Tag:	Male Protagonist
 Tag:	Environmental
-Tag:	Tragedy
+Tag:	Family Life
+Tag:	Rural
+Tag:	Snowscape
+Tag:	School
 Tag:	Female Protagonist
-Tag:	Animals
 Tag:	Shapeshifting
+Tag:	Animals
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Parenthood
+Tag:	Agriculture
+Related:	76232
+Related:	70761
+Related:	25884
+Related:	25886

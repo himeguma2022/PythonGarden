@@ -1,25 +1,25 @@
 ID:	2605
-Title:	Sayonara Zetsubou Sensei
 Title:	さよなら絶望先生
+Title:	Sayonara Zetsubou Sensei
 Title:	Sayonara, Zetsubou-Sensei
 Tag:	Hikikomori
-Tag:	School
-Tag:	Satire
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Suicide
-Tag:	Nudity
-Tag:	Parody
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Yandere
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Satire
 Tag:	Meta
-Tag:	Philosophy
-Tag:	Female Harem
-Tag:	Teacher
-Tag:	Dissociative Identities
+Tag:	Yandere
 Tag:	Episodic
+Tag:	Female Harem
+Tag:	Dissociative Identities
+Tag:	Surreal Comedy
+Tag:	Shounen
+Tag:	Philosophy
+Tag:	Teacher
+Tag:	Parody
+Tag:	Ensemble Cast
 Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Ghost
+Tag:	Nudity
+Tag:	Suicide

@@ -1,12 +1,12 @@
 ID:	146678
-Title:	Opus.COLORs
 Title:	Opus.COLORs（オーパスカラーズ）
+Title:	Opus.COLORs
+Tag:	Male Protagonist
+Tag:	Boys' Love
 Tag:	CGI
+Tag:	Orphan
+Tag:	Primarily Male Cast
 Tag:	School
 Tag:	Drawing
 Tag:	Primarily Teen Cast
-Tag:	Boys' Love
 Tag:	Augmented Reality
-Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Orphan

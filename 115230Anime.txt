@@ -1,23 +1,27 @@
 ID:	115230
-Title:	Tower of God
 Title:	Kami no Tou: Tower of God
-Title:	Kami no Tou
 Title:	神之塔 -Tower of God-
-Tag:	Cultivation
-Tag:	Primarily Male Cast
-Tag:	Battle Royale
-Tag:	Magic
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Survival
-Tag:	Coming of Age
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Revenge
-Tag:	Male Protagonist
+Title:	Kami no Tou
+Title:	Tower of God
 Tag:	Tragedy
+Tag:	Cultivation
 Tag:	Super Power
-Tag:	Death Game
+Tag:	Revenge
+Tag:	Battle Royale
 Tag:	Shounen
-Tag:	Suicide
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Survival
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
 Tag:	Travel
+Tag:	Suicide
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Death Game
+Tag:	Coming of Age
+Tag:	Conspiracy
+Related:	76648
+Related:	38987
+Related:	153406
+Related:	85143

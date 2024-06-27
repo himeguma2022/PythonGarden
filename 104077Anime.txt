@@ -1,0 +1,9 @@
+ID:	104077
+Title:	イナズマイレブン オリオンの刻印
+Title:	Inazuma Eleven: The Seal of Orion
+Title:	Inazuma Eleven: Orion no Kokuin
+Tag:	Super Power
+Tag:	Football
+Tag:	Foreign
+Related:	24956
+Related:	21879

@@ -1,15 +1,17 @@
 ID:	99366
-Title:	ちおちゃんの通学路
 Title:	Chio's School Road
+Title:	ちおちゃんの通学路
 Title:	Chio-chan no Tsuugakuro
 Tag:	Surreal Comedy
-Tag:	Seinen
+Tag:	Video Games
+Tag:	Cute Girls Doing Cute Things
 Tag:	Slapstick
 Tag:	Urban
-Tag:	Otaku Culture
-Tag:	Konbini
-Tag:	Episodic
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Otaku Culture
 Tag:	Chuunibyou
-Tag:	Cute Girls Doing Cute Things
-Tag:	Video Games
+Tag:	Seinen
+Tag:	Konbini
+Related:	85820
+Related:	20149

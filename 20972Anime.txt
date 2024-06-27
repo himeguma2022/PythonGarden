@@ -1,19 +1,25 @@
 ID:	20972
+Title:	昭和元禄落語心中
 Title:	Showa Genroku Rakugo Shinju
 Title:	Shouwa Genroku Rakugo Shinjuu
-Title:	昭和元禄落語心中
-Tag:	Disability
+Tag:	Tragedy
+Tag:	Historical
+Tag:	Josei
 Tag:	Elderly Protagonist
-Tag:	Primarily Adult Cast
-Tag:	Rakugo
+Tag:	Love Triangle
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Acting
 Tag:	War
-Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Time Skip
 Tag:	Primarily Male Cast
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Love Triangle
 Tag:	Suicide
-Tag:	Josei
+Tag:	Rakugo
+Tag:	Disability
+Tag:	Primarily Adult Cast
+Tag:	Meta
+Related:	56704
+Related:	21733
+Related:	20970
+Related:	11150
+Related:	9843
+Related:	10968

@@ -1,17 +1,17 @@
 ID:	975
+Title:	Yokohama Shopping Log
 Title:	Yokohama Kaidashi Kikou
 Title:	ヨコハマ買い出し紀行
-Title:	Yokohama Shopping Log
-Tag:	LGBTQ+ Themes
-Tag:	Lost Civilization
-Tag:	Rural
-Tag:	Seinen
-Tag:	Iyashikei
-Tag:	Coastal
-Tag:	Photography
 Tag:	Robots
-Tag:	Yuri
-Tag:	Mopeds
-Tag:	Philosophy
+Tag:	Photography
+Tag:	Rural
+Tag:	Lost Civilization
+Tag:	Seinen
 Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Iyashikei
+Tag:	Philosophy
 Tag:	Post-Apocalyptic
+Tag:	Mopeds
+Tag:	LGBTQ+ Themes
+Tag:	Coastal

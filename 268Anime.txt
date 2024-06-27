@@ -2,20 +2,22 @@ ID:	268
 Title:	GOLDEN BOY
 Title:	GOLDEN BOY さすらいのお勉強野郎
 Title:	GOLDEN BOY: Sasurai no Obenkyou Yarou
-Tag:	Nudity
-Tag:	Satire
-Tag:	Office Lady
-Tag:	Seinen
-Tag:	Female Harem
-Tag:	Software Development
-Tag:	Episodic
-Tag:	Work
-Tag:	Heterosexual
-Tag:	Yakuza
-Tag:	Tanned Skin
-Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Cycling
 Tag:	Swimming
+Tag:	Yakuza
 Tag:	Motorcycles
+Tag:	Male Protagonist
+Tag:	Satire
+Tag:	Female Harem
+Tag:	Episodic
+Tag:	Tanned Skin
+Tag:	Software Development
 Tag:	Travel
+Tag:	Nudity
+Tag:	Seinen
+Tag:	Heterosexual
+Tag:	Work
+Tag:	Cycling
+Tag:	Office Lady
+Tag:	Meta
+Related:	31458
+Related:	659

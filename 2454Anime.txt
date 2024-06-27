@@ -2,14 +2,18 @@ ID:	2454
 Title:	Kimagure Orange☆Road: Ano Hi ni Kaeritai
 Title:	きまぐれオレンジ☆ロード　あの日にかえりたい
 Title:	Kimagure Orange Road: I Want to Return to That Day
-Tag:	School
-Tag:	Photography
-Tag:	Primarily Teen Cast
-Tag:	Acting
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Male Protagonist
 Tag:	Tragedy
+Tag:	Primarily Teen Cast
 Tag:	Love Triangle
-Tag:	Urban
 Tag:	Shounen
+Tag:	Urban
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Acting
+Tag:	Photography
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	2098
+Related:	3572
+Related:	3573
+Related:	1087

@@ -2,17 +2,17 @@ ID:	130713
 Title:	Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
 Title:	魔法使いの嫁 西の少年と青嵐の騎士
 Title:	The Ancient Magus' Bride: The Boy from the West and the Knight of the Blue Storm
-Tag:	Magic
-Tag:	Disability
+Tag:	Found Family
+Tag:	Fairy
+Tag:	Kuudere
+Tag:	Animals
 Tag:	Rural
 Tag:	Amnesia
-Tag:	Urban Fantasy
-Tag:	Kuudere
-Tag:	Monster Boy
-Tag:	Mythology
-Tag:	Fairy
-Tag:	Female Protagonist
+Tag:	Disability
 Tag:	Shounen
-Tag:	Animals
-Tag:	Found Family
 Tag:	Adoption
+Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Mythology
+Tag:	Monster Boy
+Tag:	Urban Fantasy

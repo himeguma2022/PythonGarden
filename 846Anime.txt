@@ -1,18 +1,26 @@
 ID:	846
-Title:	スクールランブル 二学期
 Title:	School Rumble 2nd Term
 Title:	School Rumble Ni Gakki
-Tag:	Parody
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Tsundere
+Title:	スクールランブル 二学期
+Tag:	Basketball
 Tag:	Primarily Teen Cast
-Tag:	Episodic
-Tag:	Delinquents
-Tag:	Heterosexual
-Tag:	Kuudere
 Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Delinquents
 Tag:	Butler
 Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Basketball
+Tag:	Episodic
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Kuudere
+Tag:	Parody
+Tag:	Tsundere
+Tag:	Heterosexual
+Related:	1504
+Related:	517
+Related:	30123
+Related:	4015
+Related:	30160
+Related:	24
+Related:	1501
+Related:	1503

@@ -2,13 +2,17 @@ ID:	100855
 Title:	Today's Menu for the Emiya Family
 Title:	衛宮さんちの今日のごはん
 Title:	Emiya-san Chi no Kyou no Gohan
-Tag:	Alternate Universe
-Tag:	Seinen
-Tag:	Ensemble Cast
 Tag:	Iyashikei
-Tag:	Urban Fantasy
 Tag:	Educational
-Tag:	Volleyball
-Tag:	Episodic
-Tag:	Food
 Tag:	Urban
+Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Volleyball
+Tag:	Seinen
+Tag:	Alternate Universe
+Related:	34170
+Related:	21835
+Related:	356
+Related:	87199

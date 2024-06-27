@@ -1,18 +1,22 @@
 ID:	21290
-Title:	Netoge no Yome wa Onnanoko ja Nai to Omotta?
 Title:	And you thought there is never a girl online?
 Title:	ネトゲの嫁は女の子じゃないと思った?
-Tag:	Virtual World
-Tag:	Nudity
-Tag:	School Club
-Tag:	Hikikomori
-Tag:	School
-Tag:	Female Harem
-Tag:	Tsundere
-Tag:	Otaku Culture
-Tag:	Heterosexual
-Tag:	Yandere
-Tag:	Male Protagonist
-Tag:	Rehabilitation
-Tag:	Video Games
+Title:	Netoge no Yome wa Onnanoko ja Nai to Omotta?
 Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Nudity
+Tag:	Virtual World
+Tag:	Tsundere
+Tag:	Video Games
+Tag:	Yandere
+Tag:	Heterosexual
+Tag:	Rehabilitation
+Tag:	Hikikomori
+Tag:	School Club
+Related:	86009
+Related:	10410
+Related:	85886
+Related:	47031

@@ -1,23 +1,27 @@
 ID:	110354
-Title:	BNA ビー・エヌ・エー
 Title:	BNA
-Tag:	Kemonomimi
-Tag:	Politics
-Tag:	Detective
-Tag:	Tomboy
-Tag:	Conspiracy
-Tag:	Dystopian
-Tag:	Animals
-Tag:	Anthropomorphism
-Tag:	Shapeshifting
-Tag:	Lost Civilization
-Tag:	Idol
-Tag:	Cult
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Class Struggle
-Tag:	Coming of Age
-Tag:	Mafia
-Tag:	Female Protagonist
+Title:	BNA ビー・エヌ・エー
 Tag:	Baseball
+Tag:	Anthropomorphism
+Tag:	Cult
+Tag:	Class Struggle
+Tag:	Conspiracy
 Tag:	Bullying
+Tag:	Lost Civilization
+Tag:	Female Protagonist
+Tag:	Politics
+Tag:	Kemonomimi
+Tag:	Urban Fantasy
+Tag:	Mafia
+Tag:	Animals
+Tag:	Police
+Tag:	Coming of Age
+Tag:	Tomboy
+Tag:	Dystopian
+Tag:	Detective
+Tag:	Shapeshifting
+Tag:	Idol
+Related:	41305
+Related:	42666
+Related:	117738
+Related:	119126

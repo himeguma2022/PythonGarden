@@ -1,16 +1,22 @@
 ID:	14355
-Title:	Encouragement of Climb
-Title:	Yama no Susume
 Title:	ヤマノススメ
-Tag:	School
-Tag:	Seinen
+Title:	Yama no Susume
+Title:	Encouragement of Climb
 Tag:	Iyashikei
-Tag:	Educational
-Tag:	Outdoor
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Primarily Child Cast
-Tag:	Mountaineering
-Tag:	Food
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Educational
+Tag:	Mountaineering
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Food
+Tag:	Seinen
+Tag:	Outdoor
+Related:	7972
+Related:	20485
+Related:	49129
+Related:	71049
+Related:	49131
+Related:	17341

@@ -1,21 +1,25 @@
 ID:	105333
+Title:	Dr. Stone
 Title:	Dr. STONE
 Title:	Dr.STONE
-Title:	Dr. Stone
-Tag:	Primarily Male Cast
-Tag:	Kingdom Management
-Tag:	Lost Civilization
+Tag:	Tomboy
+Tag:	Primarily Teen Cast
 Tag:	Spearplay
+Tag:	Shounen
+Tag:	Post-Apocalyptic
+Tag:	Educational
+Tag:	Environmental
+Tag:	Lost Civilization
+Tag:	Male Protagonist
 Tag:	Ensemble Cast
 Tag:	Survival
-Tag:	Educational
-Tag:	Primarily Teen Cast
+Tag:	Primarily Male Cast
 Tag:	Espionage
-Tag:	Tomboy
-Tag:	Male Protagonist
-Tag:	Environmental
 Tag:	Time Skip
-Tag:	Post-Apocalyptic
-Tag:	Shounen
 Tag:	Asexual
+Tag:	Kingdom Management
 Tag:	Found Family
+Related:	98416
+Related:	113936
+Related:	37250
+Related:	26707

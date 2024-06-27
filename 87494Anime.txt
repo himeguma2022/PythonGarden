@@ -1,12 +1,16 @@
 ID:	87494
-Title:	Hitorijime My Hero
 Title:	ひとりじめマイヒーロー
-Tag:	LGBTQ+ Themes
-Tag:	Gangs
-Tag:	School
+Title:	Hitorijime My Hero
 Tag:	Teacher
 Tag:	Boys' Love
-Tag:	Age Gap
 Tag:	Cute Boys Doing Cute Things
+Tag:	School
 Tag:	Primarily Male Cast
+Tag:	Age Gap
+Tag:	LGBTQ+ Themes
+Tag:	Gangs
 Tag:	Found Family
+Related:	73889
+Related:	17403
+Related:	74111
+Related:	34335

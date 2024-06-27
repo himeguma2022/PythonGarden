@@ -3,16 +3,22 @@ Title:	Yubisaki to Renren
 Title:	A Sign of Affection
 Title:	ゆびさきと恋々
 Tag:	Language Barrier
-Tag:	Unrequited Love
+Tag:	Iyashikei
 Tag:	Disability
 Tag:	Shoujo
-Tag:	Primarily Adult Cast
-Tag:	Bar
-Tag:	Iyashikei
-Tag:	Urban
-Tag:	Heterosexual
-Tag:	Chibi
-Tag:	Restaurant
-Tag:	College
 Tag:	Love Triangle
+Tag:	Urban
 Tag:	Female Protagonist
+Tag:	College
+Tag:	Chibi
+Tag:	Unrequited Love
+Tag:	Bar
+Tag:	Restaurant
+Tag:	Heterosexual
+Tag:	Primarily Adult Cast
+Related:	88097
+Related:	96580
+Related:	94859
+Related:	174417
+Related:	111189
+Related:	65719

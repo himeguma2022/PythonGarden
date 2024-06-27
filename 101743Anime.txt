@@ -1,0 +1,11 @@
+ID:	101743
+Title:	Theatre of Darkness: Yamishibai 6
+Title:	闇芝居 6
+Title:	Yami Shibai 6
+Tag:	Rural
+Tag:	Episodic
+Tag:	Demons
+Related:	32624
+Related:	98978
+Related:	109603
+Related:	22909

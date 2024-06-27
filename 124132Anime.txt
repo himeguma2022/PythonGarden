@@ -1,11 +1,11 @@
 ID:	124132
 Title:	Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha
 Title:	夏目友人帳 石起こしと怪しき来訪者
-Tag:	Shoujo
-Tag:	Rural
-Tag:	Iyashikei
-Tag:	Dissociative Identities
-Tag:	Youkai
-Tag:	Dinosaurs
 Tag:	Male Protagonist
+Tag:	Rural
 Tag:	Shapeshifting
+Tag:	Dissociative Identities
+Tag:	Shoujo
+Tag:	Dinosaurs
+Tag:	Youkai
+Tag:	Iyashikei

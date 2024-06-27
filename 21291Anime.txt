@@ -1,34 +1,34 @@
 ID:	21291
-Title:	ジョーカー・ゲーム
 Title:	Joker Game
-Tag:	Anti-Hero
-Tag:	Gambling
-Tag:	Politics
-Tag:	Marriage
-Tag:	Revenge
+Title:	ジョーカー・ゲーム
 Tag:	Maids
-Tag:	Fugitive
-Tag:	Crime
-Tag:	Conspiracy
-Tag:	Amnesia
-Tag:	Drugs
-Tag:	Ensemble Cast
 Tag:	Trains
-Tag:	War
-Tag:	Butler
-Tag:	Poker
-Tag:	Primarily Adult Cast
-Tag:	Acting
-Tag:	Heterosexual
-Tag:	Tanned Skin
-Tag:	Primarily Male Cast
-Tag:	Historical
-Tag:	Travel
 Tag:	Work
-Tag:	Ships
-Tag:	Military
-Tag:	Foreign
+Tag:	Acting
 Tag:	Episodic
+Tag:	Fugitive
+Tag:	War
+Tag:	Crime
 Tag:	Espionage
+Tag:	Foreign
+Tag:	Anti-Hero
+Tag:	Butler
+Tag:	Marriage
+Tag:	Ensemble Cast
+Tag:	Tanned Skin
+Tag:	Drugs
+Tag:	Primarily Adult Cast
+Tag:	Politics
+Tag:	Revenge
+Tag:	Historical
+Tag:	Conspiracy
+Tag:	Heterosexual
 Tag:	Achronological Order
+Tag:	Primarily Male Cast
+Tag:	Amnesia
+Tag:	Military
+Tag:	Gambling
+Tag:	Travel
 Tag:	Assassins
+Tag:	Ships
+Tag:	Poker

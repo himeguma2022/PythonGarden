@@ -1,0 +1,15 @@
+ID:	4107
+Title:	Tengen Toppa Gurren Lagann: Gurren-hen
+Title:	Gurren Lagann The Movie: Childhood's End
+Title:	天元突破グレンラガン 紅蓮篇
+Tag:	Tragedy
+Tag:	Aliens
+Tag:	Super Robot
+Tag:	Post-Apocalyptic
+Tag:	Robots
+Tag:	Twins
+Tag:	Coming of Age
+Related:	2001
+Related:	4565
+Related:	4710
+Related:	4711

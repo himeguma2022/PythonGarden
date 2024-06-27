@@ -1,13 +1,17 @@
 ID:	10162
-Title:	Usagi Drop
-Title:	うさぎドロップ
 Title:	Bunny Drop
-Tag:	Parenthood
+Title:	うさぎドロップ
+Title:	Usagi Drop
 Tag:	Iyashikei
-Tag:	Work
 Tag:	Josei
+Tag:	Orphan
+Tag:	Adoption
 Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Orphan
+Tag:	Work
+Tag:	Parenthood
 Tag:	Found Family
-Tag:	Adoption
+Related:	11113
+Related:	7026
+Related:	7027
+Related:	33468

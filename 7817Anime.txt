@@ -1,16 +1,18 @@
 ID:	7817
 Title:	Yamada's First Time: B Gata H Kei
-Title:	B Gata H Kei
 Title:	B型H系
+Title:	B Gata H Kei
 Title:	B-gata H-kei
-Tag:	Nudity
-Tag:	Parody
-Tag:	School
-Tag:	Ojou-sama
-Tag:	Seinen
-Tag:	Tsundere
-Tag:	Photography
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Gods
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Parody
+Tag:	Gods
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Seinen
+Tag:	Photography
+Tag:	Ojou-sama
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	6177
+Related:	49007

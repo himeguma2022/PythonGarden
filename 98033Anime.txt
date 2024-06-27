@@ -1,7 +1,7 @@
 ID:	98033
+Title:	神様はじめました「神様、幸せになる」
 Title:	"Kamisama Hajimemashita: Kamisama, Shiawase ni Naru"
 Title:	Kamisama Hajimemashita: Kamisama, Shiawase ni Naru
-Title:	神様はじめました「神様、幸せになる」
 Tag:	Female Protagonist
-Tag:	Shoujo
 Tag:	Youkai
+Tag:	Shoujo

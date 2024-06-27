@@ -1,17 +1,17 @@
 ID:	100665
-Title:	Back Street Girls: Gokudols
 Title:	Back Street Girls: Gokudolls
+Title:	Back Street Girls: Gokudols
 Title:	Back Street Girls -ゴクドルズ-
 Title:	Back Street Girls -GOKUDOLS-
-Tag:	Primarily Male Cast
-Tag:	Crossdressing
-Tag:	Transgender
-Tag:	Primarily Adult Cast
-Tag:	Gender Bending
-Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Otaku Culture
-Tag:	Yakuza
 Tag:	Idol
+Tag:	Otaku Culture
 Tag:	Slapstick
+Tag:	Surreal Comedy
 Tag:	Primarily Female Cast
+Tag:	Gender Bending
+Tag:	Primarily Male Cast
+Tag:	Seinen
+Tag:	Transgender
+Tag:	Yakuza
+Tag:	Primarily Adult Cast
+Tag:	Crossdressing

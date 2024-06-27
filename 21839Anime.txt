@@ -1,9 +1,9 @@
 ID:	21839
-Title:	12-sai.: Chicchana Mune no Tokimeki 2nd Season
 Title:	12歳。～ちっちゃなムネのトキメキ～ 2
+Title:	12-sai.: Chicchana Mune no Tokimeki 2nd Season
 Title:	12-sai.: Chiccha na Mune no Tokimeki 2
-Tag:	Shoujo
-Tag:	School
 Tag:	Heterosexual
 Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Shoujo
 Tag:	Female Protagonist

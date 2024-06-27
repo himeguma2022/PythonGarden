@@ -2,19 +2,25 @@ ID:	101001
 Title:	あそびあそばせ
 Title:	Asobi Asobase
 Title:	Asobi Asobase - workshop of fun -
-Tag:	LGBTQ+ Themes
-Tag:	School Club
-Tag:	Parody
-Tag:	Ojou-sama
-Tag:	School
-Tag:	Gyaru
+Tag:	Primarily Female Cast
 Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Slapstick
-Tag:	Episodic
 Tag:	Primarily Teen Cast
 Tag:	Cute Girls Doing Cute Things
-Tag:	Makeup
-Tag:	Meta
+Tag:	Slapstick
 Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Tag:	Ojou-sama
+Tag:	Episodic
+Tag:	School
+Tag:	Parody
+Tag:	LGBTQ+ Themes
+Tag:	Meta
+Tag:	Gyaru
+Tag:	Makeup
+Tag:	Seinen
+Tag:	School Club
+Related:	104170
+Related:	97418
+Related:	25231
+Related:	104368
+Related:	25013
+Related:	22044

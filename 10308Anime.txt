@@ -1,14 +1,14 @@
 ID:	10308
-Title:	戦国乙女～桃色パラドックス～
-Title:	Sengoku Otome: Momoiro Paradox
 Title:	Battle Girls: Time Paradox
-Tag:	Female Harem
-Tag:	Samurai
-Tag:	Time Manipulation
-Tag:	Isekai
-Tag:	Swordplay
+Title:	Sengoku Otome: Momoiro Paradox
+Title:	戦国乙女～桃色パラドックス～
+Tag:	Historical
 Tag:	Primarily Female Cast
 Tag:	Super Power
+Tag:	Swordplay
+Tag:	Isekai
 Tag:	Female Protagonist
-Tag:	Historical
+Tag:	Female Harem
+Tag:	Samurai
 Tag:	Asexual
+Tag:	Time Manipulation

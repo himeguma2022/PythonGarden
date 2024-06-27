@@ -1,17 +1,17 @@
 ID:	127958
-Title:	Fortune Favors Lady Nikuko
 Title:	漁港の肉子ちゃん
 Title:	Gyokou no Nikuko-chan
-Tag:	Parenthood
-Tag:	School
-Tag:	Rural
-Tag:	Slapstick
+Title:	Fortune Favors Lady Nikuko
 Tag:	Coastal
-Tag:	Coming of Age
-Tag:	Primarily Child Cast
-Tag:	Food
 Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Basketball
-Tag:	Bullying
+Tag:	Rural
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Slapstick
 Tag:	Adoption
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Parenthood
+Tag:	Coming of Age
+Tag:	Bullying
+Tag:	Basketball

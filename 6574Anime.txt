@@ -1,14 +1,22 @@
 ID:	6574
+Title:	Hanamaru Youchien
 Title:	Hanamaru Kindergarten
 Title:	はなまる幼稚園
-Title:	Hanamaru Youchien
-Tag:	School
-Tag:	Seinen
 Tag:	Teacher
+Tag:	Primarily Child Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Male Protagonist
 Tag:	Female Harem
+Tag:	School
 Tag:	Kuudere
 Tag:	Age Gap
-Tag:	Cute Girls Doing Cute Things
-Tag:	Primarily Child Cast
-Tag:	Male Protagonist
+Tag:	Seinen
 Tag:	Work
+Related:	16740
+Related:	38950
+Related:	16646
+Related:	16648
+Related:	5739
+Related:	5740
+Related:	10737
+Related:	10738

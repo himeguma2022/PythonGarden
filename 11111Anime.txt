@@ -1,19 +1,27 @@
 ID:	11111
 Title:	Another
 Title:	アナザー
+Tag:	Tragedy
 Tag:	Ghost
-Tag:	Twins
-Tag:	School
-Tag:	American Football
-Tag:	Denpa
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Female Protagonist
 Tag:	Survival
 Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
+Tag:	School
 Tag:	Kuudere
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Tragedy
-Tag:	Female Protagonist
-Tag:	Asexual
+Tag:	Denpa
 Tag:	Suicide
+Tag:	Gore
 Tag:	Memory Manipulation
+Tag:	Asexual
+Tag:	Twins
+Tag:	American Football
+Related:	33799
+Related:	8715
+Related:	7404
+Related:	20365
+Related:	7406
+Related:	54098
+Related:	59699
+Related:	11701

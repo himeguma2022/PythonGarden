@@ -1,23 +1,43 @@
 ID:	11741
 Title:	Fate/Zero 2nd Season
-Title:	Fate/Zero Season 2
 Title:	Fate/Zero 2ndシーズン
-Tag:	Anti-Hero
-Tag:	Guns
-Tag:	Vampire
-Tag:	Body Horror
-Tag:	CGI
-Tag:	Ensemble Cast
-Tag:	War
+Title:	Fate/Zero Season 2
+Tag:	Tragedy
 Tag:	Gore
-Tag:	Motorcycles
-Tag:	Battle Royale
-Tag:	Magic
+Tag:	Death Game
 Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Guns
 Tag:	Mythology
 Tag:	Swordplay
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Zombie
 Tag:	Urban Fantasy
-Tag:	Death Game
+Tag:	Zombie
+Tag:	Vampire
+Tag:	War
+Tag:	Magic
+Tag:	Battle Royale
+Tag:	Motorcycles
+Tag:	CGI
+Tag:	Philosophy
+Tag:	Anti-Hero
+Related:	11272
+Related:	11273
+Related:	6922
+Related:	70802
+Related:	76563
+Related:	19603
+Related:	8983
+Related:	55191
+Related:	11290
+Related:	106918
+Related:	20791
+Related:	13263
+Related:	7508
+Related:	356
+Related:	10087
+Related:	33649
+Related:	66803
+Related:	9467
+Related:	9469
+Related:	9471

@@ -1,24 +1,33 @@
 ID:	21123
-Title:	Drifters
 Title:	DRIFTERS
-Tag:	Anachronism
-Tag:	Rape
-Tag:	Anti-Hero
-Tag:	Seinen
+Tag:	Historical
 Tag:	Archery
-Tag:	Guns
-Tag:	Aviation
-Tag:	CGI
-Tag:	War
-Tag:	Dragons
-Tag:	Gore
-Tag:	Language Barrier
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Samurai
+Tag:	Isekai
 Tag:	Elf
+Tag:	Anachronism
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Guns
 Tag:	Swordplay
 Tag:	Primarily Male Cast
-Tag:	Historical
-Tag:	Isekai
-Tag:	Male Protagonist
+Tag:	War
+Tag:	Magic
+Tag:	Aviation
+Tag:	Language Barrier
+Tag:	CGI
+Tag:	Rape
+Tag:	Anti-Hero
+Tag:	Samurai
+Tag:	Dragons
+Related:	97988
+Related:	18085
+Related:	16932
+Related:	11077
+Related:	122922
+Related:	49716
+Related:	46072
+Related:	43801
+Related:	10106
+Related:	10108

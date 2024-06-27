@@ -1,27 +1,35 @@
 ID:	143064
 Title:	Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte
-Title:	Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
 Title:	ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん
-Tag:	School
+Title:	Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Isekai
+Tag:	Dissociative Identities
+Tag:	Gods
 Tag:	Tsundere
-Tag:	Marriage
 Tag:	Royal Affairs
-Tag:	Ojou-sama
-Tag:	Reincarnation
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Marriage
 Tag:	Villainess
-Tag:	Magic
-Tag:	Arranged Marriage
-Tag:	Otaku Culture
-Tag:	Heterosexual
+Tag:	Video Games
 Tag:	Yandere
 Tag:	Meta
-Tag:	Love Triangle
-Tag:	Tragedy
-Tag:	Video Games
-Tag:	Gods
-Tag:	Adoption
+Tag:	Reincarnation
+Tag:	School
+Tag:	Arranged Marriage
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Ojou-sama
+Tag:	Otaku Culture
 Tag:	Alternate Universe
-Tag:	Isekai
-Tag:	Primarily Teen Cast
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
+Tag:	Adoption
+Related:	111303
+Related:	162284
+Related:	117229
+Related:	162285
+Related:	84689
+Related:	66739
+Related:	66740
+Related:	84693

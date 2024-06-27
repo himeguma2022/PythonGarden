@@ -1,23 +1,29 @@
 ID:	99749
-Title:	Fairy Tail: Final Series
-Title:	FAIRY TAIL (2018)
 Title:	Fairy Tail Final Season
-Tag:	Demons
+Title:	FAIRY TAIL (2018)
+Title:	Fairy Tail: Final Series
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Love Triangle
+Tag:	Gods
+Tag:	Cult
+Tag:	Primarily Adult Cast
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Protagonist
 Tag:	Family Life
 Tag:	Time Manipulation
-Tag:	War
-Tag:	Dragons
-Tag:	Shounen
 Tag:	Nudity
+Tag:	War
 Tag:	Magic
-Tag:	Primarily Adult Cast
 Tag:	Heterosexual
-Tag:	Love Triangle
-Tag:	Tragedy
-Tag:	Gods
-Tag:	Super Power
-Tag:	Cult
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
 Tag:	Time Skip
-Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Dragons
+Related:	62208
+Related:	30598
+Related:	20594
+Related:	20626
+Related:	20598
+Related:	139095

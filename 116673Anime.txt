@@ -1,15 +1,21 @@
 ID:	116673
 Title:	BURN THE WITCH
 Title:	Burn the Witch
-Tag:	Steampunk
-Tag:	Magic
-Tag:	Foreign
-Tag:	Urban Fantasy
-Tag:	Kuudere
-Tag:	Dragons
-Tag:	Primarily Female Cast
 Tag:	Witch
-Tag:	Idol
-Tag:	Female Protagonist
+Tag:	Primarily Female Cast
 Tag:	Shounen
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Idol
+Tag:	Steampunk
+Tag:	Magic
+Tag:	Dragons
+Tag:	Foreign
+Related:	46871
+Related:	269
+Related:	169362
+Related:	90100
+Related:	49175
+Related:	116827

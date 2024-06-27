@@ -2,18 +2,22 @@ ID:	150972
 Title:	Saint Cecilia & Pastor Lawrence
 Title:	Shiro Seijo to Kuro Bokushi
 Title:	白聖女と黒牧師
-Tag:	Magic
-Tag:	Religion
-Tag:	Foreign
-Tag:	Rural
 Tag:	Iyashikei
-Tag:	Tsundere
-Tag:	Angels
 Tag:	Agriculture
-Tag:	Heterosexual
-Tag:	Fairy
-Tag:	Male Protagonist
 Tag:	Tragedy
 Tag:	Super Power
-Tag:	Female Protagonist
 Tag:	Shounen
+Tag:	Angels
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Tsundere
+Tag:	Fairy
+Tag:	Religion
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Rural
+Tag:	Foreign
+Related:	107112
+Related:	88683
+Related:	74693
+Related:	167647

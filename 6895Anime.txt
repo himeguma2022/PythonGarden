@@ -1,13 +1,13 @@
 ID:	6895
-Title:	薄桜鬼
-Title:	Hakuouki
 Title:	Hakuoki ~Demon of the Fleeting Blossom~
-Tag:	Male Harem
-Tag:	Samurai
-Tag:	Swordplay
-Tag:	Female Protagonist
-Tag:	Vampire
-Tag:	Crossdressing
-Tag:	Tragedy
-Tag:	Primarily Male Cast
+Title:	Hakuouki
+Title:	薄桜鬼
 Tag:	Historical
+Tag:	Tragedy
+Tag:	Male Harem
+Tag:	Swordplay
+Tag:	Vampire
+Tag:	Primarily Male Cast
+Tag:	Female Protagonist
+Tag:	Samurai
+Tag:	Crossdressing

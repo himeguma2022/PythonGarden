@@ -2,22 +2,22 @@ ID:	199
 Title:	Spirited Away
 Title:	千と千尋の神隠し
 Title:	Sen to Chihiro no Kamikakushi
-Tag:	Twins
-Tag:	Trains
-Tag:	Dragons
-Tag:	Anthropomorphism
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Mythology
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Work
-Tag:	Travel
-Tag:	Urban Fantasy
 Tag:	Isekai
-Tag:	Youkai
-Tag:	Coming of Age
-Tag:	Primarily Child Cast
+Tag:	Gods
+Tag:	Anthropomorphism
+Tag:	Trains
+Tag:	Memory Manipulation
 Tag:	Witch
+Tag:	Primarily Child Cast
 Tag:	Female Protagonist
+Tag:	Travel
+Tag:	Youkai
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Twins
+Tag:	Coming of Age
+Tag:	Shapeshifting
+Tag:	Philosophy
+Tag:	Work
+Tag:	Dragons

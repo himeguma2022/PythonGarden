@@ -1,49 +1,56 @@
 ID:	105334
-Title:	Fruits Basket (2019)
 Title:	Fruits Basket: 1st Season
+Title:	Fruits Basket (2019)
 Title:	フルーツバスケット 1st Season
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Gender Bending
-Tag:	Femboy
+Title:	Fruits Basket 1st Season
+Tag:	Love Triangle
+Tag:	Slapstick
+Tag:	Kuudere
+Tag:	Denpa
+Tag:	Unrequited Love
+Tag:	Crossdressing
 Tag:	Tsundere
-Tag:	Chibi
+Tag:	Memory Manipulation
+Tag:	Homeless
+Tag:	Bullying
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
 Tag:	Family Life
+Tag:	Episodic
+Tag:	Ensemble Cast
 Tag:	Fairy Tale
 Tag:	Body Horror
-Tag:	Found Family
-Tag:	Unrequited Love
-Tag:	Amnesia
-Tag:	Ensemble Cast
+Tag:	Gender Bending
 Tag:	Male Harem
-Tag:	Homeless
-Tag:	Animals
 Tag:	Suicide
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Shoujo
-Tag:	School Club
-Tag:	Nekomimi
-Tag:	Bullying
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Delinquents
+Tag:	Gangs
 Tag:	Agriculture
 Tag:	Mythology
-Tag:	Yandere
-Tag:	Love Triangle
-Tag:	Crossdressing
-Tag:	Rehabilitation
-Tag:	Slapstick
+Tag:	Kemonomimi
 Tag:	Orphan
-Tag:	Card Battle
-Tag:	Primarily Male Cast
-Tag:	Denpa
+Tag:	Shoujo
+Tag:	Delinquents
+Tag:	School
 Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Episodic
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Nekomimi
+Tag:	LGBTQ+ Themes
+Tag:	Animals
+Tag:	Chibi
+Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	Female Protagonist
-Tag:	Gangs
+Tag:	Found Family
+Tag:	School Club
+Tag:	Card Battle
+Tag:	Shapeshifting
+Tag:	Femboy
+Tag:	Yandere
+Tag:	Amnesia
+Tag:	Rehabilitation
+Related:	111762
+Related:	26709
+Related:	30102
+Related:	26711
+Related:	34840
+Related:	120

@@ -1,28 +1,36 @@
 ID:	1519
-Title:	BLACK LAGOON: The Second Barrage
-Title:	BLACK LAGOON The Second Barrage
 Title:	Black Lagoon: The Second Barrage
-Tag:	Gangs
-Tag:	Anti-Hero
-Tag:	Seinen
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Crime
-Tag:	Twins
-Tag:	Triads
-Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	Language Barrier
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Delinquents
-Tag:	Yakuza
-Tag:	Pirates
+Title:	BLACK LAGOON The Second Barrage
+Title:	BLACK LAGOON: The Second Barrage
 Tag:	Noir
-Tag:	Travel
-Tag:	Ships
-Tag:	Foreign
-Tag:	Mafia
+Tag:	Yakuza
+Tag:	Primarily Adult Cast
+Tag:	Crime
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Travel
+Tag:	Suicide
+Tag:	Seinen
+Tag:	Gangs
+Tag:	Foreign
+Tag:	Guns
+Tag:	Delinquents
+Tag:	Mafia
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Ships
+Tag:	Twins
+Tag:	Language Barrier
+Tag:	Tomboy
+Tag:	Triads
+Tag:	Pirates
+Tag:	Anti-Hero
+Related:	4901
+Related:	30735
+Related:	61711
+Related:	2449
+Related:	2450
+Related:	2451
+Related:	8440
+Related:	889

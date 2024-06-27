@@ -1,8 +1,10 @@
 ID:	13807
 Title:	Corpse Party: Missing Footage
 Title:	コープスパーティー Missing Footage
-Tag:	Nudity
 Tag:	Ghost
-Tag:	School
-Tag:	Gore
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Nudity
+Tag:	Gore
+Related:	7893
+Related:	15037

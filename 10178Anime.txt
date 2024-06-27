@@ -1,13 +1,13 @@
 ID:	10178
 Title:	Otona Joshi no Anime Time
 Title:	大人女子のアニメタイム
-Tag:	Primarily Adult Cast
-Tag:	Anthology
-Tag:	Marriage
-Tag:	Episodic
 Tag:	Heterosexual
-Tag:	Food
 Tag:	Family Life
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Marriage
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Anthology
+Tag:	Primarily Adult Cast
+Tag:	Episodic

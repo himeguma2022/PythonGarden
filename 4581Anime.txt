@@ -1,12 +1,16 @@
 ID:	4581
+Title:	屍姫 赫
 Title:	Corpse Princess: Aka
 Title:	Shikabane Hime: Aka
-Title:	屍姫 赫
-Tag:	Urban Fantasy
-Tag:	Demons
 Tag:	Guns
-Tag:	Episodic
 Tag:	Revenge
-Tag:	Female Protagonist
 Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Urban Fantasy
 Tag:	Zombie
+Tag:	Demons
+Related:	4912
+Related:	5034
+Related:	36228
+Related:	4911

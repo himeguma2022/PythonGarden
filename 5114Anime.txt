@@ -1,52 +1,62 @@
 ID:	5114
-Title:	Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
 Title:	鋼の錬金術師 FULLMETAL ALCHEMIST
+Title:	Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST
 Title:	Fullmetal Alchemist: Brotherhood
-Tag:	Anachronism
-Tag:	Steampunk
-Tag:	Disability
-Tag:	Anti-Hero
-Tag:	Vore
-Tag:	Politics
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Guns
-Tag:	Revenge
-Tag:	Necromancy
-Tag:	Tomboy
-Tag:	Chibi
-Tag:	Body Horror
-Tag:	Fugitive
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Trains
-Tag:	War
-Tag:	Gore
-Tag:	Shounen
-Tag:	Shapeshifting
-Tag:	Lost Civilization
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Swordplay
-Tag:	Tanned Skin
-Tag:	Philosophy
-Tag:	Crossdressing
 Tag:	Tragedy
-Tag:	Slapstick
-Tag:	Primarily Male Cast
-Tag:	Gods
-Tag:	Cannibalism
-Tag:	Travel
-Tag:	Adoption
-Tag:	Desert
-Tag:	Religion
-Tag:	Alchemy
-Tag:	Military
-Tag:	Foreign
-Tag:	Snowscape
-Tag:	Dissociative Identities
-Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Cyborg
 Tag:	Super Power
+Tag:	Desert
+Tag:	Slapstick
+Tag:	Dissociative Identities
+Tag:	Kuudere
+Tag:	Tanned Skin
+Tag:	Fugitive
+Tag:	Gods
+Tag:	Anachronism
+Tag:	Cannibalism
+Tag:	Tsundere
+Tag:	Gore
+Tag:	Religion
+Tag:	Trains
+Tag:	Crossdressing
+Tag:	Snowscape
+Tag:	Conspiracy
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Lost Civilization
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Cyborg
+Tag:	Travel
+Tag:	Politics
+Tag:	Foreign
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Necromancy
+Tag:	Primarily Male Cast
+Tag:	War
+Tag:	Steampunk
+Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Tomboy
+Tag:	Revenge
+Tag:	Alchemy
 Tag:	Chimera
+Tag:	Shapeshifting
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Disability
+Tag:	Vore
+Tag:	Demons
+Tag:	Adoption
+Related:	30025
+Related:	9135
+Related:	6421
+Related:	18134
+Related:	121
+Related:	5146
+Related:	5147
+Related:	5148
+Related:	5149
+Related:	7902

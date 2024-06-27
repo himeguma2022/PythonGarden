@@ -1,0 +1,42 @@
+ID:	1
+Title:	Cowboy Bebop
+Title:	カウボーイビバップ
+Tag:	Gambling
+Tag:	Noir
+Tag:	Tragedy
+Tag:	Yakuza
+Tag:	Martial Arts
+Tag:	Space
+Tag:	Tanned Skin
+Tag:	Cult
+Tag:	Primarily Adult Cast
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Circus
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Cyberpunk
+Tag:	Cyborg
+Tag:	Travel
+Tag:	Guns
+Tag:	Drugs
+Tag:	Terrorism
+Tag:	Cowboys
+Tag:	Nudity
+Tag:	Police
+Tag:	Found Family
+Tag:	Tomboy
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Amnesia
+Related:	3
+Related:	4
+Related:	4037
+Related:	5
+Related:	17205
+Related:	29272
+Related:	29274
+Related:	30173
+Related:	30174
+Related:	29951

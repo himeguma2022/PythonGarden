@@ -1,0 +1,32 @@
+ID:	47
+Title:	Akira
+Title:	AKIRA
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Aliens
+Tag:	Urban
+Tag:	Post-Apocalyptic
+Tag:	Gore
+Tag:	Conspiracy
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Cyberpunk
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Seinen
+Tag:	Gangs
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Delinquents
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Dystopian
+Tag:	Motorcycles
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Related:	30664
+Related:	115
+Related:	126016
+Related:	49213

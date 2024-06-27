@@ -1,14 +1,18 @@
 ID:	21045
 Title:	Dance with Devils
-Tag:	Primarily Male Cast
-Tag:	Musical Theater
 Tag:	School Club
+Tag:	Female Protagonist
 Tag:	School
+Tag:	Kuudere
+Tag:	Primarily Male Cast
+Tag:	Vampire
+Tag:	Musical Theater
 Tag:	Male Harem
 Tag:	Tsundere
-Tag:	Demons
-Tag:	Kuudere
 Tag:	Yandere
-Tag:	Vampire
+Tag:	Demons
 Tag:	Idol
-Tag:	Female Protagonist
+Related:	86536
+Related:	18337
+Related:	32253
+Related:	98206

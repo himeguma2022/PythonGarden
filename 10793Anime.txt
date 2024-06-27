@@ -1,23 +1,31 @@
 ID:	10793
-Title:	ギルティクラウン
 Title:	Guilty Crown
+Title:	ギルティクラウン
+Tag:	Tragedy
 Tag:	Disability
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Politics
+Tag:	Super Power
 Tag:	Urban
-Tag:	Incest
-Tag:	Body Horror
-Tag:	Crime
-Tag:	Dystopian
 Tag:	Post-Apocalyptic
+Tag:	Kuudere
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Terrorism
+Tag:	Female Harem
+Tag:	Nudity
 Tag:	Real Robot
 Tag:	Nekomimi
-Tag:	Nudity
-Tag:	Kuudere
+Tag:	Incest
+Tag:	Dystopian
+Tag:	Anti-Hero
 Tag:	Yandere
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Female Harem
-Tag:	Male Protagonist
 Tag:	Pandemic
+Related:	13411
+Related:	65828
+Related:	60871
+Related:	32408
+Related:	13561
+Related:	7292
+Related:	17949
+Related:	7294

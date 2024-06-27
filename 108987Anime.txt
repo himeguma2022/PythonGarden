@@ -1,16 +1,16 @@
 ID:	108987
-Title:	サクガン
 Title:	Sakugan
+Title:	サクガン
 Title:	SAKUGAN
-Tag:	CGI
-Tag:	Kaiju
-Tag:	Super Robot
-Tag:	Gender Bending
-Tag:	Episodic
-Tag:	Coming of Age
-Tag:	Female Protagonist
 Tag:	Male Protagonist
 Tag:	Tragedy
-Tag:	Video Games
-Tag:	Post-Apocalyptic
 Tag:	Found Family
+Tag:	CGI
+Tag:	Gender Bending
+Tag:	Video Games
+Tag:	Female Protagonist
+Tag:	Coming of Age
+Tag:	Super Robot
+Tag:	Post-Apocalyptic
+Tag:	Kaiju
+Tag:	Episodic

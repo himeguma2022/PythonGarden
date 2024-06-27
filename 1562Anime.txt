@@ -1,21 +1,21 @@
 ID:	1562
 Title:	The Wallflower
 Title:	ヤマトナデシコ七変化♥
-Title:	Yamato Nadeshiko Shichihenge♥
 Title:	Yamato Nadeshiko Shichi Henge♥
-Tag:	Parody
-Tag:	Hikikomori
-Tag:	Shoujo
-Tag:	School
-Tag:	Surreal Comedy
-Tag:	Male Harem
-Tag:	Educational
-Tag:	Otaku Culture
-Tag:	Episodic
-Tag:	Primarily Teen Cast
-Tag:	Heterosexual
-Tag:	Chibi
-Tag:	Makeup
+Title:	Yamato Nadeshiko Shichihenge♥
 Tag:	Tragedy
-Tag:	Crossdressing
+Tag:	Educational
+Tag:	Parody
+Tag:	Male Harem
+Tag:	Hikikomori
+Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Otaku Culture
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Shoujo
 Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Makeup
+Tag:	Episodic
+Tag:	Crossdressing

@@ -1,12 +1,12 @@
 ID:	21544
-Title:	Tabimachi Late Show
+Title:	Tabimachi Lateshow
 Title:	Tabi Machi Late Show
 Title:	旅街レイトショー
-Title:	Tabimachi Lateshow
-Tag:	Ghost
+Title:	Tabimachi Late Show
 Tag:	School
-Tag:	Anthology
-Tag:	Teacher
-Tag:	Episodic
-Tag:	Coming of Age
+Tag:	Ghost
 Tag:	Food
+Tag:	Anthology
+Tag:	Coming of Age
+Tag:	Episodic
+Tag:	Teacher

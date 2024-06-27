@@ -1,9 +1,9 @@
 ID:	148042
-Title:	Yoru wa Neko to Issho
 Title:	Nights with a Cat
+Title:	Yoru wa Neko to Issho
 Title:	夜は猫といっしょ
+Tag:	Male Protagonist
+Tag:	Animals
+Tag:	Family Life
 Tag:	Iyashikei
 Tag:	Episodic
-Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Animals

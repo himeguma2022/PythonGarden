@@ -1,0 +1,27 @@
+ID:	100010
+Title:	MAGICAL GIRL SITE
+Title:	Mahou Shoujo Site
+Title:	魔法少女サイト
+Tag:	Tragedy
+Tag:	Gore
+Tag:	Bullying
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Transgender
+Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Time Manipulation
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	LGBTQ+ Themes
+Tag:	Magic
+Tag:	Revenge
+Tag:	Battle Royale
+Tag:	Rape
+Tag:	Idol
+Related:	85666
+Related:	21002

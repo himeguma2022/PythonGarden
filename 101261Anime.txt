@@ -1,35 +1,35 @@
 ID:	101261
-Title:	Sarazanmai
 Title:	さらざんまい
-Tag:	Musical Theater
-Tag:	Satire
+Title:	Sarazanmai
 Tag:	Guns
-Tag:	Crime
-Tag:	Surreal Comedy
-Tag:	Drugs
-Tag:	Suicide
-Tag:	Shapeshifting
-Tag:	Football
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Delinquents
-Tag:	Tanned Skin
-Tag:	Cute Boys Doing Cute Things
-Tag:	Meta
-Tag:	Crossdressing
-Tag:	Idol
 Tag:	Slapstick
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Primarily Male Cast
-Tag:	Zombie
-Tag:	Henshin
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Primarily Teen Cast
+Tag:	Satire
+Tag:	Meta
 Tag:	Episodic
+Tag:	Crime
+Tag:	Tragedy
 Tag:	Boys' Love
+Tag:	Shapeshifting
+Tag:	Surreal Comedy
 Tag:	Coming of Age
 Tag:	Youkai
+Tag:	Primarily Teen Cast
+Tag:	Philosophy
 Tag:	Bisexual
+Tag:	Zombie
+Tag:	LGBTQ+ Themes
+Tag:	Crossdressing
+Tag:	Idol
+Tag:	Tanned Skin
+Tag:	Police
+Tag:	Drugs
+Tag:	Henshin
+Tag:	Cute Boys Doing Cute Things
+Tag:	Delinquents
 Tag:	Male Protagonist
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Nudity
+Tag:	Suicide
+Tag:	Musical Theater
+Tag:	Urban Fantasy

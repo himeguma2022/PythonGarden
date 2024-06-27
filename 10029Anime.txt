@@ -1,16 +1,18 @@
 ID:	10029
-Title:	From Up on Poppy Hill
-Title:	Coquelicot-zaka kara
 Title:	コクリコ坂から
-Tag:	School Club
-Tag:	Shoujo
-Tag:	Ships
-Tag:	School
-Tag:	Outdoor
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Family Life
-Tag:	Female Protagonist
+Title:	Coquelicot-zaka kara
+Title:	From Up on Poppy Hill
 Tag:	Historical
+Tag:	Outdoor
+Tag:	Shoujo
+Tag:	Primarily Teen Cast
+Tag:	School Club
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	School
+Tag:	Ships
+Tag:	Heterosexual
+Tag:	Coming of Age
 Tag:	Incest
+Related:	6946
+Related:	53614

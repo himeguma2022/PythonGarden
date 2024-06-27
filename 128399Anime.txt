@@ -3,14 +3,14 @@ Title:	Fairy Ranmaru
 Title:	Fairy蘭丸～あなたの心お助けします～
 Title:	Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu
 Tag:	LGBTQ+ Themes
-Tag:	Magic
 Tag:	Parody
-Tag:	School
-Tag:	Bar
-Tag:	Henshin
-Tag:	Elf
 Tag:	Boys' Love
 Tag:	Fairy
 Tag:	Idol
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Henshin
+Tag:	Magic
 Tag:	Suicide
+Tag:	Elf
+Tag:	Bar

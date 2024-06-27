@@ -1,24 +1,24 @@
 ID:	136829
+Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta...
+Title:	乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ 運命の人に出会ってしまった...
 Title:	My Next Life as a Villainess: All Routes Lead to Doom! X - I Met My Destined One...
 Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...
-Title:	乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…Ｘ 運命の人に出会ってしまった...
-Title:	Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… X: Unmei no Hito ni Deatte Shimatta...
-Tag:	Virtual World
 Tag:	Hikikomori
-Tag:	Anti-Hero
 Tag:	Primarily Female Cast
-Tag:	Twins
-Tag:	Ojou-sama
-Tag:	Ensemble Cast
-Tag:	Male Harem
-Tag:	Villainess
-Tag:	LGBTQ+ Themes
-Tag:	Shoujo
-Tag:	Agriculture
 Tag:	Adoption
+Tag:	Villainess
+Tag:	Isekai
 Tag:	Female Harem
 Tag:	Mixed Gender Harem
-Tag:	Isekai
 Tag:	Bisexual
-Tag:	Achronological Order
+Tag:	Anti-Hero
+Tag:	Ensemble Cast
 Tag:	Female Protagonist
+Tag:	Agriculture
+Tag:	Male Harem
+Tag:	Achronological Order
+Tag:	Shoujo
+Tag:	Virtual World
+Tag:	Ojou-sama
+Tag:	LGBTQ+ Themes
+Tag:	Twins

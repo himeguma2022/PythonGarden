@@ -1,10 +1,10 @@
 ID:	100891
 Title:	ケンガンアシュラ
-Title:	Kengan Ashura
 Title:	KENGAN ASHURA Part I
-Tag:	Martial Arts
+Title:	Kengan Ashura
+Tag:	Male Protagonist
 Tag:	Full CGI
 Tag:	Ensemble Cast
-Tag:	Male Protagonist
-Tag:	Super Power
 Tag:	Primarily Male Cast
+Tag:	Super Power
+Tag:	Martial Arts

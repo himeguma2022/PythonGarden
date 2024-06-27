@@ -1,12 +1,12 @@
 ID:	19133
 Title:	ターニングガールズ
 Title:	Turning Girls
-Tag:	Primarily Adult Cast
-Tag:	Flash
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Office Lady
-Tag:	Episodic
-Tag:	Boys' Love
 Tag:	Idol
+Tag:	Boys' Love
+Tag:	Ensemble Cast
 Tag:	Primarily Female Cast
+Tag:	Surreal Comedy
+Tag:	Office Lady
+Tag:	Flash
+Tag:	Primarily Adult Cast
+Tag:	Episodic

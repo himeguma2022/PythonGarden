@@ -1,14 +1,20 @@
 ID:	8630
+Title:	緋弾のアリア
 Title:	Aria the Scarlet Ammo
 Title:	Hidan no Aria
-Title:	緋弾のアリア
+Tag:	Guns
 Tag:	CGI
-Tag:	School
+Tag:	Swordplay
+Tag:	Male Protagonist
 Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	Tsundere
-Tag:	Guns
+Tag:	School
 Tag:	Kuudere
-Tag:	Swordplay
+Tag:	Tsundere
 Tag:	Yandere
-Tag:	Male Protagonist
+Related:	10604
+Related:	6447
+Related:	6448
+Related:	9875
+Related:	42297
+Related:	20991

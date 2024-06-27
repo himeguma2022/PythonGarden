@@ -1,10 +1,12 @@
 ID:	8115
-Title:	宇宙ショーへようこそ
-Title:	Uchuu Show e Youkoso
 Title:	Welcome to THE SPACE SHOW
-Tag:	Aliens
-Tag:	Rural
-Tag:	Space
-Tag:	Urban Fantasy
+Title:	Uchuu Show e Youkoso
+Title:	宇宙ショーへようこそ
 Tag:	Kids
+Tag:	Aliens
 Tag:	Primarily Child Cast
+Tag:	Urban Fantasy
+Tag:	Space
+Tag:	Rural
+Related:	29665
+Related:	55603

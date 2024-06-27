@@ -1,0 +1,19 @@
+ID:	371
+Title:	Cardcaptor Sakura Movie
+Title:	Cardcaptor Sakura: The Movie
+Title:	劇場版 カードキャプターさくら
+Tag:	Primarily Child Cast
+Tag:	Ghost
+Tag:	Shoujo
+Tag:	Isekai
+Tag:	Urban
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Henshin
+Tag:	Magic
+Tag:	Foreign
+Related:	232
+Related:	30106
+Related:	845
+Related:	846

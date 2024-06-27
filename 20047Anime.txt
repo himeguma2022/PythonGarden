@@ -1,17 +1,19 @@
 ID:	20047
 Title:	桜Trick
 Title:	Sakura Trick
-Tag:	Anachronism
-Tag:	LGBTQ+ Themes
-Tag:	Religion
-Tag:	School
-Tag:	Seinen
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
 Tag:	Yuri
-Tag:	Kuudere
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
 Tag:	Cute Girls Doing Cute Things
 Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Tag:	School
+Tag:	Kuudere
+Tag:	Anachronism
+Tag:	LGBTQ+ Themes
+Tag:	Seinen
+Tag:	Religion
+Tag:	Coming of Age
 Tag:	Incest
+Related:	82257
+Related:	8837

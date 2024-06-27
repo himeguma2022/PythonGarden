@@ -1,18 +1,24 @@
 ID:	116267
-Title:	TONIKAWA: Over The Moon For You
-Title:	Tonikaku Kawaii
 Title:	トニカクカワイイ
-Tag:	Primarily Adult Cast
+Title:	Tonikaku Kawaii
+Title:	TONIKAWA: Over The Moon For You
 Tag:	Iyashikei
-Tag:	Marriage
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Family Life
-Tag:	Maids
-Tag:	Male Protagonist
 Tag:	Love Triangle
-Tag:	Meta
-Tag:	Video Games
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Kuudere
+Tag:	Marriage
+Tag:	Video Games
+Tag:	Heterosexual
+Tag:	Maids
+Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Tag:	Meta
+Related:	2026
+Related:	64843
+Related:	127371
+Related:	60339
+Related:	39735
+Related:	101177

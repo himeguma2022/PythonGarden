@@ -1,18 +1,22 @@
 ID:	97766
-Title:	Gamers!
-Title:	ゲーマーズ!
 Title:	GAMERS!
-Tag:	Nudity
-Tag:	School Club
-Tag:	Parody
-Tag:	School
-Tag:	E-Sports
-Tag:	Slapstick
-Tag:	Tsundere
+Title:	ゲーマーズ!
+Title:	Gamers!
 Tag:	Primarily Teen Cast
-Tag:	Otaku Culture
-Tag:	Heterosexual
-Tag:	Meta
 Tag:	Love Triangle
-Tag:	Video Games
+Tag:	Slapstick
 Tag:	Football
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Parody
+Tag:	Nudity
+Tag:	Meta
+Tag:	Tsundere
+Tag:	Video Games
+Tag:	E-Sports
+Tag:	Heterosexual
+Tag:	School Club
+Related:	98786
+Related:	17755
+Related:	31802
+Related:	94309

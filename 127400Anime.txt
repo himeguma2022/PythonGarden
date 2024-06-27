@@ -1,15 +1,19 @@
 ID:	127400
 Title:	World Trigger 3rd Season
 Title:	ワールドトリガー 3rdシーズン
-Tag:	Military
+Tag:	Guns
+Tag:	Battle Royale
+Tag:	Primarily Teen Cast
+Tag:	Isekai
+Tag:	Shounen
+Tag:	Swordplay
+Tag:	Male Protagonist
 Tag:	Ensemble Cast
 Tag:	Space
-Tag:	Isekai
-Tag:	Guns
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
-Tag:	Augmented Reality
-Tag:	Male Protagonist
 Tag:	Primarily Male Cast
-Tag:	Shounen
-Tag:	Battle Royale
+Tag:	Military
+Tag:	Augmented Reality
+Related:	50697
+Related:	50699
+Related:	114087
+Related:	78151

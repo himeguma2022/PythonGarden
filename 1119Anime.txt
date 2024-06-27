@@ -1,0 +1,20 @@
+ID:	1119
+Title:	Pokémon 4Ever
+Title:	劇場版ポケットモンスター セレビィ 時を越えた遭遇
+Title:	Pocket Monsters: Celebi Toki wo Koeta Deai
+Tag:	Kids
+Tag:	Super Robot
+Tag:	CGI
+Tag:	Environmental
+Tag:	Rural
+Tag:	Fairy
+Tag:	Animals
+Tag:	Anti-Hero
+Tag:	Time Manipulation
+Tag:	Outdoor
+Related:	1930
+Related:	1931
+Related:	54223
+Related:	527
+Related:	28210
+Related:	4794

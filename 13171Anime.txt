@@ -1,12 +1,12 @@
 ID:	13171
-Title:	わすれなぐも
 Title:	Li'l Spider Girl
 Title:	Wasurenagumo
-Tag:	Ensemble Cast
-Tag:	Demons
-Tag:	Youkai
+Title:	わすれなぐも
 Tag:	Mythology
 Tag:	Tragedy
-Tag:	Monster Girl
+Tag:	Demons
 Tag:	Shapeshifting
+Tag:	Ensemble Cast
 Tag:	Adoption
+Tag:	Youkai
+Tag:	Monster Girl

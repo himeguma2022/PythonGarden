@@ -1,18 +1,26 @@
 ID:	153152
-Title:	僕の心のヤバイやつ
 Title:	Boku no Kokoro no Yabai Yatsu
 Title:	The Dangers in My Heart
-Tag:	School
+Title:	僕の心のヤバイやつ
+Tag:	Primarily Teen Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Shounen
 Tag:	Slapstick
 Tag:	Urban
-Tag:	Tsundere
-Tag:	Otaku Culture
-Tag:	Coming of Age
-Tag:	Primarily Teen Cast
-Tag:	Heterosexual
-Tag:	Chuunibyou
-Tag:	Cute Girls Doing Cute Things
-Tag:	Food
-Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Food
+Tag:	Chuunibyou
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	86785
+Related:	87649
+Related:	76487
+Related:	166216
+Related:	165066
+Related:	94411
+Related:	170221
+Related:	101557

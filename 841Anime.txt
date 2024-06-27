@@ -1,5 +1,7 @@
 ID:	841
-Title:	COLORFUL
 Title:	Colorful
-Tag:	Primarily Adult Cast
+Title:	COLORFUL
 Tag:	Surreal Comedy
+Tag:	Primarily Adult Cast
+Related:	1497
+Related:	45162

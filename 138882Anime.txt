@@ -1,23 +1,27 @@
 ID:	138882
-Title:	Kumichou Musume to Sewagakari
 Title:	The Yakuza's Guide to Babysitting
+Title:	Kumichou Musume to Sewagakari
 Title:	組長娘と世話係
-Tag:	Anti-Hero
-Tag:	Guns
-Tag:	Family Life
-Tag:	Urban
-Tag:	Found Family
-Tag:	Suicide
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Adult Cast
-Tag:	Iyashikei
-Tag:	Delinquents
-Tag:	Yakuza
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Parenthood
-Tag:	Josei
-Tag:	Episodic
-Tag:	Food
+Tag:	Yakuza
+Tag:	Urban
+Tag:	Primarily Adult Cast
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
+Tag:	Food
+Tag:	Suicide
+Tag:	Guns
+Tag:	Iyashikei
+Tag:	Delinquents
+Tag:	Primarily Male Cast
+Tag:	LGBTQ+ Themes
+Tag:	Found Family
+Tag:	Josei
+Tag:	Anti-Hero
+Tag:	Parenthood
+Related:	107896
+Related:	62035
+Related:	144992
+Related:	78119

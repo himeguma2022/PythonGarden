@@ -1,12 +1,12 @@
 ID:	127227
-Title:	KAKUSHIGOTO Theatrical Edition
-Title:	劇場編集版 かくしごと ―ひめごとはなんですか―
 Title:	Kakushigoto Movie
 Title:	Kakushigoto: Himegoto wa Nandesuka
-Tag:	Amnesia
-Tag:	Drawing
-Tag:	Family Life
+Title:	KAKUSHIGOTO Theatrical Edition
+Title:	劇場編集版 かくしごと ―ひめごとはなんですか―
 Tag:	Tragedy
+Tag:	Family Life
+Tag:	Amnesia
+Tag:	Work
+Tag:	Drawing
 Tag:	Meta
 Tag:	Time Skip
-Tag:	Work

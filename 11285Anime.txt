@@ -1,22 +1,28 @@
 ID:	11285
-Title:	Black★Rock Shooter
 Title:	Black★Rock Shooter (TV)
-Title:	Black Rock Shooter
 Title:	ブラック★ロックシューター (TV)
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	CGI
-Tag:	School
-Tag:	Reincarnation
-Tag:	Body Swapping
-Tag:	Alternate Universe
-Tag:	Urban Fantasy
+Title:	Black Rock Shooter
+Title:	Black★Rock Shooter
 Tag:	Guns
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Crossover
 Tag:	Tragedy
-Tag:	Rehabilitation
-Tag:	Female Protagonist
+Tag:	Reincarnation
 Tag:	Primarily Female Cast
 Tag:	Basketball
+Tag:	Primarily Teen Cast
+Tag:	Crossover
+Tag:	CGI
+Tag:	Alternate Universe
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Nudity
+Tag:	Rehabilitation
+Tag:	LGBTQ+ Themes
+Tag:	Body Swapping
+Tag:	Coming of Age
+Related:	56292
+Related:	7433
+Related:	63242
+Related:	63244
+Related:	12079
+Related:	7059

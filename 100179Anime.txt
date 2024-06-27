@@ -2,10 +2,10 @@ ID:	100179
 Title:	Tada-kun wa Koi wo Shinai
 Title:	多田くんは恋をしない
 Title:	Tada Never Falls In Love
-Tag:	School Club
+Tag:	Love Triangle
 Tag:	School
 Tag:	Astronomy
 Tag:	Photography
-Tag:	Coming of Age
 Tag:	Heterosexual
-Tag:	Love Triangle
+Tag:	Coming of Age
+Tag:	School Club

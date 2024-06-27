@@ -1,12 +1,16 @@
 ID:	166216
-Title:	The Dangers in My Heart Season 2
-Title:	僕の心のヤバイやつ 第2期
 Title:	Boku no Kokoro no Yabai Yatsu 2nd Season
-Tag:	School
-Tag:	Urban
+Title:	僕の心のヤバイやつ 第2期
+Title:	The Dangers in My Heart Season 2
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Heterosexual
+Tag:	Shounen
+Tag:	Urban
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Shounen
+Tag:	School
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	153152
+Related:	87650
+Related:	87652
+Related:	101557

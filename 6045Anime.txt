@@ -1,19 +1,23 @@
 ID:	6045
-Title:	Kimi ni Todoke: From Me to You
 Title:	君に届け
+Title:	Kimi ni Todoke: From Me to You
 Title:	Kimi ni Todoke
-Tag:	Shoujo
-Tag:	School
-Tag:	Gyaru
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Chibi
-Tag:	Football
 Tag:	Tomboy
+Tag:	Bullying
+Tag:	Shoujo
+Tag:	Primarily Teen Cast
 Tag:	Love Triangle
 Tag:	Female Protagonist
 Tag:	Baseball
-Tag:	Bullying
+Tag:	Football
+Tag:	School
+Tag:	Kuudere
+Tag:	Chibi
+Tag:	Tsundere
+Tag:	Gyaru
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	5528
+Related:	5529
+Related:	33378
+Related:	9656

@@ -2,23 +2,27 @@ ID:	11013
 Title:	Inu x Boku SS
 Title:	Inu X Boku Secret Service
 Title:	妖狐×僕SS
-Tag:	School
-Tag:	Tsundere
-Tag:	Chibi
-Tag:	Maids
-Tag:	Primarily Female Cast
-Tag:	Skeleton
-Tag:	Ojou-sama
-Tag:	Reincarnation
-Tag:	Amnesia
-Tag:	Time Manipulation
-Tag:	Shounen
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Yandere
 Tag:	Tanned Skin
+Tag:	Tsundere
+Tag:	Primarily Female Cast
+Tag:	Shounen
+Tag:	Female Protagonist
 Tag:	Afterlife
 Tag:	Youkai
+Tag:	Skeleton
+Tag:	Yandere
+Tag:	Time Manipulation
+Tag:	Reincarnation
+Tag:	School
+Tag:	Age Gap
+Tag:	Chibi
+Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	Female Protagonist
+Tag:	Ojou-sama
+Tag:	Amnesia
+Tag:	Maids
+Related:	13403
+Related:	7381
+Related:	7382
+Related:	47207

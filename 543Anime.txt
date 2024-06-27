@@ -1,23 +1,27 @@
 ID:	543
+Title:	Vampire Hunter D: Bloodlust
 Title:	Vampire Hunter D (2000)
 Title:	バンパイアハンターD
-Title:	Vampire Hunter D: Bloodlust
-Tag:	Steampunk
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Vampire
-Tag:	Fugitive
-Tag:	Dystopian
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Monster Girl
-Tag:	Nudity
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Swordplay
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Travel
+Tag:	Post-Apocalyptic
+Tag:	Fugitive
+Tag:	Gore
+Tag:	Primarily Adult Cast
 Tag:	Werewolf
 Tag:	Male Protagonist
+Tag:	Travel
+Tag:	Monster Girl
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Vampire
+Tag:	Steampunk
+Tag:	Magic
+Tag:	Tomboy
+Tag:	Dystopian
 Tag:	Time Skip
+Related:	31360
+Related:	732
+Related:	1156
+Related:	1157

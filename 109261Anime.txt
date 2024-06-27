@@ -1,22 +1,28 @@
 ID:	109261
-Title:	5-toubun no Hanayome ∬
-Title:	The Quintessential Quintuplets 2
 Title:	五等分の花嫁∬
 Title:	Go-toubun no Hanayome ∬
-Tag:	Nudity
-Tag:	School Club
-Tag:	Twins
+Title:	5-toubun no Hanayome ∬
+Title:	The Quintessential Quintuplets 2
+Tag:	Teacher
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Harem
 Tag:	Ojou-sama
 Tag:	School
-Tag:	Ensemble Cast
-Tag:	Teacher
-Tag:	Female Harem
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Primarily Female Cast
+Tag:	Ensemble Cast
+Tag:	Nudity
+Tag:	Tsundere
 Tag:	Yandere
-Tag:	Male Protagonist
-Tag:	Shounen
+Tag:	Heterosexual
 Tag:	Work
+Tag:	Twins
+Tag:	School Club
+Related:	100230
+Related:	32233
+Related:	32235
+Related:	90509
+Related:	103572
+Related:	163327

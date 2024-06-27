@@ -1,13 +1,17 @@
 ID:	20527
-Title:	一週間フレンズ。
 Title:	Isshuukan Friends.
 Title:	One Week Friends
+Title:	一週間フレンズ。
+Tag:	Bullying
+Tag:	Primarily Child Cast
+Tag:	Primarily Teen Cast
+Tag:	Love Triangle
+Tag:	Shounen
 Tag:	School
 Tag:	Amnesia
-Tag:	Primarily Teen Cast
 Tag:	Heterosexual
-Tag:	Primarily Child Cast
-Tag:	Love Triangle
 Tag:	Rehabilitation
-Tag:	Shounen
-Tag:	Bullying
+Related:	8834
+Related:	20765
+Related:	9414
+Related:	73967

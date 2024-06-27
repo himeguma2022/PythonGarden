@@ -1,15 +1,15 @@
 ID:	20952
-Title:	Alice in Borderland
-Title:	Imawa no Kuni no Alice
 Title:	今際の国のアリス
-Tag:	Death Game
-Tag:	Survival
-Tag:	Dystopian
+Title:	Imawa no Kuni no Alice
+Title:	Alice in Borderland
 Tag:	Isekai
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Shounen
-Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
 Tag:	Battle Royale
+Tag:	Primarily Male Cast
+Tag:	Death Game
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Dystopian
+Tag:	Post-Apocalyptic
+Tag:	Survival

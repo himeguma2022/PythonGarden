@@ -1,28 +1,34 @@
 ID:	3588
-Title:	Soul Eater
 Title:	ソウルイーター
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Guns
-Tag:	Urban
-Tag:	Cultivation
-Tag:	Twins
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Nekomimi
-Tag:	Nudity
-Tag:	Magic
-Tag:	Swordplay
-Tag:	Tanned Skin
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Agender
-Tag:	Martial Arts
-Tag:	Henshin
-Tag:	Foreign
-Tag:	Urban Fantasy
-Tag:	Witch
-Tag:	Male Protagonist
+Title:	Soul Eater
 Tag:	Super Power
+Tag:	Urban
+Tag:	Martial Arts
+Tag:	Tanned Skin
+Tag:	Gods
+Tag:	Witch
+Tag:	Shounen
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Guns
+Tag:	Kemonomimi
+Tag:	Swordplay
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Nekomimi
+Tag:	Henshin
+Tag:	Magic
+Tag:	Twins
+Tag:	Cultivation
+Tag:	Philosophy
+Tag:	Agender
+Related:	20547
+Related:	8868
+Related:	21687
+Related:	30908
+Related:	11070
+Related:	4415

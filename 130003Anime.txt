@@ -1,22 +1,30 @@
 ID:	130003
 Title:	Bocchi the Rock!
-Title:	ぼっち・ざ・ろっく！
 Title:	BOCCHI THE ROCK!
-Tag:	Hikikomori
-Tag:	School
-Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Rock Music
-Tag:	Slapstick
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
+Title:	ぼっち・ざ・ろっく！
 Tag:	Yuri
-Tag:	Rotoscoping
-Tag:	Cute Girls Doing Cute Things
-Tag:	Chibi
-Tag:	Meta
-Tag:	Rehabilitation
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Surreal Comedy
+Tag:	Primarily Teen Cast
+Tag:	Cute Girls Doing Cute Things
 Tag:	Band
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Rotoscoping
+Tag:	Rehabilitation
+Tag:	Rock Music
+Tag:	Seinen
+Tag:	Chibi
 Tag:	Work
+Tag:	Coming of Age
+Tag:	Hikikomori
+Tag:	Meta
+Related:	70304
+Related:	53377
+Related:	165253
+Related:	86985
+Related:	92153
+Related:	111258
+Related:	171099
+Related:	127549

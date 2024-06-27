@@ -2,26 +2,40 @@ ID:	21685
 Title:	エロマンガ先生
 Title:	Eromanga Sensei
 Title:	Eromanga-sensei
-Tag:	Hikikomori
-Tag:	Tsundere
-Tag:	Inseki
-Tag:	Feet
-Tag:	Primarily Female Cast
-Tag:	Unrequited Love
-Tag:	Nudity
-Tag:	Parody
-Tag:	Otaku Culture
-Tag:	Heterosexual
-Tag:	Crossover
-Tag:	Meta
-Tag:	Philosophy
 Tag:	Love Triangle
-Tag:	Video Games
-Tag:	Work
-Tag:	Female Harem
-Tag:	Drawing
-Tag:	Primarily Teen Cast
+Tag:	Unrequited Love
+Tag:	Tsundere
 Tag:	Primarily Child Cast
+Tag:	Crossover
+Tag:	Primarily Teen Cast
+Tag:	Primarily Female Cast
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Video Games
+Tag:	Meta
+Tag:	Drawing
+Tag:	Inseki
+Tag:	Female Harem
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Hikikomori
+Tag:	Feet
+Tag:	Philosophy
+Tag:	Otaku Culture
+Tag:	Work
 Tag:	Writing
+Related:	8769
+Related:	20458
+Related:	100523
+Related:	80635
+Related:	11757
+Related:	85166
+Related:	46095
+Related:	80627
+Related:	2966
+Related:	42167
+Related:	80633
+Related:	11067
+Related:	46109
+Related:	85471

@@ -1,15 +1,21 @@
 ID:	21857
-Title:	政宗くんのリベンジ
 Title:	Masamune-kun no Revenge
+Title:	政宗くんのリベンジ
 Title:	Masamune-kun's Revenge
-Tag:	School
-Tag:	Tsundere
+Tag:	Bullying
 Tag:	Revenge
-Tag:	Kuudere
-Tag:	Heterosexual
 Tag:	Primarily Female Cast
-Tag:	Maids
-Tag:	Male Protagonist
 Tag:	Love Triangle
 Tag:	Shounen
-Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Maids
+Related:	146953
+Related:	76716
+Related:	71154
+Related:	11383
+Related:	50713
+Related:	101213

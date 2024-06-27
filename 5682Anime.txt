@@ -1,20 +1,30 @@
 ID:	5682
-Title:	Phantom: Requiem for the Phantom
 Title:	Phantom 〜Requiem for the Phantom〜
-Tag:	Nudity
-Tag:	Crime
-Tag:	Anti-Hero
-Tag:	Foreign
-Tag:	Amnesia
+Title:	Phantom: Requiem for the Phantom
 Tag:	Guns
-Tag:	Coming of Age
-Tag:	Mafia
-Tag:	Heterosexual
-Tag:	Yakuza
-Tag:	Male Protagonist
-Tag:	Tragedy
-Tag:	Time Skip
-Tag:	Female Protagonist
-Tag:	Assassins
-Tag:	Noir
 Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	Crime
+Tag:	Noir
+Tag:	Yakuza
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Mafia
+Tag:	Amnesia
+Tag:	Assassins
+Tag:	Nudity
+Tag:	Anti-Hero
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Foreign
+Related:	73504
+Related:	8705
+Related:	44804
+Related:	30825
+Related:	5387
+Related:	80176
+Related:	438
+Related:	10519
+Related:	95325
+Related:	73502

@@ -1,10 +1,10 @@
 ID:	100283
-Title:	Natsume Yuujinchou Roku Specials
-Title:	夏目友人帳 陸 特別編
 Title:	Natsume Yujin-cho 6 Specials
-Tag:	Shoujo
-Tag:	Rural
-Tag:	Iyashikei
-Tag:	Youkai
+Title:	夏目友人帳 陸 特別編
+Title:	Natsume Yuujinchou Roku Specials
 Tag:	Male Protagonist
+Tag:	Rural
+Tag:	Shoujo
 Tag:	Adoption
+Tag:	Youkai
+Tag:	Iyashikei

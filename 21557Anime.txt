@@ -1,15 +1,29 @@
 ID:	21557
-Title:	Qualidea Code
 Title:	クオリディア・コード
-Tag:	Magic
-Tag:	School
-Tag:	Aliens
-Tag:	Ensemble Cast
+Title:	Qualidea Code
 Tag:	Guns
-Tag:	Swordplay
-Tag:	Heterosexual
 Tag:	Super Power
+Tag:	Aliens
+Tag:	Swordplay
 Tag:	Post-Apocalyptic
-Tag:	Incest
-Tag:	Found Family
+Tag:	Ensemble Cast
+Tag:	School
 Tag:	Memory Manipulation
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Found Family
+Tag:	Incest
+Related:	124514
+Related:	118566
+Related:	61097
+Related:	47628
+Related:	47631
+Related:	47567
+Related:	47633
+Related:	97522
+Related:	47635
+Related:	97941
+Related:	96149
+Related:	95446
+Related:	93466
+Related:	76831

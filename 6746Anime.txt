@@ -1,24 +1,32 @@
 ID:	6746
 Title:	Durarara!!
 Title:	デュラララ!!
-Tag:	Gangs
-Tag:	School
 Tag:	Dullahan
 Tag:	Urban
-Tag:	Incest
-Tag:	Crime
 Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Motorcycles
-Tag:	Otaku Culture
-Tag:	Delinquents
-Tag:	Heterosexual
-Tag:	Mythology
-Tag:	Swordplay
-Tag:	Yandere
-Tag:	Orphan
-Tag:	Urban Fantasy
-Tag:	Male Protagonist
-Tag:	Achronological Order
-Tag:	Female Protagonist
 Tag:	Bullying
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Gangs
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Swordplay
+Tag:	Delinquents
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Heterosexual
+Tag:	Incest
+Tag:	Motorcycles
+Tag:	Achronological Order
+Tag:	Yandere
+Tag:	Otaku Culture
+Related:	46816
+Related:	2251
+Related:	20652
+Related:	9165
+Related:	35949
+Related:	5811
+Related:	5812
+Related:	8408

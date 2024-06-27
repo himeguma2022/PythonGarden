@@ -1,15 +1,23 @@
 ID:	16774
-Title:	インフェルノコップ
 Title:	Inferno Cop
-Tag:	Parody
-Tag:	Cars
+Title:	インフェルノコップ
 Tag:	Surreal Comedy
-Tag:	Foreign
 Tag:	Urban Fantasy
-Tag:	Tokusatsu
-Tag:	Time Manipulation
-Tag:	Police
-Tag:	Vampire
 Tag:	Primarily Male Cast
-Tag:	Skeleton
+Tag:	Parody
+Tag:	Vampire
+Tag:	Tokusatsu
 Tag:	Zombie
+Tag:	Skeleton
+Tag:	Cars
+Tag:	Police
+Tag:	Time Manipulation
+Tag:	Foreign
+Related:	33572
+Related:	21637
+Related:	20456
+Related:	17843
+Related:	8728
+Related:	101817
+Related:	29723
+Related:	8700

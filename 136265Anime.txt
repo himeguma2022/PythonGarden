@@ -1,0 +1,6 @@
+ID:	136265
+Title:	Sushi
+Title:	すし
+Tag:	Food
+Tag:	Tragedy
+Tag:	No Dialogue

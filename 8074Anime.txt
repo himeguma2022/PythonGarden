@@ -1,33 +1,37 @@
 ID:	8074
+Title:	Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD
+Title:	Highschool of the Dead
 Title:	High School of the Dead
 Title:	学園黙示録HIGHSCHOOL OF THE DEAD
-Title:	Highschool of the Dead
-Title:	Gakuen Mokushiroku: HIGHSCHOOL OF THE DEAD
-Tag:	School
-Tag:	Politics
-Tag:	Tsundere
-Tag:	Guns
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Ojou-sama
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Large Breasts
-Tag:	Shounen
-Tag:	Animals
-Tag:	Suicide
-Tag:	Nudity
-Tag:	Swordplay
-Tag:	Heterosexual
 Tag:	Love Triangle
-Tag:	Zombie
-Tag:	Military
-Tag:	Female Harem
-Tag:	Survival
-Tag:	Police
+Tag:	Unrequited Love
+Tag:	Tsundere
+Tag:	Gore
+Tag:	Conspiracy
 Tag:	Primarily Teen Cast
+Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Pandemic
 Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Suicide
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Harem
+Tag:	School
+Tag:	Survival
+Tag:	Zombie
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Animals
+Tag:	Heterosexual
+Tag:	Police
+Tag:	Military
+Tag:	Ojou-sama
+Tag:	Pandemic
+Tag:	Large Breasts
+Related:	81869
+Related:	9515
+Related:	30669
+Related:	6215

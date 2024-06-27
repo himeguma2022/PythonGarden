@@ -1,33 +1,41 @@
 ID:	113415
 Title:	呪術廻戦
-Title:	Jujutsu Kaisen
 Title:	JUJUTSU KAISEN
-Tag:	School
-Tag:	Rape
-Tag:	Demons
-Tag:	Body Horror
-Tag:	Twins
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Gore
-Tag:	Shounen
-Tag:	Anthropomorphism
-Tag:	Boarding School
-Tag:	Shapeshifting
-Tag:	Magic
-Tag:	School Club
-Tag:	Rotoscoping
-Tag:	Mythology
-Tag:	Swordplay
+Title:	Jujutsu Kaisen
 Tag:	Tragedy
-Tag:	Slapstick
-Tag:	Orphan
-Tag:	Primarily Male Cast
-Tag:	Martial Arts
-Tag:	Urban Fantasy
-Tag:	Dissociative Identities
-Tag:	Primarily Teen Cast
-Tag:	Youkai
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Slapstick
+Tag:	Dissociative Identities
 Tag:	Baseball
+Tag:	Martial Arts
+Tag:	Anthropomorphism
+Tag:	Gore
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Youkai
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Swordplay
+Tag:	Boarding School
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Magic
+Tag:	Twins
+Tag:	School Club
+Tag:	Surreal Comedy
+Tag:	Rotoscoping
+Tag:	Rape
+Tag:	Shapeshifting
+Tag:	Demons
+Related:	54914
+Related:	147463
+Related:	145064
+Related:	71815
+Related:	36747
+Related:	68876
+Related:	101517
+Related:	131573

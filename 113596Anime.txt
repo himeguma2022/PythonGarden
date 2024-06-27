@@ -1,22 +1,25 @@
 ID:	113596
-Title:	Josee to Tora to Sakana-tachi
-Title:	ジョゼと虎と魚たち
 Title:	Josee to Tora to Sakanatachi
 Title:	Josee, the Tiger and the Fish
-Tag:	Disability
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Drawing
-Tag:	Coastal
-Tag:	Tsundere
-Tag:	Scuba Diving
-Tag:	Coming of Age
-Tag:	Female Protagonist
-Tag:	Heterosexual
-Tag:	Rehabilitation
-Tag:	Male Protagonist
-Tag:	College
-Tag:	Time Skip
-Tag:	Mermaid
+Title:	ジョゼと虎と魚たち
 Tag:	Tragedy
+Tag:	Disability
+Tag:	Drawing
+Tag:	Scuba Diving
+Tag:	Mermaid
 Tag:	Love Triangle
+Tag:	CGI
+Tag:	Coastal
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	College
+Tag:	Rehabilitation
+Tag:	Tsundere
+Tag:	Time Skip
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Related:	48136
+Related:	125025
+Related:	126898
+Related:	61821

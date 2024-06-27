@@ -1,22 +1,24 @@
 ID:	10161
-Title:	NO.6
 Title:	No.6
-Tag:	Gender Bending
-Tag:	Revenge
-Tag:	Cyberpunk
+Title:	NO.6
+Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	Love Triangle
 Tag:	Urban
 Tag:	Fugitive
-Tag:	Conspiracy
-Tag:	Dystopian
-Tag:	Animals
-Tag:	Memory Manipulation
-Tag:	Yandere
-Tag:	Tragedy
 Tag:	Crossdressing
-Tag:	Love Triangle
-Tag:	Agender
-Tag:	Survival
-Tag:	Boys' Love
+Tag:	Memory Manipulation
+Tag:	Conspiracy
 Tag:	Male Protagonist
-Tag:	Time Skip
+Tag:	Cyberpunk
+Tag:	Gender Bending
+Tag:	Survival
 Tag:	Classic Literature
+Tag:	Animals
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	Agender
+Tag:	Time Skip
+Tag:	Yandere
+Related:	33905
+Related:	54308

@@ -1,24 +1,32 @@
 ID:	15809
-Title:	The Devil is a Part-Timer!
 Title:	はたらく魔王さま!
+Title:	The Devil is a Part-Timer!
 Title:	Hataraku Maou-sama!
-Tag:	Hikikomori
-Tag:	Anti-Hero
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Fugitive
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Language Barrier
-Tag:	Magic
-Tag:	Parody
-Tag:	Primarily Adult Cast
-Tag:	Mythology
-Tag:	Heterosexual
-Tag:	Restaurant
 Tag:	Love Triangle
-Tag:	Work
-Tag:	Urban Fantasy
 Tag:	Isekai
-Tag:	Food
+Tag:	Fugitive
+Tag:	Tsundere
+Tag:	Primarily Adult Cast
+Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Parody
+Tag:	Restaurant
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Hikikomori
+Tag:	Language Barrier
+Tag:	Anti-Hero
+Tag:	Work
+Tag:	Demons
+Related:	130592
+Related:	66723
+Related:	47271
+Related:	8189
+Related:	97623
+Related:	54008
+Related:	177437
+Related:	66719

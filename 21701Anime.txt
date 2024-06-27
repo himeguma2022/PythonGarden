@@ -2,22 +2,24 @@ ID:	21701
 Title:	Scum's Wish
 Title:	Kuzu no Honkai
 Title:	クズの本懐
-Tag:	School
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Unrequited Love
+Tag:	Netorare
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Female Protagonist
 Tag:	Seinen
 Tag:	Fake Relationship
 Tag:	Inseki
-Tag:	Netorare
-Tag:	Primarily Female Cast
-Tag:	Unrequited Love
-Tag:	LGBTQ+ Themes
+Tag:	School
 Tag:	Nudity
-Tag:	Heterosexual
 Tag:	Age Gap
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Primarily Teen Cast
+Tag:	LGBTQ+ Themes
+Tag:	Heterosexual
 Tag:	Coming of Age
+Tag:	Philosophy
 Tag:	Bisexual
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Related:	11113
+Related:	74929

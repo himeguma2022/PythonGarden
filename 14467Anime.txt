@@ -1,26 +1,40 @@
 ID:	14467
 Title:	K
-Tag:	Artificial Intelligence
-Tag:	School
-Tag:	Tsundere
-Tag:	Revenge
-Tag:	Skateboarding
-Tag:	Urban
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Animals
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Kuudere
-Tag:	Swordplay
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Bar
-Tag:	Martial Arts
-Tag:	Body Swapping
-Tag:	Urban Fantasy
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Urban
+Tag:	Martial Arts
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Memory Manipulation
+Tag:	Primarily Adult Cast
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
 Tag:	Gangs
+Tag:	Skateboarding
+Tag:	Swordplay
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Bar
+Tag:	Animals
+Tag:	Revenge
+Tag:	Shapeshifting
+Tag:	Body Swapping
+Tag:	Amnesia
+Related:	26978
+Related:	26979
+Related:	21798
+Related:	26982
+Related:	16904
+Related:	81769
+Related:	27210
+Related:	77030
+Related:	85261
+Related:	7982
+Related:	85680
+Related:	75451
+Related:	26973
+Related:	26975

@@ -1,32 +1,38 @@
 ID:	110733
+Title:	ゾンビランドサガ リベンジ
 Title:	Zombie Land Saga: Revenge
 Title:	Zombieland Saga Revenge
-Title:	ゾンビランドサガ リベンジ
 Title:	ZOMBIE LAND SAGA REVENGE
-Tag:	Transgender
-Tag:	Satire
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Monster Girl
-Tag:	LGBTQ+ Themes
-Tag:	Parody
-Tag:	Dancing
-Tag:	Natural Disaster
-Tag:	Rakugo
-Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Idol
 Tag:	Historical
-Tag:	Zombie
-Tag:	Work
-Tag:	Bar
-Tag:	Rural
-Tag:	Urban Fantasy
+Tag:	Tragedy
+Tag:	Satire
+Tag:	Oiran
+Tag:	Primarily Female Cast
+Tag:	Transgender
+Tag:	Female Protagonist
 Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Rakugo
+Tag:	Monster Girl
+Tag:	Natural Disaster
+Tag:	Swordplay
+Tag:	Urban Fantasy
+Tag:	Zombie
+Tag:	Bar
+Tag:	LGBTQ+ Themes
+Tag:	Rural
+Tag:	Revenge
+Tag:	Surreal Comedy
+Tag:	CGI
 Tag:	Achronological Order
 Tag:	Time Skip
-Tag:	Female Protagonist
-Tag:	Oiran
+Tag:	Dancing
+Tag:	Work
+Tag:	Idol
+Related:	104714
+Related:	140337
+Related:	33971
+Related:	33973
+Related:	64153
+Related:	103871

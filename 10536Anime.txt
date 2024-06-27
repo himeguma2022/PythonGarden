@@ -1,11 +1,11 @@
 ID:	10536
-Title:	君に届け ミニトド劇場
 Title:	Kimi ni Todoke 2nd Season: Minitodo Gekijou
 Title:	Kimi ni Todoke 2nd Season Specials
-Tag:	Shoujo
-Tag:	CGI
-Tag:	Acting
+Title:	君に届け ミニトド劇場
 Tag:	Chibi
-Tag:	Female Protagonist
+Tag:	CGI
 Tag:	Primarily Female Cast
+Tag:	Shoujo
+Tag:	Acting
+Tag:	Female Protagonist
 Tag:	Fairy Tale

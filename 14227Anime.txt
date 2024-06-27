@@ -1,14 +1,18 @@
 ID:	14227
-Title:	となりの怪物くん
 Title:	Tonari no Kaibutsu-kun
 Title:	My Little Monster
-Tag:	Shoujo
-Tag:	School
-Tag:	Tsundere
+Title:	となりの怪物くん
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Male Protagonist
+Tag:	Shoujo
 Tag:	Love Triangle
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	16866
+Related:	7957
+Related:	43702
+Related:	7958

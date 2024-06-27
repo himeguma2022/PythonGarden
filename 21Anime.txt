@@ -1,73 +1,185 @@
 ID:	21
 Title:	ONE PIECE
-Tag:	Anachronism
-Tag:	Musical Theater
-Tag:	Artificial Intelligence
-Tag:	Anti-Hero
-Tag:	Gender Bending
-Tag:	Politics
-Tag:	Marriage
-Tag:	Guns
-Tag:	Revenge
-Tag:	Prison
-Tag:	Robots
-Tag:	Skeleton
-Tag:	Found Family
-Tag:	Unrequited Love
-Tag:	CGI
-Tag:	Crime
-Tag:	Fugitive
-Tag:	Conspiracy
-Tag:	Drugs
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	Time Manipulation
-Tag:	Trains
-Tag:	War
-Tag:	Monster Boy
-Tag:	Dragons
-Tag:	Post-Apocalyptic
-Tag:	Monster Girl
-Tag:	Anthropomorphism
-Tag:	Animals
-Tag:	Shounen
-Tag:	Shapeshifting
-Tag:	Battle Royale
-Tag:	LGBTQ+ Themes
-Tag:	Asexual
-Tag:	Primarily Adult Cast
-Tag:	Lost Civilization
-Tag:	Achromatic
-Tag:	Samurai
-Tag:	Acting
-Tag:	Angels
-Tag:	Kuudere
-Tag:	Swordplay
-Tag:	Pirates
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Gods
-Tag:	Mermaid
-Tag:	Slapstick
-Tag:	Super Power
-Tag:	Zombie
-Tag:	Travel
-Tag:	Adoption
-Tag:	Desert
-Tag:	Ships
-Tag:	Henshin
-Tag:	Body Swapping
-Tag:	Female Harem
-Tag:	Coming of Age
 Tag:	Slavery
-Tag:	Espionage
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Clone
-Tag:	Fairy
-Tag:	Food
-Tag:	Male Protagonist
-Tag:	Cyborg
+Tag:	Desert
 Tag:	Time Skip
+Tag:	Slapstick
+Tag:	Post-Apocalyptic
+Tag:	Angels
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Gods
+Tag:	Fugitive
+Tag:	Anthropomorphism
+Tag:	Unrequited Love
+Tag:	Anachronism
+Tag:	Trains
+Tag:	Asexual
+Tag:	Conspiracy
+Tag:	Primarily Adult Cast
+Tag:	Crime
+Tag:	Prison
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Lost Civilization
 Tag:	Female Protagonist
-Tag:	Ninja
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Marriage
+Tag:	Gender Bending
+Tag:	Cyborg
+Tag:	Travel
+Tag:	Skeleton
+Tag:	Politics
+Tag:	Fairy
+Tag:	Monster Girl
+Tag:	Time Manipulation
+Tag:	Guns
+Tag:	Mermaid
+Tag:	Drugs
+Tag:	Swordplay
 Tag:	Medicine
+Tag:	Female Harem
+Tag:	Ninja
+Tag:	Acting
+Tag:	Zombie
+Tag:	Espionage
 Tag:	Assassins
+Tag:	War
+Tag:	LGBTQ+ Themes
+Tag:	Ships
+Tag:	Animals
+Tag:	Henshin
+Tag:	Robots
+Tag:	Musical Theater
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	Achromatic
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	Battle Royale
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Pirates
+Tag:	Shapeshifting
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Body Swapping
+Tag:	Samurai
+Tag:	Adoption
+Tag:	Dragons
+Related:	25601
+Related:	97805
+Related:	10767
+Related:	30235
+Related:	101918
+Related:	26658
+Related:	8740
+Related:	134184
+Related:	42
+Related:	43
+Related:	44
+Related:	45
+Related:	46
+Related:	48
+Related:	49
+Related:	54
+Related:	10296
+Related:	56
+Related:	58
+Related:	2107
+Related:	4155
+Related:	12859
+Related:	62
+Related:	63
+Related:	11330
+Related:	1094
+Related:	30793
+Related:	114761
+Related:	106572
+Related:	141902
+Related:	16468
+Related:	88670
+Related:	107110
+Related:	171630
+Related:	28278
+Related:	57472
+Related:	28803
+Related:	5252
+Related:	20110
+Related:	113308
+Related:	96427
+Related:	36524
+Related:	19123
+Related:	105143
+Related:	126649
+Related:	25786
+Related:	1237
+Related:	1238
+Related:	36567
+Related:	12001
+Related:	101099
+Related:	21230
+Related:	102639
+Related:	36085
+Related:	107256
+Related:	39681
+Related:	39683
+Related:	3848
+Related:	9999
+Related:	36119
+Related:	49965
+Related:	813
+Related:	10033
+Related:	30013
+Related:	177475
+Related:	21831
+Related:	2385
+Related:	2386
+Related:	38230
+Related:	21335
+Related:	24926
+Related:	24927
+Related:	24928
+Related:	24929
+Related:	24930
+Related:	24931
+Related:	24932
+Related:	24933
+Related:	24934
+Related:	24935
+Related:	24936
+Related:	24937
+Related:	24938
+Related:	20835
+Related:	16239
+Related:	9584
+Related:	21880
+Related:	29072
+Related:	72085
+Related:	26532
+Related:	26534
+Related:	65463
+Related:	2490
+Related:	143293
+Related:	459
+Related:	460
+Related:	461
+Related:	462
+Related:	463
+Related:	464
+Related:	465
+Related:	466
+Related:	26580
+Related:	15323
+Related:	2020
+Related:	28133
+Related:	99302
+Related:	33258
+Related:	92652
+Related:	21485
+Related:	167404
+Related:	106492

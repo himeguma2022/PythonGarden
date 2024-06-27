@@ -1,33 +1,35 @@
 ID:	103222
-Title:	Mahou Shoujo Tokushusen Asuka
 Title:	Magical Girl Spec-Ops Asuka
+Title:	Mahou Shoujo Tokushusen Asuka
 Title:	魔法少女特殊戦あすか
-Tag:	School
-Tag:	Terrorism
-Tag:	Seinen
-Tag:	Guns
-Tag:	Maids
-Tag:	Primarily Female Cast
-Tag:	Sadism
-Tag:	Body Horror
-Tag:	CGI
-Tag:	Drugs
-Tag:	War
-Tag:	Gore
-Tag:	Anthropomorphism
 Tag:	Scissoring
-Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Nudity
-Tag:	Bondage
-Tag:	Bullying
-Tag:	Torture
 Tag:	Tragedy
-Tag:	Henshin
-Tag:	Military
-Tag:	Foreign
-Tag:	Fairy
 Tag:	Super Power
-Tag:	Female Protagonist
 Tag:	Human Pet
+Tag:	Bondage
+Tag:	Anthropomorphism
+Tag:	Gore
+Tag:	Bullying
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Torture
+Tag:	Body Horror
+Tag:	Sadism
+Tag:	Seinen
+Tag:	Fairy
+Tag:	Foreign
+Tag:	Guns
+Tag:	Drugs
+Tag:	Terrorism
+Tag:	School
+Tag:	Nudity
+Tag:	War
 Tag:	Assassins
+Tag:	LGBTQ+ Themes
+Tag:	Henshin
+Tag:	Magic
+Tag:	CGI
+Tag:	Military
+Tag:	Maids
+Related:	24346
+Related:	100674

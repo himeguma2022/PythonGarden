@@ -1,16 +1,18 @@
 ID:	98291
+Title:	徒然チルドレン
 Title:	Tsuredure Children
 Title:	Tsurezure Children
-Title:	徒然チルドレン
-Tag:	School Club
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Tsundere
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Kuudere
 Tag:	Love Triangle
-Tag:	Achronological Order
 Tag:	Shounen
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Kuudere
+Tag:	Achronological Order
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	School Club
+Related:	86481
+Related:	18427

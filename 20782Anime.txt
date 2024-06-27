@@ -1,8 +1,8 @@
 ID:	20782
-Title:	Barakamon: Mijikamon
 Title:	みじかもん
 Title:	Mijikamon
-Tag:	Iyashikei
-Tag:	Chibi
-Tag:	Meta
+Title:	Barakamon: Mijikamon
 Tag:	Rural
+Tag:	Meta
+Tag:	Chibi
+Tag:	Iyashikei

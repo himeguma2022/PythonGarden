@@ -1,27 +1,41 @@
 ID:	103871
-Title:	Zombie Land Saga
 Title:	ZOMBIE LAND SAGA
 Title:	Zombieland Saga
 Title:	ゾンビランドサガ
-Tag:	Transgender
+Title:	Zombie Land Saga
 Tag:	Satire
-Tag:	Necromancy
-Tag:	Hip-hop Music
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Amnesia
-Tag:	Monster Girl
-Tag:	Motorcycles
-Tag:	LGBTQ+ Themes
-Tag:	Parody
-Tag:	Dancing
-Tag:	Idol
-Tag:	Zombie
-Tag:	Rural
-Tag:	Episodic
-Tag:	Time Skip
-Tag:	Female Protagonist
 Tag:	Oiran
+Tag:	Primarily Female Cast
+Tag:	Transgender
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Monster Girl
 Tag:	Gangs
+Tag:	Necromancy
+Tag:	Zombie
+Tag:	LGBTQ+ Themes
+Tag:	Hip-hop Music
+Tag:	Rural
+Tag:	Surreal Comedy
+Tag:	Motorcycles
+Tag:	CGI
+Tag:	Time Skip
+Tag:	Dancing
+Tag:	Amnesia
+Tag:	Idol
+Related:	69378
+Related:	44165
+Related:	69245
+Related:	132552
+Related:	25865
+Related:	104714
+Related:	121035
+Related:	110733
+Related:	77237
+Related:	33974
+Related:	154006
+Related:	145433
+Related:	145309
+Related:	57758

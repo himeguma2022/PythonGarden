@@ -1,11 +1,11 @@
 ID:	279
-Title:	Requiem from the Darkness
 Title:	Kyougoku Natsuhiko: Kousetsu Hyaku Monogatari
+Title:	Requiem from the Darkness
 Title:	京極夏彦 巷説百物語
+Tag:	Historical
+Tag:	Demons
+Tag:	Gore
 Tag:	Ghost
 Tag:	Denpa
-Tag:	Demons
-Tag:	Episodic
 Tag:	Youkai
-Tag:	Gore
-Tag:	Historical
+Tag:	Episodic

@@ -2,16 +2,23 @@ ID:	163132
 Title:	Horimiya: piece
 Title:	Horimiya: The Missing Pieces
 Title:	ホリミヤ -piece-
-Tag:	LGBTQ+ Themes
+Title:	Horimiya: Piece
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
 Tag:	School
 Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Episodic
-Tag:	Primarily Teen Cast
-Tag:	Family Life
-Tag:	Heterosexual
 Tag:	Chibi
-Tag:	Male Protagonist
 Tag:	Achronological Order
-Tag:	Female Protagonist
-Tag:	Shounen
+Tag:	LGBTQ+ Themes
+Tag:	Heterosexual
+Related:	72451
+Related:	85353
+Related:	85356
+Related:	124080
+Related:	90263
+Related:	137278

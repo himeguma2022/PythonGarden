@@ -1,20 +1,24 @@
 ID:	16742
 Title:	WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Not Popular!
-Title:	Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
 Title:	私がモテないのはどう考えてもお前らが悪い!
-Tag:	Parody
+Title:	Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
 Tag:	Disability
-Tag:	Hikikomori
-Tag:	School
-Tag:	Satire
-Tag:	Slapstick
-Tag:	Psychosexual
-Tag:	Otaku Culture
-Tag:	Female Protagonist
-Tag:	Rehabilitation
-Tag:	Chuunibyou
-Tag:	Bisexual
-Tag:	Meta
-Tag:	Achronological Order
-Tag:	Video Games
 Tag:	Shounen
+Tag:	Slapstick
+Tag:	Satire
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Parody
+Tag:	Achronological Order
+Tag:	Chuunibyou
+Tag:	Video Games
+Tag:	Hikikomori
+Tag:	Otaku Culture
+Tag:	Bisexual
+Tag:	Rehabilitation
+Tag:	Psychosexual
+Tag:	Meta
+Related:	8352
+Related:	20453
+Related:	8726
+Related:	58533

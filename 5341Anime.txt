@@ -1,18 +1,24 @@
 ID:	5341
-Title:	Spice and Wolf II
 Title:	狼と香辛料II
+Title:	Spice and Wolf II
 Title:	Ookami to Koushinryou II
-Tag:	Nudity
-Tag:	Monster Girl
+Tag:	Historical
 Tag:	Kemonomimi
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Economics
+Tag:	Gods
+Tag:	Politics
+Tag:	Travel
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Monster Girl
+Tag:	Rural
 Tag:	Primarily Adult Cast
 Tag:	Foreign
-Tag:	Rural
-Tag:	Politics
-Tag:	Heterosexual
-Tag:	Economics
-Tag:	Male Protagonist
-Tag:	Gods
-Tag:	Female Protagonist
-Tag:	Historical
-Tag:	Travel
+Related:	6884
+Related:	39115
+Related:	5265
+Related:	5266
+Related:	5267
+Related:	6007

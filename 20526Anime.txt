@@ -2,16 +2,16 @@ ID:	20526
 Title:	蟲師 特別篇「日蝕む翳」
 Title:	Mushishi: Hihamukage
 Title:	MUSHI-SHI OVA
-Tag:	Twins
-Tag:	Denpa
+Tag:	Male Protagonist
+Tag:	Historical
+Tag:	Demons
 Tag:	Rural
 Tag:	Seinen
-Tag:	Urban Fantasy
-Tag:	Demons
+Tag:	Denpa
 Tag:	Youkai
-Tag:	Mythology
-Tag:	Male Protagonist
 Tag:	Environmental
 Tag:	Philosophy
-Tag:	Historical
 Tag:	Travel
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Twins

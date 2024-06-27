@@ -1,18 +1,26 @@
 ID:	10800
-Title:	ちはやふる
 Title:	Chihayafuru
-Tag:	School Club
-Tag:	Karuta
-Tag:	CGI
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Athletics
-Tag:	Heterosexual
+Title:	ちはやふる
 Tag:	Tomboy
-Tag:	Love Triangle
-Tag:	Female Protagonist
 Tag:	Bullying
 Tag:	Josei
+Tag:	Primarily Teen Cast
+Tag:	Love Triangle
+Tag:	CGI
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	Karuta
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Athletics
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	School Club
+Related:	7304
+Related:	7305
+Related:	67080
+Related:	43245
+Related:	64983
+Related:	108635
+Related:	14397
+Related:	143391

@@ -1,16 +1,30 @@
 ID:	20464
+Title:	HAIKYU!!
 Title:	Haikyuu!!
 Title:	ハイキュー!!
-Title:	HAIKYU!!
-Tag:	School Club
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Volleyball
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
 Tag:	Fitness
-Tag:	Kuudere
+Tag:	Primarily Teen Cast
+Tag:	Shounen
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Kuudere
 Tag:	Primarily Male Cast
-Tag:	Shounen
+Tag:	Volleyball
+Tag:	Coming of Age
+Tag:	School Club
+Related:	21120
+Related:	20992
+Related:	17815
+Related:	34949
+Related:	25776
+Related:	115217
+Related:	20884
+Related:	17814
+Related:	90455
+Related:	90457
+Related:	38971
+Related:	21244
+Related:	65243
+Related:	107263

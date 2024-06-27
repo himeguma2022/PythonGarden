@@ -1,16 +1,20 @@
 ID:	99916
-Title:	Asagao to Kase-san.
 Title:	あさがおと加瀬さん。
 Title:	Kase-san and Morning Glories
-Tag:	LGBTQ+ Themes
-Tag:	Shoujo
-Tag:	Horticulture
-Tag:	School
-Tag:	Primarily Teen Cast
+Title:	Asagao to Kase-san.
 Tag:	Yuri
+Tag:	Tomboy
+Tag:	Primarily Female Cast
+Tag:	Shoujo
+Tag:	Primarily Teen Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
+Tag:	School
+Tag:	LGBTQ+ Themes
+Tag:	Horticulture
 Tag:	Coming of Age
 Tag:	Agriculture
-Tag:	Cute Girls Doing Cute Things
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Related:	68105
+Related:	98511
+Related:	20789
+Related:	20791

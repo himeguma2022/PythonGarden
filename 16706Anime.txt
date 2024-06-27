@@ -2,17 +2,21 @@ ID:	16706
 Title:	神のみぞ知るセカイ 女神篇
 Title:	The World God Only Knows: Goddesses
 Title:	Kami nomi zo Shiru Sekai: Megami-hen
-Tag:	Ghost
-Tag:	Female Harem
-Tag:	Demons
-Tag:	Otaku Culture
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Heterosexual
 Tag:	Tragedy
-Tag:	Crossdressing
+Tag:	Ghost
 Tag:	Love Triangle
-Tag:	Video Games
+Tag:	Coming of Age
 Tag:	Shounen
+Tag:	Female Harem
 Tag:	Firefighters
+Tag:	Otaku Culture
+Tag:	Kuudere
 Tag:	Gods
+Tag:	Crossdressing
+Tag:	Video Games
+Tag:	Heterosexual
+Tag:	Demons
+Related:	46024
+Related:	8345
+Related:	15117
+Related:	37519

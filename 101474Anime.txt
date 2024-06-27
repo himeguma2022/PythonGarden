@@ -1,30 +1,40 @@
 ID:	101474
-Title:	オーバーロードⅢ
 Title:	Overlord III
-Tag:	Artificial Intelligence
-Tag:	Anti-Hero
-Tag:	Femboy
-Tag:	Politics
-Tag:	Demons
-Tag:	Tomboy
-Tag:	Vampire
-Tag:	Skeleton
-Tag:	CGI
-Tag:	Twins
-Tag:	Ensemble Cast
-Tag:	Villainess
-Tag:	Time Manipulation
-Tag:	War
-Tag:	Goblin
-Tag:	Monster Boy
-Tag:	Monster Girl
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Kuudere
-Tag:	Yandere
-Tag:	Succubus
-Tag:	Kaiju
-Tag:	Female Harem
-Tag:	Isekai
-Tag:	Male Protagonist
+Title:	オーバーロードⅢ
 Tag:	Super Power
+Tag:	Isekai
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Kaiju
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Villainess
+Tag:	Skeleton
+Tag:	Monster Girl
+Tag:	Time Manipulation
+Tag:	Succubus
+Tag:	Female Harem
+Tag:	War
+Tag:	Vampire
+Tag:	Magic
+Tag:	Twins
+Tag:	Tomboy
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Goblin
+Tag:	Femboy
+Tag:	Anti-Hero
+Tag:	Yandere
+Tag:	Demons
+Related:	98437
+Related:	103209
+Related:	71914
+Related:	22541
+Related:	85934
+Related:	22543
+Related:	24497
+Related:	133844
+Related:	85976
+Related:	57178

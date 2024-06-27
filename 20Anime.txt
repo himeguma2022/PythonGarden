@@ -2,32 +2,56 @@ ID:	20
 Title:	Naruto
 Title:	NARUTO -ナルト-
 Title:	NARUTO
-Tag:	Anachronism
-Tag:	School
-Tag:	Gender Bending
-Tag:	Femboy
-Tag:	Demons
-Tag:	Revenge
-Tag:	Found Family
-Tag:	Cultivation
-Tag:	Unrequited Love
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Shapeshifting
-Tag:	Nudity
-Tag:	Bullying
-Tag:	Heterosexual
 Tag:	Tragedy
+Tag:	Super Power
 Tag:	Love Triangle
 Tag:	Slapstick
-Tag:	Orphan
-Tag:	Kaiju
-Tag:	Travel
 Tag:	Martial Arts
-Tag:	Estranged Family
-Tag:	Coming of Age
+Tag:	Anachronism
+Tag:	Unrequited Love
+Tag:	Kaiju
+Tag:	Bullying
 Tag:	Primarily Child Cast
+Tag:	Shounen
+Tag:	Estranged Family
 Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Ensemble Cast
+Tag:	Gender Bending
+Tag:	Travel
+Tag:	Orphan
+Tag:	School
 Tag:	Ninja
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	Cultivation
+Tag:	Revenge
+Tag:	Shapeshifting
+Tag:	Femboy
+Tag:	Demons
+Related:	162561
+Related:	84869
+Related:	25
+Related:	26
+Related:	27
+Related:	28
+Related:	29
+Related:	30
+Related:	31
+Related:	32
+Related:	33
+Related:	10659
+Related:	936
+Related:	1074
+Related:	442
+Related:	30011
+Related:	78407
+Related:	1735
+Related:	7367
+Related:	594
+Related:	155348
+Related:	2144
+Related:	56941
+Related:	761

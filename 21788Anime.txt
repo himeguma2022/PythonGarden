@@ -1,16 +1,16 @@
 ID:	21788
-Title:	Napping Princess
 Title:	ひるね姫　～知らないワタシの物語～
 Title:	Hirune Hime: Shiranai Watashi no Monogatari
-Tag:	Artificial Intelligence
-Tag:	Cars
-Tag:	Age Regression
-Tag:	CGI
-Tag:	School
-Tag:	Software Development
+Title:	Napping Princess
 Tag:	Isekai
+Tag:	CGI
 Tag:	Cyberpunk
-Tag:	Economics
-Tag:	Witch
+Tag:	School
+Tag:	Cars
 Tag:	Female Protagonist
+Tag:	Witch
 Tag:	Motorcycles
+Tag:	Artificial Intelligence
+Tag:	Economics
+Tag:	Age Regression
+Tag:	Software Development

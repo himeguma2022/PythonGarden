@@ -1,11 +1,11 @@
 ID:	850
-Title:	学園ヘヴン
 Title:	Gakuen Heaven
+Title:	学園ヘヴン
 Title:	Heaven Academy
-Tag:	Twins
-Tag:	School
+Tag:	Male Protagonist
 Tag:	Male Harem
 Tag:	Boys' Love
-Tag:	Age Gap
-Tag:	Male Protagonist
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Age Gap
+Tag:	Twins

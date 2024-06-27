@@ -1,17 +1,31 @@
 ID:	355
-Title:	灼眼のシャナ
 Title:	Shakugan no Shana
+Title:	灼眼のシャナ
+Tag:	Super Power
 Tag:	Religion
-Tag:	School
-Tag:	Primarily Adult Cast
-Tag:	Anti-Hero
-Tag:	Urban Fantasy
-Tag:	Tsundere
 Tag:	Primarily Teen Cast
-Tag:	Kuudere
+Tag:	Love Triangle
 Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Anti-Hero
+Tag:	Primarily Adult Cast
 Tag:	Kaiju
+Related:	2787
+Related:	6628
+Related:	36679
+Related:	808
+Related:	809
+Related:	810
+Related:	811
+Related:	1066
+Related:	813
+Related:	21807
+Related:	33074
+Related:	1815
+Related:	6330
+Related:	1531

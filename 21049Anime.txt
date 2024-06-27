@@ -1,21 +1,25 @@
 ID:	21049
 Title:	ReLIFE
-Tag:	Hikikomori
-Tag:	School
-Tag:	Seinen
-Tag:	Chibi
-Tag:	Age Regression
-Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Slapstick
+Tag:	Kuudere
 Tag:	Memory Manipulation
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Time Manipulation
+Tag:	Age Regression
+Tag:	School
 Tag:	Volleyball
 Tag:	Acting
-Tag:	Kuudere
-Tag:	Heterosexual
 Tag:	Age Gap
-Tag:	Tragedy
-Tag:	Rehabilitation
-Tag:	Slapstick
-Tag:	Work
-Tag:	Primarily Teen Cast
+Tag:	Chibi
+Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	Male Protagonist
+Tag:	Hikikomori
+Tag:	Work
+Tag:	Rehabilitation
+Related:	85849
+Related:	98635
+Related:	18790
+Related:	10006

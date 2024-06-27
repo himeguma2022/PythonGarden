@@ -1,14 +1,20 @@
 ID:	20819
 Title:	WORKING!!!
-Title:	Working!!
+Title:	WORKING!!
 Title:	Wagnaria!!3
-Tag:	Satire
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Food
-Tag:	Restaurant
 Tag:	Male Protagonist
+Tag:	Satire
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Food
 Tag:	Crossdressing
+Tag:	Restaurant
+Tag:	Seinen
+Tag:	Heterosexual
 Tag:	Work
+Related:	9540
+Related:	21384
+Related:	10745
+Related:	33044
+Related:	32916
+Related:	10521

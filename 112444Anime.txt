@@ -1,17 +1,17 @@
 ID:	112444
 Title:	Appare-Ranman!
-Title:	天晴爛漫！
 Title:	APPARE-RANMAN!
-Tag:	Anachronism
-Tag:	Martial Arts
-Tag:	Cars
-Tag:	Steampunk
-Tag:	Foreign
-Tag:	Samurai
+Title:	天晴爛漫！
+Tag:	Male Protagonist
+Tag:	Historical
 Tag:	Guns
 Tag:	Swordplay
-Tag:	Tanned Skin
-Tag:	Male Protagonist
+Tag:	Steampunk
 Tag:	Primarily Male Cast
-Tag:	Historical
+Tag:	Cars
+Tag:	Anachronism
+Tag:	Tanned Skin
+Tag:	Foreign
 Tag:	Travel
+Tag:	Samurai
+Tag:	Martial Arts

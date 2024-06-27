@@ -1,23 +1,26 @@
 ID:	117533
 Title:	Hataraku Saibou BLACK
 Title:	Cells at Work! CODE BLACK
-Title:	Hataraku Saibou Black
 Title:	はたらく細胞BLACK
-Tag:	Primarily Adult Cast
-Tag:	Alternate Universe
-Tag:	Drugs
-Tag:	Seinen
-Tag:	Survival
-Tag:	Dystopian
-Tag:	Educational
 Tag:	Guns
-Tag:	Episodic
-Tag:	Gore
-Tag:	Male Protagonist
 Tag:	Tragedy
+Tag:	Dystopian
+Tag:	Drugs
 Tag:	Medicine
+Tag:	Educational
+Tag:	Male Protagonist
+Tag:	Alternate Universe
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Survival
 Tag:	Anthropomorphism
-Tag:	Suicide
 Tag:	Shapeshifting
+Tag:	Suicide
+Tag:	Gore
 Tag:	Work
+Tag:	Seinen
+Tag:	Primarily Adult Cast
+Related:	100977
+Related:	103586
+Related:	41089
+Related:	41092

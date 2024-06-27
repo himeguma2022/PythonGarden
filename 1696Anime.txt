@@ -1,12 +1,14 @@
 ID:	1696
 Title:	Murder Princess
 Title:	マーダープリンセス
-Tag:	Body Swapping
-Tag:	Lost Civilization
-Tag:	Demons
 Tag:	Revenge
 Tag:	Swordplay
-Tag:	Gore
-Tag:	Cyborg
+Tag:	Lost Civilization
 Tag:	Female Protagonist
+Tag:	Cyborg
 Tag:	Skeleton
+Tag:	Gore
+Tag:	Body Swapping
+Tag:	Demons
+Related:	2728
+Related:	30954

@@ -2,20 +2,26 @@ ID:	98659
 Title:	Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
 Title:	ようこそ実力至上主義の教室へ
 Title:	Classroom of the Elite
-Tag:	Nudity
-Tag:	School Club
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Seinen
-Tag:	Survival
-Tag:	Ensemble Cast
-Tag:	Tsundere
-Tag:	Female Harem
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Yandere
-Tag:	Male Protagonist
-Tag:	Philosophy
-Tag:	Female Protagonist
 Tag:	Battle Royale
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Kuudere
+Tag:	Survival
+Tag:	Nudity
+Tag:	Philosophy
+Tag:	Tsundere
+Tag:	Seinen
+Tag:	Anti-Hero
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	School Club
+Related:	145545
+Related:	18807
+Related:	69498
+Related:	58909
+Related:	96798
+Related:	94970

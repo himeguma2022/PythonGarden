@@ -1,24 +1,28 @@
 ID:	109020
-Title:	イエスタデイをうたって
-Title:	Yesterday wo Utatte
 Title:	SING "YESTERDAY" FOR ME
-Tag:	School
-Tag:	Seinen
-Tag:	Tsundere
-Tag:	Konbini
-Tag:	Urban
-Tag:	Office
-Tag:	Unrequited Love
-Tag:	Primarily Adult Cast
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Love Triangle
-Tag:	Rehabilitation
-Tag:	Work
+Title:	Yesterday wo Utatte
+Title:	イエスタデイをうたって
 Tag:	Teacher
-Tag:	Drawing
-Tag:	Photography
-Tag:	Coming of Age
+Tag:	Love Triangle
+Tag:	Urban
 Tag:	College
+Tag:	Unrequited Love
+Tag:	Tsundere
+Tag:	Primarily Adult Cast
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Office
+Tag:	Seinen
+Tag:	Konbini
+Tag:	Drawing
+Tag:	School
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Photography
+Tag:	Work
+Tag:	Rehabilitation
+Related:	117496
+Related:	31977
+Related:	43161
+Related:	31155

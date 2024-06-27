@@ -1,7 +1,7 @@
 ID:	20846
-Title:	Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou
 Title:	犬神さんと猫山さん 猫山さんと温泉旅行
+Title:	Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou
 Tag:	Female Protagonist
-Tag:	Primarily Female Cast
-Tag:	School
 Tag:	Yuri
+Tag:	School
+Tag:	Primarily Female Cast

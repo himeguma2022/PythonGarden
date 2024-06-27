@@ -1,0 +1,21 @@
+ID:	1090
+Title:	機動戦士ガンダムⅠ
+Title:	Mobile Suit Gundam I
+Title:	Kidou Senshi Gundam I
+Tag:	Super Robot
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Space
+Tag:	War
+Tag:	Real Robot
+Tag:	Military
+Tag:	Space Opera
+Tag:	Coming of Age
+Related:	1091
+Related:	35555
+Related:	35557
+Related:	108039
+Related:	1899
+Related:	9548
+Related:	80
+Related:	10937

@@ -1,14 +1,16 @@
 ID:	6203
-Title:	ささめきこと
-Title:	Sasameki Koto
 Title:	Whispered Words
-Tag:	LGBTQ+ Themes
-Tag:	Unrequited Love
-Tag:	School
-Tag:	Seinen
-Tag:	Primarily Teen Cast
+Title:	Sasameki Koto
+Title:	ささめきこと
 Tag:	Yuri
-Tag:	Coming of Age
-Tag:	Crossdressing
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Unrequited Love
+Tag:	LGBTQ+ Themes
+Tag:	Crossdressing
+Tag:	Seinen
+Tag:	Coming of Age
+Related:	34584
+Related:	5590

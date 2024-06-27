@@ -1,13 +1,13 @@
 ID:	162209
 Title:	Kawagoe Boys Sing
-Title:	川越ボーイズ・シング
 Title:	KAWAGOE BOYS SING -Now or Never-
+Title:	川越ボーイズ・シング
 Tag:	School Club
-Tag:	Twins
-Tag:	School
 Tag:	Ensemble Cast
-Tag:	Femboy
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Skateboarding
+Tag:	School
 Tag:	Primarily Male Cast
+Tag:	Skateboarding
+Tag:	Primarily Teen Cast
+Tag:	Femboy
+Tag:	Cute Boys Doing Cute Things
+Tag:	Twins

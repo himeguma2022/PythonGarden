@@ -1,24 +1,34 @@
 ID:	139630
-Title:	Boku no Hero Academia 6th Season
-Title:	My Hero Academia Season 6
 Title:	僕のヒーローアカデミア６
 Title:	Boku no Hero Academia 6
-Tag:	Anti-Hero
+Title:	My Hero Academia Season 6
+Title:	Boku no Hero Academia 6th Season
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Post-Apocalyptic
+Tag:	Gore
+Tag:	Conspiracy
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
 Tag:	Terrorism
+Tag:	Boarding School
+Tag:	Espionage
+Tag:	War
+Tag:	Assassins
 Tag:	Revenge
 Tag:	CGI
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	War
 Tag:	Superhero
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Shounen
-Tag:	Boarding School
+Tag:	Anti-Hero
 Tag:	Yandere
-Tag:	Tragedy
-Tag:	Espionage
 Tag:	Bisexual
-Tag:	Male Protagonist
-Tag:	Super Power
-Tag:	Assassins
+Related:	163139
+Related:	84419
+Related:	90149
+Related:	117193
+Related:	63563
+Related:	63565
+Related:	85486
+Related:	169402
+Related:	161981
+Related:	85374

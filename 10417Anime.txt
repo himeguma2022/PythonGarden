@@ -1,19 +1,21 @@
 ID:	10417
-Title:	ギョ
-Title:	Gyo
 Title:	GYO: Tokyo Fish Attack
-Tag:	Nudity
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Seinen
-Tag:	Urban
-Tag:	Coastal
-Tag:	Ero Guro
-Tag:	Gore
+Title:	Gyo
+Title:	ギョ
 Tag:	Tragedy
-Tag:	Pandemic
-Tag:	Female Protagonist
-Tag:	Post-Apocalyptic
 Tag:	Fishing
-Tag:	Threesome
+Tag:	Coastal
+Tag:	Post-Apocalyptic
+Tag:	CGI
+Tag:	Urban
+Tag:	Ero Guro
+Tag:	Female Protagonist
+Tag:	Nudity
 Tag:	Body Horror
+Tag:	Gore
+Tag:	Seinen
+Tag:	Pandemic
+Tag:	Threesome
+Tag:	Primarily Adult Cast
+Related:	7131
+Related:	30909

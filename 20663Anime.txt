@@ -1,18 +1,22 @@
 ID:	20663
 Title:	Seireitsukai no Blade Dance
-Title:	精霊使いの剣舞【ブレイドダンス】
 Title:	Seirei Tsukai no Blade Dance
 Title:	Bladedance of Elementalers
-Tag:	Nudity
-Tag:	Magic
-Tag:	School
-Tag:	Female Harem
-Tag:	Tsundere
-Tag:	Archery
-Tag:	Swordplay
-Tag:	Kuudere
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
+Title:	精霊使いの剣舞【ブレイドダンス】
 Tag:	Primarily Female Cast
-Tag:	Animals
+Tag:	Archery
+Tag:	Cute Girls Doing Cute Things
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Kuudere
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Tsundere
+Tag:	Animals
+Tag:	Magic
+Related:	64553
+Related:	9178
+Related:	9669
+Related:	20871

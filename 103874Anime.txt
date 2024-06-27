@@ -1,19 +1,21 @@
 ID:	103874
-Title:	My Roommate is a Cat
-Title:	"Doukyonin wa Hiza, Tokidoki, Atama no Ue."
-Title:	Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 Title:	同居人はひざ、時々、頭のうえ。
-Tag:	Primarily Male Cast
-Tag:	Hikikomori
-Tag:	Shoujo
-Tag:	Primarily Adult Cast
+Title:	My Roommate is a Cat
+Title:	Doukyonin wa Hiza, Tokidoki, Atama no Ue.
+Title:	"Doukyonin wa Hiza, Tokidoki, Atama no Ue."
 Tag:	Iyashikei
-Tag:	Tsundere
-Tag:	Family Life
-Tag:	Male Protagonist
-Tag:	Rehabilitation
 Tag:	Tragedy
-Tag:	Female Protagonist
-Tag:	Animals
+Tag:	Shoujo
 Tag:	Writing
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Primarily Male Cast
+Tag:	Tsundere
+Tag:	Animals
+Tag:	Hikikomori
+Tag:	Rehabilitation
+Tag:	Primarily Adult Cast
 Tag:	Found Family
+Related:	24714
+Related:	97363

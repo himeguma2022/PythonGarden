@@ -1,19 +1,23 @@
 ID:	20665
-Title:	Your lie in April
 Title:	四月は君の嘘
 Title:	Shigatsu wa Kimi no Uso
-Tag:	Disability
-Tag:	School
-Tag:	Slapstick
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Rehabilitation
+Title:	Your lie in April
 Tag:	Tomboy
-Tag:	Male Protagonist
-Tag:	Classical Music
 Tag:	Tragedy
-Tag:	Female Protagonist
-Tag:	Shounen
+Tag:	Disability
+Tag:	Primarily Teen Cast
 Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	School
+Tag:	Rehabilitation
 Tag:	Suicide
+Tag:	Classical Music
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	10248
+Related:	67707
+Related:	9182
+Related:	21039

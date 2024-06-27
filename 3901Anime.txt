@@ -1,17 +1,21 @@
 ID:	3901
 Title:	バッカーノ!
 Title:	Baccano! Specials
-Tag:	Crime
-Tag:	Primarily Adult Cast
-Tag:	Anti-Hero
-Tag:	Foreign
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Demons
-Tag:	Outdoor
-Tag:	Kuudere
-Tag:	Mafia
-Tag:	Gore
-Tag:	Meta
-Tag:	Primarily Male Cast
 Tag:	Historical
+Tag:	Crime
+Tag:	Outdoor
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Kuudere
+Tag:	Primarily Male Cast
+Tag:	Mafia
+Tag:	Meta
+Tag:	Gore
+Tag:	Anti-Hero
+Tag:	Demons
+Tag:	Primarily Adult Cast
+Tag:	Foreign
+Related:	4586
+Related:	2251
+Related:	31342
+Related:	31959

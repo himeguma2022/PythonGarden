@@ -2,13 +2,15 @@ ID:	100645
 Title:	あっくんとカノジョ
 Title:	Akkun to Kanojo
 Title:	My Sweet Tyrant
-Tag:	School
 Tag:	Teacher
-Tag:	Tsundere
-Tag:	Episodic
-Tag:	Female Protagonist
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Yandere
-Tag:	Video Games
 Tag:	Josei
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	School
+Tag:	Age Gap
+Tag:	Tsundere
+Tag:	Video Games
+Tag:	Yandere
+Tag:	Heterosexual
+Related:	22115
+Related:	101063

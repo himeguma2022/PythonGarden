@@ -1,13 +1,23 @@
 ID:	17513
 Title:	Diabolik Lovers
 Title:	DIABOLIK LOVERS
+Tag:	Bullying
+Tag:	Female Protagonist
 Tag:	Primarily Male Cast
-Tag:	Magic
+Tag:	Vampire
 Tag:	Rape
 Tag:	Male Harem
 Tag:	Tsundere
-Tag:	Yandere
 Tag:	Gore
-Tag:	Vampire
-Tag:	Female Protagonist
-Tag:	Bullying
+Tag:	Yandere
+Tag:	Magic
+Related:	57444
+Related:	44617
+Related:	77290
+Related:	78731
+Related:	20844
+Related:	78641
+Related:	133204
+Related:	9974
+Related:	21046
+Related:	9598

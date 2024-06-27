@@ -1,15 +1,15 @@
 ID:	743
-Title:	Ocean Waves
-Title:	Umi ga Kikoeru
 Title:	海がきこえる
-Tag:	School Club
-Tag:	School
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Heterosexual
+Title:	Umi ga Kikoeru
+Title:	Ocean Waves
 Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Time Skip
-Tag:	Coastal
 Tag:	Historical
+Tag:	School Club
+Tag:	Heterosexual
+Tag:	School
+Tag:	Coming of Age
+Tag:	Primarily Teen Cast
 Tag:	Travel
+Tag:	Love Triangle
+Tag:	Coastal
+Tag:	Time Skip

@@ -1,13 +1,31 @@
 ID:	99940
 Title:	伊藤潤二「コレクション」
-Title:	Itou Junji: Collection
 Title:	Junji Ito Collection
-Tag:	Nudity
+Title:	Itou Junji: Collection
 Tag:	Crime
-Tag:	Anthology
-Tag:	Cosmic Horror
-Tag:	Episodic
 Tag:	Josei
+Tag:	Anthology
+Tag:	Episodic
+Tag:	Nudity
+Tag:	Body Horror
+Tag:	Cosmic Horror
 Tag:	Gore
 Tag:	Monster Girl
-Tag:	Body Horror
+Related:	25504
+Related:	30912
+Related:	82435
+Related:	69092
+Related:	25509
+Related:	34628
+Related:	24359
+Related:	33126
+Related:	25577
+Related:	24366
+Related:	24368
+Related:	24370
+Related:	145266
+Related:	145235
+Related:	75798
+Related:	100758
+Related:	101016
+Related:	150653

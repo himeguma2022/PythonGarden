@@ -1,8 +1,8 @@
 ID:	145849
 Title:	花子
 Title:	Hanako
-Tag:	School
-Tag:	Crime
-Tag:	Primarily Teen Cast
-Tag:	Tragedy
 Tag:	Male Protagonist
+Tag:	Crime
+Tag:	Tragedy
+Tag:	School
+Tag:	Primarily Teen Cast

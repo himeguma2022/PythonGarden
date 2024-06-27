@@ -1,21 +1,23 @@
 ID:	127050
-Title:	Koroshi Ai
 Title:	Love of Kill
+Title:	Koroshi Ai
 Title:	殺し愛
-Tag:	Crime
-Tag:	Ships
-Tag:	Primarily Adult Cast
-Tag:	Foreign
-Tag:	Amnesia
-Tag:	Police
-Tag:	Urban
 Tag:	Guns
+Tag:	Crime
 Tag:	Josei
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Yandere
+Tag:	Primarily Adult Cast
+Tag:	Urban
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Suicide
+Tag:	Amnesia
 Tag:	Assassins
+Tag:	Age Gap
+Tag:	Suicide
+Tag:	Ships
+Tag:	Yandere
+Tag:	Heterosexual
+Tag:	Police
 Tag:	Adoption
+Tag:	Foreign
+Related:	99435
+Related:	50379

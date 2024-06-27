@@ -1,22 +1,32 @@
 ID:	9919
 Title:	Ao no Exorcist
-Title:	青の祓魔師
 Title:	Blue Exorcist
-Tag:	School Club
-Tag:	Twins
-Tag:	Religion
-Tag:	CGI
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Demons
+Title:	青の祓魔師
 Tag:	Guns
-Tag:	Primarily Teen Cast
-Tag:	Youkai
-Tag:	Swordplay
-Tag:	Adoption
-Tag:	Male Protagonist
 Tag:	Tragedy
 Tag:	Super Power
+Tag:	Primarily Teen Cast
+Tag:	CGI
 Tag:	Shounen
-Tag:	Wuxia
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Urban Fantasy
 Tag:	Body Horror
+Tag:	Youkai
+Tag:	Wuxia
+Tag:	Religion
+Tag:	Twins
+Tag:	Demons
+Tag:	Adoption
+Tag:	School Club
+Related:	11394
+Related:	11266
+Related:	43492
+Related:	21861
+Related:	9546
+Related:	10647
+Related:	11737
+Related:	6876
+Related:	6877
+Related:	6878

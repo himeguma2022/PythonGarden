@@ -2,11 +2,19 @@ ID:	98549
 Title:	ポプテピピック
 Title:	Pop Team Epic
 Title:	Poputepipikku
-Tag:	Musical Theater
-Tag:	Parody
-Tag:	Satire
 Tag:	Surreal Comedy
-Tag:	Seinen
-Tag:	Episodic
-Tag:	Meta
+Tag:	Satire
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Parody
+Tag:	Seinen
+Tag:	Musical Theater
+Tag:	Meta
+Related:	18693
+Related:	110693
+Related:	45415
+Related:	104200
+Related:	143086
+Related:	66767
+Related:	87005
+Related:	25055

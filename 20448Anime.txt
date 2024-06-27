@@ -1,12 +1,18 @@
 ID:	20448
-Title:	Seitokai Yakuindomo Season 2
-Title:	Seitokai Yakuindomo＊
 Title:	生徒会役員共＊
-Tag:	School Club
-Tag:	School
+Title:	Seitokai Yakuindomo＊
+Title:	Seitokai Yakuindomo Season 2
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Shounen
 Tag:	Female Harem
 Tag:	Ensemble Cast
-Tag:	Primarily Teen Cast
+Tag:	School
 Tag:	Kuudere
-Tag:	Primarily Female Cast
-Tag:	Shounen
+Tag:	School Club
+Related:	10119
+Related:	8716
+Related:	8813
+Related:	44110
+Related:	20826
+Related:	9566

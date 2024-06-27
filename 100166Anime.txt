@@ -1,27 +1,35 @@
 ID:	100166
-Title:	Boku no Hero Academia 3rd Season
-Title:	僕のヒーローアカデミア３
-Title:	Boku no Hero Academia 3
 Title:	My Hero Academia Season 3
-Tag:	School
-Tag:	Transgender
-Tag:	Revenge
-Tag:	Tomboy
-Tag:	Body Horror
-Tag:	Cultivation
-Tag:	CGI
-Tag:	Ensemble Cast
-Tag:	Superhero
-Tag:	Shounen
-Tag:	Boarding School
-Tag:	Battle Royale
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Primarily Male Cast
-Tag:	Bar
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Primarily Teen Cast
-Tag:	Bisexual
-Tag:	Male Protagonist
+Title:	Boku no Hero Academia 3
+Title:	僕のヒーローアカデミア３
+Title:	Boku no Hero Academia 3rd Season
 Tag:	Super Power
+Tag:	Primarily Teen Cast
+Tag:	Transgender
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Boarding School
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Nudity
+Tag:	Bar
+Tag:	Heterosexual
+Tag:	Police
+Tag:	Tomboy
+Tag:	Cultivation
+Tag:	Revenge
+Tag:	Battle Royale
+Tag:	CGI
+Tag:	Superhero
+Tag:	Bisexual
+Related:	21856
+Related:	51137
+Related:	25160
+Related:	85486
+Related:	21166
+Related:	100723
+Related:	104276
+Related:	25750

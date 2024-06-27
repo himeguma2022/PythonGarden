@@ -1,21 +1,27 @@
 ID:	126288
+Title:	佐々木と宮野
 Title:	Sasaki to Miyano
 Title:	Sasaki and Miyano
-Title:	佐々木と宮野
-Tag:	LGBTQ+ Themes
-Tag:	Shoujo
-Tag:	School
 Tag:	Iyashikei
-Tag:	Table Tennis
-Tag:	Otaku Culture
-Tag:	Coming of Age
-Tag:	Trains
-Tag:	Primarily Teen Cast
 Tag:	Boys' Love
-Tag:	Chibi
-Tag:	Bisexual
+Tag:	Shoujo
+Tag:	Primarily Teen Cast
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Crossdressing
-Tag:	Meta
+Tag:	School
 Tag:	Primarily Male Cast
+Tag:	Chibi
+Tag:	LGBTQ+ Themes
+Tag:	Trains
+Tag:	Crossdressing
+Tag:	Table Tennis
+Tag:	Otaku Culture
+Tag:	Bisexual
+Tag:	Coming of Age
+Tag:	Meta
+Related:	98370
+Related:	66757
+Related:	70888
+Related:	143082
+Related:	146743
+Related:	49531

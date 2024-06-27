@@ -1,20 +1,38 @@
 ID:	861
-Title:	XXX ホリック
 Title:	xxxHOLiC
-Tag:	Ghost
-Tag:	Twins
-Tag:	School
-Tag:	Denpa
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Archery
-Tag:	Episodic
-Tag:	Youkai
+Title:	XXX ホリック
 Tag:	Mythology
+Tag:	Archery
+Tag:	Ghost
 Tag:	Male Protagonist
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Animals
+Tag:	Episodic
 Tag:	Football
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Denpa
+Tag:	Youkai
+Tag:	Gods
+Tag:	Philosophy
+Tag:	Animals
 Tag:	Work
+Tag:	Twins
+Tag:	Seinen
+Related:	969
+Related:	1535
+Related:	30010
+Related:	60782
+Related:	1532
+Related:	2768
+Related:	177
+Related:	72154
+Related:	3091
+Related:	793
+Related:	40183
+Related:	10681
+Related:	10490
+Related:	1531
+Related:	53660
+Related:	1533
+Related:	1534
+Related:	67103

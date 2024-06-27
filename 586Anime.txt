@@ -1,19 +1,19 @@
 ID:	586
 Title:	Ayakashi: Japanese Classic Horror
-Title:	怪～ayakashi～ Japanese Classic Horror
-Title:	ayakashi: Japanese Classic Horror
 Title:	Ayakashi: Samurai Horror Tales
-Tag:	Nudity
-Tag:	Rape
-Tag:	Anthology
-Tag:	Samurai
-Tag:	Demons
-Tag:	Youkai
-Tag:	Revenge
-Tag:	Swordplay
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Tragedy
-Tag:	Love Triangle
+Title:	ayakashi: Japanese Classic Horror
+Title:	怪～ayakashi～ Japanese Classic Horror
 Tag:	Historical
+Tag:	Tragedy
+Tag:	Demons
+Tag:	Swordplay
+Tag:	Rape
+Tag:	Gods
+Tag:	Anthology
+Tag:	Youkai
+Tag:	Philosophy
 Tag:	Travel
+Tag:	Samurai
+Tag:	Nudity
+Tag:	Love Triangle
+Tag:	Revenge

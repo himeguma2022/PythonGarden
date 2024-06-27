@@ -1,26 +1,28 @@
 ID:	97994
+Title:	Blend S
 Title:	BLEND-S
 Title:	ブレンド・S
-Title:	Blend S
-Tag:	Masochism
-Tag:	Seinen
-Tag:	Femboy
-Tag:	Tsundere
-Tag:	Chibi
-Tag:	Maids
 Tag:	Urban
-Tag:	Primarily Female Cast
-Tag:	Sadism
-Tag:	Otaku Culture
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Restaurant
-Tag:	Meta
-Tag:	Crossdressing
 Tag:	Slapstick
-Tag:	Work
+Tag:	Cosplay
+Tag:	Kuudere
+Tag:	Crossdressing
+Tag:	Tsundere
+Tag:	Primarily Female Cast
 Tag:	Cute Girls Doing Cute Things
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Cosplay
+Tag:	Sadism
+Tag:	Restaurant
+Tag:	Seinen
+Tag:	Masochism
+Tag:	Meta
+Tag:	Age Gap
+Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Femboy
+Tag:	Otaku Culture
+Tag:	Work
+Tag:	Maids
+Related:	93940
+Related:	18103

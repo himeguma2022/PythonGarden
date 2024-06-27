@@ -1,17 +1,23 @@
 ID:	6682
 Title:	イレブンアイズ
 Title:	11eyes
-Tag:	Magic
-Tag:	Ensemble Cast
-Tag:	Survival
-Tag:	Demons
+Tag:	Witch
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Revenge
 Tag:	Swordplay
-Tag:	Kuudere
-Tag:	Yandere
-Tag:	Witch
 Tag:	Male Protagonist
+Tag:	Survival
+Tag:	Ensemble Cast
+Tag:	Kuudere
 Tag:	Gore
-Tag:	Super Power
-Tag:	Tragedy
 Tag:	Memory Manipulation
+Tag:	Yandere
+Tag:	Magic
+Tag:	Demons
+Related:	110465
+Related:	49745
+Related:	5785
+Related:	5786
+Related:	7739
+Related:	33693

@@ -1,15 +1,15 @@
 ID:	242
+Title:	The Gokusen
 Title:	ごくせん
 Title:	Gokusen
-Title:	The Gokusen
 Tag:	Primarily Male Cast
 Tag:	School
-Tag:	Teacher
+Tag:	Female Protagonist
+Tag:	Josei
+Tag:	Tomboy
+Tag:	Football
+Tag:	Yakuza
+Tag:	Suicide
 Tag:	Episodic
 Tag:	Delinquents
-Tag:	Yakuza
-Tag:	Tomboy
-Tag:	Female Protagonist
-Tag:	Suicide
-Tag:	Football
-Tag:	Josei
+Tag:	Teacher

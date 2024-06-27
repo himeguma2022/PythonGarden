@@ -2,22 +2,26 @@ ID:	142770
 Title:	Suzume
 Title:	すずめの戸締まり
 Title:	Suzume no Tojimari
-Tag:	Family Life
-Tag:	Found Family
-Tag:	CGI
-Tag:	Time Manipulation
-Tag:	Animals
-Tag:	Shapeshifting
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Age Gap
 Tag:	Tragedy
 Tag:	Gods
-Tag:	Orphan
-Tag:	Parenthood
 Tag:	Kaiju
-Tag:	Travel
-Tag:	Urban Fantasy
-Tag:	Coming of Age
-Tag:	Environmental
 Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Travel
+Tag:	Time Manipulation
+Tag:	Orphan
+Tag:	Environmental
+Tag:	Urban Fantasy
+Tag:	Age Gap
+Tag:	Animals
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	CGI
+Tag:	Shapeshifting
+Tag:	Parenthood
+Related:	156544
+Related:	87490
+Related:	166058
+Related:	80469

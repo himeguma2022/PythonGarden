@@ -1,27 +1,33 @@
 ID:	166610
+Title:	MASHLE: MAGIC AND MUSCLES Season 2
 Title:	MASHLE: Kami Shinkakusha Kouho Senbatsu Shiken-hen
 Title:	マッシュル-MASHLE- 神覚者候補選抜試験編
 Title:	Mashle: Shinkakusha Kouho Senbatsu Shiken-hen
-Title:	MASHLE: MAGIC AND MUSCLES Season 2
-Tag:	School
-Tag:	Transgender
-Tag:	Chibi
+Tag:	Super Power
+Tag:	Fitness
+Tag:	Slapstick
 Tag:	Unrequited Love
-Tag:	Time Manipulation
-Tag:	Shounen
 Tag:	Asexual
-Tag:	Battle Royale
+Tag:	Bullying
+Tag:	Witch
+Tag:	Primarily Teen Cast
+Tag:	Transgender
+Tag:	Shounen
+Tag:	Estranged Family
+Tag:	Male Protagonist
+Tag:	Food
+Tag:	Parody
+Tag:	Time Manipulation
+Tag:	School
+Tag:	Primarily Male Cast
 Tag:	LGBTQ+ Themes
 Tag:	Magic
-Tag:	Parody
-Tag:	Fitness
+Tag:	Chibi
+Tag:	Battle Royale
 Tag:	Tennis
-Tag:	Slapstick
-Tag:	Primarily Male Cast
-Tag:	Estranged Family
-Tag:	Primarily Teen Cast
-Tag:	Food
-Tag:	Witch
-Tag:	Male Protagonist
-Tag:	Super Power
-Tag:	Bullying
+Related:	177704
+Related:	114960
+Related:	87989
+Related:	87990
+Related:	151801
+Related:	97918

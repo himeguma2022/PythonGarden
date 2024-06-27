@@ -1,18 +1,20 @@
 ID:	21838
-Title:	Izetta: The Last Witch
-Title:	終末のイゼッタ
 Title:	Shuumatsu no Izetta
-Tag:	Anachronism
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Tanks
-Tag:	Military
-Tag:	Foreign
-Tag:	Politics
+Title:	終末のイゼッタ
+Title:	Izetta: The Last Witch
 Tag:	Guns
-Tag:	Aviation
-Tag:	War
 Tag:	Witch
+Tag:	Historical
 Tag:	Tragedy
 Tag:	Female Protagonist
-Tag:	Historical
+Tag:	War
+Tag:	Anachronism
+Tag:	Politics
+Tag:	Tanks
+Tag:	Military
+Tag:	Magic
+Tag:	Aviation
+Tag:	Primarily Adult Cast
+Tag:	Foreign
+Related:	65123
+Related:	141533

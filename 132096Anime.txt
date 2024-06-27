@@ -1,25 +1,29 @@
 ID:	132096
-Title:	小林さんちのメイドラゴンＳミニドラ
 Title:	Miss Kobayashi's Dragon Maid S: Miniature Dragon
-Title:	Mini Dragon
+Title:	小林さんちのメイドラゴンＳミニドラ
 Title:	Kobayashi-san Chi no Maidragon S: Mini Dra
-Tag:	Seinen
-Tag:	Chibi
-Tag:	Maids
-Tag:	Family Life
-Tag:	Urban
-Tag:	CGI
-Tag:	Ensemble Cast
-Tag:	Dragons
-Tag:	Monster Girl
-Tag:	Magic
-Tag:	Primarily Adult Cast
-Tag:	Office Lady
-Tag:	Video Games
-Tag:	Urban Fantasy
+Title:	Mini Dragon
 Tag:	Isekai
-Tag:	Episodic
+Tag:	Urban
+Tag:	Cosplay
+Tag:	Primarily Adult Cast
+Tag:	Swimming
 Tag:	Yuri
 Tag:	Cute Girls Doing Cute Things
-Tag:	Swimming
-Tag:	Cosplay
+Tag:	Family Life
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Video Games
+Tag:	Seinen
+Tag:	Monster Girl
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Chibi
+Tag:	CGI
+Tag:	Maids
+Tag:	Office Lady
+Tag:	Dragons
+Related:	61157
+Related:	137804
+Related:	107717
+Related:	55518

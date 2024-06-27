@@ -1,0 +1,11 @@
+ID:	113
+Title:	Uchuu no Stellvia
+Title:	宇宙のステルヴィア
+Title:	Stellvia of the Universe
+Tag:	Aliens
+Tag:	School
+Tag:	Space
+Tag:	Real Robot
+Tag:	Philosophy
+Related:	31385
+Related:	33429

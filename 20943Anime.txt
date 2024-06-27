@@ -1,7 +1,7 @@
 ID:	20943
-Title:	つばさとホタル
 Title:	Tsubasa to Hotaru
+Title:	つばさとホタル
 Tag:	Female Protagonist
-Tag:	Shoujo
 Tag:	School
+Tag:	Shoujo
 Tag:	Basketball

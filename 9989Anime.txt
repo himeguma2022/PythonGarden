@@ -1,20 +1,26 @@
 ID:	9989
-Title:	Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
-Title:	Anohana: The Flower We Saw That Day
 Title:	あの日見た花の名前を僕達はまだ知らない。
-Tag:	Ghost
-Tag:	Hikikomori
-Tag:	Rural
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
+Title:	Anohana: The Flower We Saw That Day
+Title:	Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
 Tag:	Bullying
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Rehabilitation
-Tag:	Kuudere
-Tag:	Male Protagonist
-Tag:	Crossdressing
 Tag:	Tragedy
-Tag:	Female Protagonist
+Tag:	Ghost
+Tag:	Primarily Teen Cast
 Tag:	Love Triangle
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Rural
+Tag:	Kuudere
+Tag:	Rehabilitation
+Tag:	Tsundere
+Tag:	Crossdressing
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Hikikomori
 Tag:	Found Family
+Related:	65733
+Related:	86181
+Related:	45257
+Related:	107342
+Related:	29209
+Related:	15039

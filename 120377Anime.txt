@@ -1,34 +1,36 @@
 ID:	120377
-Title:	サイバーパンク エッジランナーズ
 Title:	Cyberpunk: Edgerunners
-Tag:	Cars
-Tag:	Artificial Intelligence
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Software Development
-Tag:	Guns
-Tag:	Revenge
-Tag:	Urban
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Crime
-Tag:	Drugs
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	Time Manipulation
-Tag:	Gore
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Cosmic Horror
-Tag:	Space
-Tag:	Heterosexual
-Tag:	Age Gap
+Title:	サイバーパンク エッジランナーズ
 Tag:	Tragedy
-Tag:	Video Games
-Tag:	Orphan
-Tag:	Class Struggle
-Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Cyborg
 Tag:	Time Skip
+Tag:	Urban
+Tag:	Artificial Intelligence
+Tag:	Space
+Tag:	Software Development
+Tag:	Unrequited Love
+Tag:	Gore
+Tag:	Cars
+Tag:	Class Struggle
+Tag:	Primarily Adult Cast
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Cyborg
+Tag:	Cosmic Horror
+Tag:	Video Games
+Tag:	Time Manipulation
 Tag:	Gangs
+Tag:	Guns
+Tag:	Orphan
+Tag:	Drugs
+Tag:	Terrorism
+Tag:	Nudity
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	Anti-Hero
+Related:	77961
+Related:	154591

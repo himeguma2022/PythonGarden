@@ -1,27 +1,49 @@
 ID:	6547
 Title:	Angel Beats!
-Tag:	School
-Tag:	Politics
-Tag:	Guns
-Tag:	Found Family
-Tag:	Amnesia
-Tag:	Drugs
-Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	Memory Manipulation
-Tag:	School Club
-Tag:	Rock Music
-Tag:	Angels
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Chuunibyou
 Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Slapstick
-Tag:	Afterlife
 Tag:	Band
-Tag:	Survival
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Male Protagonist
+Tag:	Slapstick
+Tag:	Angels
 Tag:	Baseball
+Tag:	Kuudere
+Tag:	Memory Manipulation
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Afterlife
+Tag:	Politics
+Tag:	Suicide
+Tag:	Guns
+Tag:	Drugs
+Tag:	Survival
+Tag:	School
+Tag:	Chuunibyou
+Tag:	Heterosexual
+Tag:	Rock Music
+Tag:	Coming of Age
+Tag:	School Club
+Tag:	Found Family
+Tag:	Philosophy
+Tag:	Amnesia
+Related:	153089
+Related:	101892
+Related:	20997
+Related:	40839
+Related:	49672
+Related:	49671
+Related:	66832
+Related:	91027
+Related:	78615
+Related:	76446
+Related:	170530
+Related:	143150
+Related:	46648
+Related:	10067
+Related:	5728
+Related:	5729
+Related:	9062
+Related:	155628
+Related:	34285
+Related:	34289
+Related:	74738
+Related:	34291

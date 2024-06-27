@@ -1,21 +1,28 @@
 ID:	97886
-Title:	血界戦線 & BEYOND
-Title:	Kekkai Sensen & Beyond
-Title:	Kekkai Sensen & BEYOND
 Title:	Blood Blockade Battlefront & Beyond
-Tag:	Werewolf
-Tag:	Cosmic Horror
-Tag:	Foreign
-Tag:	Aliens
-Tag:	Dystopian
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Demons
+Title:	Kekkai Sensen & BEYOND
+Title:	血界戦線 & BEYOND
 Tag:	Guns
-Tag:	Episodic
+Tag:	Super Power
+Tag:	Dystopian
+Tag:	Aliens
+Tag:	Werewolf
+Tag:	Post-Apocalyptic
+Tag:	Urban
 Tag:	Alternate Universe
+Tag:	Shounen
+Tag:	Episodic
+Tag:	Urban Fantasy
 Tag:	Male Protagonist
 Tag:	Vampire
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Shounen
+Tag:	Cosmic Horror
+Tag:	Demons
+Tag:	Foreign
+Related:	23148
+Related:	42994
+Related:	86771
+Related:	20727
+Related:	17914
+Related:	17916
+Related:	21949
+Related:	101695

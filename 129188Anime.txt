@@ -1,18 +1,24 @@
 ID:	129188
+Title:	GOBLIN SLAYER II
 Title:	ゴブリンスレイヤーⅡ
 Title:	Goblin Slayer II
-Title:	GOBLIN SLAYER II
-Tag:	Nudity
-Tag:	Magic
+Tag:	Tragedy
 Tag:	Kemonomimi
-Tag:	Primarily Adult Cast
-Tag:	Anti-Hero
+Tag:	Swordplay
 Tag:	Female Harem
 Tag:	Survival
 Tag:	Elf
-Tag:	Swordplay
-Tag:	Goblin
-Tag:	Dinosaurs
-Tag:	Gore
-Tag:	Tragedy
 Tag:	Body Horror
+Tag:	Nudity
+Tag:	Goblin
+Tag:	Gore
+Tag:	Anti-Hero
+Tag:	Magic
+Tag:	Dinosaurs
+Tag:	Primarily Adult Cast
+Related:	52388
+Related:	108623
+Related:	52369
+Related:	52371
+Related:	87320
+Related:	87321

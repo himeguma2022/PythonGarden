@@ -1,37 +1,39 @@
 ID:	790
 Title:	Ergo Proxy
-Tag:	Artificial Intelligence
-Tag:	Anti-Hero
-Tag:	Detective
-Tag:	Guns
-Tag:	Aviation
-Tag:	Revenge
-Tag:	Cyberpunk
-Tag:	Robots
-Tag:	Found Family
-Tag:	Fugitive
-Tag:	Conspiracy
-Tag:	Amnesia
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Lost Civilization
-Tag:	Angels
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Meta
-Tag:	Philosophy
-Tag:	Tragedy
-Tag:	Gods
 Tag:	Noir
-Tag:	Travel
-Tag:	Denpa
-Tag:	Survival
-Tag:	Police
-Tag:	Dissociative Identities
-Tag:	Coming of Age
+Tag:	Tragedy
 Tag:	Clone
+Tag:	Post-Apocalyptic
+Tag:	Dissociative Identities
+Tag:	Angels
+Tag:	Artificial Intelligence
+Tag:	Kuudere
+Tag:	Gods
+Tag:	Fugitive
+Tag:	Denpa
+Tag:	Amnesia
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Primarily Adult Cast
 Tag:	Male Protagonist
-Tag:	Pandemic
+Tag:	Lost Civilization
 Tag:	Female Protagonist
+Tag:	Cyberpunk
+Tag:	Travel
+Tag:	Meta
+Tag:	Guns
+Tag:	Survival
+Tag:	Robots
+Tag:	Heterosexual
+Tag:	Police
+Tag:	Aviation
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	Detective
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Pandemic
+Related:	40954
+Related:	36045

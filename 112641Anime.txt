@@ -1,25 +1,33 @@
 ID:	112641
-Title:	Kaguya-sama: Love is War?
 Title:	Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen
-Title:	Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
 Title:	かぐや様は告らせたい？～天才たちの恋愛頭脳戦～
-Tag:	School
-Tag:	Seinen
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Ojou-sama
-Tag:	Ensemble Cast
-Tag:	Villainess
-Tag:	School Club
-Tag:	Parody
-Tag:	Otaku Culture
-Tag:	Heterosexual
-Tag:	Meta
-Tag:	Crossdressing
+Title:	Kaguya-sama wa Kokurasetai?: Tensaitachi no Renai Zunousen
+Title:	Kaguya-sama: Love is War?
 Tag:	Slapstick
+Tag:	Crossdressing
+Tag:	Tsundere
+Tag:	Bullying
+Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Episodic
-Tag:	Coming of Age
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Bullying
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Parody
+Tag:	Villainess
+Tag:	Seinen
+Tag:	Meta
+Tag:	School
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	School Club
+Tag:	Ojou-sama
+Tag:	Otaku Culture
+Related:	48535
+Related:	101921
+Related:	86635
+Related:	48524
+Related:	35861
+Related:	35862
+Related:	125367
+Related:	125368

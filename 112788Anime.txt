@@ -1,18 +1,18 @@
 ID:	112788
-Title:	Umibe no Étranger
 Title:	The Stranger by the Shore
+Title:	Umibe no Étranger
 Title:	海辺のエトランゼ
-Tag:	LGBTQ+ Themes
-Tag:	Primarily Male Cast
-Tag:	Primarily Adult Cast
-Tag:	Iyashikei
 Tag:	Boys' Love
+Tag:	Primarily Male Cast
+Tag:	Writing
 Tag:	Age Gap
+Tag:	Work
+Tag:	Iyashikei
 Tag:	Bisexual
 Tag:	Cute Boys Doing Cute Things
-Tag:	Love Triangle
-Tag:	Time Skip
-Tag:	Coastal
-Tag:	Writing
 Tag:	Bullying
-Tag:	Work
+Tag:	Primarily Adult Cast
+Tag:	Love Triangle
+Tag:	LGBTQ+ Themes
+Tag:	Coastal
+Tag:	Time Skip

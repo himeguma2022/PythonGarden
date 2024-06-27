@@ -1,12 +1,14 @@
 ID:	13469
-Title:	氷菓 持つべきものは
 Title:	Hyouka: What Should Be Had
 Title:	Hyouka: Motsubeki Mono wa
-Tag:	Nudity
-Tag:	School Club
-Tag:	Detective
+Title:	氷菓 持つべきものは
+Tag:	Swimming
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Swimming
 Tag:	Female Protagonist
+Tag:	Detective
+Tag:	Nudity
 Tag:	Work
+Tag:	School Club
+Related:	12189
+Related:	7846

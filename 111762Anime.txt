@@ -1,41 +1,47 @@
 ID:	111762
-Title:	Fruits Basket: 2nd Season
-Title:	Fruits Basket 2nd Season
-Title:	Fruits Basket Season 2
 Title:	フルーツバスケット 2nd Season
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Gender Bending
-Tag:	Femboy
-Tag:	Tsundere
-Tag:	Family Life
-Tag:	Incest
-Tag:	Found Family
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Ensemble Cast
-Tag:	Animals
-Tag:	Suicide
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
-Tag:	Nekomimi
-Tag:	Shoujo
-Tag:	School Club
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Mythology
-Tag:	Age Gap
-Tag:	Philosophy
-Tag:	Crossdressing
-Tag:	Rehabilitation
-Tag:	Primarily Male Cast
-Tag:	Orphan
+Title:	Fruits Basket: 2nd Season
+Title:	Fruits Basket Season 2
+Title:	Fruits Basket 2nd Season
 Tag:	Tragedy
 Tag:	Love Triangle
-Tag:	Work
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Bisexual
-Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Unrequited Love
+Tag:	Crossdressing
+Tag:	Tsundere
+Tag:	Memory Manipulation
 Tag:	Bullying
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Ensemble Cast
+Tag:	Gender Bending
+Tag:	Body Horror
+Tag:	Suicide
+Tag:	Mythology
+Tag:	Kemonomimi
+Tag:	Orphan
+Tag:	Shoujo
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Nekomimi
+Tag:	Age Gap
+Tag:	Animals
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Incest
+Tag:	Found Family
+Tag:	School Club
+Tag:	Shapeshifting
+Tag:	Philosophy
+Tag:	Femboy
+Tag:	Work
+Tag:	Bisexual
+Tag:	Rehabilitation
+Related:	124194
+Related:	34839
+Related:	105334
+Related:	30102
+Related:	34841
+Related:	47356

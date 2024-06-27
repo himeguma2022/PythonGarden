@@ -2,14 +2,14 @@ ID:	21179
 Title:	枕男子(まくらのだんし）
 Title:	makuranodanshi
 Title:	Makura no Danshi
-Tag:	Twins
-Tag:	School
-Tag:	Male Harem
-Tag:	Astronomy
-Tag:	Delinquents
-Tag:	Age Gap
 Tag:	Chuunibyou
-Tag:	Cute Boys Doing Cute Things
-Tag:	College
+Tag:	Male Harem
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	College
+Tag:	Age Gap
+Tag:	Cute Boys Doing Cute Things
+Tag:	Delinquents
+Tag:	Twins
 Tag:	POV
+Tag:	Astronomy

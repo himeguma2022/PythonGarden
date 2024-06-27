@@ -1,21 +1,22 @@
 ID:	20773
 Title:	GANGSTA.
-Title:	Gangsta.
-Tag:	Nudity
-Tag:	Disability
-Tag:	Crime
-Tag:	Primarily Adult Cast
-Tag:	Rape
-Tag:	Gangs
-Tag:	Foreign
-Tag:	Drugs
-Tag:	Seinen
-Tag:	Police
 Tag:	Guns
-Tag:	Swordplay
-Tag:	Slavery
-Tag:	Espionage
-Tag:	Tanned Skin
-Tag:	Gore
 Tag:	Tragedy
+Tag:	Slavery
+Tag:	Crime
+Tag:	Drugs
+Tag:	Swordplay
+Tag:	Gangs
+Tag:	Tanned Skin
+Tag:	Espionage
+Tag:	Rape
+Tag:	Nudity
+Tag:	Gore
+Tag:	Seinen
+Tag:	Disability
+Tag:	Police
 Tag:	Found Family
+Tag:	Primarily Adult Cast
+Tag:	Foreign
+Related:	9426
+Related:	54903

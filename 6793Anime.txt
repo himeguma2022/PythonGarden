@@ -1,12 +1,12 @@
 ID:	6793
-Title:	Black Butler: His Butler, Performer
-Title:	黒執事 その執事、興行
-Title:	"Kuroshitsuji: Sono Shitsuji, Kougyou"
 Title:	Kuroshitsuji: Sono Shitsuji, Kougyou
+Title:	"Kuroshitsuji: Sono Shitsuji, Kougyou"
+Title:	黒執事 その執事、興行
+Title:	Black Butler: His Butler, Performer
+Tag:	Male Protagonist
+Tag:	Historical
 Tag:	Parody
-Tag:	Foreign
 Tag:	Demons
 Tag:	Kuudere
-Tag:	Male Protagonist
 Tag:	Butler
-Tag:	Historical
+Tag:	Foreign

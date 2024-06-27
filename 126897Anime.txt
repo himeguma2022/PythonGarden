@@ -2,16 +2,16 @@ ID:	126897
 Title:	さんかく窓の外側は夜
 Title:	The Night Beyond the Tricornered Window
 Title:	Sankaku Mado no Sotogawa wa Yoru
-Tag:	Ghost
-Tag:	Crime
-Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Cult
-Tag:	Detective
-Tag:	Body Horror
-Tag:	Josei
-Tag:	Boys' Love
-Tag:	Yandere
 Tag:	Male Protagonist
-Tag:	Urban
+Tag:	Crime
+Tag:	Conspiracy
+Tag:	Body Horror
+Tag:	Boys' Love
 Tag:	Memory Manipulation
+Tag:	Cult
+Tag:	Ghost
+Tag:	Detective
+Tag:	Josei
+Tag:	Yandere
+Tag:	Primarily Adult Cast
+Tag:	Urban

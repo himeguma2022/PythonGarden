@@ -1,16 +1,18 @@
 ID:	123899
-Title:	Sing a Bit of Harmony
 Title:	Ai no Utagoe wo Kikasete
+Title:	Sing a Bit of Harmony
 Title:	アイの歌声を聴かせて
-Tag:	Fugitive
-Tag:	Artificial Intelligence
 Tag:	Judo
-Tag:	Musical Theater
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Robots
 Tag:	Primarily Teen Cast
-Tag:	Heterosexual
+Tag:	Motorcycles
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Motorcycles
+Tag:	Artificial Intelligence
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Fugitive
+Tag:	Robots
+Tag:	Heterosexual
+Tag:	Musical Theater
+Related:	59268
+Related:	136030

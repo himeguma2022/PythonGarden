@@ -1,0 +1,6 @@
+ID:	21530
+Title:	コチンPa！
+Title:	KochinPa!
+Tag:	Full CGI
+Related:	98090
+Related:	18203

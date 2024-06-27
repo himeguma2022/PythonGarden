@@ -1,19 +1,22 @@
 ID:	97617
-Title:	Restaurant to Another World
 Title:	Isekai Shokudou
+Title:	Restaurant to Another World
 Title:	異世界食堂
-Tag:	Primarily Adult Cast
-Tag:	Ensemble Cast
-Tag:	Iyashikei
-Tag:	Urban Fantasy
-Tag:	Demons
-Tag:	Isekai
-Tag:	Episodic
-Tag:	Elf
-Tag:	Dragons
-Tag:	Fairy
-Tag:	Food
-Tag:	Restaurant
 Tag:	Mermaid
 Tag:	Monster Girl
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Elf
+Tag:	Restaurant
+Tag:	Fairy
 Tag:	Work
+Tag:	Demons
+Tag:	Primarily Adult Cast
+Tag:	Dragons
+Related:	56272
+Related:	19094
+Related:	132806
+Related:	98910

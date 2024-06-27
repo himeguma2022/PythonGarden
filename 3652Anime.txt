@@ -1,21 +1,31 @@
 ID:	3652
-Title:	ひぐらしのなく頃に礼
 Title:	Higurashi no Naku Koro ni Rei
+Title:	ひぐらしのなく頃に礼
 Title:	When They Cry Rei
-Tag:	Twins
+Tag:	Tragedy
+Tag:	Primarily Female Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Isekai
+Tag:	Slapstick
+Tag:	Mahjong
+Tag:	Alternate Universe
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
 Tag:	Shrine Maiden
 Tag:	Denpa
-Tag:	Rural
-Tag:	Slapstick
-Tag:	Alternate Universe
-Tag:	Urban Fantasy
-Tag:	Isekai
-Tag:	Cute Girls Doing Cute Things
-Tag:	Primarily Female Cast
-Tag:	Mahjong
-Tag:	Gore
-Tag:	Philosophy
-Tag:	Meta
-Tag:	Female Protagonist
-Tag:	Tragedy
 Tag:	Gods
+Tag:	Philosophy
+Tag:	Gore
+Tag:	Twins
+Tag:	Rural
+Tag:	Meta
+Related:	1889
+Related:	92547
+Related:	4452
+Related:	61029
+Related:	48424
+Related:	33708
+Related:	114446
+Related:	44315
+Related:	57722
+Related:	44411

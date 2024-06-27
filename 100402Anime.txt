@@ -1,16 +1,22 @@
 ID:	100402
-Title:	Tsurune: Kazemai Koukou Kyuudou-bu
 Title:	ツルネ ―風舞高校弓道部―
+Title:	Tsurune: Kazemai Koukou Kyuudou-bu
 Title:	Tsurune
-Tag:	Martial Arts
-Tag:	School Club
-Tag:	Twins
-Tag:	School
-Tag:	Tsundere
 Tag:	Archery
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
 Tag:	Cute Boys Doing Cute Things
+Tag:	Coming of Age
 Tag:	Male Protagonist
-Tag:	Rehabilitation
+Tag:	Martial Arts
+Tag:	School
 Tag:	Primarily Male Cast
+Tag:	Tsundere
+Tag:	Twins
+Tag:	Rehabilitation
+Tag:	School Club
+Related:	29376
+Related:	23876
+Related:	77605
+Related:	125261
+Related:	102830
+Related:	107506

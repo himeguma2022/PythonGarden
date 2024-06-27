@@ -1,26 +1,46 @@
 ID:	4382
-Title:	Suzumiya Haruhi no Yuuutsu (2009)
 Title:	The Melancholy of Haruhi Suzumiya (2009)
 Title:	涼宮ハルヒの憂鬱
-Tag:	School
-Tag:	Time Loop
-Tag:	Tsundere
-Tag:	Maids
-Tag:	Unrequited Love
-Tag:	CGI
+Title:	Suzumiya Haruhi no Yuuutsu (2009)
 Tag:	Aliens
-Tag:	Time Manipulation
-Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	School Club
-Tag:	Parody
-Tag:	Cosmic Horror
-Tag:	Filmmaking
 Tag:	Kuudere
-Tag:	Meta
-Tag:	Philosophy
 Tag:	Gods
-Tag:	Urban Fantasy
+Tag:	Unrequited Love
+Tag:	Tsundere
+Tag:	Memory Manipulation
+Tag:	Filmmaking
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Cosmic Horror
+Tag:	Time Manipulation
+Tag:	Meta
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	School Club
+Tag:	CGI
+Tag:	Time Loop
+Tag:	Philosophy
+Tag:	Maids
+Related:	70145
+Related:	70147
+Related:	70149
+Related:	7311
+Related:	35619
+Related:	145590
+Related:	145591
+Related:	145593
+Related:	145594
+Related:	33083
+Related:	5957
+Related:	53836
+Related:	53837
+Related:	53839
+Related:	849
+Related:	4825
+Related:	4826
+Related:	31345
+Related:	5118
+Related:	70143

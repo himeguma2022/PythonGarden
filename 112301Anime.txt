@@ -1,27 +1,33 @@
 ID:	112301
-Title:	"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
 Title:	The Misfit of Demon King Academy: History’s Strongest Demon King Reincarnates and Goes to School with His Descendants
-Title:	Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
 Title:	魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～
-Tag:	Musical Theater
-Tag:	School
-Tag:	Tsundere
+Title:	Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou
+Title:	"Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou"
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Love Triangle
+Tag:	Kuudere
 Tag:	Demons
-Tag:	Crime
-Tag:	Twins
-Tag:	Reincarnation
-Tag:	Conspiracy
-Tag:	Time Manipulation
-Tag:	War
+Tag:	Tsundere
 Tag:	Gore
 Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Alternate Universe
+Tag:	Conspiracy
+Tag:	Crime
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Time Manipulation
+Tag:	Reincarnation
+Tag:	Swordplay
+Tag:	School
+Tag:	War
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	Musical Theater
+Tag:	Alternate Universe
+Related:	53988
+Related:	35429
+Related:	106599
+Related:	106601
+Related:	38393
+Related:	130588

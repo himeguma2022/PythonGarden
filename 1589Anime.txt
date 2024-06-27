@@ -1,14 +1,14 @@
 ID:	1589
-Title:	Bartender
 Title:	バーテンダー
-Tag:	Bar
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Office Lady
-Tag:	Seinen
-Tag:	Educational
-Tag:	Episodic
-Tag:	Food
-Tag:	Philosophy
+Title:	Bartender
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Work
+Tag:	Seinen
+Tag:	Food
+Tag:	Office Lady
+Tag:	Philosophy
+Tag:	Educational
+Tag:	Primarily Adult Cast
+Tag:	Episodic
+Tag:	Bar

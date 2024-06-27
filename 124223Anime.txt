@@ -1,18 +1,26 @@
 ID:	124223
-Title:	ウマ娘 プリティーダービー Season 2
 Title:	Umamusume: Pretty Derby Season 2
 Title:	Uma Musume: Pretty Derby Season 2
-Tag:	Kemonomimi
-Tag:	Disability
-Tag:	CGI
-Tag:	School
-Tag:	Primarily Teen Cast
-Tag:	Athletics
-Tag:	Rehabilitation
-Tag:	Cute Girls Doing Cute Things
+Title:	ウマ娘 プリティーダービー Season 2
 Tag:	Tragedy
-Tag:	Idol
-Tag:	Time Skip
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Kemonomimi
+Tag:	CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
+Tag:	Athletics
+Tag:	School
 Tag:	Animals
+Tag:	Time Skip
+Tag:	Disability
+Tag:	Rehabilitation
+Tag:	Idol
+Related:	47393
+Related:	145608
+Related:	91498
+Related:	148401
+Related:	98514
+Related:	148370
+Related:	80565
+Related:	80567

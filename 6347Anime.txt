@@ -1,23 +1,35 @@
 ID:	6347
 Title:	バカとテストと召喚獣
-Title:	Baka and Test - Summon the Beasts
 Title:	Baka to Test to Shoukanjuu
-Tag:	School
-Tag:	Gender Bending
-Tag:	Femboy
+Title:	Baka and Test - Summon the Beasts
+Tag:	Super Power
+Tag:	Boys' Love
+Tag:	Love Triangle
+Tag:	Kuudere
+Tag:	Crossdressing
 Tag:	Tsundere
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Gender Bending
+Tag:	Parody
+Tag:	Meta
+Tag:	Female Harem
+Tag:	School
 Tag:	Chibi
 Tag:	Twins
 Tag:	Surreal Comedy
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Kuudere
+Tag:	Femboy
 Tag:	Yandere
-Tag:	Meta
-Tag:	Crossdressing
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	Primarily Teen Cast
-Tag:	Boys' Love
-Tag:	Male Protagonist
-Tag:	Super Power
+Related:	43872
+Related:	29217
+Related:	36769
+Related:	5644
+Related:	5645
+Related:	5646
+Related:	22291
+Related:	107348
+Related:	42295
+Related:	7805
+Related:	7870
+Related:	9471

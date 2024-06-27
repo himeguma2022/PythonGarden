@@ -2,9 +2,13 @@ ID:	102969
 Title:	School Babysitters OVA
 Title:	Gakuen Babysitters OVA
 Title:	学園ベビーシッターズ OVA
-Tag:	Shoujo
-Tag:	School Club
-Tag:	School
 Tag:	Primarily Child Cast
 Tag:	Cute Boys Doing Cute Things
+Tag:	Shoujo
 Tag:	Butler
+Tag:	School
+Tag:	School Club
+Related:	24112
+Related:	46922
+Related:	24111
+Related:	98503

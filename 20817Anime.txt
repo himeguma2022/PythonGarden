@@ -1,18 +1,18 @@
 ID:	20817
+Title:	曇天に笑う
 Title:	Laughing Under the Clouds
 Title:	Donten ni Warau
-Title:	曇天に笑う
-Tag:	Shoujo
-Tag:	Reincarnation
-Tag:	Military
-Tag:	Conspiracy
-Tag:	Prison
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Family Life
-Tag:	Mythology
 Tag:	Male Protagonist
 Tag:	Tragedy
-Tag:	Primarily Male Cast
 Tag:	Historical
+Tag:	Conspiracy
+Tag:	Heterosexual
+Tag:	Swordplay
+Tag:	Mythology
+Tag:	Family Life
+Tag:	Primarily Male Cast
+Tag:	Shoujo
+Tag:	Military
+Tag:	Prison
+Tag:	Reincarnation
 Tag:	Ninja

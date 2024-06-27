@@ -1,37 +1,39 @@
 ID:	339
 Title:	serial experiments lain
 Title:	Serial Experiments Lain
-Tag:	Virtual World
-Tag:	Artificial Intelligence
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Software Development
-Tag:	Cyberpunk
-Tag:	Female Protagonist
-Tag:	Augmented Reality
-Tag:	Urban
-Tag:	Primarily Female Cast
-Tag:	POV
-Tag:	Conspiracy
-Tag:	Amnesia
-Tag:	Drugs
-Tag:	Aliens
-Tag:	Trains
-Tag:	Suicide
-Tag:	Memory Manipulation
-Tag:	Cosmic Horror
-Tag:	Age Gap
-Tag:	Meta
-Tag:	Philosophy
 Tag:	Tragedy
-Tag:	Video Games
-Tag:	Orphan
+Tag:	Aliens
+Tag:	Isekai
+Tag:	Urban
+Tag:	Dissociative Identities
+Tag:	Artificial Intelligence
 Tag:	Gods
-Tag:	Afterlife
-Tag:	Adoption
-Tag:	Religion
 Tag:	Denpa
 Tag:	Cult
-Tag:	Isekai
-Tag:	Dissociative Identities
+Tag:	Software Development
+Tag:	POV
+Tag:	Trains
+Tag:	Memory Manipulation
+Tag:	Augmented Reality
+Tag:	Religion
 Tag:	Death Game
+Tag:	Conspiracy
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Cyberpunk
+Tag:	Afterlife
+Tag:	Cosmic Horror
+Tag:	Suicide
+Tag:	Video Games
+Tag:	Meta
+Tag:	Orphan
+Tag:	Drugs
+Tag:	School
+Tag:	Age Gap
+Tag:	Philosophy
+Tag:	Virtual World
+Tag:	Anti-Hero
+Tag:	Amnesia
+Tag:	Adoption
+Related:	26685
+Related:	35461

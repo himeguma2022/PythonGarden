@@ -1,17 +1,19 @@
 ID:	10408
-Title:	Hotarubi no Mori e
-Title:	Into the Forest of Fireflies' Light
 Title:	蛍火の杜へ
+Title:	Into the Forest of Fireflies' Light
+Title:	Hotarubi no Mori e
+Tag:	Iyashikei
+Tag:	Tragedy
 Tag:	Ghost
 Tag:	Shoujo
+Tag:	Male Protagonist
+Tag:	Female Protagonist
 Tag:	Rural
-Tag:	Iyashikei
 Tag:	Urban Fantasy
 Tag:	Youkai
-Tag:	Coming of Age
 Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Tragedy
 Tag:	Time Skip
-Tag:	Female Protagonist
+Tag:	Heterosexual
+Tag:	Coming of Age
+Related:	7130
+Related:	33282

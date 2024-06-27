@@ -1,14 +1,22 @@
 ID:	99255
 Title:	Food Wars! The Third Plate
-Title:	Shokugeki no Souma: San no Sara
 Title:	食戟のソーマ 餐ノ皿
-Tag:	Nudity
-Tag:	CGI
-Tag:	School
-Tag:	Educational
-Tag:	Tsundere
+Title:	Shokugeki no Souma: San no Sara
 Tag:	Primarily Teen Cast
-Tag:	Tanned Skin
-Tag:	Food
-Tag:	Male Protagonist
+Tag:	Educational
+Tag:	CGI
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Food
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Tsundere
+Related:	100773
+Related:	40106
+Related:	20043
+Related:	75757
+Related:	98702
+Related:	21518
+Related:	21721
+Related:	21437

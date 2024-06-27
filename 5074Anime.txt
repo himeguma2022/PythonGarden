@@ -3,11 +3,19 @@ Title:	Tetsuwan Birdy DECODE:02
 Title:	鉄腕バーディー DECODE:02
 Title:	Birdy the Mighty: Decode 02
 Title:	Tetsuwan Birdy Decode:02
-Tag:	Henshin
-Tag:	Body Swapping
 Tag:	Aliens
-Tag:	Seinen
+Tag:	Dissociative Identities
 Tag:	Gender Bending
 Tag:	Tokusatsu
+Tag:	Seinen
+Tag:	Henshin
+Tag:	Body Swapping
 Tag:	Time Manipulation
-Tag:	Dissociative Identities
+Related:	3974
+Related:	33254
+Related:	5128
+Related:	5127
+Related:	6380
+Related:	88908
+Related:	30133
+Related:	566

@@ -2,10 +2,16 @@ ID:	21066
 Title:	Beautiful Bones -Sakurako's Investigation-
 Title:	Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
 Title:	櫻子さんの足下には死体が埋まっている
-Tag:	Crime
-Tag:	Detective
-Tag:	Episodic
-Tag:	Age Gap
-Tag:	Male Protagonist
 Tag:	Tragedy
+Tag:	Crime
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Detective
+Tag:	Age Gap
+Related:	10308
+Related:	52550
+Related:	121322
+Related:	43696
+Related:	86293
+Related:	95228

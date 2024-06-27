@@ -1,16 +1,18 @@
 ID:	131083
-Title:	見える子ちゃん
 Title:	Mieruko-chan
-Tag:	Nudity
-Tag:	Ghost
-Tag:	School
-Tag:	Seinen
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Youkai
-Tag:	Philosophy
-Tag:	Gods
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Title:	見える子ちゃん
 Tag:	Bullying
+Tag:	Primarily Female Cast
+Tag:	Ghost
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Gods
 Tag:	Body Horror
+Tag:	Youkai
+Tag:	Nudity
+Tag:	Philosophy
+Tag:	Seinen
+Related:	105097
+Related:	54431

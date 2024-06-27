@@ -1,18 +1,24 @@
 ID:	20923
-Title:	食戟のソーマ
 Title:	Food Wars!
 Title:	Shokugeki no Souma
-Tag:	Nudity
-Tag:	Twins
+Title:	食戟のソーマ
+Tag:	Primarily Teen Cast
+Tag:	Educational
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Harem
 Tag:	School
+Tag:	Food
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Tsundere
 Tag:	Gyaru
 Tag:	Tentacles
-Tag:	Female Harem
-Tag:	Educational
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
-Tag:	Tanned Skin
-Tag:	Food
-Tag:	Male Protagonist
-Tag:	Shounen
+Tag:	Twins
 Tag:	Found Family
+Related:	18181
+Related:	10822
+Related:	75757
+Related:	21518
+Related:	9754
+Related:	21691

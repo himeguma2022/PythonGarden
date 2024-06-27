@@ -2,7 +2,7 @@ ID:	113397
 Title:	Natsunagu!
 Title:	なつなぐ！
 Tag:	Rural
-Tag:	Iyashikei
-Tag:	Coming of Age
-Tag:	Female Protagonist
 Tag:	Video Games
+Tag:	Female Protagonist
+Tag:	Coming of Age
+Tag:	Iyashikei

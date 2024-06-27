@@ -1,13 +1,13 @@
 ID:	15771
 Title:	Saint☆Oniisan (Movie)
-Title:	聖☆おにいさん
 Title:	Saint☆Onii-san
-Tag:	Parody
-Tag:	Religion
-Tag:	Seinen
-Tag:	Urban Fantasy
-Tag:	Yakuza
+Title:	聖☆おにいさん
 Tag:	Male Protagonist
+Tag:	Parody
 Tag:	Gods
+Tag:	Seinen
 Tag:	Super Power
+Tag:	Religion
+Tag:	Yakuza
+Tag:	Urban Fantasy
 Tag:	Urban

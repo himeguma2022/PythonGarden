@@ -2,8 +2,12 @@ ID:	120257
 Title:	Shingeki no Kyojin: Chimi Kyara Gekijou - Rivai-han Part 2
 Title:	｢進撃の巨人｣ちみキャラ劇場”新生リヴァイ班” Part 2
 Title:	Shingeki no Kyojin Season 3 Part 2
+Tag:	Male Protagonist
 Tag:	Parody
 Tag:	Military
 Tag:	Chibi
-Tag:	Male Protagonist
 Tag:	Kaiju
+Related:	78017
+Related:	43530
+Related:	108942
+Related:	104578

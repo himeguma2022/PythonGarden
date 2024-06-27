@@ -1,25 +1,31 @@
 ID:	14713
-Title:	Kamisama Kiss
 Title:	神様はじめました
+Title:	Kamisama Kiss
 Title:	Kamisama Hajimemashita
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Male Harem
-Tag:	Time Manipulation
-Tag:	Monster Boy
-Tag:	Anthropomorphism
-Tag:	Shoujo
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Meta
+Tag:	Slavery
 Tag:	Love Triangle
 Tag:	Gods
-Tag:	Female Harem
-Tag:	Urban Fantasy
+Tag:	Anthropomorphism
+Tag:	Tsundere
+Tag:	Bullying
+Tag:	Female Protagonist
 Tag:	Episodic
 Tag:	Youkai
-Tag:	Slavery
-Tag:	Female Protagonist
-Tag:	Bullying
+Tag:	Male Harem
+Tag:	Time Manipulation
+Tag:	Meta
+Tag:	Kemonomimi
+Tag:	Shoujo
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	Monster Boy
+Tag:	Demons
+Related:	20801
+Related:	18661
+Related:	38157
+Related:	8014
+Related:	9518
+Related:	8015

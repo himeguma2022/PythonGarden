@@ -1,15 +1,15 @@
 ID:	21710
-Title:	Natsume's Book of Friends 5
 Title:	夏目友人帳 伍
+Title:	Natsume's Book of Friends 5
 Title:	Natsume Yuujinchou Go
-Tag:	Shoujo
+Tag:	Male Protagonist
 Tag:	Estranged Family
 Tag:	Rural
+Tag:	Shapeshifting
+Tag:	Shoujo
+Tag:	Adoption
+Tag:	Youkai
 Tag:	Iyashikei
-Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
 Tag:	Episodic
-Tag:	Youkai
-Tag:	Male Protagonist
-Tag:	Shapeshifting
-Tag:	Adoption
+Tag:	Urban Fantasy

@@ -1,24 +1,38 @@
 ID:	20755
-Title:	暗殺教室
 Title:	Assassination Classroom
+Title:	暗殺教室
 Title:	Ansatsu Kyoushitsu
-Tag:	Artificial Intelligence
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Femboy
-Tag:	Guns
-Tag:	Found Family
-Tag:	Crime
-Tag:	Ensemble Cast
-Tag:	Shounen
-Tag:	Suicide
-Tag:	School Club
-Tag:	Tragedy
 Tag:	Teacher
-Tag:	Primarily Teen Cast
-Tag:	Episodic
-Tag:	Male Protagonist
+Tag:	Tragedy
 Tag:	Super Power
-Tag:	Assassins
 Tag:	Baseball
+Tag:	Artificial Intelligence
 Tag:	Bullying
+Tag:	Crime
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Suicide
+Tag:	Guns
+Tag:	School
+Tag:	Assassins
+Tag:	School Club
+Tag:	Found Family
+Tag:	Femboy
+Tag:	Anti-Hero
+Related:	97985
+Related:	10203
+Related:	22183
+Related:	21864
+Related:	49961
+Related:	11403
+Related:	9387
+Related:	82059
+Related:	101102
+Related:	19759
+Related:	21170
+Related:	21303
+Related:	69883
+Related:	10430

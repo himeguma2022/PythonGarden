@@ -1,14 +1,18 @@
 ID:	15227
-Title:	Kono Sekai no Katasumi ni
 Title:	この世界の片隅に
 Title:	In This Corner of the World
-Tag:	Disability
-Tag:	Seinen
-Tag:	Drawing
-Tag:	War
-Tag:	Family Life
-Tag:	Heterosexual
+Title:	Kono Sekai no Katasumi ni
 Tag:	Tragedy
-Tag:	Rehabilitation
-Tag:	Female Protagonist
 Tag:	Historical
+Tag:	Drawing
+Tag:	Disability
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	War
+Tag:	Seinen
+Tag:	Heterosexual
+Tag:	Rehabilitation
+Related:	112135
+Related:	41243
+Related:	35268
+Related:	8111

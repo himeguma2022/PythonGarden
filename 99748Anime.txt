@@ -2,17 +2,17 @@ ID:	99748
 Title:	ハクメイとミコチ
 Title:	Hakumei to Mikochi
 Title:	Hakumei and Mikochi
-Tag:	Anthropomorphism
-Tag:	Seinen
-Tag:	Iyashikei
 Tag:	Outdoor
-Tag:	Elf
-Tag:	Episodic
-Tag:	Cute Girls Doing Cute Things
 Tag:	Chibi
-Tag:	Food
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
 Tag:	Animals
 Tag:	Skeleton
+Tag:	Primarily Female Cast
+Tag:	Anthropomorphism
 Tag:	Work
+Tag:	Cute Girls Doing Cute Things
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Iyashikei
+Tag:	Episodic
+Tag:	Elf

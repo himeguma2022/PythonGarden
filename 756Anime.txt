@@ -1,6 +1,8 @@
 ID:	756
 Title:	School Days
 Tag:	Kuudere
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Revenge
+Tag:	Love Triangle
+Related:	1387
+Related:	2476

@@ -1,5 +1,5 @@
 ID:	21808
-Title:	Tsubasa to Hotaru (2016)
 Title:	つばさとホタル
-Tag:	Shoujo
+Title:	Tsubasa to Hotaru (2016)
 Tag:	School
+Tag:	Shoujo

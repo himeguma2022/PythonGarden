@@ -1,12 +1,20 @@
 ID:	21518
-Title:	食戟のソーマ 弍ノ皿
 Title:	Shokugeki no Souma: Ni no Sara
 Title:	Food Wars! The Second Plate
-Tag:	Nudity
-Tag:	School
+Title:	食戟のソーマ 弍ノ皿
 Tag:	Educational
-Tag:	Tsundere
-Tag:	Tanned Skin
-Tag:	Food
-Tag:	Male Protagonist
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Food
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Tsundere
+Related:	10821
+Related:	10824
+Related:	40105
+Related:	75757
+Related:	98702
+Related:	99255
+Related:	21434
+Related:	20923

@@ -1,10 +1,10 @@
 ID:	20604
-Title:	Inugami-san to Nekoyama-san
 Title:	犬神さんと猫山さん
-Tag:	Kemonomimi
+Title:	Inugami-san to Nekoyama-san
 Tag:	School
-Tag:	Episodic
-Tag:	Yuri
+Tag:	Primarily Female Cast
 Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Tag:	Yuri
+Tag:	Episodic
+Tag:	Kemonomimi

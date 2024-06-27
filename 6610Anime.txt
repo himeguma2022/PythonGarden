@@ -1,21 +1,23 @@
 ID:	6610
+Title:	Ibara no Ou: King of Thorn
 Title:	いばらの王 -King of Thorn-
 Title:	King of Thorn
 Title:	Ibara no Ou
-Title:	Ibara no Ou: King of Thorn
-Tag:	Nudity
+Tag:	Guns
+Tag:	Tragedy
 Tag:	CGI
-Tag:	Twins
-Tag:	Seinen
+Tag:	Post-Apocalyptic
+Tag:	Female Protagonist
 Tag:	Survival
 Tag:	Ensemble Cast
-Tag:	Guns
-Tag:	Tanned Skin
-Tag:	Gore
-Tag:	Tragedy
-Tag:	Achronological Order
-Tag:	Pandemic
-Tag:	Female Protagonist
-Tag:	Post-Apocalyptic
-Tag:	Shapeshifting
+Tag:	Nudity
 Tag:	Body Horror
+Tag:	Tanned Skin
+Tag:	Achronological Order
+Tag:	Shapeshifting
+Tag:	Gore
+Tag:	Seinen
+Tag:	Pandemic
+Tag:	Twins
+Related:	5761
+Related:	30395

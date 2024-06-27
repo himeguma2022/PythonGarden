@@ -1,16 +1,22 @@
 ID:	123802
-Title:	聖女の魔力は万能です
-Title:	The Saint's Magic Power is Omnipotent
 Title:	Seijo no Maryoku wa Bannou desu
-Tag:	Magic
+Title:	The Saint's Magic Power is Omnipotent
+Title:	聖女の魔力は万能です
+Tag:	Iyashikei
 Tag:	Shoujo
 Tag:	Alchemy
-Tag:	Horticulture
-Tag:	Primarily Adult Cast
-Tag:	Politics
-Tag:	Iyashikei
-Tag:	Male Harem
 Tag:	Isekai
-Tag:	Heterosexual
 Tag:	Medicine
+Tag:	Horticulture
 Tag:	Female Protagonist
+Tag:	Politics
+Tag:	Male Harem
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Primarily Adult Cast
+Related:	46885
+Related:	46887
+Related:	70254
+Related:	101502
+Related:	146206
+Related:	101503

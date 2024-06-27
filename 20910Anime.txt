@@ -1,23 +1,27 @@
 ID:	20910
-Title:	下ネタという概念が存在しない退屈な世界
 Title:	SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn’t Exist
 Title:	Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
-Tag:	School
-Tag:	Rape
-Tag:	Satire
-Tag:	Terrorism
-Tag:	Politics
-Tag:	Femdom
-Tag:	Crime
-Tag:	Hypersexuality
-Tag:	Dystopian
-Tag:	Educational
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Parody
-Tag:	Kuudere
-Tag:	Yandere
-Tag:	Crossdressing
+Title:	下ネタという概念が存在しない退屈な世界
 Tag:	Slapstick
+Tag:	Satire
+Tag:	Kuudere
+Tag:	Hypersexuality
+Tag:	Crossdressing
+Tag:	Crime
+Tag:	Educational
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Politics
+Tag:	Terrorism
+Tag:	School
+Tag:	Nudity
+Tag:	LGBTQ+ Themes
+Tag:	Dystopian
+Tag:	Femdom
+Tag:	Rape
+Tag:	Yandere
+Related:	86320
+Related:	95676
+Related:	10366
+Related:	86319

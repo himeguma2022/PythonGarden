@@ -1,24 +1,26 @@
 ID:	127412
 Title:	Taishou Otome Otogibanashi
-Title:	大正オトメ御伽話
 Title:	Taisho Otome Fairy Tale
-Tag:	Disability
-Tag:	Hikikomori
+Title:	大正オトメ御伽話
+Tag:	Historical
+Tag:	Tragedy
 Tag:	Tsundere
-Tag:	Marriage
+Tag:	Bullying
+Tag:	Primarily Teen Cast
+Tag:	Shounen
+Tag:	Male Protagonist
 Tag:	Family Life
 Tag:	Fairy Tale
-Tag:	Twins
-Tag:	Shounen
-Tag:	Arranged Marriage
+Tag:	Marriage
 Tag:	Iyashikei
+Tag:	Arranged Marriage
 Tag:	Heterosexual
-Tag:	Tragedy
-Tag:	Rehabilitation
-Tag:	Historical
-Tag:	Rural
-Tag:	Primarily Teen Cast
+Tag:	Twins
 Tag:	Coming of Age
-Tag:	Male Protagonist
+Tag:	Rural
+Tag:	Hikikomori
 Tag:	Achronological Order
-Tag:	Bullying
+Tag:	Disability
+Tag:	Rehabilitation
+Related:	96754
+Related:	50707

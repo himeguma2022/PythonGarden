@@ -1,17 +1,17 @@
 ID:	101231
-Title:	詩季織々
 Title:	Flavors of Youth
 Title:	Shikioriori
+Title:	詩季織々
+Tag:	Restaurant
 Tag:	CGI
 Tag:	Primarily Adult Cast
+Tag:	Rural
+Tag:	Family Life
+Tag:	Work
+Tag:	Food
 Tag:	Anthology
 Tag:	Foreign
-Tag:	Rural
-Tag:	Episodic
-Tag:	Coming of Age
-Tag:	Family Life
-Tag:	Food
-Tag:	Restaurant
 Tag:	Fashion
+Tag:	Coming of Age
+Tag:	Episodic
 Tag:	Time Skip
-Tag:	Work

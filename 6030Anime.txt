@@ -1,10 +1,18 @@
 ID:	6030
-Title:	NEEDLESS
 Title:	Needless
-Tag:	Nudity
-Tag:	Parody
-Tag:	Seinen
-Tag:	Robots
-Tag:	Kuudere
+Title:	NEEDLESS
 Tag:	Super Power
 Tag:	Post-Apocalyptic
+Tag:	Kuudere
+Tag:	Parody
+Tag:	Nudity
+Tag:	Seinen
+Tag:	Robots
+Related:	51910
+Related:	132972
+Related:	5519
+Related:	5520
+Related:	53811
+Related:	34612
+Related:	7322
+Related:	65694

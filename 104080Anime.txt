@@ -1,13 +1,13 @@
 ID:	104080
-Title:	Look, I Can See Your Ears!
+Title:	Wei, Kanjian Erduo La!
 Title:	喂，看见耳朵啦！
 Title:	"Wei, Kanjian Erduo La!"
-Title:	Wei, Kanjian Erduo La!
-Tag:	Foreign
-Tag:	Episodic
-Tag:	Boys' Love
-Tag:	Age Gap
-Tag:	Cute Boys Doing Cute Things
+Title:	Look, I Can See Your Ears!
 Tag:	Male Protagonist
+Tag:	Boys' Love
 Tag:	Primarily Male Cast
 Tag:	Nekomimi
+Tag:	Age Gap
+Tag:	Foreign
+Tag:	Cute Boys Doing Cute Things
+Tag:	Episodic

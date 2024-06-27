@@ -1,14 +1,14 @@
 ID:	5084
-Title:	Mai-Mai Miracle
 Title:	マイマイ新子と千年の魔法
 Title:	Mai Mai Shinko to Sennen no Mahou
-Tag:	Rural
+Title:	Mai-Mai Miracle
+Tag:	Historical
+Tag:	Tragedy
 Tag:	Kids
+Tag:	Family Life
+Tag:	Primarily Child Cast
+Tag:	Rural
+Tag:	Autobiographical
+Tag:	Female Protagonist
 Tag:	Coming of Age
 Tag:	Yakuza
-Tag:	Primarily Child Cast
-Tag:	Tragedy
-Tag:	Family Life
-Tag:	Female Protagonist
-Tag:	Historical
-Tag:	Autobiographical

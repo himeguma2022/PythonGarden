@@ -1,17 +1,17 @@
 ID:	131880
 Title:	Obey Me!
-Tag:	Primarily Male Cast
-Tag:	Magic
-Tag:	Body Swapping
-Tag:	Ensemble Cast
+Tag:	Male Protagonist
 Tag:	Demons
 Tag:	Otaku Culture
-Tag:	Episodic
-Tag:	Primarily Teen Cast
 Tag:	Family Life
-Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Crossdressing
-Tag:	Video Games
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
 Tag:	Cosplay
+Tag:	Video Games
+Tag:	Primarily Teen Cast
+Tag:	Magic
+Tag:	Cute Boys Doing Cute Things
+Tag:	Episodic
+Tag:	Body Swapping
+Tag:	Crossdressing
 Tag:	POV

@@ -1,26 +1,34 @@
 ID:	20671
 Title:	Log Horizon 2
-Title:	Log Horizon 2nd Season
 Title:	ログ・ホライズン 2
-Tag:	Virtual World
-Tag:	Kemonomimi
+Title:	Log Horizon 2nd Season
+Tag:	Love Triangle
+Tag:	Isekai
+Tag:	Elf
+Tag:	Anthropomorphism
+Tag:	Crossdressing
+Tag:	Primarily Adult Cast
+Tag:	Conspiracy
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
 Tag:	Gender Bending
 Tag:	Politics
-Tag:	Found Family
-Tag:	CGI
-Tag:	Twins
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Goblin
-Tag:	Dragons
-Tag:	Anthropomorphism
+Tag:	Video Games
+Tag:	Kemonomimi
 Tag:	LGBTQ+ Themes
 Tag:	Magic
-Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Found Family
 Tag:	Dungeon
-Tag:	Elf
-Tag:	Love Triangle
-Tag:	Crossdressing
-Tag:	Video Games
-Tag:	Isekai
-Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Goblin
+Tag:	Virtual World
+Tag:	Dragons
+Related:	9191
+Related:	9803
+Related:	51564
+Related:	114862
+Related:	17265
+Related:	38386
+Related:	75893
+Related:	76024

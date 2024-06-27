@@ -1,18 +1,28 @@
 ID:	21366
-Title:	３月のライオン
 Title:	3-gatsu no Lion
+Title:	３月のライオン
 Title:	March comes in like a lion
-Tag:	Primarily Adult Cast
-Tag:	Shogi
-Tag:	Found Family
-Tag:	Seinen
-Tag:	Coming of Age
-Tag:	Trains
-Tag:	Family Life
-Tag:	Rehabilitation
-Tag:	Food
-Tag:	Tragedy
-Tag:	Male Protagonist
-Tag:	Philosophy
-Tag:	Board Game
 Tag:	Bullying
+Tag:	Tragedy
+Tag:	Board Game
+Tag:	Seinen
+Tag:	Shogi
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Food
+Tag:	Philosophy
+Tag:	Rehabilitation
+Tag:	Trains
+Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Tag:	Found Family
+Related:	25796
+Related:	155014
+Related:	20075
+Related:	98478
+Related:	24785
+Related:	18578
+Related:	21587
+Related:	102293
+Related:	31224
+Related:	78143

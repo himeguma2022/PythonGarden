@@ -1,12 +1,18 @@
 ID:	4186
-Title:	Koukaku no Regios
 Title:	鋼殻のレギオス
 Title:	Chrome Shelled Regios
-Tag:	School Club
-Tag:	School
-Tag:	Military
-Tag:	Female Harem
-Tag:	Swordplay
+Title:	Koukaku no Regios
 Tag:	Super Power
+Tag:	Swordplay
 Tag:	Post-Apocalyptic
 Tag:	Kaiju
+Tag:	Female Harem
+Tag:	School
+Tag:	Military
+Tag:	School Club
+Related:	6368
+Related:	42279
+Related:	4746
+Related:	4747
+Related:	4748
+Related:	37533

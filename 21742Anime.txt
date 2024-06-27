@@ -1,11 +1,11 @@
 ID:	21742
 Title:	活撃　刀剣乱舞
-Title:	Katsugeki Touken Ranbu
-Title:	Katsugeki/Touken Ranbu
 Title:	Katsugeki TOUKEN RANBU
+Title:	Katsugeki/Touken Ranbu
+Title:	Katsugeki Touken Ranbu
+Tag:	Historical
 Tag:	CGI
-Tag:	Samurai
-Tag:	Time Manipulation
 Tag:	Swordplay
 Tag:	Primarily Male Cast
-Tag:	Historical
+Tag:	Time Manipulation
+Tag:	Samurai

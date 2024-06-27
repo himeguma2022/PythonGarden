@@ -1,11 +1,11 @@
 ID:	21609
-Title:	12-sai.: Chiccha na Mune no Tokimeki
 Title:	12-sai.: Chicchana Mune no Tokimeki
+Title:	12-sai.: Chiccha na Mune no Tokimeki
 Title:	12歳。～ちっちゃなムネのトキメキ～
-Tag:	Shoujo
-Tag:	School
-Tag:	Coming of Age
 Tag:	Heterosexual
 Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Shoujo
 Tag:	Female Protagonist
+Tag:	Coming of Age
 Tag:	Bullying

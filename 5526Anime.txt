@@ -1,0 +1,8 @@
+ID:	5526
+Title:	Pokémon: Pikachu's Vacation
+Title:	ピカチュウのなつやすみ
+Title:	Pikachu no Natsuyasumi
+Tag:	Kids
+Tag:	Animals
+Related:	528
+Related:	5331

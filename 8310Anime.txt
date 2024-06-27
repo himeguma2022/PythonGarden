@@ -1,15 +1,15 @@
 ID:	8310
 Title:	まじっく快斗
 Title:	Magic Kaito
-Tag:	Fugitive
-Tag:	Magic
+Tag:	Male Protagonist
 Tag:	School
 Tag:	Detective
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Episodic
-Tag:	Witch
-Tag:	Male Protagonist
-Tag:	Urban
 Tag:	Shounen
+Tag:	Police
+Tag:	Witch
+Tag:	Magic
 Tag:	Assassins
+Tag:	Episodic
+Tag:	Fugitive
+Tag:	Urban Fantasy
+Tag:	Urban

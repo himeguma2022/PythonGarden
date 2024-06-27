@@ -1,21 +1,27 @@
 ID:	114121
-Title:	Xian Wang De Richang Shenghuo
-Title:	Xian Wang de Richang Shenghuo
 Title:	仙王的日常生活
+Title:	Xian Wang De Richang Shenghuo
 Title:	The Daily Life of the Immortal King
+Title:	Xian Wang de Richang Shenghuo
+Tag:	Tragedy
 Tag:	Cultivation
-Tag:	Magic
-Tag:	Parody
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Satire
-Tag:	Alternate Universe
-Tag:	Urban Fantasy
-Tag:	Time Manipulation
+Tag:	Super Power
 Tag:	Primarily Teen Cast
 Tag:	Swordplay
-Tag:	Heterosexual
 Tag:	Male Protagonist
-Tag:	Tragedy
-Tag:	Super Power
+Tag:	Satire
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Parody
 Tag:	Assassins
+Tag:	Anti-Hero
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Alternate Universe
+Related:	64780
+Related:	56077
+Related:	126357
+Related:	114109
+Related:	49598
+Related:	141151

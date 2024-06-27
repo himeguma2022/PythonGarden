@@ -1,16 +1,20 @@
 ID:	7858
-Title:	Heaven's Lost Property OVA
+Title:	Sora no Otoshimono OVA
 Title:	そらのおとしもの
 Title:	Sora no Otoshimono: Project Pink
-Title:	Sora no Otoshimono OVA
-Tag:	Nudity
+Title:	Heaven's Lost Property OVA
+Tag:	Surreal Comedy
+Tag:	Shounen
+Tag:	Angels
+Tag:	Male Protagonist
+Tag:	Female Harem
 Tag:	Artificial Intelligence
 Tag:	School
-Tag:	Surreal Comedy
-Tag:	Female Harem
-Tag:	Angels
 Tag:	Kuudere
-Tag:	Chibi
-Tag:	Male Protagonist
+Tag:	Nudity
 Tag:	Robots
-Tag:	Shounen
+Tag:	Chibi
+Related:	38144
+Related:	32426
+Related:	5958
+Related:	6183

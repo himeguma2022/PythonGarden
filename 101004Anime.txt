@@ -1,23 +1,29 @@
 ID:	101004
 Title:	How NOT to Summon a Demon Lord
-Title:	異世界魔王と召喚少女の奴隷魔術
 Title:	Isekai Maou to Shoukan Shoujo no Dorei Majutsu
-Tag:	Virtual World
-Tag:	Kemonomimi
-Tag:	Rape
-Tag:	Anti-Hero
-Tag:	Demons
-Tag:	Primarily Female Cast
-Tag:	Monster Girl
-Tag:	Nekomimi
-Tag:	Nudity
-Tag:	Magic
-Tag:	Elf
+Title:	異世界魔王と召喚少女の奴隷魔術
+Tag:	Slavery
+Tag:	Super Power
+Tag:	Isekai
+Tag:	Slapstick
 Tag:	Kuudere
 Tag:	Tanned Skin
-Tag:	Slapstick
-Tag:	Female Harem
-Tag:	Isekai
-Tag:	Slavery
+Tag:	Elf
+Tag:	Primarily Female Cast
 Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Monster Girl
+Tag:	Kemonomimi
+Tag:	Female Harem
+Tag:	Nudity
+Tag:	Nekomimi
+Tag:	Magic
+Tag:	Rape
+Tag:	Virtual World
+Tag:	Anti-Hero
+Tag:	Demons
+Related:	86338
+Related:	117448
+Related:	40978
+Related:	31732
+Related:	93368
+Related:	22046

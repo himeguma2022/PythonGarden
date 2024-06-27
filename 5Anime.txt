@@ -1,0 +1,25 @@
+ID:	5
+Title:	Cowboy Bebop: Tengoku no Tobira
+Title:	カウボーイビバップ天国の扉
+Title:	Cowboy Bebop: The Movie - Knockin' on Heaven's Door
+Tag:	Noir
+Tag:	Martial Arts
+Tag:	Space
+Tag:	Primarily Adult Cast
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Ensemble Cast
+Tag:	Cyberpunk
+Tag:	Cyborg
+Tag:	Foreign
+Tag:	Guns
+Tag:	Terrorism
+Tag:	Tomboy
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Amnesia
+Tag:	Work
+Related:	1
+Related:	6

@@ -1,19 +1,19 @@
 ID:	132171
-Title:	Dance Dance Danseur
 Title:	ダンス・ダンス・ダンスール
-Tag:	Martial Arts
-Tag:	School Club
-Tag:	Judo
-Tag:	Dancing
-Tag:	CGI
-Tag:	School
-Tag:	Seinen
-Tag:	Acting
-Tag:	Heterosexual
+Title:	Dance Dance Danseur
 Tag:	Male Protagonist
-Tag:	POV
+Tag:	Martial Arts
+Tag:	CGI
+Tag:	School Club
+Tag:	Heterosexual
+Tag:	Judo
 Tag:	Time Skip
-Tag:	Love Triangle
+Tag:	School
+Tag:	Acting
+Tag:	Seinen
+Tag:	Bullying
 Tag:	Incest
 Tag:	Suicide
-Tag:	Bullying
+Tag:	Love Triangle
+Tag:	POV
+Tag:	Dancing

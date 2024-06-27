@@ -1,20 +1,25 @@
 ID:	21269
 Title:	SERVAMP
-Title:	Servamp
-Tag:	Werewolf
-Tag:	Primarily Male Cast
-Tag:	Shoujo
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Revenge
-Tag:	Adoption
 Tag:	Tragedy
-Tag:	Vampire
+Tag:	Revenge
 Tag:	Super Power
+Tag:	Shoujo
+Tag:	Werewolf
+Tag:	Urban
 Tag:	Male Protagonist
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Primarily Male Cast
+Tag:	Ensemble Cast
+Tag:	Vampire
+Tag:	Shapeshifting
 Tag:	Philosophy
 Tag:	Animals
-Tag:	Shapeshifting
 Tag:	Memory Manipulation
+Tag:	Adoption
+Related:	100768
+Related:	21707
+Related:	21709
+Related:	59887
+Related:	100537
+Related:	10365

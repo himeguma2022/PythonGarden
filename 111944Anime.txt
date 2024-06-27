@@ -1,12 +1,17 @@
 ID:	111944
+Title:	音楽
 Title:	Ongaku
 Title:	ON-GAKU: OUR SOUND
-Title:	音楽
-Tag:	School
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Delinquents
-Tag:	Rotoscoping
-Tag:	Male Protagonist
-Tag:	Primarily Male Cast
 Tag:	Band
+Tag:	Delinquents
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Rotoscoping
+Tag:	Primarily Male Cast
+Tag:	Rock Music
+Tag:	Coming of Age
+Related:	64489
+Related:	111946
+Related:	140874
+Related:	34967

@@ -1,0 +1,11 @@
+ID:	101104
+Title:	戦姫絶唱シンフォギアAXZ 戦姫絶唱しないシンフォギア
+Title:	Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear
+Title:	Symphogear AXZ Omake
+Tag:	Mythology
+Tag:	Primarily Female Cast
+Tag:	Henshin
+Tag:	Chibi
+Tag:	Idol
+Related:	21672
+Related:	22189

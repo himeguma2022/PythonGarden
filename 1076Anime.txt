@@ -1,0 +1,11 @@
+ID:	1076
+Title:	ウィザードリィ
+Title:	Wizardry
+Tag:	Dungeon
+Tag:	Swordplay
+Tag:	Ninja
+Tag:	Primarily Male Cast
+Tag:	Elf
+Tag:	Zombie
+Tag:	Gore
+Tag:	Magic

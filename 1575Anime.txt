@@ -1,36 +1,68 @@
 ID:	1575
-Title:	コードギアス 反逆のルルーシュ
 Title:	Code Geass: Lelouch of the Rebellion
+Title:	コードギアス 反逆のルルーシュ
 Title:	Code Geass: Hangyaku no Lelouch
-Tag:	Disability
-Tag:	Anti-Hero
-Tag:	Masturbation
-Tag:	Super Robot
-Tag:	Terrorism
-Tag:	Politics
-Tag:	Revenge
-Tag:	CGI
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Dystopian
-Tag:	War
-Tag:	Gore
-Tag:	Real Robot
-Tag:	Memory Manipulation
-Tag:	Nudity
-Tag:	School Club
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Age Gap
-Tag:	Swordplay
-Tag:	Tanned Skin
 Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Military
-Tag:	Foreign
-Tag:	Female Harem
-Tag:	Urban Fantasy
+Tag:	Super Power
+Tag:	Super Robot
+Tag:	Kuudere
+Tag:	Tanned Skin
+Tag:	Amnesia
+Tag:	Gore
+Tag:	Memory Manipulation
 Tag:	Class Struggle
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Foreign
+Tag:	Swordplay
+Tag:	Terrorism
+Tag:	Female Harem
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Masturbation
+Tag:	Real Robot
+Tag:	War
+Tag:	Age Gap
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	CGI
+Tag:	Military
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Disability
+Related:	2561
+Related:	49661
+Related:	65547
+Related:	50189
+Related:	49427
+Related:	67735
+Related:	41496
+Related:	108187
+Related:	86174
+Related:	30623
+Related:	1953
+Related:	139044
+Related:	31528
+Related:	110253
+Related:	144050
+Related:	101811
+Related:	8888
+Related:	42042
+Related:	72381
+Related:	33343
+Related:	22979
+Related:	126416
+Related:	2904
+Related:	126169
+Related:	25835
+Related:	9453
+Related:	126830
+Related:	25839
+Related:	48113
+Related:	89333
+Related:	17277
+Related:	2558

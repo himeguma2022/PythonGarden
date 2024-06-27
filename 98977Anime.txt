@@ -1,16 +1,22 @@
 ID:	98977
-Title:	Our love has always been 10 centimeters apart.
 Title:	Itsudatte Bokura no Koi wa 10 cm Datta.
+Title:	Our love has always been 10 centimeters apart.
 Title:	いつだって僕らの恋は10センチだった。
-Tag:	School Club
-Tag:	School
-Tag:	Filmmaking
-Tag:	Drawing
-Tag:	Photography
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Male Protagonist
 Tag:	Tragedy
-Tag:	Time Skip
+Tag:	Drawing
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Photography
+Tag:	School
+Tag:	Time Skip
+Tag:	Heterosexual
+Tag:	Filmmaking
+Tag:	Coming of Age
+Tag:	School Club
+Related:	42283
+Related:	51213
+Related:	21296
+Related:	19221
+Related:	117913
+Related:	87036

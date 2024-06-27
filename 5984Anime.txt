@@ -1,12 +1,14 @@
 ID:	5984
 Title:	リストランテ・パラディーゾ
 Title:	Ristorante Paradiso
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Rape
-Tag:	Foreign
-Tag:	Age Gap
-Tag:	Food
-Tag:	Restaurant
-Tag:	Female Protagonist
 Tag:	Josei
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Rape
+Tag:	Age Gap
+Tag:	Restaurant
+Tag:	Primarily Adult Cast
+Tag:	Foreign
+Related:	42386
+Related:	5495

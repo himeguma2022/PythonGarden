@@ -1,26 +1,46 @@
 ID:	269
 Title:	Bleach
 Title:	BLEACH
+Tag:	Super Power
+Tag:	Spearplay
+Tag:	Kuudere
+Tag:	Tanned Skin
 Tag:	Anachronism
-Tag:	Demons
+Tag:	Memory Manipulation
+Tag:	Ghost
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Afterlife
+Tag:	Centaur
+Tag:	Time Manipulation
+Tag:	Swordplay
+Tag:	Urban Fantasy
+Tag:	Ninja
+Tag:	Nudity
+Tag:	Language Barrier
 Tag:	Tomboy
 Tag:	Cultivation
-Tag:	Centaur
-Tag:	Ghost
-Tag:	Spearplay
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Shounen
-Tag:	Memory Manipulation
-Tag:	Language Barrier
-Tag:	Nudity
-Tag:	Kuudere
-Tag:	Swordplay
-Tag:	Tanned Skin
 Tag:	Philosophy
-Tag:	Super Power
-Tag:	Afterlife
-Tag:	Urban Fantasy
-Tag:	Male Protagonist
 Tag:	Time Skip
-Tag:	Ninja
+Tag:	Demons
+Related:	660
+Related:	21653
+Related:	662
+Related:	663
+Related:	664
+Related:	665
+Related:	666
+Related:	1686
+Related:	40092
+Related:	154037
+Related:	8247
+Related:	30012
+Related:	116673
+Related:	834
+Related:	116674
+Related:	2889
+Related:	77262
+Related:	48335
+Related:	4835
+Related:	100719

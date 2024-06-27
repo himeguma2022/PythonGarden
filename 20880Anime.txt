@@ -1,18 +1,24 @@
 ID:	20880
-Title:	Durarara!! X2 The Third Arc
-Title:	デュラララ!!×２ 結
 Title:	Durarara!!x2 Ketsu
-Tag:	Dullahan
+Title:	デュラララ!!×２ 結
+Title:	Durarara!! X2 The Third Arc
 Tag:	Crime
-Tag:	Anti-Hero
-Tag:	Ensemble Cast
-Tag:	Terrorism
-Tag:	Urban Fantasy
-Tag:	Delinquents
 Tag:	Mythology
-Tag:	Mafia
-Tag:	Yandere
-Tag:	Gore
-Tag:	Achronological Order
+Tag:	Dullahan
+Tag:	Delinquents
+Tag:	Terrorism
 Tag:	Urban
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Mafia
+Tag:	Achronological Order
+Tag:	Gore
+Tag:	Anti-Hero
+Tag:	Yandere
 Tag:	Gangs
+Related:	46816
+Related:	11087
+Related:	20879
+Related:	9681
+Related:	10003
+Related:	21695

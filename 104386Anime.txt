@@ -1,9 +1,9 @@
 ID:	104386
 Title:	Larva 2nd Season
-Title:	라바 인 뉴욕
 Title:	Larva in New York
 Title:	Larva 3rd Season
-Tag:	Parody
+Title:	라바 인 뉴욕
 Tag:	Full CGI
-Tag:	Kids
 Tag:	Episodic
+Tag:	Parody
+Tag:	Kids

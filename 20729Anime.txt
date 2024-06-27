@@ -1,19 +1,23 @@
 ID:	20729
 Title:	ワールドトリガー
 Title:	World Trigger
-Tag:	School
-Tag:	Military
-Tag:	Aliens
-Tag:	Ensemble Cast
-Tag:	Isekai
 Tag:	Guns
-Tag:	Robots
-Tag:	Swordplay
-Tag:	Primarily Teen Cast
-Tag:	Augmented Reality
-Tag:	Male Protagonist
 Tag:	Tragedy
 Tag:	Super Power
-Tag:	Primarily Male Cast
-Tag:	Shounen
+Tag:	Aliens
 Tag:	Battle Royale
+Tag:	Primarily Teen Cast
+Tag:	Isekai
+Tag:	Shounen
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Primarily Male Cast
+Tag:	Military
+Tag:	Robots
+Tag:	Augmented Reality
+Related:	9345
+Related:	37482
+Related:	78151
+Related:	114087

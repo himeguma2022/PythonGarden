@@ -1,23 +1,33 @@
 ID:	21699
+Title:	KONOSUBA -God's blessing on this wonderful world! 2
 Title:	この素晴らしい世界に祝福を！2
 Title:	Kono Subarashii Sekai ni Shukufuku wo! 2
-Title:	KONOSUBA -God's blessing on this wonderful world! 2
-Tag:	Anti-Hero
-Tag:	Masochism
-Tag:	Satire
-Tag:	Primarily Female Cast
-Tag:	Ensemble Cast
-Tag:	Nudity
-Tag:	Magic
-Tag:	Parody
-Tag:	Dungeon
-Tag:	Swordplay
-Tag:	Chuunibyou
-Tag:	Gods
+Tag:	Super Power
+Tag:	Isekai
 Tag:	Slapstick
+Tag:	Satire
+Tag:	Gods
+Tag:	Cult
+Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Parody
 Tag:	Afterlife
 Tag:	Travel
-Tag:	Cult
-Tag:	Isekai
-Tag:	Male Protagonist
-Tag:	Super Power
+Tag:	Masochism
+Tag:	Swordplay
+Tag:	Nudity
+Tag:	Chuunibyou
+Tag:	Magic
+Tag:	Dungeon
+Tag:	Anti-Hero
+Related:	31616
+Related:	102976
+Related:	11107
+Related:	11109
+Related:	85702
+Related:	54026
+Related:	97996
+Related:	21202
+Related:	18108
+Related:	86238

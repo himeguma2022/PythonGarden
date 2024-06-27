@@ -1,18 +1,20 @@
 ID:	21050
 Title:	ももくり
 Title:	Momokuri
-Tag:	School
-Tag:	Seinen
-Tag:	Slapstick
-Tag:	Photography
-Tag:	Primarily Teen Cast
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Cute Girls Doing Cute Things
-Tag:	Chibi
 Tag:	Tomboy
+Tag:	Primarily Teen Cast
 Tag:	Cute Boys Doing Cute Things
-Tag:	Yandere
 Tag:	Love Triangle
+Tag:	Slapstick
+Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Kuudere
+Tag:	Chibi
 Tag:	Nekomimi
+Tag:	Seinen
+Tag:	Photography
+Tag:	Yandere
+Tag:	Heterosexual
+Related:	10458
+Related:	86467

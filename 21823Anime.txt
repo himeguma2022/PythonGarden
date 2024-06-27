@@ -1,23 +1,31 @@
 ID:	21823
-Title:	ACCA: 13-Territory Inspection Dept.
-Title:	ACCA: 13-ku Kansatsu-ka
 Title:	ACCA 13区監察課
-Tag:	Seinen
-Tag:	Politics
-Tag:	Detective
-Tag:	Revenge
-Tag:	Family Life
+Title:	ACCA: 13-ku Kansatsu-ka
+Title:	ACCA: 13-Territory Inspection Dept.
 Tag:	Royal Affairs
-Tag:	Conspiracy
-Tag:	Ensemble Cast
 Tag:	Primarily Adult Cast
-Tag:	Office Lady
-Tag:	Economics
-Tag:	Work
-Tag:	Travel
-Tag:	Military
-Tag:	Foreign
-Tag:	Police
-Tag:	Photography
-Tag:	Food
+Tag:	Conspiracy
 Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Ensemble Cast
+Tag:	Food
+Tag:	Politics
+Tag:	Travel
+Tag:	Seinen
+Tag:	Foreign
+Tag:	Economics
+Tag:	Police
+Tag:	Revenge
+Tag:	Detective
+Tag:	Military
+Tag:	Photography
+Tag:	Work
+Tag:	Office Lady
+Related:	25794
+Related:	170629
+Related:	22022
+Related:	108714
+Related:	39987
+Related:	100979
+Related:	91189
+Related:	83539

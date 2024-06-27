@@ -1,19 +1,19 @@
 ID:	162144
-Title:	Gekai Elise
 Title:	外科医エリーゼ
 Title:	Doctor Elise: The Royal Lady with the Lamp
-Tag:	Anachronism
-Tag:	Royal Affairs
+Title:	Gekai Elise
+Tag:	Isekai
+Tag:	Male Harem
+Tag:	Heterosexual
+Tag:	Marriage
 Tag:	Shoujo
-Tag:	Age Regression
+Tag:	Anachronism
+Tag:	Work
+Tag:	Female Protagonist
 Tag:	Ojou-sama
 Tag:	Foreign
-Tag:	Arranged Marriage
-Tag:	Male Harem
 Tag:	Villainess
-Tag:	Marriage
-Tag:	Isekai
-Tag:	Heterosexual
+Tag:	Royal Affairs
 Tag:	Medicine
-Tag:	Female Protagonist
-Tag:	Work
+Tag:	Arranged Marriage
+Tag:	Age Regression

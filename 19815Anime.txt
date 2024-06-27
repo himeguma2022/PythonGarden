@@ -1,29 +1,39 @@
 ID:	19815
 Title:	No Game, No Life
-Title:	No Game No Life
 Title:	ノーゲーム・ノーライフ
-Tag:	Kemonomimi
-Tag:	Hikikomori
-Tag:	Kingdom Management
+Title:	No Game No Life
 Tag:	Gambling
-Tag:	Politics
-Tag:	Primarily Female Cast
-Tag:	Judo
-Tag:	Memory Manipulation
-Tag:	Nudity
-Tag:	Magic
-Tag:	Parody
-Tag:	Nekomimi
-Tag:	Elf
-Tag:	Kuudere
-Tag:	Meta
-Tag:	Gods
-Tag:	Video Games
-Tag:	Travel
-Tag:	Alternate Universe
-Tag:	Female Harem
-Tag:	Isekai
-Tag:	Class Struggle
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Isekai
+Tag:	Kuudere
+Tag:	Gods
+Tag:	Elf
+Tag:	Memory Manipulation
+Tag:	Class Struggle
+Tag:	Primarily Female Cast
+Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Politics
+Tag:	Travel
+Tag:	Video Games
+Tag:	Meta
+Tag:	Judo
+Tag:	Kemonomimi
+Tag:	Female Harem
+Tag:	Nudity
+Tag:	Nekomimi
+Tag:	Magic
+Tag:	Kingdom Management
+Tag:	Hikikomori
+Tag:	Alternate Universe
+Related:	38593
+Related:	20769
+Related:	9420
+Related:	23088
+Related:	21875
+Related:	9431
+Related:	65848
+Related:	142204
+Related:	78397
+Related:	78399

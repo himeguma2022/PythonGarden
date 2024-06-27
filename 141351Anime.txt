@@ -1,13 +1,17 @@
 ID:	141351
 Title:	賭ケグルイ双
 Title:	Kakegurui Twin
-Tag:	LGBTQ+ Themes
-Tag:	School Club
-Tag:	School
-Tag:	Gyaru
 Tag:	Gambling
 Tag:	Slavery
 Tag:	Primarily Female Cast
-Tag:	Maids
-Tag:	Female Protagonist
 Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	School
+Tag:	LGBTQ+ Themes
+Tag:	Gyaru
+Tag:	Maids
+Tag:	School Club
+Related:	64968
+Related:	96626
+Related:	98314
+Related:	64965

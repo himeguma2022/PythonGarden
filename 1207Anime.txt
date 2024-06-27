@@ -1,13 +1,13 @@
 ID:	1207
+Title:	綿の国星
 Title:	Wata no Kuni Hoshi
 Title:	The Star of Cottonland
-Title:	綿の国星
-Tag:	Kemonomimi
-Tag:	Shoujo
-Tag:	Urban
-Tag:	Family Life
-Tag:	Heterosexual
 Tag:	Tragedy
+Tag:	Heterosexual
+Tag:	Family Life
+Tag:	Shoujo
 Tag:	Homeless
 Tag:	Female Protagonist
 Tag:	Nekomimi
+Tag:	Urban
+Tag:	Kemonomimi

@@ -1,26 +1,30 @@
 ID:	889
 Title:	BLACK LAGOON
 Title:	Black Lagoon
-Tag:	Gangs
-Tag:	Anti-Hero
-Tag:	Seinen
-Tag:	Politics
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Maids
-Tag:	Crime
-Tag:	Triads
-Tag:	Ensemble Cast
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Pirates
 Tag:	Noir
-Tag:	Travel
-Tag:	Ships
-Tag:	Military
-Tag:	Foreign
-Tag:	Episodic
-Tag:	Mafia
+Tag:	Primarily Adult Cast
+Tag:	Crime
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Travel
+Tag:	Seinen
+Tag:	Gangs
+Tag:	Foreign
+Tag:	Guns
+Tag:	Mafia
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Ships
+Tag:	Tomboy
+Tag:	Triads
+Tag:	Pirates
+Tag:	Military
+Tag:	Anti-Hero
+Tag:	Maids
+Related:	1576
+Related:	1577
+Related:	1519
+Related:	30735

@@ -1,12 +1,12 @@
 ID:	20634
-Title:	ひめゴト
 Title:	Himegoto
+Title:	ひめゴト
+Tag:	Male Protagonist
 Tag:	Parody
+Tag:	Heterosexual
 Tag:	School
 Tag:	Gender Bending
 Tag:	Seinen
 Tag:	Femboy
 Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Male Protagonist
 Tag:	Crossdressing

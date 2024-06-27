@@ -1,16 +1,22 @@
 ID:	79
 Title:	SHUFFLE!
 Title:	Shuffle!
-Tag:	Nudity
-Tag:	Magic
-Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Dissociative Identities
+Tag:	Male Protagonist
 Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	Demons
-Tag:	Dissociative Identities
+Tag:	School
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Yandere
-Tag:	Male Protagonist
 Tag:	Gods
-Tag:	Primarily Female Cast
+Tag:	Nudity
+Tag:	Yandere
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Demons
+Related:	7396
+Related:	25900
+Related:	1836
+Related:	31788
+Related:	190
+Related:	191

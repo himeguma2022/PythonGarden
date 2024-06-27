@@ -1,16 +1,18 @@
 ID:	112802
 Title:	Uramichi Oniisan
-Title:	うらみちお兄さん
 Title:	Life Lessons with Uramichi Oniisan
-Tag:	Musical Theater
-Tag:	Acrobatics
-Tag:	Primarily Adult Cast
-Tag:	Satire
-Tag:	Ensemble Cast
-Tag:	Episodic
-Tag:	Acting
+Title:	うらみちお兄さん
 Tag:	Josei
 Tag:	Male Protagonist
-Tag:	Meta
-Tag:	Primarily Male Cast
+Tag:	Satire
 Tag:	Work
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Acting
+Tag:	Primarily Male Cast
+Tag:	Acrobatics
+Tag:	Musical Theater
+Tag:	Primarily Adult Cast
+Tag:	Meta
+Related:	100704
+Related:	36069

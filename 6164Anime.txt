@@ -1,17 +1,19 @@
 ID:	6164
 Title:	Sweet Blue Flowers
-Title:	青い花
 Title:	Aoi Hana
-Tag:	LGBTQ+ Themes
-Tag:	School
-Tag:	Acting
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
+Title:	青い花
 Tag:	Yuri
 Tag:	Tomboy
-Tag:	Bisexual
+Tag:	Josei
+Tag:	Basketball
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
 Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	Primarily Female Cast
-Tag:	Basketball
-Tag:	Josei
+Tag:	School
+Tag:	Acting
+Tag:	LGBTQ+ Themes
+Tag:	Bisexual
+Tag:	Coming of Age
+Related:	31363
+Related:	5575

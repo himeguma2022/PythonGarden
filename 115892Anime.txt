@@ -1,8 +1,8 @@
 ID:	115892
 Title:	Komatta Jiisan
-Title:	Komatta Jii-san
 Title:	困ったじいさん
-Tag:	Episodic
-Tag:	Primarily Adult Cast
+Title:	Komatta Jii-san
 Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Episodic
 Tag:	Elderly Protagonist

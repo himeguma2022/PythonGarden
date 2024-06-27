@@ -1,21 +1,27 @@
 ID:	124080
 Title:	ホリミヤ
 Title:	Horimiya
-Tag:	LGBTQ+ Themes
-Tag:	School
-Tag:	Masochism
-Tag:	Ensemble Cast
-Tag:	Slapstick
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Episodic
-Tag:	Heterosexual
-Tag:	Family Life
-Tag:	Chibi
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Shounen
-Tag:	Sadism
 Tag:	Bullying
+Tag:	Primarily Teen Cast
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Slapstick
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Chibi
+Tag:	Sadism
+Tag:	LGBTQ+ Themes
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Masochism
+Tag:	Coming of Age
+Related:	14753
+Related:	72451
+Related:	85355
+Related:	47222
+Related:	47193
+Related:	163132

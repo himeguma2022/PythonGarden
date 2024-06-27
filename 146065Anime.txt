@@ -1,44 +1,54 @@
 ID:	146065
-Title:	無職転生 Ⅱ ～異世界行ったら本気だす～
 Title:	Mushoku Tensei II: Isekai Ittara Honki Dasu
+Title:	無職転生 Ⅱ ～異世界行ったら本気だす～
 Title:	Mushoku Tensei: Jobless Reincarnation Season 2
-Tag:	Kemonomimi
-Tag:	Hikikomori
-Tag:	School
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Archery
-Tag:	Tomboy
-Tag:	Maids
-Tag:	Family Life
-Tag:	Found Family
-Tag:	Reincarnation
-Tag:	Drugs
-Tag:	Polyamorous
-Tag:	Dragons
-Tag:	Suicide
-Tag:	Nekomimi
-Tag:	Language Barrier
-Tag:	Magic
-Tag:	Nudity
-Tag:	Dungeon
-Tag:	Elf
-Tag:	Otaku Culture
-Tag:	Delinquents
-Tag:	Heterosexual
-Tag:	Swordplay
-Tag:	Tragedy
-Tag:	Crossdressing
-Tag:	Gods
-Tag:	Rehabilitation
-Tag:	Love Triangle
-Tag:	Super Power
-Tag:	Religion
-Tag:	Female Harem
-Tag:	Survival
-Tag:	Snowscape
-Tag:	Isekai
-Tag:	Coming of Age
 Tag:	Slavery
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Archery
+Tag:	Love Triangle
+Tag:	Isekai
+Tag:	Gods
+Tag:	Elf
+Tag:	Demons
+Tag:	Tsundere
+Tag:	Crossdressing
+Tag:	Religion
+Tag:	Snowscape
 Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Suicide
+Tag:	Polyamorous
+Tag:	Reincarnation
+Tag:	Kemonomimi
+Tag:	Drugs
+Tag:	Swordplay
+Tag:	Delinquents
+Tag:	Female Harem
+Tag:	School
+Tag:	Survival
+Tag:	Nudity
+Tag:	Nekomimi
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Coming of Age
+Tag:	Hikikomori
+Tag:	Found Family
+Tag:	Language Barrier
+Tag:	Tomboy
+Tag:	Dungeon
 Tag:	Time Skip
+Tag:	Otaku Culture
+Tag:	Maids
+Tag:	Rehabilitation
+Tag:	Dragons
+Related:	70114
+Related:	70116
+Related:	88168
+Related:	127720
+Related:	142989
+Related:	84885
+Related:	166873
+Related:	84921
+Related:	85564
+Related:	85470

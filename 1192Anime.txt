@@ -1,9 +1,9 @@
 ID:	1192
 Title:	Kakurenbo: Hide and Seek
-Title:	Kakurenbo
 Title:	カクレンボ
+Title:	Kakurenbo
+Tag:	Demons
 Tag:	Full CGI
+Tag:	Primarily Child Cast
 Tag:	Dystopian
 Tag:	Urban Fantasy
-Tag:	Demons
-Tag:	Primarily Child Cast

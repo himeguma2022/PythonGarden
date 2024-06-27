@@ -3,14 +3,14 @@ Title:	Fuse Teppou Musume no Torimonochou
 Title:	FUSE - Memoirs of the Hunter Girl
 Title:	伏 鉄砲娘の捕物帳
 Title:	Fuse: Teppou Musume no Torimonochou
-Tag:	Urban Fantasy
-Tag:	Classic Literature
-Tag:	Samurai
+Tag:	Historical
 Tag:	Guns
 Tag:	Swordplay
-Tag:	Monster Boy
-Tag:	Tomboy
 Tag:	Gore
-Tag:	Crossdressing
+Tag:	Classic Literature
 Tag:	Female Protagonist
-Tag:	Historical
+Tag:	Tomboy
+Tag:	Samurai
+Tag:	Monster Boy
+Tag:	Urban Fantasy
+Tag:	Crossdressing

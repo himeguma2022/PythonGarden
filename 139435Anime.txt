@@ -1,22 +1,29 @@
 ID:	139435
 Title:	The Duke of Death and His Maid Season 2
-Title:	Shinigami Bocchan to Kuro Maid 2nd Season
 Title:	死神坊ちゃんと黒メイド 第2期
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Ghost
-Tag:	Twins
+Title:	Shinigami Bocchan to Kuro Maid 2nd Season
+Tag:	Butler
+Tag:	Crossdressing
 Tag:	Full CGI
-Tag:	Musical Theater
-Tag:	Magic
+Tag:	Witch
+Tag:	Ghost
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Circus
 Tag:	Nun
 Tag:	Time Manipulation
-Tag:	Circus
+Tag:	Nudity
+Tag:	LGBTQ+ Themes
+Tag:	Magic
 Tag:	Heterosexual
+Tag:	Twins
+Tag:	Musical Theater
+Tag:	CGI
 Tag:	Maids
-Tag:	Witch
-Tag:	Male Protagonist
-Tag:	Crossdressing
-Tag:	Butler
-Tag:	Female Protagonist
-Tag:	Shounen
+Related:	90306
+Related:	100293
+Related:	63389
+Related:	169584
+Related:	63387
+Related:	129277

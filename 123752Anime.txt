@@ -1,0 +1,12 @@
+ID:	123752
+Title:	Shenmue the Animation
+Tag:	Language Barrier
+Tag:	Historical
+Tag:	Revenge
+Tag:	Yakuza
+Tag:	Male Protagonist
+Tag:	Martial Arts
+Tag:	Gangs
+Tag:	Foreign
+Related:	4524
+Related:	68751

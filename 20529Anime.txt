@@ -1,16 +1,22 @@
 ID:	20529
-Title:	Bokura wa Minna Kawai-sou
-Title:	僕らはみんな河合荘
 Title:	Bokura wa Minna Kawaisou
+Title:	僕らはみんな河合荘
 Title:	The Kawai Complex Guide to Manors and Hostel Behavior
-Tag:	School
-Tag:	Seinen
-Tag:	Ensemble Cast
-Tag:	Episodic
-Tag:	Kuudere
-Tag:	Heterosexual
+Title:	Bokura wa Minna Kawai-sou
 Tag:	Tomboy
 Tag:	Male Protagonist
-Tag:	Meta
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	School
+Tag:	Ensemble Cast
+Tag:	Kuudere
 Tag:	Afterlife
+Tag:	Seinen
+Tag:	Heterosexual
+Tag:	Meta
+Related:	56769
+Related:	9443
+Related:	8840
+Related:	20780
+Related:	9969
+Related:	21041

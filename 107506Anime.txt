@@ -1,14 +1,14 @@
 ID:	107506
-Title:	Tsurune: Kazemai Koukou Kyuudou-bu - Yabai
-Title:	Tsurune: For Better or Worse
 Title:	ツルネ ―風舞高校弓道部― 第十四話「矢場い」
-Tag:	Martial Arts
-Tag:	School Club
-Tag:	Twins
-Tag:	School
-Tag:	Tsundere
-Tag:	Archery
-Tag:	Cute Boys Doing Cute Things
+Title:	Tsurune: For Better or Worse
+Title:	Tsurune: Kazemai Koukou Kyuudou-bu - Yabai
 Tag:	Male Protagonist
+Tag:	Archery
 Tag:	Idol
+Tag:	School Club
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Cute Boys Doing Cute Things
+Tag:	Tsundere
+Tag:	Martial Arts
+Tag:	Twins

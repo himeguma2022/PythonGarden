@@ -1,16 +1,20 @@
 ID:	3702
-Title:	デトロイト・メタル・シティ
 Title:	Detroit Metal City
-Tag:	Parody
-Tag:	Primarily Adult Cast
-Tag:	Rape
-Tag:	Gender Bending
+Title:	デトロイト・メタル・シティ
 Tag:	Surreal Comedy
-Tag:	Drugs
-Tag:	Seinen
-Tag:	Rural
 Tag:	Metal Music
+Tag:	Drugs
+Tag:	Band
+Tag:	Urban
 Tag:	Male Protagonist
 Tag:	College
-Tag:	Urban
-Tag:	Band
+Tag:	Gender Bending
+Tag:	Parody
+Tag:	Rape
+Tag:	Seinen
+Tag:	Rural
+Tag:	Primarily Adult Cast
+Related:	4480
+Related:	5065
+Related:	30403
+Related:	31735

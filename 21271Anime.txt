@@ -1,0 +1,9 @@
+ID:	21271
+Title:	Pikachu, Kore Nan no Kagi?
+Title:	"Pikachu, Kore Nan no Kagi?"
+Title:	Pokémon: Pikachu, What's This Key?
+Title:	ピカチュウ, これなんのカギ?
+Tag:	Kids
+Tag:	Animals
+Related:	10369
+Related:	20644

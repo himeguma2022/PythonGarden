@@ -1,0 +1,11 @@
+ID:	20669
+Title:	Theatre of Darkness: Yamishibai 2
+Title:	闇芝居 2
+Title:	Yami Shibai 2
+Tag:	Episodic
+Tag:	Ghost
+Tag:	Anthology
+Related:	9425
+Related:	10749
+Related:	21473
+Related:	19383

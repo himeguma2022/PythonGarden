@@ -1,4 +1,4 @@
 ID:	102755
-Title:	Golden Time
 Title:	ゴールデンタイム
+Title:	Golden Time
 Tag:	No Dialogue

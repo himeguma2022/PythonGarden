@@ -1,0 +1,8 @@
+ID:	3031
+Title:	Digimon Frontier: Ornismon Fukkatsu!!
+Title:	デジモンフロンティア 古代デジモン（オニスモン）復活！！
+Title:	Digimon Frontier: Island of Lost Digimon
+Tag:	War
+Tag:	Virtual World
+Related:	1132
+Related:	4086

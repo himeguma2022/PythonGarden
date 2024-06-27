@@ -1,12 +1,15 @@
 ID:	115183
-Title:	Mars Red
 Title:	MARS RED
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Military
-Tag:	Urban Fantasy
-Tag:	Urban
-Tag:	Vampire
 Tag:	Tragedy
-Tag:	Primarily Male Cast
 Tag:	Historical
+Tag:	CGI
+Tag:	Urban
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Vampire
+Tag:	Military
+Tag:	Primarily Adult Cast
+Related:	126874
+Related:	115415
+Related:	39124
+Related:	50239

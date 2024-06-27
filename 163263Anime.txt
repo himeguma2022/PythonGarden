@@ -1,24 +1,28 @@
 ID:	163263
-Title:	Bungou Stray Dogs 5th Season
 Title:	Bungo Stray Dogs 5
 Title:	文豪ストレイドッグス 第5シーズン
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Detective
-Tag:	Seinen
-Tag:	Vampire
-Tag:	Fugitive
-Tag:	Crime
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Primarily Adult Cast
+Title:	Bungou Stray Dogs 5th Season
 Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Military
-Tag:	Urban Fantasy
-Tag:	Mafia
-Tag:	Espionage
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Fugitive
+Tag:	Primarily Adult Cast
+Tag:	Conspiracy
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Seinen
+Tag:	Time Manipulation
+Tag:	Terrorism
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Mafia
+Tag:	Vampire
+Tag:	Espionage
 Tag:	Classic Literature
+Tag:	Detective
+Tag:	Military
+Tag:	Anti-Hero
+Related:	85537
+Related:	85307
+Related:	141249
+Related:	85535

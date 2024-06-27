@@ -1,10 +1,16 @@
 ID:	3653
-Title:	Kurogane no Linebarrels
-Title:	鉄のラインバレル
 Title:	Linebarrels of Iron
+Title:	鉄のラインバレル
+Title:	Kurogane no Linebarrels
 Tag:	Super Robot
 Tag:	Isekai
-Tag:	Coming of Age
-Tag:	Male Protagonist
 Tag:	Shounen
+Tag:	Male Protagonist
 Tag:	Real Robot
+Tag:	Coming of Age
+Related:	130211
+Related:	4453
+Related:	33638
+Related:	7540
+Related:	53621
+Related:	41020

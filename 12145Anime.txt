@@ -1,9 +1,9 @@
 ID:	12145
-Title:	빼꼼
 Title:	Bernard
-Title:	Bbaekkom
+Title:	빼꼼
 Title:	Backkom
+Title:	Bbaekkom
 Tag:	Slapstick
 Tag:	Animals
-Tag:	Kids
 Tag:	No Dialogue
+Tag:	Kids

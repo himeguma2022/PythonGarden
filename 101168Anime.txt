@@ -1,20 +1,22 @@
 ID:	101168
 Title:	Plunderer
 Title:	プランダラ
-Tag:	Magic
-Tag:	Fugitive
-Tag:	School
-Tag:	Lost Civilization
-Tag:	Military
-Tag:	Time Manipulation
-Tag:	Isekai
-Tag:	War
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Tanned Skin
-Tag:	Male Protagonist
 Tag:	Tragedy
 Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Shounen
+Tag:	Isekai
 Tag:	Post-Apocalyptic
+Tag:	Shounen
+Tag:	Lost Civilization
+Tag:	Female Protagonist
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Tanned Skin
+Tag:	War
+Tag:	Fugitive
+Tag:	Military
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Related:	85939
+Related:	22239

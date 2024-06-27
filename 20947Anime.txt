@@ -1,33 +1,33 @@
 ID:	20947
-Title:	Japan Anima(tor)’s Exhibition
-Title:	Nihon Animator Mihonichi
 Title:	日本アニメ（ーター）見本市
-Tag:	Musical Theater
-Tag:	Disability
-Tag:	Super Robot
-Tag:	Satire
+Title:	Nihon Animator Mihonichi
+Title:	Japan Anima(tor)’s Exhibition
 Tag:	Guns
-Tag:	Revenge
-Tag:	Cyberpunk
-Tag:	Stop Motion
-Tag:	Surreal Comedy
+Tag:	Satire
 Tag:	No Dialogue
-Tag:	War
-Tag:	Dragons
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Real Robot
-Tag:	Nudity
+Tag:	Super Robot
 Tag:	Magic
-Tag:	Space
+Tag:	Episodic
+Tag:	War
+Tag:	Stop Motion
+Tag:	Real Robot
+Tag:	Dissociative Identities
+Tag:	Gore
+Tag:	Surreal Comedy
+Tag:	Disability
+Tag:	Dragons
+Tag:	Cycling
 Tag:	Samurai
+Tag:	Post-Apocalyptic
 Tag:	Swordplay
-Tag:	Kaiju
-Tag:	Noir
 Tag:	Henshin
+Tag:	Ero Guro
+Tag:	Space
+Tag:	Revenge
+Tag:	Noir
+Tag:	Cyberpunk
 Tag:	Military
 Tag:	Anthology
-Tag:	Dissociative Identities
-Tag:	Episodic
-Tag:	Ero Guro
-Tag:	Cycling
+Tag:	Nudity
+Tag:	Kaiju
+Tag:	Musical Theater

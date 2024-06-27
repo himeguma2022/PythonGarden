@@ -1,26 +1,44 @@
 ID:	2167
 Title:	Clannad
-Title:	CLANNAD
 Title:	ＣＬＡＮＮＡＤ -クラナド-
-Tag:	School
+Title:	CLANNAD
+Tag:	Tragedy
+Tag:	Basketball
+Tag:	Slapstick
+Tag:	Baseball
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Family Life
 Tag:	Primarily Female Cast
 Tag:	Ghost
-Tag:	Twins
-Tag:	Amnesia
-Tag:	Ensemble Cast
-Tag:	Basketball
-Tag:	School Club
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Tragedy
-Tag:	Slapstick
-Tag:	Female Harem
-Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
-Tag:	Coming of Age
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Baseball
+Tag:	Family Life
+Tag:	Ensemble Cast
 Tag:	Gangs
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	Coming of Age
+Tag:	School Club
+Tag:	Amnesia
+Related:	44387
+Related:	149957
+Related:	36997
+Related:	73642
+Related:	3277
+Related:	55917
+Related:	6351
+Related:	3280
+Related:	26512
+Related:	26514
+Related:	132528
+Related:	143150
+Related:	4181
+Related:	32598
+Related:	66809
+Related:	4059
+Related:	1723
+Related:	8703

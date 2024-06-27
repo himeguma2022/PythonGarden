@@ -1,23 +1,32 @@
 ID:	2251
-Title:	バッカーノ！
+Title:	﻿Baccano!
 Title:	Baccano!
-Tag:	Disability
-Tag:	Vore
-Tag:	Demons
-Tag:	Guns
+Title:	バッカーノ！
+Tag:	Noir
+Tag:	Historical
 Tag:	Urban
-Tag:	Crime
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
 Tag:	Trains
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Meta
-Tag:	Historical
-Tag:	Noir
+Tag:	Crime
+Tag:	Ensemble Cast
 Tag:	Travel
-Tag:	Alchemy
+Tag:	Meta
+Tag:	Guns
 Tag:	Foreign
 Tag:	Urban Fantasy
 Tag:	Mafia
+Tag:	Surreal Comedy
+Tag:	Alchemy
 Tag:	Achronological Order
+Tag:	Disability
+Tag:	Vore
+Tag:	Demons
+Related:	86409
+Related:	3370
+Related:	3371
+Related:	35950
+Related:	31342
+Related:	6746
+Related:	96348
+Related:	3901

@@ -1,15 +1,19 @@
 ID:	935
-Title:	Witchblade
 Title:	ウィッチブレイド
-Tag:	Nudity
-Tag:	Ojou-sama
-Tag:	Henshin
-Tag:	Natural Disaster
-Tag:	Primarily Adult Cast
-Tag:	Amnesia
+Title:	Witchblade
 Tag:	Tragedy
-Tag:	Family Life
 Tag:	Super Power
+Tag:	Primarily Adult Cast
 Tag:	Female Protagonist
-Tag:	MILF
+Tag:	Family Life
+Tag:	Nudity
+Tag:	Henshin
+Tag:	Ojou-sama
+Tag:	Amnesia
+Tag:	Natural Disaster
 Tag:	Parenthood
+Tag:	MILF
+Related:	56576
+Related:	56577
+Related:	31899
+Related:	54038

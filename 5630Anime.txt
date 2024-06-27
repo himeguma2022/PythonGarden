@@ -1,24 +1,30 @@
 ID:	5630
 Title:	Eden of the East
-Title:	Higashi no Eden
 Title:	東のエデン
-Tag:	Hikikomori
-Tag:	Artificial Intelligence
-Tag:	Terrorism
-Tag:	Politics
-Tag:	Software Development
-Tag:	Urban
-Tag:	Crime
-Tag:	Conspiracy
-Tag:	Amnesia
-Tag:	Memory Manipulation
-Tag:	Nudity
-Tag:	Battle Royale
-Tag:	Primarily Adult Cast
-Tag:	Heterosexual
+Title:	Higashi no Eden
 Tag:	Love Triangle
-Tag:	Denpa
-Tag:	Police
+Tag:	Urban
+Tag:	Artificial Intelligence
 Tag:	College
-Tag:	Male Protagonist
+Tag:	Denpa
+Tag:	Software Development
+Tag:	Memory Manipulation
 Tag:	Death Game
+Tag:	Primarily Adult Cast
+Tag:	Conspiracy
+Tag:	Crime
+Tag:	Male Protagonist
+Tag:	Politics
+Tag:	Terrorism
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Police
+Tag:	Hikikomori
+Tag:	Battle Royale
+Tag:	Amnesia
+Related:	6372
+Related:	70759
+Related:	5357
+Related:	6927
+Related:	30749
+Related:	6399

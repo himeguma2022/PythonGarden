@@ -2,15 +2,15 @@ ID:	155971
 Title:	百姓貴族
 Title:	Hyakushou Kizoku
 Title:	Hyakusho Kizoku-the farmer's days
-Tag:	Shoujo
-Tag:	School
-Tag:	Rural
 Tag:	Aliens
-Tag:	Dystopian
-Tag:	Space
-Tag:	Educational
+Tag:	Animals
+Tag:	Rural
+Tag:	School
+Tag:	Shoujo
+Tag:	Autobiographical
+Tag:	Female Protagonist
 Tag:	Agriculture
 Tag:	Economics
-Tag:	Female Protagonist
-Tag:	Animals
-Tag:	Autobiographical
+Tag:	Educational
+Tag:	Dystopian
+Tag:	Space

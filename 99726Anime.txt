@@ -2,16 +2,20 @@ ID:	99726
 Title:	Recovery of an MMO Junkie
 Title:	Net-juu no Susume
 Title:	ネト充のススメ
-Tag:	Virtual World
-Tag:	Parody
-Tag:	Hikikomori
-Tag:	Primarily Adult Cast
-Tag:	Gender Bending
-Tag:	Otaku Culture
 Tag:	Konbini
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Video Games
-Tag:	Female Protagonist
 Tag:	Josei
+Tag:	Love Triangle
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Otaku Culture
+Tag:	Gender Bending
+Tag:	Parody
+Tag:	Virtual World
+Tag:	Video Games
+Tag:	Hikikomori
+Tag:	Heterosexual
+Tag:	Primarily Adult Cast
+Related:	94095
+Related:	21612
+Related:	20557
+Related:	100684

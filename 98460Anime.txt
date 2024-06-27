@@ -1,39 +1,44 @@
 ID:	98460
 Title:	DEVILMAN crybaby
 Title:	Devilman Crybaby
-Title:	Devilman: Crybaby
-Tag:	Rape
-Tag:	Masturbation
-Tag:	Anti-Hero
-Tag:	Politics
-Tag:	Demons
-Tag:	Revenge
-Tag:	Hip-hop Music
-Tag:	Body Horror
-Tag:	Drugs
-Tag:	Psychosexual
-Tag:	War
-Tag:	Monster Boy
-Tag:	Gore
-Tag:	Shounen
-Tag:	Shapeshifting
-Tag:	Motorcycles
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Cosmic Horror
-Tag:	Angels
-Tag:	Mythology
-Tag:	Meta
-Tag:	Philosophy
 Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	Angels
 Tag:	Gods
 Tag:	Cannibalism
-Tag:	Afterlife
-Tag:	Henshin
-Tag:	Urban Fantasy
-Tag:	Athletics
-Tag:	Coming of Age
-Tag:	Boys' Love
-Tag:	Bisexual
-Tag:	Public Sex
+Tag:	Gore
+Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Afterlife
+Tag:	Cosmic Horror
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Meta
+Tag:	Mythology
+Tag:	Drugs
+Tag:	Athletics
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Masturbation
+Tag:	War
+Tag:	LGBTQ+ Themes
+Tag:	Henshin
+Tag:	Hip-hop Music
+Tag:	Public Sex
+Tag:	Psychosexual
+Tag:	Coming of Age
+Tag:	Revenge
+Tag:	Motorcycles
+Tag:	Monster Boy
+Tag:	Rape
+Tag:	Shapeshifting
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Bisexual
+Tag:	Demons
+Related:	37728
+Related:	37185
+Related:	2252
+Related:	31474
+Related:	2354
+Related:	18559

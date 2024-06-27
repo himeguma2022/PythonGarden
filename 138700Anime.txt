@@ -1,14 +1,14 @@
 ID:	138700
-Title:	Moriarty the Patriot OVA
 Title:	Yuukoku no Moriarty OVA
+Title:	Moriarty the Patriot OVA
 Title:	憂国のモリアーティ OVA
 Tag:	Historical
 Tag:	Crime
-Tag:	Primarily Adult Cast
-Tag:	Anti-Hero
-Tag:	Foreign
-Tag:	Detective
-Tag:	Revenge
-Tag:	Cute Boys Doing Cute Things
 Tag:	Tragedy
+Tag:	Anti-Hero
+Tag:	Detective
 Tag:	Shounen
+Tag:	Foreign
+Tag:	Cute Boys Doing Cute Things
+Tag:	Primarily Adult Cast
+Tag:	Revenge

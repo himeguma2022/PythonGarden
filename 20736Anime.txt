@@ -1,16 +1,22 @@
 ID:	20736
-Title:	Persona 3 the Movie: #2 Midsummer Knight's Dream
 Title:	Persona 3 the Movie 2: Midsummer Knight's Dream
-Title:	PERSONA 3 THE MOVIE: #2 Midsummer Knight's Dream
 Title:	PERSONA3 THE MOVIE —#2 Midsummer Knight's Dream—
-Tag:	School Club
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Demons
+Title:	Persona 3 the Movie: #2 Midsummer Knight's Dream
+Title:	PERSONA 3 THE MOVIE: #2 Midsummer Knight's Dream
 Tag:	Guns
 Tag:	Tomboy
-Tag:	Philosophy
-Tag:	Male Protagonist
-Tag:	Super Power
-Tag:	Robots
 Tag:	Tragedy
+Tag:	Super Power
+Tag:	Male Protagonist
+Tag:	Urban Fantasy
+Tag:	School
+Tag:	Philosophy
+Tag:	Robots
+Tag:	Demons
+Tag:	School Club
+Related:	20737
+Related:	14407
+Related:	55242
+Related:	9354
+Related:	9357
+Related:	32566

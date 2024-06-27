@@ -1,15 +1,24 @@
 ID:	20614
-Title:	Free! Eternal Summer
-Title:	Free!-Eternal Summer-
 Title:	Free!: Eternal Summer
 Title:	Free! -Eternal Summer-
-Tag:	School Club
-Tag:	School
-Tag:	Foreign
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	Kuudere
-Tag:	Male Protagonist
-Tag:	Rehabilitation
+Title:	Free!-Eternal Summer-
 Tag:	Swimming
+Tag:	Primarily Teen Cast
+Tag:	School Club
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Kuudere
 Tag:	Primarily Male Cast
+Tag:	Rehabilitation
+Tag:	Foreign
+Related:	98496
+Related:	98497
+Related:	10050
+Related:	21091
+Related:	9092
+Related:	18507
+Related:	24243
+Related:	18613
+Related:	24248
+Related:	98495

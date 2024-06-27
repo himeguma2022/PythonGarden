@@ -2,13 +2,13 @@ ID:	117067
 Title:	Kiyo in Kyoto: From the Maiko House
 Title:	舞妓さんちのまかないさん
 Title:	Maiko-san Chi no Makanai-san
-Tag:	Full CGI
-Tag:	Iyashikei
 Tag:	Educational
-Tag:	Coming of Age
-Tag:	Cute Girls Doing Cute Things
+Tag:	Full CGI
 Tag:	Primarily Female Cast
-Tag:	Makeup
-Tag:	Food
-Tag:	Female Protagonist
+Tag:	Cute Girls Doing Cute Things
 Tag:	Shounen
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Coming of Age
+Tag:	Iyashikei
+Tag:	Makeup

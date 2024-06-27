@@ -1,35 +1,42 @@
 ID:	154364
 Title:	The Ancient Magus' Bride Season 2
-Title:	Mahoutsukai no Yome Season 2
-Title:	魔法使いの嫁 SEASON2
 Title:	Mahoutsukai no Yome SEASON 2
-Tag:	School
-Tag:	Marriage
-Tag:	Tomboy
-Tag:	Chibi
-Tag:	Skeleton
-Tag:	POV
-Tag:	CGI
-Tag:	Outdoor
-Tag:	Time Manipulation
-Tag:	Monster Boy
-Tag:	Monster Girl
-Tag:	Animals
-Tag:	Shounen
-Tag:	Shapeshifting
-Tag:	Magic
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Mythology
-Tag:	Age Gap
-Tag:	Tragedy
-Tag:	Orphan
-Tag:	Adoption
-Tag:	Werewolf
-Tag:	Foreign
-Tag:	Rural
+Title:	魔法使いの嫁 SEASON2
 Tag:	Teacher
-Tag:	Urban Fantasy
-Tag:	Fairy
+Tag:	Tragedy
 Tag:	College
+Tag:	Kuudere
+Tag:	POV
+Tag:	Werewolf
+Tag:	Shounen
 Tag:	Female Protagonist
+Tag:	Marriage
+Tag:	Skeleton
+Tag:	Fairy
+Tag:	Monster Girl
+Tag:	Time Manipulation
+Tag:	Foreign
+Tag:	Mythology
+Tag:	Orphan
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Age Gap
+Tag:	Animals
+Tag:	Magic
+Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Rural
+Tag:	Outdoor
+Tag:	Tomboy
+Tag:	CGI
+Tag:	Monster Boy
+Tag:	Shapeshifting
+Tag:	Adoption
+Related:	161505
+Related:	80708
+Related:	77617
+Related:	166452
+Related:	84149
+Related:	87798
+Related:	130713
+Related:	85435

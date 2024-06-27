@@ -1,23 +1,27 @@
 ID:	2993
 Title:	Rosario to Vampire
-Title:	Rosario + Vampire
 Title:	ロザリオとバンパイア
-Tag:	School
-Tag:	Vampire
-Tag:	Shounen
-Tag:	Monster Girl
-Tag:	Nudity
-Tag:	School Club
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Meta
+Title:	Rosario + Vampire
 Tag:	Love Triangle
-Tag:	Mermaid
-Tag:	Succubus
-Tag:	Henshin
-Tag:	Female Harem
 Tag:	Dissociative Identities
-Tag:	Youkai
-Tag:	Bisexual
+Tag:	Kuudere
 Tag:	Witch
+Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Youkai
+Tag:	Monster Girl
+Tag:	Meta
+Tag:	Succubus
+Tag:	Mermaid
+Tag:	Female Harem
+Tag:	School
+Tag:	Nudity
+Tag:	Vampire
+Tag:	Henshin
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Bisexual
+Related:	4030
+Related:	30894
+Related:	4214
+Related:	4031

@@ -1,22 +1,32 @@
 ID:	141208
+Title:	Tonikaku Kawaii Season 2
 Title:	トニカクカワイイ（シーズン2）
 Title:	TONIKAWA: Over The Moon For You Season 2
-Title:	Tonikaku Kawaii Season 2
-Tag:	Historical
-Tag:	Parody
-Tag:	School
-Tag:	Primarily Adult Cast
-Tag:	VTuber
-Tag:	Aliens
-Tag:	Amnesia
-Tag:	Astronomy
 Tag:	Iyashikei
-Tag:	Software Development
-Tag:	Marriage
+Tag:	Historical
 Tag:	Mythology
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Meta
-Tag:	Family Life
+Tag:	Aliens
+Tag:	VTuber
+Tag:	Primarily Adult Cast
 Tag:	Shounen
+Tag:	Family Life
+Tag:	School
+Tag:	Marriage
+Tag:	Amnesia
+Tag:	Parody
+Tag:	Astronomy
+Tag:	Age Gap
+Tag:	Software Development
+Tag:	Heterosexual
 Tag:	Adoption
+Tag:	Meta
+Related:	64835
+Related:	81256
+Related:	235
+Related:	116401
+Related:	87572
+Related:	89909
+Related:	85785
+Related:	166104
+Related:	101177
+Related:	141212

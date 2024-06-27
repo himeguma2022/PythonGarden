@@ -1,14 +1,14 @@
 ID:	21512
 Title:	Ensemble Stars!
 Title:	あんさんぶるスターズ！
-Tag:	LGBTQ+ Themes
-Tag:	CGI
-Tag:	Twins
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Male Harem
-Tag:	Cute Boys Doing Cute Things
-Tag:	Idol
-Tag:	Primarily Male Cast
-Tag:	Ninja
 Tag:	Band
+Tag:	Idol
+Tag:	Male Harem
+Tag:	CGI
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Primarily Male Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	LGBTQ+ Themes
+Tag:	Ninja
+Tag:	Twins

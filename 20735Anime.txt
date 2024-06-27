@@ -2,17 +2,23 @@ ID:	20735
 Title:	I Can't Understand What My Husband Is Saying
 Title:	Danna ga Nani wo Itteiru ka Wakaranai Ken
 Title:	旦那が何を言っているかわからない件
+Tag:	Drawing
+Tag:	Office Lady
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Episodic
+Tag:	Otaku Culture
+Tag:	Marriage
 Tag:	Nudity
 Tag:	Crossdressing
-Tag:	Primarily Adult Cast
-Tag:	Office Lady
 Tag:	Seinen
-Tag:	Drawing
-Tag:	Marriage
-Tag:	Otaku Culture
-Tag:	Episodic
 Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Family Life
+Tag:	Primarily Adult Cast
 Tag:	Meta
-Tag:	Female Protagonist
+Related:	85408
+Related:	20483
+Related:	9893
+Related:	9607
+Related:	21000
+Related:	88371

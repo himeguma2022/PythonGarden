@@ -1,18 +1,18 @@
 ID:	2216
-Title:	シグルイ
 Title:	Shigurui
+Title:	シグルイ
 Title:	Shigurui: Death Frenzy
-Tag:	Nudity
-Tag:	Martial Arts
-Tag:	Rape
-Tag:	Primarily Adult Cast
-Tag:	Seinen
-Tag:	Samurai
-Tag:	Swordplay
-Tag:	Gore
 Tag:	Male Protagonist
 Tag:	Tragedy
-Tag:	Primarily Male Cast
 Tag:	Historical
-Tag:	Cannibalism
 Tag:	Body Horror
+Tag:	Swordplay
+Tag:	Rape
+Tag:	Cannibalism
+Tag:	Gore
+Tag:	Primarily Male Cast
+Tag:	Seinen
+Tag:	Samurai
+Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Martial Arts

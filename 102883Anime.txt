@@ -1,0 +1,41 @@
+ID:	102883
+Title:	ジョジョの奇妙な冒険 黄金の風
+Title:	JoJo's Bizarre Adventure: Golden Wind
+Title:	JoJo no Kimyou na Bouken: Ougon no Kaze
+Tag:	Tragedy
+Tag:	Super Power
+Tag:	Aliens
+Tag:	Urban
+Tag:	Dissociative Identities
+Tag:	Fugitive
+Tag:	Trains
+Tag:	Gore
+Tag:	Crime
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Body Horror
+Tag:	Travel
+Tag:	Cosmic Horror
+Tag:	Time Manipulation
+Tag:	Gangs
+Tag:	Foreign
+Tag:	Guns
+Tag:	Drugs
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
+Tag:	Mafia
+Tag:	Zombie
+Tag:	Animals
+Tag:	Police
+Tag:	Time Loop
+Tag:	Philosophy
+Tag:	Time Skip
+Tag:	Body Swapping
+Tag:	Disability
+Related:	23941
+Related:	131942
+Related:	25766
+Related:	55367
+Related:	21450
+Related:	33008

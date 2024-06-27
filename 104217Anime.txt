@@ -1,16 +1,16 @@
 ID:	104217
-Title:	Wotaku ni Koi wa Muzukashii OVA
 Title:	ヲタクに恋は難しい OVA
-Tag:	School
+Title:	Wotaku ni Koi wa Muzukashii OVA
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Otaku Culture
 Tag:	Primarily Adult Cast
 Tag:	Tsundere
-Tag:	Volleyball
-Tag:	Otaku Culture
-Tag:	Episodic
-Tag:	Athletics
-Tag:	Heterosexual
+Tag:	School
+Tag:	Work
+Tag:	Female Protagonist
 Tag:	Josei
 Tag:	Tomboy
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Work
+Tag:	Episodic
+Tag:	Volleyball
+Tag:	Athletics

@@ -1,54 +1,58 @@
 ID:	99423
-Title:	DARLING in the FRANXX
-Title:	Darling in the Franxx
 Title:	Darling in the FranXX
+Title:	Darling in the Franxx
 Title:	ダーリン・イン・ザ・フランキス
-Tag:	Virginity
-Tag:	Super Robot
-Tag:	Politics
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Marriage
-Tag:	Aviation
-Tag:	Netorare
-Tag:	Family Life
-Tag:	Robots
-Tag:	Found Family
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Reincarnation
-Tag:	Conspiracy
-Tag:	Aliens
-Tag:	Dystopian
-Tag:	Monster Boy
-Tag:	Gore
-Tag:	Post-Apocalyptic
-Tag:	Monster Girl
-Tag:	Football
-Tag:	Memory Manipulation
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Lost Civilization
-Tag:	Space
-Tag:	Agriculture
-Tag:	Heterosexual
-Tag:	Yandere
+Title:	DARLING in the FRANXX
 Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Orphan
-Tag:	Fishing
-Tag:	Kaiju
-Tag:	Travel
-Tag:	Agender
-Tag:	Military
-Tag:	Survival
-Tag:	Drawing
-Tag:	Pandemic
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
+Tag:	Aliens
+Tag:	Super Robot
 Tag:	Clone
-Tag:	Environmental
+Tag:	Love Triangle
+Tag:	Post-Apocalyptic
+Tag:	Space
+Tag:	Unrequited Love
+Tag:	Tsundere
+Tag:	Gore
+Tag:	Memory Manipulation
+Tag:	Netorare
+Tag:	Conspiracy
+Tag:	Kaiju
+Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Time Skip
+Tag:	Lost Civilization
 Tag:	Female Protagonist
+Tag:	Family Life
+Tag:	Marriage
+Tag:	Body Horror
+Tag:	Travel
+Tag:	Politics
+Tag:	Monster Girl
+Tag:	Agriculture
+Tag:	Reincarnation
+Tag:	Drawing
+Tag:	Orphan
 Tag:	Medicine
+Tag:	Environmental
+Tag:	Football
+Tag:	Survival
+Tag:	Nudity
+Tag:	LGBTQ+ Themes
+Tag:	Robots
+Tag:	Virginity
+Tag:	Heterosexual
+Tag:	Aviation
+Tag:	Coming of Age
+Tag:	Found Family
+Tag:	Dystopian
+Tag:	Fishing
+Tag:	Monster Boy
+Tag:	Military
+Tag:	Agender
+Tag:	Time Skip
+Tag:	Yandere
+Tag:	Pandemic
+Tag:	Demons
+Related:	100937
+Related:	21932
+Related:	57923
+Related:	101268

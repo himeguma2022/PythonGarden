@@ -1,20 +1,22 @@
 ID:	513
-Title:	Castle in the Sky
 Title:	天空の城ラピュタ
+Title:	Castle in the Sky
 Title:	Tenkuu no Shiro Laputa
-Tag:	Primarily Male Cast
-Tag:	Fugitive
-Tag:	Steampunk
-Tag:	Elderly Protagonist
-Tag:	Military
-Tag:	Lost Civilization
 Tag:	Guns
-Tag:	Robots
-Tag:	Trains
-Tag:	Aviation
-Tag:	Heterosexual
-Tag:	Pirates
+Tag:	Elderly Protagonist
 Tag:	Male Protagonist
+Tag:	Lost Civilization
 Tag:	Environmental
 Tag:	Female Protagonist
+Tag:	Primarily Male Cast
+Tag:	Pirates
+Tag:	Fugitive
 Tag:	Travel
+Tag:	Military
+Tag:	Trains
+Tag:	Robots
+Tag:	Steampunk
+Tag:	Heterosexual
+Tag:	Aviation
+Related:	53698
+Related:	92354

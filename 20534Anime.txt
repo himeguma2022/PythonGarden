@@ -1,14 +1,18 @@
 ID:	20534
 Title:	Gokukoku no Brynhildr
-Title:	極黒のブリュンヒルデ
 Title:	Brynhildr in the Darkness
-Tag:	Nudity
-Tag:	Magic
-Tag:	School Club
-Tag:	School
-Tag:	Amnesia
-Tag:	Seinen
+Title:	極黒のブリュンヒルデ
+Tag:	Tragedy
 Tag:	Female Harem
+Tag:	School
+Tag:	Nudity
 Tag:	Astronomy
 Tag:	Gore
-Tag:	Tragedy
+Tag:	Seinen
+Tag:	Magic
+Tag:	Amnesia
+Tag:	School Club
+Related:	64377
+Related:	20866
+Related:	8843
+Related:	9659

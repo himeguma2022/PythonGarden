@@ -2,11 +2,11 @@ ID:	5678
 Title:	Kobato.
 Title:	こばと。
 Title:	Kobato
-Tag:	Magic
-Tag:	Reincarnation
-Tag:	Episodic
 Tag:	Heterosexual
-Tag:	Crossover
 Tag:	College
-Tag:	Time Skip
+Tag:	Crossover
 Tag:	Female Protagonist
+Tag:	Reincarnation
+Tag:	Magic
+Tag:	Episodic
+Tag:	Time Skip

@@ -1,19 +1,27 @@
 ID:	21128
-Title:	Noragami ARAGOTO
 Title:	Noragami Aragoto
 Title:	ノラガミ ARAGOTO
-Tag:	Nudity
-Tag:	Anti-Hero
-Tag:	Reincarnation
-Tag:	Urban Fantasy
-Tag:	Youkai
+Title:	Noragami ARAGOTO
 Tag:	Revenge
+Tag:	Reincarnation
 Tag:	Mythology
-Tag:	Swordplay
-Tag:	Shapeshifting
-Tag:	Male Protagonist
-Tag:	Gods
-Tag:	Female Protagonist
 Tag:	Shounen
-Tag:	Found Family
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Gods
+Tag:	Youkai
 Tag:	Nekomimi
+Tag:	Shapeshifting
+Tag:	Anti-Hero
+Tag:	Found Family
+Related:	10115
+Related:	54692
+Related:	10117
+Related:	119941
+Related:	102507
+Related:	60654
+Related:	50743
+Related:	20447

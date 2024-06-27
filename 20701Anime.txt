@@ -2,12 +2,18 @@ ID:	20701
 Title:	オオカミ少女と黒王子
 Title:	Ookami Shoujo to Kuro Ouji
 Title:	Wolf Girl and Black Prince
-Tag:	Shoujo
-Tag:	School
-Tag:	Gyaru
 Tag:	Fake Relationship
-Tag:	Tsundere
 Tag:	Primarily Teen Cast
-Tag:	Heterosexual
+Tag:	Shoujo
 Tag:	Love Triangle
 Tag:	Female Protagonist
+Tag:	School
+Tag:	Tsundere
+Tag:	Gyaru
+Tag:	Heterosexual
+Related:	74747
+Related:	58825
+Related:	32590
+Related:	21007
+Related:	9904
+Related:	99643

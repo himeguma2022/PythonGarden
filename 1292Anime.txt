@@ -1,28 +1,36 @@
 ID:	1292
 Title:	Afro Samurai
 Title:	アフロサムライ
-Tag:	Anachronism
+Tag:	Tragedy
+Tag:	Martial Arts
 Tag:	Artificial Intelligence
-Tag:	Anti-Hero
+Tag:	Tanned Skin
+Tag:	Anachronism
+Tag:	Cult
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Ghost
+Tag:	Male Protagonist
+Tag:	Travel
 Tag:	Seinen
 Tag:	Guns
-Tag:	Revenge
-Tag:	Ghost
-Tag:	Gore
-Tag:	Battle Royale
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Samurai
-Tag:	Swordplay
-Tag:	Tanned Skin
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Primarily Male Cast
 Tag:	Orphan
-Tag:	Travel
-Tag:	Martial Arts
-Tag:	Alternate Universe
-Tag:	Cult
-Tag:	Male Protagonist
-Tag:	Achronological Order
+Tag:	Swordplay
+Tag:	Primarily Male Cast
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Revenge
+Tag:	Battle Royale
+Tag:	Achronological Order
+Tag:	Philosophy
+Tag:	Anti-Hero
+Tag:	Samurai
+Tag:	Alternate Universe
+Related:	20544
+Related:	99713
+Related:	4970
+Related:	13709
+Related:	57551
+Related:	2137
+Related:	2138
+Related:	39935

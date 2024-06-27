@@ -1,18 +1,26 @@
 ID:	110857
 Title:	Aggretsuko: Season 3
-Title:	Aggressive Retsuko Season 3
 Title:	アグレッシブ烈子 シーズン3
-Tag:	Unrequited Love
-Tag:	Anthropomorphism
-Tag:	Primarily Adult Cast
+Title:	Aggressive Retsuko Season 3
 Tag:	Flash
-Tag:	Office Lady
-Tag:	Urban
-Tag:	Chibi
 Tag:	Metal Music
+Tag:	Office Lady
 Tag:	Love Triangle
-Tag:	Idol
-Tag:	Female Protagonist
-Tag:	Animals
+Tag:	Urban
 Tag:	Primarily Animal Cast
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Unrequited Love
+Tag:	Animals
+Tag:	Chibi
 Tag:	Work
+Tag:	Primarily Adult Cast
+Tag:	Idol
+Related:	124960
+Related:	50849
+Related:	124963
+Related:	127619
+Related:	48559
+Related:	105200
+Related:	48086
+Related:	34111

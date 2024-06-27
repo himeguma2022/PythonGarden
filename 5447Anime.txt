@@ -1,9 +1,9 @@
 ID:	5447
 Title:	A-Girl
-Tag:	Shoujo
-Tag:	School
-Tag:	No Dialogue
-Tag:	Acting
 Tag:	Heterosexual
-Tag:	Love Triangle
+Tag:	School
+Tag:	Shoujo
+Tag:	Acting
 Tag:	Female Protagonist
+Tag:	No Dialogue
+Tag:	Love Triangle

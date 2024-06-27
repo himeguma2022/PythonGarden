@@ -1,8 +1,13 @@
 ID:	101102
+Title:	Assassination Classroom the Movie: 365 Days‘ Time
 Title:	Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan
 Title:	劇場版 暗殺教室 365日の時間
-Title:	Assassination Classroom the Movie: 365 Days‘ Time
-Title:	Ansatsu Kyoushitsu: 365-nichi no Jikan
 Tag:	Shounen
-Tag:	School
 Tag:	Assassins
+Tag:	School
+Related:	22179
+Related:	22181
+Related:	22182
+Related:	21170
+Related:	20755
+Related:	69883

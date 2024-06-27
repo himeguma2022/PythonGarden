@@ -1,13 +1,14 @@
 ID:	10298
-Title:	Kaichou wa Maid-sama!: Goshujin-sama to Asonjao♥
 Title:	Maid-Sama! LaLa Special
-Title:	Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥
 Title:	会長はメイド様! ご主人様と遊んじゃお♥
-Tag:	Bar
+Title:	Kaichou wa Maid-sama!: Goshujin-sama to Asonjao♥
 Tag:	Shoujo
-Tag:	Parody
 Tag:	School
 Tag:	Kuudere
-Tag:	Maids
+Tag:	Parody
+Tag:	Bar
 Tag:	Restaurant
 Tag:	Work
+Tag:	Maids
+Related:	7085
+Related:	7054

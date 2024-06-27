@@ -1,14 +1,18 @@
 ID:	21292
-Title:	虹色デイズ
 Title:	Nijiiro Days
+Title:	虹色デイズ
 Title:	Rainbow Days
-Tag:	Shoujo
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Tsundere
 Tag:	Primarily Teen Cast
-Tag:	Heterosexual
-Tag:	Food
+Tag:	Shoujo
 Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Food
 Tag:	Primarily Male Cast
+Tag:	Tsundere
+Tag:	Heterosexual
+Related:	10411
+Related:	69291
+Related:	11222
+Related:	21775

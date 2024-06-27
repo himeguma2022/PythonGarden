@@ -1,16 +1,20 @@
 ID:	16782
-Title:	言の葉の庭
-Title:	The Garden of Words
 Title:	Kotonoha no Niwa
-Tag:	CGI
-Tag:	School
+Title:	The Garden of Words
+Title:	言の葉の庭
 Tag:	Teacher
+Tag:	Bullying
+Tag:	Feet
 Tag:	Drawing
+Tag:	CGI
 Tag:	Urban
-Tag:	Psychosexual
-Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	School
 Tag:	Age Gap
 Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Feet
-Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Psychosexual
+Related:	42442
+Related:	81747
+Related:	42502
+Related:	21519

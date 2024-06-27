@@ -1,19 +1,19 @@
 ID:	146475
-Title:	C Danchi
 Title:	C団地
+Title:	C Danchi
 Title:	Housing Complex C
-Tag:	Anachronism
-Tag:	Hikikomori
-Tag:	Cosmic Horror
-Tag:	Rural
-Tag:	Denpa
-Tag:	Cult
-Tag:	Time Manipulation
 Tag:	Mythology
-Tag:	Gore
-Tag:	Philosophy
-Tag:	Gods
 Tag:	Tragedy
-Tag:	Female Protagonist
-Tag:	Suicide
 Tag:	Body Horror
+Tag:	Hikikomori
+Tag:	Rural
+Tag:	Gore
+Tag:	Cult
+Tag:	Gods
+Tag:	Time Manipulation
+Tag:	Anachronism
+Tag:	Denpa
+Tag:	Female Protagonist
+Tag:	Cosmic Horror
+Tag:	Philosophy
+Tag:	Suicide

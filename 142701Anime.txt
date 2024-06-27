@@ -1,27 +1,29 @@
 ID:	142701
-Title:	後宮の烏
-Title:	Raven of the Inner Palace
 Title:	Koukyuu no Karasu
-Tag:	Rape
-Tag:	Politics
-Tag:	Detective
-Tag:	Tsundere
-Tag:	Necromancy
-Tag:	Maids
-Tag:	Body Horror
-Tag:	Ghost
-Tag:	Ojou-sama
-Tag:	Conspiracy
-Tag:	Suicide
-Tag:	Magic
-Tag:	Shoujo
-Tag:	Primarily Adult Cast
-Tag:	Ancient China
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Mythology
-Tag:	Orphan
+Title:	Raven of the Inner Palace
+Title:	後宮の烏
 Tag:	Historical
-Tag:	Foreign
-Tag:	Episodic
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Primarily Adult Cast
+Tag:	Conspiracy
+Tag:	Ghost
 Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Body Horror
+Tag:	Politics
+Tag:	Suicide
+Tag:	Foreign
+Tag:	Mythology
+Tag:	Shoujo
+Tag:	Orphan
+Tag:	Necromancy
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Ancient China
+Tag:	Detective
+Tag:	Rape
+Tag:	Ojou-sama
+Tag:	Maids
+Related:	66284
+Related:	113567

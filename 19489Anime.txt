@@ -1,17 +1,20 @@
 ID:	19489
 Title:	Little Witch Academia: The Enchanted Parade
 Title:	Little Witch Academia: Mahou-jikake no Parade
-Title:	Little Witch Academia: Mahoujikake no Parade
 Title:	リトルウィッチアカデミア 魔法仕掛けのパレード
-Tag:	Magic
-Tag:	School
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Primarily Child Cast
+Tag:	Primarily Teen Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Protagonist
 Tag:	Ojou-sama
 Tag:	Ensemble Cast
 Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Primarily Child Cast
-Tag:	Witch
-Tag:	Female Protagonist
-Tag:	Primarily Female Cast
+Tag:	School
+Tag:	Magic
 Tag:	Kaiju
+Related:	19401
+Related:	21858
+Related:	8836
+Related:	14349

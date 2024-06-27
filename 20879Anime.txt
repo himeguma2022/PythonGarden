@@ -1,17 +1,25 @@
 ID:	20879
-Title:	Durarara!!x2 Ten
 Title:	デュラララ!!×２ 転
 Title:	Durarara!! X2 The Second Arc
-Tag:	Dullahan
+Title:	Durarara!!x2 Ten
 Tag:	Crime
-Tag:	Anti-Hero
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Delinquents
 Tag:	Mythology
-Tag:	Mafia
 Tag:	Yakuza
-Tag:	Achronological Order
+Tag:	Dullahan
+Tag:	Delinquents
 Tag:	Urban
-Tag:	Incest
+Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Mafia
+Tag:	Achronological Order
+Tag:	Anti-Hero
 Tag:	Gangs
+Tag:	Incest
+Related:	46816
+Related:	20652
+Related:	9679
+Related:	9680
+Related:	10481
+Related:	20880
+Related:	21331
+Related:	10005

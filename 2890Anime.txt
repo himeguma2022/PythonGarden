@@ -2,20 +2,20 @@ ID:	2890
 Title:	Gake no Ue no Ponyo
 Title:	Ponyo
 Title:	崖の上のポニョ
-Tag:	Magic
-Tag:	Natural Disaster
-Tag:	Ships
-Tag:	Rural
-Tag:	Mermaid
-Tag:	Urban Fantasy
-Tag:	Coastal
 Tag:	Kids
-Tag:	Family Life
-Tag:	Chibi
+Tag:	Swimming
 Tag:	Primarily Child Cast
+Tag:	Mermaid
+Tag:	Coastal
 Tag:	Male Protagonist
 Tag:	Environmental
-Tag:	Swimming
+Tag:	Family Life
 Tag:	Female Protagonist
-Tag:	Anthropomorphism
+Tag:	Urban Fantasy
+Tag:	Natural Disaster
 Tag:	Gods
+Tag:	Anthropomorphism
+Tag:	Ships
+Tag:	Magic
+Tag:	Chibi
+Tag:	Rural

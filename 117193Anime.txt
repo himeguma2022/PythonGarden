@@ -1,26 +1,38 @@
 ID:	117193
 Title:	My Hero Academia Season 5
 Title:	Boku no Hero Academia 5th Season
-Title:	僕のヒーローアカデミア５
 Title:	Boku no Hero Academia 5
-Tag:	School
-Tag:	Anti-Hero
-Tag:	Tomboy
+Title:	僕のヒーローアカデミア５
+Tag:	Tragedy
+Tag:	Super Power
 Tag:	Urban
-Tag:	Cultivation
-Tag:	Crime
-Tag:	Ensemble Cast
-Tag:	Superhero
+Tag:	Martial Arts
 Tag:	Gore
+Tag:	Crime
+Tag:	Primarily Teen Cast
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
 Tag:	Boarding School
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Primarily Male Cast
 Tag:	Arranged Marriage
 Tag:	Heterosexual
-Tag:	Tragedy
-Tag:	Primarily Male Cast
-Tag:	Martial Arts
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
+Tag:	Tomboy
+Tag:	Cultivation
+Tag:	Superhero
+Tag:	Anti-Hero
 Tag:	Bisexual
-Tag:	Male Protagonist
-Tag:	Super Power
+Related:	72927
+Related:	126659
+Related:	90151
+Related:	63566
+Related:	85486
+Related:	139630
+Related:	149073
+Related:	104276
+Related:	169402
+Related:	49979
+Related:	40701
+Related:	40703

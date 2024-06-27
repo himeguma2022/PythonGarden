@@ -1,12 +1,18 @@
 ID:	7769
-Title:	オオカミさんと七人の仲間たち
-Title:	Okami-san and Her Seven Companions
 Title:	Ookami-san to Shichinin no Nakama-tachi
-Tag:	School Club
-Tag:	Parody
-Tag:	Tsundere
-Tag:	Boxing
-Tag:	Meta
-Tag:	Crossdressing
+Title:	Okami-san and Her Seven Companions
+Title:	オオカミさんと七人の仲間たち
 Tag:	Love Triangle
+Tag:	Parody
 Tag:	Fairy Tale
+Tag:	Crossdressing
+Tag:	Tsundere
+Tag:	Meta
+Tag:	Boxing
+Tag:	School Club
+Related:	4224
+Related:	80675
+Related:	50628
+Related:	49348
+Related:	51145
+Related:	6162

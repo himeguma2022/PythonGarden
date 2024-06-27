@@ -1,11 +1,13 @@
 ID:	99000
-Title:	明治東亰恋伽
 Title:	Meiji Tokyo Renka
-Tag:	Primarily Male Cast
-Tag:	Magic
-Tag:	Ghost
-Tag:	Male Harem
-Tag:	Time Manipulation
-Tag:	Heterosexual
-Tag:	Female Protagonist
+Title:	明治東亰恋伽
 Tag:	Historical
+Tag:	Ghost
+Tag:	Female Protagonist
+Tag:	Primarily Male Cast
+Tag:	Male Harem
+Tag:	Magic
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Related:	19266
+Related:	20511

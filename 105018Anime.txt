@@ -1,20 +1,24 @@
 ID:	105018
+Title:	きみと、波にのれたら
+Title:	Ride Your Wave
 Title:	Kimi to, Nami ni Noretara
 Title:	"Kimi to, Nami ni Noretara"
-Title:	Ride Your Wave
-Title:	きみと、波にのれたら
-Tag:	Ghost
-Tag:	CGI
-Tag:	Primarily Adult Cast
-Tag:	Urban Fantasy
-Tag:	Coastal
-Tag:	Coming of Age
-Tag:	Heterosexual
-Tag:	Surfing
-Tag:	College
-Tag:	Tragedy
 Tag:	Swimming
+Tag:	Tragedy
+Tag:	Ghost
+Tag:	Surfing
+Tag:	CGI
+Tag:	Coastal
 Tag:	Female Protagonist
 Tag:	Firefighters
+Tag:	Urban Fantasy
+Tag:	College
 Tag:	Afterlife
+Tag:	Heterosexual
 Tag:	Work
+Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Related:	30664
+Related:	119593
+Related:	108221
+Related:	43062

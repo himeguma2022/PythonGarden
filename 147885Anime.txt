@@ -2,22 +2,22 @@ ID:	147885
 Title:	Cool Doji Danshi
 Title:	クールドジ男子
 Title:	Play It Cool, Guys
-Tag:	School
-Tag:	Tsundere
-Tag:	Chibi
-Tag:	Urban
-Tag:	Handball
-Tag:	Trains
-Tag:	Fashion
-Tag:	Shoujo
-Tag:	Primarily Adult Cast
-Tag:	Iyashikei
 Tag:	Kuudere
-Tag:	Cute Boys Doing Cute Things
-Tag:	Primarily Male Cast
+Tag:	Trains
 Tag:	Slapstick
+Tag:	School
 Tag:	Work
+Tag:	Handball
+Tag:	Iyashikei
 Tag:	Episodic
-Tag:	College
-Tag:	Male Protagonist
+Tag:	Chibi
 Tag:	Writing
+Tag:	Cute Boys Doing Cute Things
+Tag:	Primarily Adult Cast
+Tag:	Urban
+Tag:	Male Protagonist
+Tag:	Primarily Male Cast
+Tag:	College
+Tag:	Shoujo
+Tag:	Fashion
+Tag:	Tsundere

@@ -1,0 +1,13 @@
+ID:	4134
+Title:	Naruto Shippuden: Konoha Gakuen - Special
+Title:	"NARUTO: Shippuuden - Shippu! ""Konoha Gakuen"" Den"
+Title:	NARUTO -ナルト- 疾風伝 疾風! "木ノ葉学園"伝
+Title:	NARUTO: Shippuuden - Shippu! "Konoha Gakuen" Den
+Tag:	Super Power
+Tag:	Orphan
+Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	School
+Tag:	Ninja
+Related:	8990
+Related:	1735

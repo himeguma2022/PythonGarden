@@ -1,22 +1,28 @@
 ID:	19163
-Title:	Date A Live II
 Title:	デート・ア・ライブⅡ
-Tag:	School
-Tag:	Maids
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Twins
-Tag:	LGBTQ+ Themes
-Tag:	Nudity
-Tag:	Parody
-Tag:	Acting
-Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Idol
-Tag:	Crossdressing
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Bisexual
-Tag:	Male Protagonist
+Title:	Date A Live II
 Tag:	Super Power
+Tag:	Kuudere
+Tag:	Crossdressing
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Male Protagonist
+Tag:	Parody
+Tag:	Maids
+Tag:	Female Harem
+Tag:	School
+Tag:	Urban Fantasy
+Tag:	Acting
+Tag:	Nudity
+Tag:	LGBTQ+ Themes
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	CGI
+Tag:	Bisexual
+Tag:	Idol
+Related:	67523
+Related:	17641
+Related:	8666
+Related:	10234
+Related:	8667
+Related:	20767

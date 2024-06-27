@@ -1,11 +1,11 @@
 ID:	107012
-Title:	Birthday Wonderland
 Title:	バースデー・ワンダーランド
 Title:	The Wonderland
-Tag:	Magic
-Tag:	Cars
-Tag:	CGI
+Title:	Birthday Wonderland
 Tag:	Isekai
-Tag:	Environmental
-Tag:	Female Protagonist
+Tag:	CGI
 Tag:	Animals
+Tag:	Cars
+Tag:	Female Protagonist
+Tag:	Environmental
+Tag:	Magic

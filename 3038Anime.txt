@@ -1,13 +1,13 @@
 ID:	3038
 Title:	1001 Nights
-Title:	A Thousand & One Nights
 Title:	Senya Ichiya Monogatari
 Title:	千夜一夜物語
-Tag:	Nudity
-Tag:	Surreal Comedy
-Tag:	Foreign
+Title:	A Thousand & One Nights
 Tag:	Isekai
-Tag:	War
 Tag:	Male Protagonist
-Tag:	Classic Literature
 Tag:	Shapeshifting
+Tag:	Surreal Comedy
+Tag:	Classic Literature
+Tag:	Foreign
+Tag:	Nudity
+Tag:	War

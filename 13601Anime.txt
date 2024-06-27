@@ -1,29 +1,41 @@
 ID:	13601
-Title:	Psycho-Pass
-Title:	PSYCHO-PASS サイコパス
 Title:	PSYCHO-PASS
-Tag:	Artificial Intelligence
-Tag:	Rape
-Tag:	Anti-Hero
-Tag:	Terrorism
-Tag:	Detective
-Tag:	Guns
-Tag:	Revenge
-Tag:	Cyberpunk
-Tag:	Augmented Reality
-Tag:	Urban
-Tag:	Robots
-Tag:	Body Horror
-Tag:	Fugitive
-Tag:	Crime
-Tag:	Conspiracy
-Tag:	Dystopian
-Tag:	Gore
-Tag:	Nudity
-Tag:	Primarily Adult Cast
-Tag:	Philosophy
+Title:	PSYCHO-PASS サイコパス
+Title:	Psycho-Pass
 Tag:	Tragedy
-Tag:	Police
+Tag:	Urban
+Tag:	Artificial Intelligence
+Tag:	Fugitive
+Tag:	Gore
+Tag:	Augmented Reality
 Tag:	Class Struggle
+Tag:	Conspiracy
+Tag:	Primarily Adult Cast
+Tag:	Crime
 Tag:	Male Protagonist
 Tag:	Female Protagonist
+Tag:	Cyberpunk
+Tag:	Body Horror
+Tag:	Guns
+Tag:	Terrorism
+Tag:	Nudity
+Tag:	Robots
+Tag:	Police
+Tag:	Revenge
+Tag:	Dystopian
+Tag:	Detective
+Tag:	Rape
+Tag:	Philosophy
+Tag:	Anti-Hero
+Related:	20513
+Related:	85602
+Related:	85603
+Related:	8806
+Related:	86120
+Related:	19435
+Related:	17901
+Related:	52177
+Related:	51797
+Related:	74933
+Related:	25847
+Related:	25849

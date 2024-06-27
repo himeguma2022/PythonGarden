@@ -1,16 +1,22 @@
 ID:	114043
-Title:	食戟のソーマ 豪ノ皿
 Title:	Shokugeki no Souma: Gou no Sara
+Title:	食戟のソーマ 豪ノ皿
 Title:	Food Wars! The Fifth Plate
-Tag:	Nudity
 Tag:	Crime
-Tag:	Anti-Hero
-Tag:	Primarily Teen Cast
-Tag:	Circus
-Tag:	Tanned Skin
-Tag:	Food
-Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Primarily Teen Cast
 Tag:	Shounen
-Tag:	Incest
+Tag:	Male Protagonist
+Tag:	Circus
+Tag:	Food
+Tag:	Tanned Skin
+Tag:	Nudity
 Tag:	Assassins
+Tag:	Anti-Hero
+Tag:	Incest
+Related:	110338
+Related:	109963
+Related:	37421
+Related:	75757
+Related:	37423
+Related:	47485

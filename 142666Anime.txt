@@ -1,27 +1,27 @@
 ID:	142666
-Title:	Migi to Dali
-Title:	ミギとダリ
 Title:	Migi&Dali
+Title:	ミギとダリ
+Title:	Migi to Dali
 Tag:	School
+Tag:	Adoption
+Tag:	Age Regression
+Tag:	Tragedy
+Tag:	Boys' Love
+Tag:	Dissociative Identities
+Tag:	Surreal Comedy
+Tag:	Coming of Age
+Tag:	Love Triangle
+Tag:	Crossdressing
+Tag:	Found Family
+Tag:	Estranged Family
 Tag:	Anti-Hero
 Tag:	Seinen
+Tag:	Bullying
+Tag:	Time Skip
 Tag:	Revenge
+Tag:	Historical
+Tag:	Male Protagonist
+Tag:	Conspiracy
 Tag:	Family Life
 Tag:	Incest
-Tag:	Found Family
 Tag:	Twins
-Tag:	Age Regression
-Tag:	Conspiracy
-Tag:	Surreal Comedy
-Tag:	Tragedy
-Tag:	Crossdressing
-Tag:	Love Triangle
-Tag:	Historical
-Tag:	Adoption
-Tag:	Estranged Family
-Tag:	Dissociative Identities
-Tag:	Coming of Age
-Tag:	Boys' Love
-Tag:	Male Protagonist
-Tag:	Time Skip
-Tag:	Bullying

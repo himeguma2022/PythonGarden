@@ -1,11 +1,15 @@
 ID:	101930
-Title:	Girly Air Force
 Title:	ガーリー・エアフォース
-Tag:	CGI
-Tag:	Military
-Tag:	Female Harem
-Tag:	Aviation
-Tag:	War
-Tag:	Kuudere
-Tag:	Male Protagonist
+Title:	Girly Air Force
 Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	Kuudere
+Tag:	War
+Tag:	Military
+Tag:	Aviation
+Related:	33527
+Related:	101929
+Related:	23123
+Related:	104993

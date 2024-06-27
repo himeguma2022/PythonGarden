@@ -1,6 +1,8 @@
 ID:	98238
 Title:	Room Mate
 Tag:	Primarily Male Cast
-Tag:	Meta
 Tag:	Male Harem
 Tag:	POV
+Tag:	Meta
+Related:	97857
+Related:	22607

@@ -1,15 +1,21 @@
 ID:	21058
+Title:	Snow White with the Red Hair
 Title:	Akagami no Shirayuki-hime
 Title:	赤髪の白雪姫
-Title:	Snow White with the Red Hair
-Tag:	Primarily Male Cast
+Tag:	Historical
 Tag:	Shoujo
-Tag:	Politics
-Tag:	Swordplay
-Tag:	Heterosexual
-Tag:	Agriculture
 Tag:	Love Triangle
 Tag:	Medicine
+Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Historical
+Tag:	Primarily Male Cast
+Tag:	Politics
+Tag:	Heterosexual
 Tag:	Work
+Tag:	Agriculture
+Related:	21313
+Related:	10346
+Related:	34571
+Related:	21258
+Related:	10446
+Related:	10001

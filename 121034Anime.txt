@@ -2,12 +2,18 @@ ID:	121034
 Title:	デート・ア・バレット ナイトメア・オア・クイーン
 Title:	Date A Bullet: Dead or Bullet & Nightmare or Queen
 Title:	Date A Bullet: Nightmare or Queen
-Tag:	Death Game
-Tag:	Urban Fantasy
-Tag:	Isekai
-Tag:	Cute Girls Doing Cute Things
-Tag:	Gore
 Tag:	Tragedy
-Tag:	Female Protagonist
 Tag:	Primarily Female Cast
 Tag:	Battle Royale
+Tag:	Cute Girls Doing Cute Things
+Tag:	Isekai
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Gore
+Tag:	Death Game
+Related:	44160
+Related:	44164
+Related:	44159
+Related:	111852
+Related:	109712
+Related:	15583

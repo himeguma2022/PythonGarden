@@ -1,9 +1,9 @@
 ID:	20501
-Title:	Harmonie
 Title:	アルモニ
+Title:	Harmonie
+Tag:	Male Protagonist
+Tag:	Heterosexual
 Tag:	School
 Tag:	Primarily Teen Cast
-Tag:	Heterosexual
-Tag:	Male Protagonist
-Tag:	Urban
 Tag:	Bullying
+Tag:	Urban

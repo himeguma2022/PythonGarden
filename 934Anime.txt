@@ -1,33 +1,71 @@
 ID:	934
+Title:	When They Cry
 Title:	ひぐらしのなく頃に
 Title:	Higurashi no Naku Koro ni
-Title:	When They Cry
-Tag:	Time Loop
-Tag:	Primarily Female Cast
-Tag:	Board Game
-Tag:	Body Horror
-Tag:	Twins
-Tag:	Shrine Maiden
-Tag:	Conspiracy
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Gore
-Tag:	School Club
-Tag:	Cosmic Horror
-Tag:	Mythology
-Tag:	Yandere
-Tag:	Torture
-Tag:	Crossdressing
-Tag:	Tragedy
 Tag:	Historical
-Tag:	Alternate Universe
-Tag:	Rural
+Tag:	Tragedy
+Tag:	Shrine Maiden
 Tag:	Denpa
-Tag:	Urban Fantasy
-Tag:	Police
+Tag:	Crossdressing
+Tag:	Gore
+Tag:	Conspiracy
+Tag:	Bullying
+Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Achronological Order
-Tag:	Pandemic
 Tag:	Female Protagonist
-Tag:	Bullying
+Tag:	Ensemble Cast
+Tag:	Torture
+Tag:	Body Horror
+Tag:	Cosmic Horror
+Tag:	Time Manipulation
+Tag:	Mythology
+Tag:	Urban Fantasy
+Tag:	Police
+Tag:	Twins
+Tag:	Rural
+Tag:	School Club
+Tag:	Board Game
+Tag:	Time Loop
+Tag:	Achronological Order
+Tag:	Yandere
+Tag:	Pandemic
+Tag:	Alternate Universe
+Related:	92544
+Related:	28161
+Related:	28163
+Related:	28165
+Related:	28167
+Related:	28169
+Related:	1656
+Related:	38289
+Related:	31257
+Related:	31258
+Related:	31260
+Related:	31261
+Related:	31262
+Related:	31263
+Related:	4896
+Related:	92453
+Related:	67890
+Related:	102963
+Related:	101044
+Related:	125623
+Related:	16700
+Related:	67010
+Related:	49220
+Related:	49227
+Related:	49229
+Related:	49230
+Related:	49231
+Related:	49235
+Related:	2899
+Related:	49237
+Related:	1889
+Related:	144226
+Related:	60139
+Related:	1648
+Related:	1655
+Related:	92536
+Related:	92537
+Related:	28159

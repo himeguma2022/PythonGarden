@@ -1,17 +1,23 @@
 ID:	7088
+Title:	Ichiban Ushiro no Daimaou
 Title:	Demon King Daimao
 Title:	いちばんうしろの大魔王
-Title:	Ichiban Ushiro no Daimaou
-Tag:	Nudity
-Tag:	Magic
-Tag:	School
-Tag:	Female Harem
-Tag:	Tsundere
-Tag:	Demons
-Tag:	Aviation
-Tag:	Swordplay
-Tag:	Kuudere
-Tag:	Philosophy
-Tag:	Male Protagonist
 Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Kuudere
 Tag:	Gods
+Tag:	Nudity
+Tag:	Philosophy
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Aviation
+Tag:	Demons
+Related:	65641
+Related:	5967
+Related:	5968
+Related:	8465
+Related:	44923
+Related:	48926

@@ -1,11 +1,17 @@
 ID:	10897
-Title:	Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi
-Title:	Haganai: Episode 0
 Title:	僕は友達が少ない 第0語 闇鍋は美少女が残念な臭い(;´∀`)
+Title:	Boku wa Tomodachi ga Sukunai: Yaminabe wa Bishoujo ga Zannen na Nioi
 Title:	Boku wa Tomodachi ga Sukunai Episode 0: Yaminabe wa Bishoujo ga Zannen na Nioi
-Tag:	Nudity
-Tag:	School
-Tag:	Female Harem
-Tag:	Food
-Tag:	Male Protagonist
+Title:	Haganai: Episode 0
 Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Female Harem
+Tag:	School
+Tag:	Food
+Tag:	Nudity
+Related:	54084
+Related:	51621
+Related:	10719
+Related:	7342
+Related:	47694
+Related:	49087

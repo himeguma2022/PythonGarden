@@ -1,19 +1,19 @@
 ID:	11665
+Title:	Natsume Yuujinchou Shi
 Title:	夏目友人帳 肆
 Title:	Natsume's Book of Friends 4
-Title:	Natsume Yuujinchou Shi
-Tag:	Shoujo
-Tag:	Rural
-Tag:	Estranged Family
-Tag:	Iyashikei
-Tag:	Urban Fantasy
-Tag:	Primarily Teen Cast
-Tag:	Episodic
-Tag:	Rotoscoping
-Tag:	Family Life
-Tag:	Youkai
 Tag:	Male Protagonist
 Tag:	Tragedy
+Tag:	Estranged Family
+Tag:	Family Life
+Tag:	Rural
 Tag:	Gods
+Tag:	Shoujo
 Tag:	Shapeshifting
 Tag:	Adoption
+Tag:	Youkai
+Tag:	Iyashikei
+Tag:	Primarily Teen Cast
+Tag:	Episodic
+Tag:	Urban Fantasy
+Tag:	Rotoscoping

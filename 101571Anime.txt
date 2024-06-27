@@ -1,18 +1,24 @@
 ID:	101571
-Title:	Aggretsuko
-Title:	Aggressive Retsuko
 Title:	アグレッシブ烈子
-Tag:	Unrequited Love
-Tag:	Anthropomorphism
-Tag:	Primarily Adult Cast
+Title:	Aggressive Retsuko
+Title:	Aggretsuko
 Tag:	Flash
-Tag:	Office Lady
-Tag:	Rock Music
-Tag:	Urban
-Tag:	Chibi
 Tag:	Metal Music
+Tag:	Office Lady
+Tag:	Urban
+Tag:	Primarily Animal Cast
 Tag:	Female Protagonist
 Tag:	Office
+Tag:	Anthropomorphism
+Tag:	Unrequited Love
+Tag:	Rock Music
 Tag:	Animals
-Tag:	Primarily Animal Cast
+Tag:	Chibi
 Tag:	Work
+Tag:	Primarily Adult Cast
+Related:	28138
+Related:	105200
+Related:	22614
+Related:	21726
+Related:	106494
+Related:	26623

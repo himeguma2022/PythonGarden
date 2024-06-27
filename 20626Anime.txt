@@ -1,21 +1,35 @@
 ID:	20626
-Title:	Fairy Tail (2014)
 Title:	FAIRY TAIL (2014)
+Title:	Fairy Tail (2014)
 Title:	Fairy Tail Series 2
-Tag:	Monster Girl
-Tag:	Magic
-Tag:	Centaur
-Tag:	Primarily Adult Cast
-Tag:	Demons
-Tag:	Time Manipulation
-Tag:	Primarily Teen Cast
-Tag:	Dragons
-Tag:	Time Skip
-Tag:	Nekomimi
-Tag:	Male Protagonist
 Tag:	Tragedy
 Tag:	Super Power
-Tag:	Female Protagonist
+Tag:	Monster Girl
+Tag:	Primarily Teen Cast
 Tag:	Shounen
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Centaur
+Tag:	Nekomimi
+Tag:	Time Skip
+Tag:	Magic
 Tag:	Found Family
 Tag:	Work
+Tag:	Time Manipulation
+Tag:	Demons
+Tag:	Primarily Adult Cast
+Tag:	Dragons
+Related:	99749
+Related:	10245
+Related:	30598
+Related:	22216
+Related:	21191
+Related:	85319
+Related:	21963
+Related:	20599
+Related:	6702
+Related:	100948
+Related:	73751
+Related:	9113
+Related:	9115
+Related:	150078

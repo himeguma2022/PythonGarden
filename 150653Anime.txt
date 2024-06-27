@@ -2,20 +2,20 @@ ID:	150653
 Title:	Itou Junji: Maniac
 Title:	伊藤潤二『マニアック』
 Title:	Junji Ito Maniac: Japanese Tales of the Macabre
-Tag:	Ghost
-Tag:	Religion
+Tag:	Tragedy
+Tag:	Photography
+Tag:	Body Horror
 Tag:	CGI
-Tag:	Anthology
-Tag:	Cosmic Horror
+Tag:	Ghost
 Tag:	Alternate Universe
 Tag:	Denpa
-Tag:	Photography
-Tag:	Episodic
+Tag:	Anthology
 Tag:	Josei
-Tag:	Revenge
-Tag:	Tragedy
-Tag:	Urban
-Tag:	Monster Girl
+Tag:	Cosmic Horror
 Tag:	Suicide
+Tag:	Religion
 Tag:	Bullying
-Tag:	Body Horror
+Tag:	Monster Girl
+Tag:	Episodic
+Tag:	Urban
+Tag:	Revenge

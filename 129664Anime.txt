@@ -1,18 +1,17 @@
 ID:	129664
 Title:	擾乱 THE PRINCESS OF SNOW AND BLOOD
 Title:	JORAN THE PRINCESS OF SNOW AND BLOOD
-Title:	Jouran: The Princess of Snow and Blood
 Title:	Jouran: THE PRINCESS OF SNOW AND BLOOD
-Tag:	Anachronism
-Tag:	Nudity
-Tag:	Henshin
-Tag:	Ensemble Cast
-Tag:	Politics
 Tag:	Guns
+Tag:	Tragedy
+Tag:	Historical
 Tag:	Revenge
 Tag:	Swordplay
-Tag:	Espionage
-Tag:	Tragedy
-Tag:	Crossdressing
 Tag:	Female Protagonist
-Tag:	Historical
+Tag:	Ensemble Cast
+Tag:	Espionage
+Tag:	Politics
+Tag:	Anachronism
+Tag:	Nudity
+Tag:	Crossdressing
+Tag:	Henshin
