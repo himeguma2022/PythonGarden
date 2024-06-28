@@ -1,16 +1,16 @@
 ID:	12365
 Title:	Bakuman. 3
 Title:	バクマン。3
+Tag:	Male Protagonist
+Tag:	Work
+Tag:	Writing
+Tag:	Heterosexual
 Tag:	Drawing
+Tag:	Meta
+Tag:	Ensemble Cast
 Tag:	Educational
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Meta
-Tag:	Heterosexual
-Tag:	Work
 Tag:	Coming of Age
-Tag:	Writing
 Related:	10030
 Related:	102608
 Related:	39711

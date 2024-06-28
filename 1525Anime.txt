@@ -2,10 +2,10 @@ ID:	1525
 Title:	Pocket Monsters Crystal: Raikou Ikazuchi no Densetsu
 Title:	Pokémon: The Legend of Thunder!
 Title:	ポケットモンスター クリスタル ～ライコウ 雷の伝説～
-Tag:	Criminal Organization
-Tag:	Kids
-Tag:	Primarily Child Cast
 Tag:	Male Protagonist
+Tag:	Kids
+Tag:	Criminal Organization
 Tag:	Animals
+Tag:	Primarily Child Cast
 Related:	47460
 Related:	527

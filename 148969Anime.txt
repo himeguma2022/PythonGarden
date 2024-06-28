@@ -1,14 +1,14 @@
 ID:	148969
-Title:	Kubo Won't Let Me Be Invisible
 Title:	Kubo-san wa Mob wo Yurusanai
+Title:	Kubo Won't Let Me Be Invisible
 Title:	久保さんは僕を許さない
-Tag:	Iyashikei
-Tag:	Heterosexual
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	School
 Tag:	Seinen
+Tag:	Primarily Teen Cast
 Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Iyashikei
+Tag:	School
+Tag:	Episodic
 Related:	112981
 Related:	72799

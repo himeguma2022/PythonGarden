@@ -1,10 +1,10 @@
 ID:	579
-Title:	バトルプログラマーシラセ
 Title:	Battle Programmer Shirase
+Title:	バトルプログラマーシラセ
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Software Development
 Tag:	Age Gap
 Tag:	Hikikomori
+Tag:	Software Development
+Tag:	Episodic
 Related:	55337
 Related:	1918

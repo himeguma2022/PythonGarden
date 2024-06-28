@@ -2,26 +2,26 @@ ID:	140660
 Title:	Arknights: Reimei Zensou
 Title:	Arknights: PRELUDE TO DAWN
 Title:	アークナイツ 黎明前奏
-Tag:	Tragedy
-Tag:	Pandemic
-Tag:	Super Power
-Tag:	Urban
-Tag:	Post-Apocalyptic
-Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Medicine
-Tag:	Terrorism
-Tag:	War
-Tag:	Magic
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Dystopian
 Tag:	Military
+Tag:	Conspiracy
+Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Super Power
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Guns
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kemonomimi
+Tag:	Twins
+Tag:	Terrorism
 Tag:	Amnesia
+Tag:	Magic
+Tag:	Pandemic
+Tag:	Found Family
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Medicine
 Related:	131969
 Related:	170498
 Related:	91270
@@ -33,12 +33,12 @@ Related:	72210
 Related:	68885
 Related:	71574
 Related:	86679
+Related:	68887
 Related:	86168
 Related:	68889
 Related:	79642
 Related:	68891
 Related:	174748
-Related:	68887
 Related:	177177
 Related:	69920
 Related:	156065

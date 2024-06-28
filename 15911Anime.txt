@@ -1,17 +1,17 @@
 ID:	15911
 Title:	Yuyushiki
 Title:	ゆゆ式
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
+Tag:	Seinen
 Tag:	Female Protagonist
 Tag:	Episodic
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Seinen
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Surreal Comedy
 Tag:	School Club
+Tag:	School
+Tag:	Educational
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
 Related:	18466
 Related:	98344
 Related:	18254

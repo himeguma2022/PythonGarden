@@ -1,20 +1,20 @@
 ID:	20631
+Title:	TRINITY SEVEN
 Title:	Trinity Seven
 Title:	トリニティセブン
-Title:	TRINITY SEVEN
-Tag:	Primarily Female Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
 Tag:	Parody
 Tag:	Nudity
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Memory Manipulation
 Tag:	Magic
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	9123
 Related:	43045
 Related:	54822

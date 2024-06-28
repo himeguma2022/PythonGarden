@@ -1,19 +1,19 @@
 ID:	512
-Title:	魔女の宅急便
 Title:	Kiki's Delivery Service
+Title:	魔女の宅急便
 Title:	Majo no Takkyuubin
-Tag:	Witch
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Motorcycles
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	Travel
-Tag:	Magic
 Tag:	Work
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Travel
+Tag:	Primarily Adult Cast
+Tag:	Drawing
+Tag:	Magic
+Tag:	Urban
+Tag:	Motorcycles
+Tag:	Witch
+Tag:	Primarily Female Cast
 Tag:	Aviation
 Tag:	Coming of Age
-Tag:	Primarily Adult Cast
 Related:	101099
 Related:	36566

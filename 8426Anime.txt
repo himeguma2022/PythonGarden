@@ -1,25 +1,25 @@
 ID:	8426
-Title:	Hourou Musuko
-Title:	放浪息子
 Title:	Wandering Son
-Tag:	Iyashikei
-Tag:	Bullying
-Tag:	Primarily Child Cast
-Tag:	Basketball
-Tag:	Transgender
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	School
+Title:	放浪息子
+Title:	Hourou Musuko
 Tag:	Acting
-Tag:	Gender Bending
-Tag:	LGBTQ+ Themes
-Tag:	Crossdressing
 Tag:	Seinen
 Tag:	Photography
+Tag:	Female Protagonist
 Tag:	Bisexual
-Tag:	Coming of Age
 Tag:	Writing
+Tag:	Family Life
+Tag:	Gender Bending
+Tag:	Transgender
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Crossdressing
+Tag:	School
+Tag:	Love Triangle
+Tag:	Basketball
+Tag:	Bullying
+Tag:	LGBTQ+ Themes
+Tag:	Coming of Age
 Related:	30585
 Related:	6383
 Related:	10044

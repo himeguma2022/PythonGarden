@@ -1,17 +1,17 @@
 ID:	8676
-Title:	アマガミSS
 Title:	Amagami SS
-Tag:	Swimming
-Tag:	Primarily Female Cast
+Title:	アマガミSS
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Kuudere
 Tag:	Heterosexual
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Primarily Female Cast
+Tag:	Swimming
 Related:	11235
 Related:	141636
 Related:	9925

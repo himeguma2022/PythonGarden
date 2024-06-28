@@ -1,15 +1,15 @@
 ID:	138425
-Title:	Karakai Jouzu no Takagi-san Movie
 Title:	Teasing Master Takagi-san: The Movie
+Title:	Karakai Jouzu no Takagi-san Movie
 Title:	劇場版 からかい上手の高木さん
-Tag:	Primarily Child Cast
-Tag:	Shounen
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Animals
-Tag:	Time Skip
 Tag:	Heterosexual
+Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Shounen
 Tag:	Rural
 Related:	138424
 Related:	83437

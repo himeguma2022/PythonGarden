@@ -1,23 +1,23 @@
 ID:	149028
+Title:	私の百合はお仕事です！
 Title:	Yuri Is My Job!
 Title:	Watashi no Yuri wa Oshigoto desu!
-Title:	私の百合はお仕事です！
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Ojou-sama
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Acting
-Tag:	Parody
-Tag:	LGBTQ+ Themes
-Tag:	Tsundere
-Tag:	Gyaru
-Tag:	Yandere
 Tag:	Work
-Tag:	Aromantic
+Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Parody
+Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Gyaru
+Tag:	School
+Tag:	Love Triangle
+Tag:	Ojou-sama
+Tag:	Aromantic
+Tag:	LGBTQ+ Themes
+Tag:	Yandere
+Tag:	Primarily Female Cast
 Related:	101120
 Related:	72883

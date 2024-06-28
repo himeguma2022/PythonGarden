@@ -1,8 +1,8 @@
 ID:	10448
 Title:	rain town
-Tag:	Tragedy
-Tag:	Dystopian
-Tag:	No Dialogue
-Tag:	Urban
 Tag:	Female Protagonist
+Tag:	No Dialogue
+Tag:	Dystopian
 Tag:	Robots
+Tag:	Urban
+Tag:	Tragedy

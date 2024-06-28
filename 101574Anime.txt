@@ -1,19 +1,19 @@
 ID:	101574
 Title:	劇場版 SHIROBAKO
-Title:	SHIROBAKO Movie
 Title:	SHIROBAKO the Movie
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Office Lady
-Tag:	Educational
-Tag:	Mahjong
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Kuudere
+Title:	SHIROBAKO Movie
 Tag:	Acting
-Tag:	Otaku Culture
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kuudere
 Tag:	Primarily Adult Cast
+Tag:	Drawing
 Tag:	Meta
+Tag:	Office Lady
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Mahjong
+Tag:	Educational
+Tag:	Primarily Female Cast
 Related:	20812
 Related:	22655

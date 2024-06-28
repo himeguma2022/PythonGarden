@@ -1,11 +1,11 @@
 ID:	21339
-Title:	Charlotte: Strong People
 Title:	Charlotte 強い者たち
 Title:	Charlotte: Tsuyoimono-tachi
-Tag:	Super Power
+Title:	Charlotte: Strong People
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Urban Fantasy
 Tag:	Female Protagonist
 Tag:	School
-Tag:	Urban Fantasy
 Related:	20997
 Related:	10494

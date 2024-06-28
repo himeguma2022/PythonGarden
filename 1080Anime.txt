@@ -2,16 +2,16 @@ ID:	1080
 Title:	Yukikaze
 Title:	戦闘妖精雪風
 Title:	Sentou Yousei Yukikaze
-Tag:	Full CGI
-Tag:	Aliens
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Space
-Tag:	War
+Tag:	CGI
 Tag:	Military
-Tag:	Aviation
+Tag:	Space
+Tag:	Full CGI
+Tag:	Artificial Intelligence
+Tag:	Aliens
 Tag:	Conspiracy
+Tag:	War
+Tag:	Aviation
 Related:	37419
 Related:	1515
 Related:	97615

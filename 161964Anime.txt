@@ -2,29 +2,29 @@ ID:	161964
 Title:	陰の実力者になりたくて！ 2nd season
 Title:	The Eminence in Shadow Season 2
 Title:	Kage no Jitsuryokusha ni Naritakute! 2nd season
+Tag:	Demons
+Tag:	Alternate Universe
+Tag:	Trains
+Tag:	Zombie
 Tag:	Isekai
+Tag:	Dragons
 Tag:	Post-Apocalyptic
 Tag:	Satire
-Tag:	Elf
-Tag:	Cult
-Tag:	Trains
-Tag:	Alternate Universe
 Tag:	Male Protagonist
-Tag:	Parody
-Tag:	Meta
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Zombie
-Tag:	Vampire
-Tag:	Assassins
 Tag:	Chuunibyou
+Tag:	Vampire
+Tag:	Meta
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Assassins
+Tag:	Kemonomimi
+Tag:	Female Harem
+Tag:	Elf
+Tag:	Economics
 Tag:	Nudity
 Tag:	Magic
+Tag:	Cult
 Tag:	Anti-Hero
-Tag:	Demons
-Tag:	Dragons
 Related:	84387
 Related:	92900
 Related:	84389

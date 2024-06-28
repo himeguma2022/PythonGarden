@@ -1,12 +1,12 @@
 ID:	1171
-Title:	スレイヤーズえくせれんと
 Title:	Slayers Excellent
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
+Title:	スレイヤーズえくせれんと
 Tag:	Female Protagonist
+Tag:	Demons
 Tag:	Vampire
 Tag:	Magic
-Tag:	Demons
+Tag:	Cute Girls Doing Cute Things
+Tag:	Slapstick
 Related:	1994
 Related:	1995
 Related:	50869

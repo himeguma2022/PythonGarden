@@ -1,25 +1,25 @@
 ID:	721
-Title:	プリンセスチュチュ
 Title:	Princess Tutu
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Dissociative Identities
-Tag:	Anthropomorphism
-Tag:	Tsundere
-Tag:	Ghost
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	プリンセスチュチュ
 Tag:	Fairy Tale
-Tag:	Meta
+Tag:	Writing
 Tag:	Foreign
 Tag:	Reincarnation
-Tag:	Boarding School
 Tag:	School
-Tag:	Animals
 Tag:	Henshin
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Meta
+Tag:	Episodic
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Love Triangle
+Tag:	Anthropomorphism
+Tag:	Ghost
+Tag:	Tsundere
+Tag:	Animals
 Tag:	Dancing
-Tag:	Writing
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Related:	31581
 Related:	25871

@@ -1,25 +1,25 @@
 ID:	101925
-Title:	銀魂. 銀ノ魂篇2
 Title:	Gintama.: Silver Soul Arc - Second Half War
 Title:	Gintama.: Shirogane no Tamashii-hen - Kouhan-sen
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Aliens
-Tag:	Swordplay
-Tag:	CGI
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Space
-Tag:	War
-Tag:	Anachronism
-Tag:	Parody
-Tag:	Meta
-Tag:	Gore
+Title:	銀魂. 銀ノ魂篇2
 Tag:	Time Skip
-Tag:	Samurai
+Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Gore
+Tag:	Space
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Tragedy
 Tag:	Found Family
+Tag:	Female Harem
+Tag:	Samurai
+Tag:	Historical
+Tag:	Anachronism
+Tag:	Shounen
+Tag:	War
 Related:	25826
 Related:	126819
 Related:	23112

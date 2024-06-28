@@ -1,18 +1,18 @@
 ID:	174
 Title:	天上天下
-Title:	Tenjho Tenge
 Title:	Tenjou Tenge
-Tag:	Tragedy
+Title:	Tenjho Tenge
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Martial Arts
+Tag:	Gore
+Tag:	School Club
+Tag:	Tragedy
+Tag:	School
 Tag:	Love Triangle
 Tag:	Shounen
 Tag:	Delinquents
-Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	School
-Tag:	Gore
-Tag:	Time Skip
-Tag:	School Club
 Related:	448
 Related:	422
 Related:	423

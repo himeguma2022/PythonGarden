@@ -1,16 +1,16 @@
 ID:	150429
-Title:	Tokubetsu-hen Hibike! Euphonium: Ensemble Contest
 Title:	特別編 響け！ユーフォニアム～アンサンブルコンテスト～
-Tag:	Yuri
-Tag:	Primarily Female Cast
+Title:	Tokubetsu-hen Hibike! Euphonium: Ensemble Contest
 Tag:	Primarily Teen Cast
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
+Tag:	Yuri
 Tag:	Classical Music
-Tag:	Coming of Age
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	109731
 Related:	101992
 Related:	74121

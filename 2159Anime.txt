@@ -1,17 +1,17 @@
 ID:	2159
-Title:	Big Windup!
 Title:	おおきく振りかぶって
+Title:	Big Windup!
 Title:	Ookiku Furikabutte
-Tag:	Bullying
-Tag:	Cheerleading
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Baseball
-Tag:	School
-Tag:	Primarily Male Cast
 Tag:	Seinen
-Tag:	Coming of Age
+Tag:	Primarily Teen Cast
+Tag:	Cheerleading
+Tag:	Baseball
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Bullying
+Tag:	Coming of Age
 Related:	7720
 Related:	3887
 Related:	30994

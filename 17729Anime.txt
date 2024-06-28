@@ -2,22 +2,22 @@ ID:	17729
 Title:	Grisaia no Kajitsu
 Title:	The Fruit of Grisaia
 Title:	グリザイアの果実
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Adoption
+Tag:	Rape
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	School
 Tag:	Survival
-Tag:	Kuudere
-Tag:	Nudity
-Tag:	Rape
 Tag:	Cannibalism
 Tag:	Suicide
-Tag:	Adoption
+Tag:	Female Harem
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	128873
 Related:	79051
 Related:	9900

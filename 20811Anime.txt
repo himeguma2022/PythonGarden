@@ -1,22 +1,22 @@
 ID:	20811
-Title:	進撃の巨人 外伝 悔いなき選択
 Title:	Shingeki no Kyojin Gaiden: Kuinaki Sentaku
 Title:	Attack on Titan: No Regrets
-Tag:	Tragedy
-Tag:	Orphan
-Tag:	CGI
-Tag:	Shounen
+Title:	進撃の巨人 外伝 悔いなき選択
 Tag:	Male Protagonist
-Tag:	Swordplay
-Tag:	Survival
-Tag:	Primarily Male Cast
-Tag:	Military
-Tag:	Gore
-Tag:	Steampunk
-Tag:	Anti-Hero
+Tag:	CGI
 Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	Military
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Steampunk
+Tag:	Survival
 Tag:	Kaiju
+Tag:	Orphan
+Tag:	Anti-Hero
+Tag:	Shounen
 Related:	43593
 Related:	16498
 Related:	90364

@@ -1,12 +1,12 @@
 ID:	157654
+Title:	Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY
 Title:	Love Live! Nijigasaki High School Idol Club: NEXT SKY
 Title:	ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY
-Title:	Love Live! Nijigasaki Gakuen School Idol Doukoukai: NEXT SKY
-Tag:	Primarily Female Cast
 Tag:	Female Protagonist
 Tag:	Ensemble Cast
-Tag:	Idol
 Tag:	School Club
+Tag:	Primarily Female Cast
+Tag:	Idol
 Related:	87840
 Related:	133891
 Related:	166476

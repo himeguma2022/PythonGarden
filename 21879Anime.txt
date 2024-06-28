@@ -1,7 +1,7 @@
 ID:	21879
+Title:	イナズマイレブン アレスの天秤
 Title:	Inazuma Eleven: Ares no Tenbin
 Title:	Inazuma Eleven Ares
-Title:	イナズマイレブン アレスの天秤
 Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Football

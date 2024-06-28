@@ -1,17 +1,17 @@
 ID:	20809
-Title:	Madan no Ou to Vanadis
 Title:	魔弾の王と戦姫 (ヴァナディース)
+Title:	Madan no Ou to Vanadis
 Title:	Lord Marksman and Vanadis
-Tag:	Archery
-Tag:	CGI
-Tag:	Foreign
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	War
-Tag:	Fugitive
+Tag:	CGI
 Tag:	Assassins
 Tag:	Magic
+Tag:	Archery
+Tag:	Foreign
+Tag:	Female Harem
 Tag:	Dragons
+Tag:	War
+Tag:	Fugitive
 Related:	54607
 Related:	73391
 Related:	73393

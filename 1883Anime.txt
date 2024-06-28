@@ -1,7 +1,7 @@
 ID:	1883
 Title:	Kappa no Kaikata
 Title:	カッパの飼い方
-Tag:	Animals
 Tag:	Educational
+Tag:	Animals
 Related:	39276
 Related:	115700

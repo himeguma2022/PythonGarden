@@ -1,18 +1,18 @@
 ID:	528
 Title:	Pocket Monsters: Mewtwo no Gyakushuu
-Title:	ポケットモンスター ミュウツーの逆襲
 Title:	Pokémon: The First Movie
-Tag:	Kids
-Tag:	Tragedy
-Tag:	Memory Manipulation
-Tag:	Primarily Child Cast
-Tag:	CGI
-Tag:	Delinquents
+Title:	ポケットモンスター ミュウツーの逆襲
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Kids
 Tag:	Tanned Skin
-Tag:	Philosophy
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Memory Manipulation
+Tag:	Tragedy
 Tag:	Anti-Hero
+Tag:	Philosophy
+Tag:	Delinquents
 Related:	31110
 Related:	27879
 Related:	54220

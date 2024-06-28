@@ -1,18 +1,18 @@
 ID:	11319
-Title:	ゼロの使い魔F
-Title:	The Familiar of Zero F
 Title:	Zero no Tsukaima F
+Title:	The Familiar of Zero F
+Title:	ゼロの使い魔F
+Tag:	Elf
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Maids
+Tag:	Marriage
+Tag:	School
+Tag:	Female Harem
 Tag:	Love Triangle
 Tag:	Isekai
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
-Tag:	Marriage
-Tag:	Elf
-Tag:	Tsundere
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Maids
 Tag:	Dragons
 Related:	3712
 Related:	7436

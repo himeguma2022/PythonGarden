@@ -1,17 +1,17 @@
 ID:	97821
 Title:	Alice & Zoroku
-Title:	アリスと蔵六
 Title:	Alice to Zouroku
-Tag:	Primarily Female Cast
+Title:	アリスと蔵六
 Tag:	Super Power
-Tag:	Cute Girls Doing Cute Things
+Tag:	Urban Fantasy
+Tag:	Seinen
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	Urban Fantasy
-Tag:	Fugitive
-Tag:	Seinen
 Tag:	Twins
-Tag:	Rehabilitation
+Tag:	Cute Girls Doing Cute Things
 Tag:	Found Family
+Tag:	Rehabilitation
+Tag:	Primarily Female Cast
+Tag:	Fugitive
 Related:	17832
 Related:	93660

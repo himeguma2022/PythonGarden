@@ -1,20 +1,20 @@
 ID:	75
-Title:	蒼穹のファフナー
 Title:	Fafner
+Title:	蒼穹のファフナー
 Title:	Soukyuu no Fafner
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	War
 Tag:	Real Robot
 Tag:	Cosmic Horror
+Tag:	Dystopian
+Tag:	Kuudere
 Tag:	Military
-Tag:	Philosophy
 Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Philosophy
+Tag:	War
 Related:	43393
 Related:	8098
 Related:	37321

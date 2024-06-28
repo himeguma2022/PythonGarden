@@ -1,26 +1,26 @@
 ID:	151040
 Title:	TRIGUN STAMPEDE
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Desert
-Tag:	Slapstick
-Tag:	Fugitive
-Tag:	Gore
-Tag:	Religion
-Tag:	Primarily Adult Cast
-Tag:	Full CGI
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Body Horror
+Tag:	Desert
 Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Male Pregnancy
-Tag:	Guns
 Tag:	Primarily Male Cast
-Tag:	Twins
+Tag:	Male Protagonist
+Tag:	Religion
 Tag:	Incest
+Tag:	Male Pregnancy
+Tag:	Aliens
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Cosmic Horror
 Tag:	Dystopian
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Full CGI
+Tag:	Shounen
+Tag:	Fugitive
+Tag:	Crime
+Tag:	Tragedy
 Tag:	Philosophy
 Related:	83589
 Related:	6

@@ -1,20 +1,20 @@
 ID:	104252
-Title:	Maou-sama, Retry!
+Title:	魔王様、リトライ!
 Title:	"Maou-sama, Retry!"
 Title:	Demon Lord, Retry!
-Title:	魔王様、リトライ!
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Isekai
+Title:	Maou-sama, Retry!
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Parody
 Tag:	Chuunibyou
-Tag:	Crossdressing
+Tag:	Parody
+Tag:	Demons
+Tag:	Kemonomimi
 Tag:	Tsundere
 Tag:	Shapeshifting
+Tag:	Crossdressing
+Tag:	Female Harem
+Tag:	Isekai
 Tag:	Anti-Hero
-Tag:	Demons
+Tag:	Primarily Female Cast
 Related:	102592
 Related:	25477
 Related:	47269

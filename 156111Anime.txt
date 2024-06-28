@@ -1,18 +1,18 @@
 ID:	156111
 Title:	Aishang Ta De Liyou
-Title:	The Girl Downstairs
 Title:	爱上她的理由
-Tag:	Love Triangle
+Title:	The Girl Downstairs
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Dancing
-Tag:	College
 Tag:	Unrequited Love
+Tag:	Primarily Adult Cast
+Tag:	College
 Tag:	Hikikomori
 Tag:	Heterosexual
+Tag:	Dancing
 Tag:	Rehabilitation
-Tag:	Primarily Adult Cast
+Tag:	Female Harem
+Tag:	Love Triangle
 Tag:	Idol
 Related:	95600
 Related:	175052

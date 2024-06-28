@@ -1,14 +1,14 @@
 ID:	16035
-Title:	カーニヴァル (TV)
 Title:	Karneval (TV)
-Tag:	Guns
-Tag:	Josei
-Tag:	Kemonomimi
+Title:	カーニヴァル (TV)
 Tag:	Male Protagonist
 Tag:	Circus
-Tag:	Primarily Male Cast
-Tag:	Magic
+Tag:	Kemonomimi
 Tag:	Amnesia
+Tag:	Magic
+Tag:	Josei
+Tag:	Primarily Male Cast
+Tag:	Guns
 Related:	8232
 Related:	60609
 Related:	16033

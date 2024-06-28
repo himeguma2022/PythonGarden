@@ -1,20 +1,20 @@
 ID:	136344
-Title:	ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- 特別編
-Title:	"Lord El-Melloi II-sei no Jikenbo: ""Rail Zeppelin"" Grace note"
 Title:	Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-
+Title:	"Lord El-Melloi II-sei no Jikenbo: ""Rail Zeppelin"" Grace note"
+Title:	ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note- 特別編
 Title:	Lord El-Melloi II-sei no Jikenbo: "Rail Zeppelin" Grace note Tokubetsu-hen
-Tag:	Teacher
-Tag:	CGI
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	College
+Tag:	CGI
 Tag:	Photography
-Tag:	Magic
+Tag:	Urban Fantasy
 Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Magic
 Tag:	Foreign
+Tag:	Urban
+Tag:	Detective
+Tag:	Age Regression
+Tag:	Teacher
 Related:	59553
 Related:	71986
 Related:	87197

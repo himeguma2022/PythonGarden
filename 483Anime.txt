@@ -1,20 +1,20 @@
 ID:	483
-Title:	Kurau Phantom Memory
 Title:	クラウ ファントムメモリー
-Tag:	Crime
+Title:	Kurau Phantom Memory
 Tag:	Super Power
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Urban Fantasy
-Tag:	Space
+Tag:	Female Protagonist
+Tag:	Crime
 Tag:	Kuudere
+Tag:	Space
 Tag:	Fugitive
 Tag:	Shapeshifting
+Tag:	Foreign
+Tag:	Aliens
+Tag:	Dissociative Identities
+Tag:	Episodic
 Tag:	Philosophy
 Tag:	Coming of Age
-Tag:	Foreign
 Related:	53800
 Related:	57617
 Related:	57619

@@ -1,20 +1,20 @@
 ID:	16904
-Title:	K: MISSING KINGS
 Title:	K MISSING KINGS
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Skateboarding
-Tag:	Primarily Adult Cast
-Tag:	Swordplay
-Tag:	Urban
+Title:	K: MISSING KINGS
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	Primarily Male Cast
-Tag:	Espionage
-Tag:	Nekomimi
 Tag:	Gangs
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Skateboarding
+Tag:	Nekomimi
+Tag:	Espionage
 Related:	14467
 Related:	94692
 Related:	9735

@@ -1,19 +1,19 @@
 ID:	2144
 Title:	NARUTO: Dai Koufun! Mikazukijima no Animal Panic Dattebayo!
-Title:	Naruto the Movie: Guardians of the Crescent Moon Kingdom
 Title:	劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ
+Title:	Naruto the Movie: Guardians of the Crescent Moon Kingdom
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Circus
+Tag:	Kuudere
+Tag:	Animals
+Tag:	Ninja
 Tag:	Primarily Child Cast
 Tag:	Archery
-Tag:	Orphan
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Circus
-Tag:	Ninja
-Tag:	Kuudere
 Tag:	Primarily Male Cast
+Tag:	Orphan
 Tag:	Anachronism
-Tag:	Animals
+Tag:	Shounen
 Related:	132769
 Related:	20
 Related:	3245

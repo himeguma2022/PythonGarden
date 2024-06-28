@@ -1,31 +1,31 @@
 ID:	120608
-Title:	迷宮ブラックカンパニー
 Title:	The Dungeon of Black Company
+Title:	迷宮ブラックカンパニー
 Title:	Meikyuu Black Company
-Tag:	Slavery
-Tag:	Time Skip
-Tag:	Post-Apocalyptic
-Tag:	Isekai
-Tag:	Satire
-Tag:	Artificial Intelligence
-Tag:	Crossdressing
+Tag:	Demons
 Tag:	Alternate Universe
-Tag:	Shounen
+Tag:	Crossdressing
+Tag:	Isekai
+Tag:	Dragons
+Tag:	Yandere
+Tag:	Post-Apocalyptic
+Tag:	Satire
+Tag:	Time Skip
 Tag:	Male Protagonist
-Tag:	Parody
 Tag:	Villainess
 Tag:	Guns
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Magic
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Dungeon
-Tag:	Anti-Hero
-Tag:	Yandere
 Tag:	Work
-Tag:	Demons
-Tag:	Dragons
+Tag:	Parody
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Economics
+Tag:	Slavery
+Tag:	Revenge
+Tag:	Magic
+Tag:	Dungeon
+Tag:	Tomboy
+Tag:	Anti-Hero
 Related:	63961
 Related:	99802
 Related:	43781

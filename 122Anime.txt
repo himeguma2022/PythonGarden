@@ -1,35 +1,35 @@
 ID:	122
 Title:	Full Moon wo Sagashite
-Title:	Full Moon
 Title:	満月をさがして
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Angels
-Tag:	Denpa
-Tag:	Unrequited Love
+Title:	Full Moon
 Tag:	Primarily Child Cast
-Tag:	Female Protagonist
-Tag:	Afterlife
-Tag:	Youkai
-Tag:	Suicide
-Tag:	Reincarnation
 Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Orphan
-Tag:	Shoujo
+Tag:	Reincarnation
 Tag:	School
-Tag:	Urban Fantasy
+Tag:	Orphan
+Tag:	Youkai
+Tag:	Afterlife
+Tag:	Henshin
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Shoujo
 Tag:	Nekomimi
 Tag:	Age Gap
-Tag:	Animals
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Musical Theater
-Tag:	Found Family
-Tag:	Philosophy
-Tag:	Disability
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Disability
+Tag:	Animals
+Tag:	Found Family
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Musical Theater
+Tag:	Philosophy
 Tag:	Idol
 Related:	30008
 Related:	29105

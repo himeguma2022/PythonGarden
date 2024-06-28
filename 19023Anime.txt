@@ -1,11 +1,11 @@
 ID:	19023
-Title:	"Wake Up, Girls!"
 Title:	Wake Up, Girls!
-Tag:	Primarily Female Cast
+Title:	"Wake Up, Girls!"
 Tag:	Cute Girls Doing Cute Things
-Tag:	School
 Tag:	Dancing
+Tag:	School
 Tag:	Musical Theater
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	20512
 Related:	9538

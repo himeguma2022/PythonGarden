@@ -1,19 +1,19 @@
 ID:	127550
 Title:	Kuma Kuma Kuma Bear Punch!
-Title:	くまクマ熊ベアーぱーんち！
 Title:	Kuma Kuma Kuma Bear - Punch!
+Title:	くまクマ熊ベアーぱーんち！
+Tag:	Female Protagonist
+Tag:	Isekai
+Tag:	Food
+Tag:	Magic
+Tag:	Animals
+Tag:	Cute Girls Doing Cute Things
 Tag:	Iyashikei
 Tag:	Primarily Child Cast
-Tag:	Video Games
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
-Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Food
 Tag:	Politics
+Tag:	Female Harem
+Tag:	Video Games
 Tag:	Virtual World
-Tag:	Animals
-Tag:	Magic
 Related:	114340
 Related:	50791
 Related:	50792

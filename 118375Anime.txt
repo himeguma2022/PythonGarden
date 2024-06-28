@@ -1,20 +1,20 @@
 ID:	118375
-Title:	The Hidden Dungeon Only I Can Enter
-Title:	Ore dake Haireru Kakushi Dungeon
 Title:	俺だけ入れる隠しダンジョン
-Tag:	Guns
-Tag:	Feet
-Tag:	Primarily Female Cast
-Tag:	Dungeon
-Tag:	Swordplay
+Title:	Ore dake Haireru Kakushi Dungeon
+Title:	The Hidden Dungeon Only I Can Enter
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Episodic
-Tag:	Parody
-Tag:	Animals
-Tag:	Yandere
-Tag:	Magic
 Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Magic
+Tag:	Feet
+Tag:	Animals
+Tag:	Female Harem
+Tag:	Dungeon
+Tag:	Episodic
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	103850
 Related:	103851
 Related:	55085

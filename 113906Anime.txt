@@ -1,23 +1,23 @@
 ID:	113906
-Title:	BanG Dream! Girls Band Party!☆PICO～OHMORI～
-Title:	BanG Dream! ガルパ☆ピコ~大盛り~
 Title:	BanG Dream! Garupa☆Pico: Oomori
-Tag:	Surreal Comedy
-Tag:	Aliens
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	BanG Dream! ガルパ☆ピコ~大盛り~
+Title:	BanG Dream! Girls Band Party!☆PICO～OHMORI～
 Tag:	CGI
-Tag:	Band
-Tag:	Urban
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Card Battle
-Tag:	Meta
-Tag:	Henshin
 Tag:	Chibi
 Tag:	Twins
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Urban
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Henshin
 Related:	58392
 Related:	101632
 Related:	135171

@@ -2,17 +2,17 @@ ID:	104307
 Title:	Hi Score Girl: Extra Stage
 Title:	ハイスコアガールEXTRA STAGE
 Title:	Hi Score Girl: EXTRA STAGE
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Heterosexual
 Tag:	Full CGI
 Tag:	Primarily Child Cast
-Tag:	Video Games
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Slapstick
 Tag:	Urban
-Tag:	Male Protagonist
-Tag:	Tsundere
-Tag:	Seinen
-Tag:	Heterosexual
+Tag:	Love Triangle
+Tag:	Video Games
+Tag:	Slapstick
 Related:	108581
 Related:	74501
 Related:	31504

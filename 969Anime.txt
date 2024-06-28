@@ -1,12 +1,12 @@
 ID:	969
-Title:	ツバサ・クロニクル 第2シリーズ
 Title:	Tsubasa Chronicle 2nd Season
 Title:	Tsubasa RESERVoir CHRoNiCLE 2nd Season
+Title:	ツバサ・クロニクル 第2シリーズ
+Tag:	Time Skip
+Tag:	Amnesia
+Tag:	Heterosexual
 Tag:	Isekai
 Tag:	Shounen
-Tag:	Amnesia
-Tag:	Time Skip
-Tag:	Heterosexual
 Related:	53185
 Related:	439
 Related:	30009

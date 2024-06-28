@@ -1,10 +1,10 @@
 ID:	141775
 Title:	Shoot! Goal to the Future
 Title:	シュート！Goal to the Future
-Tag:	Boys' Love
 Tag:	Male Protagonist
-Tag:	Football
 Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Boys' Love
 Tag:	LGBTQ+ Themes
 Related:	2682
 Related:	65387

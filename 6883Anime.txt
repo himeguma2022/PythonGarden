@@ -1,9 +1,9 @@
 ID:	6883
+Title:	Umi Monogatari: Anata ga Ite Kureta Koto Special
 Title:	Umi Monogatari: Faithful Hearts
 Title:	うみものがたり　～あなたがいてくれたコト～ OVA
-Title:	Umi Monogatari: Anata ga Ite Kureta Koto Special
+Tag:	Scuba Diving
 Tag:	Magic
 Tag:	Coastal
-Tag:	Scuba Diving
 Related:	6129
 Related:	5861

@@ -1,19 +1,19 @@
 ID:	442
-Title:	劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!
-Title:	Naruto the Movie: Ninja Clash in the Land of Snow
 Title:	NARUTO: Dai Katsugeki! Yuki Hime Ninpouchou Dattebayo!!
-Tag:	Historical
-Tag:	Super Power
-Tag:	Primarily Child Cast
-Tag:	Drugs
-Tag:	Shounen
-Tag:	Orphan
+Title:	Naruto the Movie: Ninja Clash in the Land of Snow
+Title:	劇場版 NARUTO -ナルト- 大活劇!雪姫忍法帖だってばよ!!
 Tag:	Male Protagonist
-Tag:	Ninja
+Tag:	Super Power
 Tag:	Acting
-Tag:	Primarily Male Cast
-Tag:	Anachronism
+Tag:	Drugs
+Tag:	Ninja
+Tag:	Primarily Child Cast
 Tag:	Trains
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Historical
+Tag:	Anachronism
+Tag:	Shounen
 Related:	44070
 Related:	120999
 Related:	2248

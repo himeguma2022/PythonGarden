@@ -1,21 +1,21 @@
 ID:	147
+Title:	Kimi ga Nozomu Eien
 Title:	Rumbling Hearts
 Title:	君が望む永遠
-Title:	Kimi ga Nozomu Eien
-Tag:	Tragedy
-Tag:	Heterosexual
-Tag:	Love Triangle
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Work
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Nudity
 Tag:	Cars
-Tag:	Time Skip
+Tag:	Heterosexual
 Tag:	Amnesia
-Tag:	Netorare
-Tag:	Rehabilitation
 Tag:	Hikikomori
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Netorare
 Related:	151936
 Related:	47365
 Related:	85254

@@ -1,18 +1,18 @@
 ID:	163142
-Title:	A Returner's Magic Should Be Special
-Title:	帰還者の魔法は特別です
 Title:	Kikansha no Mahou wa Tokubetsu desu
-Tag:	CGI
-Tag:	Swordplay
+Title:	帰還者の魔法は特別です
+Title:	A Returner's Magic Should Be Special
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Demons
-Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Time Manipulation
+Tag:	CGI
 Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Demons
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	School
+Tag:	LGBTQ+ Themes
+Tag:	Age Regression
 Related:	93008
 Related:	105393
 Related:	85379

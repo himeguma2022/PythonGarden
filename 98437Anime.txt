@@ -1,34 +1,34 @@
 ID:	98437
 Title:	オーバーロードⅡ
 Title:	Overlord II
-Tag:	Slavery
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Butler
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Villainess
-Tag:	Skeleton
-Tag:	Monster Girl
-Tag:	Succubus
-Tag:	Female Harem
-Tag:	Vampire
-Tag:	Magic
-Tag:	Twins
-Tag:	Tomboy
-Tag:	CGI
-Tag:	Monster Boy
-Tag:	Virtual World
-Tag:	Femboy
-Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Maids
 Tag:	Demons
+Tag:	Politics
+Tag:	Maids
+Tag:	Ensemble Cast
+Tag:	Skeleton
+Tag:	Isekai
+Tag:	Yandere
+Tag:	Virtual World
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Femboy
+Tag:	Super Power
+Tag:	Vampire
+Tag:	Villainess
+Tag:	CGI
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Elf
+Tag:	Slavery
+Tag:	Succubus
+Tag:	Magic
+Tag:	Butler
+Tag:	Tomboy
+Tag:	Monster Boy
+Tag:	Anti-Hero
 Related:	20832
 Related:	101474
 Related:	18531

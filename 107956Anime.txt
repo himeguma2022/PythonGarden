@@ -1,22 +1,22 @@
 ID:	107956
 Title:	"Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai."
-Title:	Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai.
-Title:	うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。
 Title:	If It's for My Daughter, I'd Even Defeat a Demon Lord
-Tag:	Language Barrier
-Tag:	Iyashikei
-Tag:	Kemonomimi
+Title:	うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。
+Title:	Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai.
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Bar
 Tag:	Age Gap
-Tag:	Parenthood
-Tag:	Magic
 Tag:	Work
-Tag:	Demons
-Tag:	Adoption
 Tag:	Incest
+Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Adoption
+Tag:	Family Life
+Tag:	Language Barrier
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	School
+Tag:	Parenthood
+Tag:	Bar
 Related:	87376
 Related:	29941
 Related:	33517

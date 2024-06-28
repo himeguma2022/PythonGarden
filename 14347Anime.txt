@@ -1,16 +1,16 @@
 ID:	14347
 Title:	RYO
 Title:	龍-RYO-
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Swordplay
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Martial Arts
-Tag:	War
 Tag:	Ships
 Tag:	Animals
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	Historical
+Tag:	War
+Tag:	Guns
 Related:	13863
 Related:	9256
 Related:	9257

@@ -1,38 +1,38 @@
 ID:	99263
 Title:	盾の勇者の成り上がり
-Title:	Tate no Yuusha no Nariagari
 Title:	The Rising of the Shield Hero
-Tag:	Slavery
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Cult
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Religion
+Title:	Tate no Yuusha no Nariagari
+Tag:	Travel
 Tag:	Conspiracy
+Tag:	Isekai
+Tag:	Ojou-sama
 Tag:	Bullying
-Tag:	Crime
+Tag:	Matriarchy
+Tag:	Monster Girl
+Tag:	Henshin
 Tag:	Male Protagonist
 Tag:	Afterlife
-Tag:	Travel
-Tag:	Villainess
-Tag:	Monster Girl
-Tag:	Kemonomimi
-Tag:	Medicine
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Nekomimi
-Tag:	Henshin
-Tag:	Magic
+Tag:	Religion
 Tag:	Heterosexual
-Tag:	Language Barrier
 Tag:	Cultivation
-Tag:	Revenge
-Tag:	Matriarchy
+Tag:	Villainess
+Tag:	Nekomimi
 Tag:	CGI
+Tag:	Kemonomimi
+Tag:	Gore
+Tag:	Language Barrier
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Economics
+Tag:	Crime
+Tag:	Tsundere
+Tag:	Slavery
+Tag:	Revenge
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Cult
 Tag:	Anti-Hero
-Tag:	Ojou-sama
+Tag:	Medicine
 Related:	85442
 Related:	110178
 Related:	85743

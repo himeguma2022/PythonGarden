@@ -1,26 +1,26 @@
 ID:	103275
-Title:	Fate/Grand Order -絶対魔獣戦線バビロニア-
 Title:	Fate/Grand Order: Zettai Majuu Sensen Babylonia
+Title:	Fate/Grand Order -絶対魔獣戦線バビロニア-
 Title:	Fate/Grand Order Absolute Demonic Front: Babylonia
-Tag:	Historical
-Tag:	Tragedy
+Tag:	Mythology
+Tag:	Reincarnation
+Tag:	Agender
 Tag:	Isekai
+Tag:	Male Protagonist
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Villainess
+Tag:	Anachronism
+Tag:	CGI
+Tag:	Gore
+Tag:	Kingdom Management
+Tag:	Historical
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Dissociative Identities
 Tag:	Gods
-Tag:	Anachronism
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Male Protagonist
-Tag:	Villainess
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Magic
-Tag:	Kingdom Management
 Tag:	Tomboy
-Tag:	CGI
-Tag:	Agender
 Related:	110851
 Related:	24420
 Related:	103277

@@ -1,21 +1,21 @@
 ID:	103874
-Title:	同居人はひざ、時々、頭のうえ。
 Title:	My Roommate is a Cat
-Title:	Doukyonin wa Hiza, Tokidoki, Atama no Ue.
+Title:	同居人はひざ、時々、頭のうえ。
 Title:	"Doukyonin wa Hiza, Tokidoki, Atama no Ue."
-Tag:	Iyashikei
-Tag:	Tragedy
-Tag:	Shoujo
-Tag:	Writing
+Title:	Doukyonin wa Hiza, Tokidoki, Atama no Ue.
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Primarily Male Cast
-Tag:	Tsundere
-Tag:	Animals
-Tag:	Hikikomori
-Tag:	Rehabilitation
+Tag:	Writing
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Tsundere
+Tag:	Hikikomori
+Tag:	Animals
+Tag:	Iyashikei
 Tag:	Found Family
+Tag:	Shoujo
+Tag:	Tragedy
+Tag:	Rehabilitation
+Tag:	Primarily Male Cast
 Related:	24714
 Related:	97363

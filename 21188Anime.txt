@@ -1,19 +1,19 @@
 ID:	21188
+Title:	最弱無敗の神装機竜《バハムート》
 Title:	Undefeated Bahamut Chronicle
 Title:	Saijaku Muhai no Bahamut
-Title:	最弱無敗の神装機竜《バハムート》
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Super Robot
-Tag:	Dungeon
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Kuudere
-Tag:	Crossdressing
 Tag:	Tsundere
+Tag:	Super Robot
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	School
+Tag:	Dungeon
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Related:	10238
 Related:	85613
 Related:	86118

@@ -1,16 +1,16 @@
 ID:	21365
-Title:	だがしかし
 Title:	Dagashi Kashi
-Tag:	Primarily Female Cast
-Tag:	Educational
-Tag:	Shounen
-Tag:	Love Triangle
+Title:	だがしかし
 Tag:	Male Protagonist
-Tag:	Episodic
+Tag:	Work
 Tag:	Economics
 Tag:	Food
 Tag:	Heterosexual
-Tag:	Work
+Tag:	Episodic
+Tag:	Love Triangle
+Tag:	Educational
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	97446
 Related:	10536

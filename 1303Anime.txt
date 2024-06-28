@@ -1,17 +1,17 @@
 ID:	1303
-Title:	アニマトリックス
 Title:	The Animatrix
+Title:	アニマトリックス
 Title:	Animatrix
-Tag:	Dystopian
-Tag:	Skateboarding
-Tag:	Anthology
 Tag:	CGI
-Tag:	Artificial Intelligence
-Tag:	War
-Tag:	Denpa
-Tag:	Cyberpunk
-Tag:	Nudity
-Tag:	POV
 Tag:	Virtual World
-Tag:	Robots
+Tag:	Dystopian
+Tag:	Nudity
 Tag:	Gore
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Skateboarding
+Tag:	Denpa
+Tag:	Anthology
+Tag:	Cyberpunk
+Tag:	POV
+Tag:	War

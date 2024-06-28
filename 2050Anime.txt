@@ -1,14 +1,14 @@
 ID:	2050
-Title:	炎の転校生
 Title:	Honoo no Tenkousei
-Tag:	Bullying
+Title:	炎の転校生
+Tag:	Male Protagonist
 Tag:	Primarily Teen Cast
+Tag:	Parody
+Tag:	School
 Tag:	Love Triangle
+Tag:	Boxing
+Tag:	Bullying
 Tag:	Shounen
 Tag:	Slapstick
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Parody
-Tag:	Boxing
 Related:	3147
 Related:	48388

@@ -1,20 +1,20 @@
 ID:	169417
 Title:	Re:Monster
-Tag:	Slavery
-Tag:	Reincarnation
-Tag:	Archery
-Tag:	Spearplay
-Tag:	Isekai
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Episodic
-Tag:	Rape
+Tag:	Spearplay
+Tag:	Swordplay
+Tag:	Isekai
 Tag:	Goblin
-Tag:	Anti-Hero
+Tag:	Slavery
+Tag:	Rape
 Tag:	Magic
-Tag:	Polyamorous
+Tag:	Archery
+Tag:	Reincarnation
+Tag:	Female Harem
 Tag:	Parenthood
+Tag:	Polyamorous
+Tag:	Episodic
+Tag:	Anti-Hero
 Related:	90171
 Related:	90173
 Related:	85494

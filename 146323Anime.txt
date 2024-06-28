@@ -2,20 +2,20 @@ ID:	146323
 Title:	Spy Classroom
 Title:	Spy Kyoushitsu
 Title:	スパイ教室
-Tag:	Guns
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Espionage
+Tag:	Crime
 Tag:	Nudity
-Tag:	Asexual
-Tag:	Achronological Order
-Tag:	Crossdressing
 Tag:	Heterosexual
+Tag:	Asexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Female Harem
+Tag:	Espionage
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	119746
 Related:	159146
 Related:	85774

@@ -1,13 +1,13 @@
 ID:	21508
-Title:	Symphogear GX Omake
 Title:	戦姫絶唱シンフォギアGX 戦姫絶唱しないシンフォギア
+Title:	Symphogear GX Omake
 Title:	Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Episodic
 Tag:	Kuudere
-Tag:	Henshin
 Tag:	Chibi
+Tag:	Mythology
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Henshin
 Related:	20560
 Related:	10802

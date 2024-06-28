@@ -1,22 +1,22 @@
 ID:	90
-Title:	新機動戦記ガンダムW
-Title:	Mobile Suit Gundam Wing
 Title:	Shin Kidou Senki Gundam Wing
-Tag:	Terrorism
+Title:	Mobile Suit Gundam Wing
+Title:	新機動戦記ガンダムW
 Tag:	Male Protagonist
-Tag:	Circus
-Tag:	Ensemble Cast
-Tag:	Space
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Politics
 Tag:	Real Robot
-Tag:	Espionage
-Tag:	Military
-Tag:	Suicide
-Tag:	Philosophy
+Tag:	Circus
+Tag:	Terrorism
 Tag:	Amnesia
+Tag:	Space
+Tag:	Military
+Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Espionage
+Tag:	Philosophy
+Tag:	Suicide
+Tag:	War
 Related:	30347
 Related:	30349
 Related:	35601

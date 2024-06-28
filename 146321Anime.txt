@@ -1,13 +1,13 @@
 ID:	146321
 Title:	D4DJ Double Mix
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Coastal
-Tag:	Ensemble Cast
 Tag:	Primarily Adult Cast
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coastal
 Related:	83120
 Related:	83121
 Related:	115069

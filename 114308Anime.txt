@@ -1,30 +1,30 @@
 ID:	114308
 Title:	ソードアート・オンライン アリシゼーション War of Underworld 最終章 (2nd Season)
 Title:	Sword Art Online: Alicization - War of Underworld Part 2
-Tag:	Isekai
-Tag:	Artificial Intelligence
+Tag:	Military
 Tag:	Space
-Tag:	Gods
-Tag:	Cult
-Tag:	Gore
+Tag:	Rape
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Video Games
 Tag:	Reincarnation
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	War
-Tag:	Space Opera
-Tag:	Heterosexual
-Tag:	Rape
-Tag:	Military
+Tag:	Video Games
+Tag:	Isekai
 Tag:	Virtual World
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Space Opera
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
+Tag:	Cult
+Tag:	Gods
 Related:	37617
 Related:	108759
 Related:	37619

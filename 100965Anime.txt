@@ -1,19 +1,19 @@
 ID:	100965
-Title:	ラブライブ！サンシャイン!! The School Idol Movie Over the Rainbow
 Title:	Love Live! Sunshine!! The School Idol Movie: Over the Rainbow
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	School Club
+Title:	ラブライブ！サンシャイン!! The School Idol Movie Over the Rainbow
 Tag:	CGI
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Idol
 Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Cute Girls Doing Cute Things
 Tag:	Dancing
-Tag:	Rural
+Tag:	Ensemble Cast
+Tag:	School Club
 Tag:	Foreign
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Idol
 Related:	21997
 Related:	168501
 Related:	98349

@@ -1,7 +1,7 @@
 ID:	15951
 Title:	アマガミSS+ plus 新作ピクチャードラマ～バレンタイン・フォー・ユー～
 Title:	Amagami SS+ plus Picture Drama: Valentine For You
-Tag:	Kuudere
 Tag:	School
+Tag:	Kuudere
 Related:	11235
 Related:	18903

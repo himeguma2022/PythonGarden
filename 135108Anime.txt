@@ -1,10 +1,10 @@
 ID:	135108
-Title:	Yami Shibai 9
 Title:	Theatre of Darkness: Yamishibai 9
 Title:	闇芝居 9
-Tag:	Youkai
-Tag:	Episodic
+Title:	Yami Shibai 9
 Tag:	Ghost
+Tag:	Episodic
+Tag:	Youkai
 Related:	139588
 Related:	142826
 Related:	63725

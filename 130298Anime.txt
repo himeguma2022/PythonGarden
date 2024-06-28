@@ -1,32 +1,32 @@
 ID:	130298
-Title:	The Eminence in Shadow
 Title:	陰の実力者になりたくて！
+Title:	The Eminence in Shadow
 Title:	Kage no Jitsuryokusha ni Naritakute!
+Tag:	Rape
+Tag:	Politics
+Tag:	Reincarnation
+Tag:	School
 Tag:	Isekai
 Tag:	Satire
-Tag:	Elf
-Tag:	Cult
-Tag:	Gore
-Tag:	Primarily Female Cast
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Parody
-Tag:	Politics
-Tag:	Meta
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Female Harem
-Tag:	School
-Tag:	Acting
-Tag:	Espionage
-Tag:	Nudity
-Tag:	Assassins
 Tag:	Chuunibyou
-Tag:	Magic
 Tag:	Heterosexual
-Tag:	Rape
+Tag:	Meta
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Assassins
+Tag:	Kemonomimi
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Female Harem
+Tag:	Espionage
+Tag:	Acting
+Tag:	Elf
+Tag:	Nudity
+Tag:	Terrorism
+Tag:	Magic
+Tag:	Cult
 Tag:	Anti-Hero
 Related:	156001
 Related:	84390

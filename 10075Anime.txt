@@ -1,8 +1,8 @@
 ID:	10075
 Title:	NARUTO×UT
+Tag:	Super Power
 Tag:	Shounen
 Tag:	Tragedy
-Tag:	Super Power
 Tag:	Ninja
 Related:	6975
 Related:	1735

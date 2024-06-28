@@ -1,14 +1,14 @@
 ID:	97731
-Title:	シェルター
 Title:	Shelter
-Tag:	Tragedy
-Tag:	Disability
-Tag:	Post-Apocalyptic
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Survival
-Tag:	Space
+Title:	シェルター
 Tag:	Cosmic Horror
-Tag:	Virtual World
+Tag:	Female Protagonist
 Tag:	Augmented Reality
+Tag:	Disability
+Tag:	Family Life
+Tag:	Space
 Tag:	Amnesia
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Post-Apocalyptic
+Tag:	Virtual World

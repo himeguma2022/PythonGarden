@@ -1,27 +1,27 @@
 ID:	119683
 Title:	EDENS ZERO
-Tag:	Human Pet
-Tag:	Bondage
-Tag:	Artificial Intelligence
 Tag:	Space
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Alternate Universe
 Tag:	Memory Manipulation
 Tag:	Tentacles
-Tag:	Primarily Adult Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Robots
-Tag:	Henshin
-Tag:	Magic
-Tag:	CGI
 Tag:	Virtual World
+Tag:	Henshin
 Tag:	Time Skip
-Tag:	Alternate Universe
+Tag:	Male Protagonist
+Tag:	Human Pet
+Tag:	Time Manipulation
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Primarily Adult Cast
+Tag:	Artificial Intelligence
+Tag:	Bondage
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Magic
 Related:	101860
 Related:	144932
 Related:	57357

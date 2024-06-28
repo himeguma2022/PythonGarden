@@ -1,16 +1,16 @@
 ID:	153658
+Title:	Haikyuu!!: Gomi Suteba no Kessen
 Title:	HAIKYU!! The Dumpster Battle
 Title:	ハイキュー!! ゴミ捨て場の決戦
-Title:	Haikyuu!!: Gomi Suteba no Kessen
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Ensemble Cast
-Tag:	Volleyball
+Tag:	School Club
 Tag:	Primarily Male Cast
+Tag:	Volleyball
+Tag:	Shounen
 Tag:	POV
 Tag:	Coming of Age
-Tag:	School Club
 Related:	113538
 Related:	174871
 Related:	76883

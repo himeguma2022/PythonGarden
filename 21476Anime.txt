@@ -1,17 +1,17 @@
 ID:	21476
 Title:	Show By Rock!!#
 Title:	SHOW BY ROCK!!#
-Tag:	Primarily Female Cast
-Tag:	Super Robot
-Tag:	Kemonomimi
-Tag:	Aliens
 Tag:	CGI
-Tag:	Band
-Tag:	Isekai
 Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Super Robot
 Tag:	Ensemble Cast
-Tag:	Nekomimi
+Tag:	Aliens
 Tag:	Rock Music
+Tag:	Isekai
+Tag:	Band
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	10755
 Related:	21477

@@ -1,20 +1,20 @@
 ID:	21574
-Title:	Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!
-Title:	KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!
 Title:	この素晴らしい世界に祝福を！ この素晴らしいチョーカーに祝福を!
-Tag:	Primarily Female Cast
-Tag:	Isekai
-Tag:	Male Protagonist
+Title:	KONOSUBA -God's blessing on this wonderful world!: God's Blessings On This Wonderful Choker!
+Title:	Kono Subarashii Sekai ni Shukufuku wo!: Kono Subarashii Choker ni Shukufuku wo!
 Tag:	Satire
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Afterlife
-Tag:	Gods
+Tag:	Male Protagonist
 Tag:	Chuunibyou
+Tag:	Parody
 Tag:	Nudity
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Magic
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Gods
+Tag:	Isekai
+Tag:	Primarily Female Cast
+Tag:	Afterlife
 Related:	21202
 Related:	10892
 Related:	10893

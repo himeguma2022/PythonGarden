@@ -1,16 +1,16 @@
 ID:	126790
 Title:	Selection Project
 Title:	SELECTION PROJECT
-Tag:	Tomboy
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
 Tag:	Dancing
-Tag:	Ojou-sama
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Tragedy
 Tag:	Musical Theater
+Tag:	Tomboy
+Tag:	Ojou-sama
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	97625
 Related:	64212

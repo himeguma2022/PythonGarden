@@ -1,19 +1,19 @@
 ID:	481
-Title:	Yu-Gi-Oh!
 Title:	Yu☆Gi☆Oh! Duel Monsters
+Title:	Yu-Gi-Oh!
 Title:	遊☆戯☆王　デュエルモンスターズ
-Tag:	Historical
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Proxy Battle
-Tag:	Shounen
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
 Tag:	Card Battle
+Tag:	Urban Fantasy
+Tag:	Proxy Battle
 Tag:	Magic
+Tag:	Mythology
+Tag:	Reincarnation
+Tag:	Dissociative Identities
+Tag:	Historical
 Tag:	Death Game
 Tag:	Dragons
+Tag:	Shounen
 Related:	3972
 Related:	46223
 Related:	21265

@@ -1,33 +1,33 @@
 ID:	155783
-Title:	Tengoku Daimakyou
 Title:	Tengoku Daimakyo
+Title:	Tengoku Daimakyou
 Title:	天国大魔境
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Denpa
-Tag:	Unrequited Love
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Gender Bending
 Tag:	Body Horror
+Tag:	Demons
 Tag:	Travel
+Tag:	Rape
+Tag:	Conspiracy
+Tag:	Orphan
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Survival
+Tag:	Guns
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Artificial Intelligence
+Tag:	Denpa
 Tag:	Suicide
 Tag:	Seinen
-Tag:	Guns
-Tag:	Orphan
-Tag:	Survival
 Tag:	Nudity
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Dystopian
-Tag:	Rape
-Tag:	Achronological Order
+Tag:	Gender Bending
 Tag:	Body Swapping
-Tag:	Demons
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
+Tag:	Achronological Order
 Related:	78749
 Related:	101942

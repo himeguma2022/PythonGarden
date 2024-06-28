@@ -1,22 +1,22 @@
 ID:	99426
 Title:	A Place Further Than the Universe
-Title:	Sora yori mo Tooi Basho
 Title:	宇宙よりも遠い場所
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Outdoor
-Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Travel
-Tag:	Ships
+Title:	Sora yori mo Tooi Basho
 Tag:	Seinen
-Tag:	Konbini
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Travel
 Tag:	Snowscape
+Tag:	Outdoor
+Tag:	Ships
+Tag:	Cute Girls Doing Cute Things
+Tag:	Konbini
 Tag:	Foreign
+Tag:	Tragedy
+Tag:	School
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	26284
 Related:	101415

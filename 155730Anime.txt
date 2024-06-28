@@ -2,19 +2,19 @@ ID:	155730
 Title:	うちの会社の小さい先輩の話
 Title:	Uchi no Kaisha no Chiisai Senpai no Hanashi
 Title:	My Tiny Senpai
-Tag:	Iyashikei
-Tag:	Drawing
-Tag:	Office Lady
-Tag:	Cute Girls Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Cosplay
-Tag:	Chibi
-Tag:	Office
-Tag:	Nekomimi
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Office Lady
+Tag:	Office
+Tag:	Cosplay
+Tag:	Nekomimi
 Related:	169512
 Related:	122192
 Related:	78705

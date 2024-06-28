@@ -1,29 +1,29 @@
 ID:	21202
 Title:	この素晴らしい世界に祝福を！
-Title:	KONOSUBA -God's blessing on this wonderful world!
 Title:	Kono Subarashii Sekai ni Shukufuku wo!
-Tag:	Dullahan
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Satire
-Tag:	Pregnant
-Tag:	Gods
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
+Title:	KONOSUBA -God's blessing on this wonderful world!
+Tag:	Alternate Universe
 Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Afterlife
-Tag:	Masochism
-Tag:	Meta
 Tag:	Reincarnation
-Tag:	Succubus
-Tag:	Swordplay
-Tag:	Nudity
+Tag:	Isekai
+Tag:	Afterlife
+Tag:	Satire
+Tag:	Male Protagonist
 Tag:	Chuunibyou
+Tag:	Meta
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Pregnant
+Tag:	Nudity
+Tag:	Masochism
+Tag:	Succubus
 Tag:	Magic
 Tag:	Dungeon
+Tag:	Gods
+Tag:	Dullahan
 Tag:	Anti-Hero
-Tag:	Alternate Universe
 Related:	34587
 Related:	110178
 Related:	21699

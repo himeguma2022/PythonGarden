@@ -1,23 +1,23 @@
 ID:	16894
-Title:	Kuroko's Basketball 2
-Title:	黒子のバスケ 2nd SEASON
 Title:	Kuroko no Basket 2nd SEASON
-Tag:	Tomboy
-Tag:	Super Power
-Tag:	Basketball
-Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Shounen
-Tag:	Love Triangle
-Tag:	Dissociative Identities
+Title:	黒子のバスケ 2nd SEASON
+Title:	Kuroko's Basketball 2
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Kuudere
+Tag:	Super Power
+Tag:	Primarily Teen Cast
 Tag:	Tanned Skin
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
+Tag:	Kuudere
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Basketball
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	8363
 Related:	8364
 Related:	30923

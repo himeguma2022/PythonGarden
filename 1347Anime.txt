@@ -1,28 +1,28 @@
 ID:	1347
-Title:	Bubblegum Crisis
 Title:	バブルガムクライシス
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Band
-Tag:	Tokusatsu
-Tag:	Tanned Skin
-Tag:	Unrequited Love
-Tag:	Gore
-Tag:	Cars
-Tag:	Primarily Adult Cast
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Cyberpunk
-Tag:	Guns
-Tag:	Orphan
-Tag:	Nudity
-Tag:	LGBTQ+ Themes
+Title:	Bubblegum Crisis
 Tag:	Robots
-Tag:	Police
-Tag:	Revenge
+Tag:	Ensemble Cast
+Tag:	Orphan
+Tag:	Super Power
+Tag:	Cars
+Tag:	Unrequited Love
+Tag:	Episodic
+Tag:	Cyberpunk
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Primarily Adult Cast
 Tag:	Motorcycles
+Tag:	Police
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	Band
+Tag:	LGBTQ+ Themes
 Tag:	Idol
 Related:	2466
 Related:	1346

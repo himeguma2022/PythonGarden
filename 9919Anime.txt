@@ -1,25 +1,25 @@
 ID:	9919
 Title:	Ao no Exorcist
-Title:	Blue Exorcist
 Title:	青の祓魔師
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	CGI
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Blue Exorcist
 Tag:	Male Protagonist
-Tag:	School
+Tag:	CGI
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
+Tag:	Demons
 Tag:	Body Horror
+Tag:	Religion
+Tag:	Primarily Teen Cast
+Tag:	Adoption
+Tag:	Twins
+Tag:	School Club
+Tag:	Tragedy
+Tag:	School
 Tag:	Youkai
 Tag:	Wuxia
-Tag:	Religion
-Tag:	Twins
-Tag:	Demons
-Tag:	Adoption
-Tag:	School Club
+Tag:	Shounen
+Tag:	Guns
 Related:	11394
 Related:	11266
 Related:	43492

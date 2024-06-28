@@ -1,12 +1,12 @@
 ID:	101213
+Title:	Masamune-kun no Revenge OVA
 Title:	Masamune-kun's Revenge OAD
 Title:	政宗くんのリベンジ OVA
-Title:	Masamune-kun no Revenge OVA
-Tag:	Shounen
-Tag:	Female Harem
 Tag:	Tsundere
 Tag:	Heterosexual
 Tag:	Maids
+Tag:	Female Harem
+Tag:	Shounen
 Related:	21857
 Related:	50714
 Related:	76716

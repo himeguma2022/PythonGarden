@@ -1,24 +1,24 @@
 ID:	104462
-Title:	Toaru Kagaku no Railgun T
 Title:	とある科学の超電磁砲T
+Title:	Toaru Kagaku no Railgun T
 Title:	A Certain Scientific Railgun T
-Tag:	Primarily Female Cast
-Tag:	Super Power
 Tag:	Clone
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Kaiju
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Superhero
-Tag:	College
-Tag:	Ensemble Cast
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Tsundere
-Tag:	Memory Manipulation
+Tag:	Superhero
+Tag:	Female Protagonist
 Tag:	Bisexual
+Tag:	Tsundere
+Tag:	College
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Artificial Intelligence
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Kaiju
 Tag:	Dragons
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	25313
 Related:	25315
 Related:	37776

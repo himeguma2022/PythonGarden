@@ -1,18 +1,18 @@
 ID:	125124
-Title:	Science Fell in Love, So I Tried to Prove It r=1-sinθ
 Title:	理系が恋に落ちたので証明してみた。r=1-sinθ（ハート）
 Title:	Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ (Heart)
-Tag:	Teacher
-Tag:	Drawing
-Tag:	Educational
-Tag:	Love Triangle
-Tag:	College
-Tag:	Rape
-Tag:	Philosophy
-Tag:	Meta
+Title:	Science Fell in Love, So I Tried to Prove It r=1-sinθ
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Drawing
+Tag:	Rape
+Tag:	Meta
+Tag:	Love Triangle
+Tag:	Educational
+Tag:	Philosophy
+Tag:	Teacher
 Tag:	Idol
 Related:	87377
 Related:	48211

@@ -1,21 +1,21 @@
 ID:	2476
 Title:	School Days (TV)
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Hypersexuality
+Tag:	Primarily Teen Cast
 Tag:	Nudity
-Tag:	Trains
 Tag:	Gore
-Tag:	Yandere
 Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Urban
+Tag:	Hypersexuality
+Tag:	Trains
+Tag:	School
+Tag:	Tragedy
+Tag:	Love Triangle
 Tag:	Netorare
+Tag:	Female Harem
+Tag:	Bullying
+Tag:	Yandere
 Related:	3328
 Related:	3617
 Related:	3618

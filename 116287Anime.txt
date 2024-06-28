@@ -2,24 +2,24 @@ ID:	116287
 Title:	裏世界ピクニック
 Title:	Otherside Picnic
 Title:	Ura Sekai Picnic
-Tag:	Isekai
-Tag:	College
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Rehabilitation
-Tag:	Guns
-Tag:	Mythology
-Tag:	Survival
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	CGI
 Tag:	Military
 Tag:	Alternate Universe
+Tag:	Mythology
+Tag:	Isekai
+Tag:	Cute Girls Doing Cute Things
+Tag:	Survival
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Urban Fantasy
+Tag:	Crime
+Tag:	Rehabilitation
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	106176
 Related:	39747

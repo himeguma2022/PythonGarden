@@ -1,18 +1,18 @@
 ID:	5310
-Title:	Macross Frontier: The False Songstress
 Title:	劇場版 マクロスF 虚空歌姫 ~イツワリノウタヒメ~
 Title:	Macross Frontier: Itsuwari no Utahime
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Space
-Tag:	Nudity
+Title:	Macross Frontier: The False Songstress
 Tag:	Real Robot
 Tag:	Space Opera
-Tag:	Military
+Tag:	Female Protagonist
+Tag:	Nudity
 Tag:	Amnesia
-Tag:	Musical Theater
+Tag:	Space
+Tag:	Military
+Tag:	Aliens
 Tag:	Conspiracy
+Tag:	Musical Theater
+Tag:	Love Triangle
 Tag:	Idol
 Related:	5257
 Related:	5258

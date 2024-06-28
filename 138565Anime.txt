@@ -1,29 +1,29 @@
 ID:	138565
 Title:	Fumetsu no Anata e Season 2
-Title:	不滅のあなたへ Season 2
 Title:	To Your Eternity Season 2
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Cult
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Religion
-Tag:	Ghost
-Tag:	Shounen
-Tag:	Ensemble Cast
-Tag:	Gender Bending
+Title:	不滅のあなたへ Season 2
 Tag:	Body Horror
-Tag:	Suicide
-Tag:	War
+Tag:	Ensemble Cast
 Tag:	Zombie
+Tag:	Crossdressing
+Tag:	Agender
+Tag:	Yandere
+Tag:	Time Skip
+Tag:	Religion
+Tag:	Shapeshifting
+Tag:	War
+Tag:	Gore
+Tag:	Historical
+Tag:	Boys' Love
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Gender Bending
+Tag:	Ghost
 Tag:	Animals
 Tag:	Found Family
-Tag:	Shapeshifting
+Tag:	Tragedy
+Tag:	Cult
 Tag:	Philosophy
-Tag:	Agender
-Tag:	Time Skip
-Tag:	Yandere
 Related:	61697
 Related:	61698
 Related:	97830

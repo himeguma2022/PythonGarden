@@ -1,22 +1,22 @@
 ID:	1458
-Title:	宇宙の騎士テッカマン
-Title:	Uchuu no Kishi Tekkaman
 Title:	Space Knight Tekkaman
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Post-Apocalyptic
+Title:	Uchuu no Kishi Tekkaman
+Title:	宇宙の騎士テッカマン
 Tag:	Male Protagonist
-Tag:	Episodic
+Tag:	Super Power
 Tag:	Superhero
+Tag:	Primarily Adult Cast
 Tag:	Space
+Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Robots
+Tag:	Shapeshifting
+Tag:	Aliens
 Tag:	Primarily Male Cast
 Tag:	Tokusatsu
-Tag:	Shapeshifting
-Tag:	Robots
+Tag:	Episodic
+Tag:	Post-Apocalyptic
 Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
 Related:	4578
 Related:	145358
 Related:	36622

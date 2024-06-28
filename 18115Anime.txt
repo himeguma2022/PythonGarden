@@ -1,23 +1,23 @@
 ID:	18115
-Title:	Magi: The kingdom of magic
-Title:	マギ The kingdom of magic
 Title:	Magi: The Kingdom of Magic
+Title:	マギ The kingdom of magic
+Title:	Magi: The kingdom of magic
+Tag:	Male Protagonist
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Desert
+Tag:	Magic
+Tag:	Politics
+Tag:	Foreign
+Tag:	Pirates
 Tag:	Tragedy
 Tag:	Reincarnation
-Tag:	Desert
-Tag:	Dungeon
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Pirates
-Tag:	Tanned Skin
-Tag:	Politics
-Tag:	War
 Tag:	Cult
-Tag:	Nudity
-Tag:	Anti-Hero
-Tag:	Magic
+Tag:	Dungeon
 Tag:	Royal Affairs
-Tag:	Foreign
+Tag:	Anti-Hero
+Tag:	Shounen
+Tag:	War
 Related:	8545
 Related:	8546
 Related:	20609

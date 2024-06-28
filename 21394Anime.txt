@@ -1,19 +1,19 @@
 ID:	21394
-Title:	マギ シンドバッドの冒険
-Title:	Magi: Adventure of Sinbad
 Title:	Magi: Sinbad no Bouken
-Tag:	Dungeon
-Tag:	Shounen
+Title:	Magi: Adventure of Sinbad
+Title:	マギ シンドバッドの冒険
 Tag:	Male Protagonist
 Tag:	Economics
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
 Tag:	Travel
 Tag:	Ships
-Tag:	Memory Manipulation
 Tag:	Magic
-Tag:	Outdoor
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Dungeon
+Tag:	Shounen
+Tag:	Outdoor
 Related:	20609
 Related:	78025
 Related:	10571

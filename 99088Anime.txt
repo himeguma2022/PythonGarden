@@ -1,34 +1,34 @@
 ID:	99088
 Title:	PLUTO
+Tag:	Travel
+Tag:	Adoption
 Tag:	Noir
-Tag:	Tragedy
-Tag:	Artificial Intelligence
-Tag:	Anachronism
-Tag:	Cult
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Foreign
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Cyberpunk
 Tag:	Politics
-Tag:	Travel
-Tag:	Seinen
-Tag:	Foreign
-Tag:	Guns
-Tag:	Proxy Battle
-Tag:	Terrorism
-Tag:	Nudity
-Tag:	War
-Tag:	Robots
-Tag:	Police
-Tag:	Revenge
-Tag:	Dystopian
 Tag:	Detective
-Tag:	Philosophy
+Tag:	Male Protagonist
+Tag:	Cyberpunk
+Tag:	Anachronism
+Tag:	War
+Tag:	Guns
+Tag:	Dystopian
+Tag:	Primarily Adult Cast
+Tag:	Proxy Battle
+Tag:	Artificial Intelligence
+Tag:	Police
+Tag:	Seinen
+Tag:	Crime
+Tag:	Nudity
+Tag:	Terrorism
 Tag:	Amnesia
-Tag:	Adoption
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Philosophy
 Related:	19364
 Related:	1520
 Related:	30745

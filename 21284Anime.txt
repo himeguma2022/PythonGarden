@@ -1,18 +1,18 @@
 ID:	21284
 Title:	ふらいんぐうぃっち
 Title:	Flying Witch
-Tag:	Iyashikei
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Urban Fantasy
 Tag:	Tanned Skin
-Tag:	Magic
-Tag:	Rural
 Tag:	Agriculture
+Tag:	Female Protagonist
+Tag:	Ghost
+Tag:	Family Life
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Witch
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Rural
 Related:	76258
 Related:	102001
 Related:	23192

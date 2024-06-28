@@ -1,16 +1,16 @@
 ID:	140999
-Title:	Sword Art Online the Movie -Progressive- Scherzo of Deep Night
 Title:	劇場版 ソードアート・オンライン プログレッシブ 冥き夕闇のスケルツォ
+Title:	Sword Art Online the Movie -Progressive- Scherzo of Deep Night
 Title:	Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
-Tag:	Dungeon
-Tag:	Isekai
-Tag:	Swordplay
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Female Protagonist
+Tag:	Isekai
 Tag:	Survival
-Tag:	Virtual World
+Tag:	Dungeon
 Tag:	Video Games
 Tag:	Death Game
+Tag:	Virtual World
 Related:	73921
 Related:	64649
 Related:	64651

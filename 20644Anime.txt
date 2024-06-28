@@ -1,11 +1,11 @@
 ID:	20644
-Title:	ポケモン・ザ・ムービーXY 破壊の繭とディアンシー
 Title:	Pokémon The Movie XY: Hakai no Mayu to Diancie
 Title:	Pokémon the Movie: Diancie and the Cocoon of Destruction
-Tag:	Kids
-Tag:	Tragedy
+Title:	ポケモン・ザ・ムービーXY 破壊の繭とディアンシー
 Tag:	CGI
+Tag:	Kids
 Tag:	Animals
+Tag:	Tragedy
 Tag:	Henshin
 Related:	10370
 Related:	30598

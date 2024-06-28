@@ -1,27 +1,27 @@
 ID:	146962
+Title:	4-nin wa Sorezore Uso wo Tsuku
 Title:	The Little Lies We All Tell
 Title:	4人はそれぞれウソをつく
-Title:	4-nin wa Sorezore Uso wo Tsuku
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Urban
-Tag:	Crossdressing
-Tag:	Memory Manipulation
-Tag:	Swimming
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
 Tag:	Food
-Tag:	Gender Bending
-Tag:	Time Manipulation
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Ninja
-Tag:	LGBTQ+ Themes
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Crossdressing
 Tag:	Surreal Comedy
+Tag:	School
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Cute Girls Doing Cute Things
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Ninja
+Tag:	Urban
+Tag:	LGBTQ+ Themes
+Tag:	Swimming
 Related:	117746
 Related:	71171

@@ -1,14 +1,14 @@
 ID:	3613
-Title:	図書館戦争
-Title:	Library War
 Title:	Toshokan Sensou
-Tag:	Tomboy
-Tag:	Shoujo
+Title:	Library War
+Title:	図書館戦争
 Tag:	Female Protagonist
-Tag:	War
-Tag:	Military
-Tag:	Heterosexual
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Shoujo
+Tag:	Tomboy
+Tag:	War
 Related:	37159
 Related:	56009
 Related:	4428

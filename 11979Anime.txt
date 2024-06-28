@@ -1,26 +1,26 @@
 ID:	11979
-Title:	劇場版 魔法少女まどか☆マギカ 永遠の物語
 Title:	Puella Magi Madoka Magica the Movie Part II: Eternal
 Title:	Mahou Shoujo Madoka☆Magica: Eien no Monogatari
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Witch
+Title:	劇場版 魔法少女まどか☆マギカ 永遠の物語
 Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Cosmic Horror
-Tag:	Time Manipulation
-Tag:	Guns
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Henshin
-Tag:	Magic
 Tag:	Coming of Age
-Tag:	Philosophy
+Tag:	Henshin
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Gods
 Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	11977
 Related:	11981
 Related:	7578

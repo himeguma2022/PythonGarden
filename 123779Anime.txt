@@ -2,17 +2,17 @@ ID:	123779
 Title:	Dr. Ramune -Mysterious Disease Specialist-
 Title:	Kai Byoui Ramune
 Title:	怪病医ラムネ
-Tag:	Iyashikei
+Tag:	Satire
+Tag:	Male Protagonist
+Tag:	Urban Fantasy
+Tag:	Disability
 Tag:	Ghost
+Tag:	Food
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Cult
+Tag:	Episodic
 Tag:	Shounen
 Tag:	Medicine
-Tag:	Male Protagonist
-Tag:	Satire
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Food
-Tag:	Cult
-Tag:	Magic
-Tag:	Disability
 Related:	46880
 Related:	123796

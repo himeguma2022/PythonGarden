@@ -1,19 +1,19 @@
 ID:	21335
-Title:	ONE PIECE FILM: GOLD
 Title:	ONE PIECE FILM GOLD
 Title:	One Piece Film: Gold
-Tag:	Gambling
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Swordplay
+Title:	ONE PIECE FILM: GOLD
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Kuudere
-Tag:	Pirates
-Tag:	Anachronism
-Tag:	Bar
-Tag:	Skeleton
 Tag:	Ships
+Tag:	Ensemble Cast
+Tag:	Pirates
+Tag:	Skeleton
+Tag:	Gambling
+Tag:	Anachronism
+Tag:	Shounen
+Tag:	Bar
 Related:	21831
 Related:	11433
 Related:	105143

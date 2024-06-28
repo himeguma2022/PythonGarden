@@ -1,11 +1,11 @@
 ID:	6946
 Title:	Mudazumo Naki Kaikaku
 Title:	ムダヅモ無き改革
-Tag:	Board Game
-Tag:	Mahjong
-Tag:	Environmental
-Tag:	Parody
-Tag:	Politics
 Tag:	Seinen
+Tag:	Parody
+Tag:	Environmental
+Tag:	Politics
+Tag:	Mahjong
+Tag:	Board Game
 Related:	41329
 Related:	5899

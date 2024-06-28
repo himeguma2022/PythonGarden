@@ -1,28 +1,28 @@
 ID:	21450
-Title:	JoJo's Bizarre Adventure: Diamond is Unbreakable
 Title:	JoJo no Kimyou na Bouken: Diamond wa Kudakenai
+Title:	JoJo's Bizarre Adventure: Diamond is Unbreakable
 Title:	ジョジョの奇妙な冒険 ダイヤモンドは砕けない
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Urban
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Ghost
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Afterlife
 Tag:	Body Horror
-Tag:	Time Manipulation
-Tag:	Delinquents
-Tag:	School
-Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
 Tag:	Primarily Male Cast
-Tag:	Feet
-Tag:	Time Loop
-Tag:	Achronological Order
+Tag:	School
 Tag:	Yandere
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Time Loop
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Delinquents
+Tag:	Gore
+Tag:	Feet
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Ghost
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Achronological Order
 Related:	10689
 Related:	102883
 Related:	23942

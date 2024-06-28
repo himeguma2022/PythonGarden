@@ -1,13 +1,13 @@
 ID:	108735
 Title:	BanG Dream! FILM LIVE
-Tag:	Full CGI
-Tag:	Primarily Female Cast
 Tag:	CGI
-Tag:	Band
 Tag:	Female Protagonist
+Tag:	Twins
+Tag:	Full CGI
 Tag:	Ensemble Cast
 Tag:	Rock Music
-Tag:	Twins
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	40024
 Related:	101633

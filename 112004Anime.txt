@@ -1,14 +1,14 @@
 ID:	112004
-Title:	Wacky TV Nanana
 Title:	TV Yarou Nanaana
 Title:	テレビ野郎 ナナーナ
-Tag:	Mythology
-Tag:	Slapstick
+Title:	Wacky TV Nanana
 Tag:	Male Protagonist
-Tag:	Kuudere
-Tag:	Primarily Male Cast
 Tag:	Work
-Tag:	Outdoor
+Tag:	Kuudere
 Tag:	Foreign
+Tag:	Mythology
+Tag:	Primarily Male Cast
+Tag:	Slapstick
+Tag:	Outdoor
 Related:	112008
 Related:	35074

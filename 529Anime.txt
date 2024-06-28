@@ -2,25 +2,25 @@ ID:	529
 Title:	Saishuu Heiki Kanojo
 Title:	She, The Ultimate Weapon
 Title:	最終兵器彼女
-Tag:	Tragedy
-Tag:	Unrequited Love
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Cyborg
-Tag:	Seinen
-Tag:	Natural Disaster
-Tag:	Guns
-Tag:	School
-Tag:	Nudity
-Tag:	War
-Tag:	Age Gap
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Tomboy
-Tag:	Motorcycles
 Tag:	Military
+Tag:	Robots
+Tag:	School
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Cyborg
+Tag:	War
+Tag:	Guns
+Tag:	Age Gap
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Natural Disaster
+Tag:	Motorcycles
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Tragedy
+Tag:	Tomboy
 Related:	609
 Related:	31059
 Related:	30773

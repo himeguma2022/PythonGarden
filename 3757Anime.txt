@@ -1,5 +1,5 @@
 ID:	3757
-Title:	アラジンと魔法のランプ
 Title:	Aladdin and the Wonderful Lamp
 Title:	Sekai Meisaku Douwa: Aladdin to Mahou no Lamp
+Title:	アラジンと魔法のランプ
 Tag:	Fairy Tale

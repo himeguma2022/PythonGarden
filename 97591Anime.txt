@@ -2,12 +2,12 @@ ID:	97591
 Title:	Shikong Shitu
 Title:	Bloodivores
 Title:	时空使徒
-Tag:	Guns
-Tag:	Crime
-Tag:	Super Power
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Vampire
+Tag:	Super Power
 Tag:	Assassins
+Tag:	Crime
+Tag:	Vampire
+Tag:	Survival
+Tag:	Guns
 Related:	22221
 Related:	101151

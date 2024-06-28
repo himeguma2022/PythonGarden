@@ -1,17 +1,17 @@
 ID:	120755
-Title:	The IDOLM@STER Million Live!
 Title:	アイドルマスター ミリオンライブ！
+Title:	The IDOLM@STER Million Live!
 Title:	THE IDOLM@STER Million Live!
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Band
+Tag:	Work
 Tag:	Female Protagonist
 Tag:	Episodic
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
 Tag:	Dancing
-Tag:	Work
 Tag:	Musical Theater
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	149891
 Related:	98310

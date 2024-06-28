@@ -1,19 +1,19 @@
 ID:	154966
-Title:	Fate/strange Fake -Whispers of Dawn-
 Title:	Fate/strange Fake: Whispers of Dawn
-Tag:	Mythology
-Tag:	Battle Royale
-Tag:	Isekai
-Tag:	Urban
+Title:	Fate/strange Fake -Whispers of Dawn-
+Tag:	Death Game
 Tag:	Swordplay
+Tag:	Assassins
 Tag:	Urban Fantasy
 Tag:	Vampire
-Tag:	Assassins
-Tag:	Animals
 Tag:	Magic
-Tag:	Police
-Tag:	Death Game
+Tag:	Animals
+Tag:	Battle Royale
+Tag:	Urban
+Tag:	Mythology
 Tag:	Foreign
+Tag:	Isekai
+Tag:	Police
 Related:	86753
 Related:	78063
 Related:	88016

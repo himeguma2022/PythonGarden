@@ -1,9 +1,9 @@
 ID:	1724
-Title:	Saint October
 Title:	セイントオクトーバー
-Tag:	Henshin
+Title:	Saint October
+Tag:	Detective
 Tag:	Female Protagonist
 Tag:	Cute Girls Doing Cute Things
-Tag:	Detective
+Tag:	Henshin
 Related:	2760
 Related:	43921

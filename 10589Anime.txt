@@ -1,10 +1,10 @@
 ID:	10589
 Title:	NARUTO: Blood Prison
-Title:	Naruto Shippuden the Movie: Blood Prison
 Title:	劇場版 NARUTO -ナルト- ブラッド・プリズン
+Title:	Naruto Shippuden the Movie: Blood Prison
+Tag:	Super Power
 Tag:	Shounen
 Tag:	Crime
-Tag:	Super Power
 Tag:	Ninja
 Related:	132774
 Related:	1735

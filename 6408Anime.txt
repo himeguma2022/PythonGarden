@@ -1,15 +1,15 @@
 ID:	6408
-Title:	文学少女
 Title:	Bungaku Shoujo
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Classic Literature
+Title:	文学少女
 Tag:	Time Skip
-Tag:	Yandere
-Tag:	Coming of Age
+Tag:	Male Protagonist
 Tag:	School Club
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Yandere
+Tag:	Classic Literature
+Tag:	Coming of Age
 Related:	40000
 Related:	8481
 Related:	5669

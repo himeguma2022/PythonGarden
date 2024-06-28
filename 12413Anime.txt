@@ -1,25 +1,25 @@
 ID:	12413
-Title:	Jormungand
 Title:	ヨルムンガンド
-Tag:	Criminal Organization
-Tag:	Tanned Skin
-Tag:	Unrequited Love
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
+Title:	Jormungand
 Tag:	Travel
-Tag:	Seinen
-Tag:	Foreign
-Tag:	Guns
-Tag:	Orphan
-Tag:	Nudity
-Tag:	Assassins
-Tag:	LGBTQ+ Themes
-Tag:	Tomboy
 Tag:	Military
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Orphan
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Episodic
+Tag:	Guns
+Tag:	Assassins
+Tag:	Female Protagonist
 Tag:	Anti-Hero
+Tag:	Primarily Adult Cast
+Tag:	Seinen
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Criminal Organization
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
 Related:	34611
 Related:	13331
 Related:	7676

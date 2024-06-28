@@ -1,17 +1,17 @@
 ID:	21305
-Title:	オーバーロード ぷれぷれぷれあです
 Title:	Overlord: Ple Ple Pleiades
-Tag:	Primarily Female Cast
-Tag:	Isekai
-Tag:	Butler
+Title:	オーバーロード ぷれぷれぷれあです
+Tag:	Demons
+Tag:	Chibi
+Tag:	Magic
+Tag:	Maids
 Tag:	Necromancy
 Tag:	Skeleton
-Tag:	Virtual World
+Tag:	Butler
+Tag:	Isekai
 Tag:	Anti-Hero
-Tag:	Magic
-Tag:	Chibi
-Tag:	Maids
-Tag:	Demons
+Tag:	Primarily Female Cast
+Tag:	Virtual World
 Related:	20832
 Related:	87489
 Related:	107264

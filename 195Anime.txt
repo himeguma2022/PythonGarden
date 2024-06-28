@@ -1,26 +1,26 @@
 ID:	195
-Title:	おねがい☆ティーチャー
-Title:	Please☆Teacher!
 Title:	Onegai☆Teacher
-Tag:	Teacher
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	Memory Manipulation
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Title:	Please☆Teacher!
+Title:	おねがい☆ティーチャー
 Tag:	Ensemble Cast
 Tag:	Marriage
-Tag:	Suicide
+Tag:	Memory Manipulation
 Tag:	School
-Tag:	Nudity
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Aviation
 Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	Aviation
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Teacher
+Tag:	Nudity
+Tag:	Tragedy
 Tag:	Rural
 Related:	55457
 Related:	482

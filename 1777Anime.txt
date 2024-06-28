@@ -1,14 +1,14 @@
 ID:	1777
-Title:	The Weathering Continent
-Title:	Kaze no Tairiku
 Title:	風の大陸
-Tag:	Tomboy
-Tag:	Ghost
-Tag:	Desert
+Title:	Kaze no Tairiku
+Title:	The Weathering Continent
 Tag:	Swordplay
-Tag:	Lost Civilization
 Tag:	Cosmic Horror
-Tag:	Magic
+Tag:	Lost Civilization
+Tag:	Desert
+Tag:	Ghost
 Tag:	Primarily Adult Cast
+Tag:	Magic
+Tag:	Tomboy
 Related:	2824
 Related:	39823

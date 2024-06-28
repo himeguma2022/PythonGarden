@@ -1,21 +1,21 @@
 ID:	97617
+Title:	異世界食堂
 Title:	Isekai Shokudou
 Title:	Restaurant to Another World
-Title:	異世界食堂
+Tag:	Work
+Tag:	Elf
+Tag:	Demons
+Tag:	Urban Fantasy
 Tag:	Mermaid
-Tag:	Monster Girl
+Tag:	Food
+Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Fairy
 Tag:	Isekai
 Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Elf
-Tag:	Restaurant
-Tag:	Fairy
-Tag:	Work
-Tag:	Demons
-Tag:	Primarily Adult Cast
 Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Restaurant
 Related:	56272
 Related:	19094
 Related:	132806

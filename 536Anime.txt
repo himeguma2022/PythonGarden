@@ -1,13 +1,13 @@
 ID:	536
 Title:	劇場版 スレイヤーズ
-Title:	Slayers: The Motion Picture
 Title:	Slayers Movie
-Tag:	Ghost
+Title:	Slayers: The Motion Picture
 Tag:	Female Protagonist
-Tag:	Zombie
+Tag:	Demons
+Tag:	Ghost
 Tag:	Magic
 Tag:	Time Manipulation
-Tag:	Demons
+Tag:	Zombie
 Related:	869
 Related:	69932
 Related:	1170

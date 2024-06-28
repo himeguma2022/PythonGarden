@@ -1,14 +1,14 @@
 ID:	98344
-Title:	ゆゆ式 OVA「困らせたり、困らされたり」
-Title:	Yuyushiki OVA: Komarasetari, Komarasaretari
 Title:	"Yuyushiki OVA: Komarasetari, Komarasaretari"
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
+Title:	Yuyushiki OVA: Komarasetari, Komarasaretari
+Title:	ゆゆ式 OVA「困らせたり、困らされたり」
 Tag:	Female Protagonist
-Tag:	School
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
 Tag:	School Club
+Tag:	School
+Tag:	Primarily Female Cast
 Related:	75353
 Related:	18467
 Related:	15911

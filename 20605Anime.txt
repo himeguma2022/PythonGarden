@@ -1,24 +1,24 @@
 ID:	20605
-Title:	Tokyo Ghoul
 Title:	東京喰種 トーキョーグール
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Henshin
-Tag:	Urban
+Title:	Tokyo Ghoul
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	College
-Tag:	Torture
-Tag:	Body Horror
-Tag:	Cannibalism
-Tag:	Gore
 Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Crime
 Tag:	Anti-Hero
+Tag:	Gore
 Tag:	Heterosexual
+Tag:	College
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Henshin
+Tag:	Survival
+Tag:	Cannibalism
 Tag:	Police
+Tag:	Detective
+Tag:	Body Horror
 Tag:	Coming of Age
+Tag:	Torture
 Related:	50215
 Related:	10472
 Related:	21132

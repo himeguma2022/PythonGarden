@@ -1,22 +1,22 @@
 ID:	142876
-Title:	Dr.STONE 龍水
 Title:	Dr. STONE Special Episode – RYUSUI
 Title:	Dr. STONE: Ryuusui
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Educational
+Title:	Dr.STONE 龍水
+Tag:	Male Protagonist
 Tag:	CGI
-Tag:	Post-Apocalyptic
-Tag:	Shounen
+Tag:	Primarily Teen Cast
 Tag:	Lost Civilization
+Tag:	Economics
+Tag:	Travel
+Tag:	Shounen
 Tag:	Environmental
 Tag:	Episodic
-Tag:	Cosplay
-Tag:	Economics
-Tag:	Male Protagonist
-Tag:	Travel
-Tag:	Astronomy
 Tag:	Ships
+Tag:	Astronomy
+Tag:	Surreal Comedy
+Tag:	Cosplay
+Tag:	Post-Apocalyptic
+Tag:	Educational
 Tag:	Aviation
 Tag:	Outdoor
 Related:	66531

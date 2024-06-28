@@ -1,17 +1,17 @@
 ID:	2034
-Title:	Lovely★Complex
-Title:	ラブ★コン
 Title:	Lovely Complex
-Tag:	Tomboy
+Title:	ラブ★コン
+Title:	Lovely★Complex
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Gender Bending
+Tag:	Heterosexual
 Tag:	Transgender
 Tag:	Shoujo
-Tag:	Primarily Teen Cast
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	School
-Tag:	Gender Bending
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
+Tag:	Tomboy
 Tag:	Netorare
+Tag:	LGBTQ+ Themes
+Tag:	Slapstick
 Related:	3126
 Related:	30031

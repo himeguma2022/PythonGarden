@@ -1,16 +1,16 @@
 ID:	14227
 Title:	Tonari no Kaibutsu-kun
-Title:	My Little Monster
 Title:	となりの怪物くん
-Tag:	Primarily Teen Cast
-Tag:	Shoujo
-Tag:	Love Triangle
+Title:	My Little Monster
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	School
+Tag:	Love Triangle
 Tag:	Coming of Age
 Related:	16866
 Related:	7957

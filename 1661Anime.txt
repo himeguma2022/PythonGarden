@@ -1,26 +1,26 @@
 ID:	1661
 Title:	Cutey Honey
-Title:	キューティーハニー
 Title:	Cutie Honey
-Tag:	Gambling
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Martial Arts
-Tag:	Crime
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	キューティーハニー
+Tag:	Robots
+Tag:	School
+Tag:	Monster Girl
+Tag:	Henshin
+Tag:	Superhero
 Tag:	Cyborg
 Tag:	Villainess
-Tag:	Monster Girl
+Tag:	Episodic
+Tag:	Slapstick
 Tag:	Guns
 Tag:	Swordplay
-Tag:	School
+Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Crime
 Tag:	Nudity
-Tag:	Robots
-Tag:	Henshin
+Tag:	Martial Arts
 Tag:	Revenge
-Tag:	Superhero
+Tag:	Urban
+Tag:	Gambling
 Tag:	Samurai
 Related:	6496
 Related:	10209

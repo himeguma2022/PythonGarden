@@ -1,15 +1,15 @@
 ID:	20693
-Title:	アイドルマスターシンデレラガールズ
-Title:	THE IDOLM@STER CINDERELLA GIRLS
 Title:	THE IDOLM@STER Cinderella Girls
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Ensemble Cast
+Title:	THE IDOLM@STER CINDERELLA GIRLS
+Title:	アイドルマスターシンデレラガールズ
 Tag:	Chuunibyou
-Tag:	Gyaru
-Tag:	Dancing
 Tag:	Work
+Tag:	Cute Girls Doing Cute Things
+Tag:	Dancing
 Tag:	Office Lady
+Tag:	Ensemble Cast
+Tag:	Gyaru
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	85128
 Related:	96784

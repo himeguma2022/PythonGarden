@@ -2,23 +2,23 @@ ID:	416
 Title:	Porco Rosso
 Title:	紅の豚
 Title:	Kurenai no Buta
-Tag:	Guns
-Tag:	Historical
-Tag:	Coastal
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Fugitive
-Tag:	Travel
-Tag:	Anthropomorphism
-Tag:	Military
-Tag:	Philosophy
-Tag:	Pirates
 Tag:	Fairy Tale
-Tag:	Boxing
-Tag:	Heterosexual
-Tag:	Aviation
+Tag:	Anthropomorphism
+Tag:	Travel
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Fugitive
 Tag:	Foreign
+Tag:	Pirates
+Tag:	Primarily Male Cast
+Tag:	Boxing
+Tag:	Historical
+Tag:	Philosophy
+Tag:	War
+Tag:	Aviation
+Tag:	Guns
+Tag:	Coastal
 Related:	54979
 Related:	919

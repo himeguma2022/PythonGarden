@@ -1,20 +1,20 @@
 ID:	21597
 Title:	Magic of Stella
-Title:	ステラのまほう
 Title:	Stella no Mahou
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	School Club
-Tag:	Video Games
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Software Development
-Tag:	Meta
+Title:	ステラのまほう
 Tag:	Seinen
-Tag:	Otaku Culture
-Tag:	Musical Theater
+Tag:	Female Protagonist
 Tag:	Writing
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Software Development
+Tag:	Otaku Culture
+Tag:	School Club
+Tag:	School
+Tag:	Musical Theater
+Tag:	Video Games
+Tag:	Primarily Female Cast
 Related:	18082
 Related:	98548
 Related:	18692

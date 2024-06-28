@@ -1,11 +1,11 @@
 ID:	15649
 Title:	Puchimas!: Petit iDOLM@STER
 Title:	ぷちます！－プチ・アイドルマスター－
-Tag:	Swimming
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
 Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
 Tag:	Idol
+Tag:	Swimming
 Related:	15781
 Related:	8786
 Related:	20498

@@ -1,16 +1,16 @@
 ID:	98866
-Title:	ヤマノススメ サードシーズン
-Title:	Encouragement of Climb Season 3
 Title:	Yama no Susume: Third Season
-Tag:	Iyashikei
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Educational
-Tag:	Mountaineering
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
+Title:	Encouragement of Climb Season 3
+Title:	ヤマノススメ サードシーズン
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Mountaineering
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Educational
+Tag:	Primarily Female Cast
 Tag:	Outdoor
 Related:	54466
 Related:	19046

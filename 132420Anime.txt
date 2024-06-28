@@ -1,15 +1,15 @@
 ID:	132420
 Title:	Girls und Panzer: Saishuushou 4
 Title:	ガールズ＆パンツァー 最終章 第4話
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
+Tag:	Snowscape
+Tag:	Military
 Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
+Tag:	School Club
 Tag:	School
 Tag:	Tanks
-Tag:	Military
-Tag:	Snowscape
-Tag:	School Club
+Tag:	Primarily Female Cast
 Related:	55779
 Related:	176663
 Related:	124115

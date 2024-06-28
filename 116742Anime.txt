@@ -1,30 +1,30 @@
 ID:	116742
 Title:	That Time I Got Reincarnated as a Slime Season 2 Part 2
-Title:	転生したらスライムだった件 第2期 第2クール
 Title:	Tensei shitara Slime Datta Ken 2nd Season Part 2
+Title:	転生したらスライムだった件 第2期 第2クール
 Title:	Tensei Shitara Slime Datta Ken 2nd Season Part 2
-Tag:	Super Power
 Tag:	Clone
-Tag:	Isekai
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Afterlife
-Tag:	Politics
-Tag:	Monster Girl
-Tag:	Reincarnation
-Tag:	Female Harem
-Tag:	Ninja
-Tag:	War
-Tag:	Magic
-Tag:	Kingdom Management
-Tag:	Monster Boy
-Tag:	Shapeshifting
-Tag:	Goblin
-Tag:	Agender
-Tag:	Anti-Hero
 Tag:	Demons
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	Agender
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Shapeshifting
+Tag:	War
+Tag:	Kingdom Management
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Goblin
+Tag:	Magic
+Tag:	Ninja
+Tag:	Monster Boy
+Tag:	Anti-Hero
 Related:	63459
 Related:	139498
 Related:	40171

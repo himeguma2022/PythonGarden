@@ -1,23 +1,23 @@
 ID:	20595
-Title:	蟲師 続章
 Title:	MUSHI-SHI The Next Passage
 Title:	Mushishi Zoku Shou
-Tag:	Iyashikei
-Tag:	Historical
-Tag:	Mythology
+Title:	蟲師 続章
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Rural
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Anachronism
-Tag:	Denpa
-Tag:	Travel
-Tag:	Philosophy
-Tag:	Youkai
 Tag:	Seinen
+Tag:	Urban Fantasy
 Tag:	Demons
+Tag:	Travel
 Tag:	Primarily Adult Cast
+Tag:	Environmental
+Tag:	Iyashikei
+Tag:	Mythology
+Tag:	Youkai
+Tag:	Historical
+Tag:	Episodic
+Tag:	Anachronism
+Tag:	Philosophy
+Tag:	Denpa
+Tag:	Rural
 Related:	9382
 Related:	20526
 Related:	20752

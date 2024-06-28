@@ -1,19 +1,19 @@
 ID:	99900
-Title:	Eiga Daisuki Pompo-san
 Title:	Pompo: The Cinéphile
 Title:	映画大好きポンポさん
-Tag:	Shoujo
-Tag:	Educational
-Tag:	Writing
+Title:	Eiga Daisuki Pompo-san
 Tag:	Male Protagonist
+Tag:	Acting
 Tag:	Work
 Tag:	Female Protagonist
-Tag:	Acting
+Tag:	Writing
+Tag:	Primarily Adult Cast
 Tag:	Meta
+Tag:	Foreign
+Tag:	Shoujo
+Tag:	Educational
 Tag:	Filmmaking
 Tag:	Coming of Age
-Tag:	Primarily Adult Cast
-Tag:	Foreign
 Related:	26905
 Related:	105451
 Related:	136297

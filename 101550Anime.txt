@@ -1,8 +1,8 @@
 ID:	101550
-Title:	Wo Shi Jiang Xiaobai Special Episode
 Title:	我是江小白 小剧场
-Tag:	Full CGI
+Title:	Wo Shi Jiang Xiaobai Special Episode
 Tag:	Amnesia
+Tag:	Full CGI
 Related:	22962
 Related:	101789
 Related:	22598

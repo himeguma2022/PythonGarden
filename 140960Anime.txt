@@ -1,36 +1,36 @@
 ID:	140960
-Title:	Spy x Family
-Title:	SPY×FAMILY
 Title:	SPY x FAMILY
-Tag:	Super Power
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Martial Arts
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
+Title:	SPY×FAMILY
+Title:	Spy x Family
+Tag:	Adoption
 Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Surreal Comedy
+Tag:	Conspiracy
+Tag:	School
+Tag:	Orphan
+Tag:	Parenthood
+Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Episodic
+Tag:	Slapstick
 Tag:	Guns
 Tag:	Fake Relationship
-Tag:	Orphan
-Tag:	Adoption
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Espionage
 Tag:	Assassins
-Tag:	Heterosexual
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Crime
+Tag:	Martial Arts
+Tag:	Tsundere
 Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Parenthood
+Tag:	Urban
 Related:	64625
 Related:	66436
 Related:	108556

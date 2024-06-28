@@ -1,9 +1,9 @@
 ID:	20866
-Title:	極黒のブリュンヒルデ OVA
 Title:	Brynhildr in the Darkness OVA
+Title:	極黒のブリュンヒルデ OVA
 Title:	Gokukoku no Brynhildr OVA
-Tag:	Female Harem
 Tag:	Seinen
+Tag:	Female Harem
 Related:	64377
 Related:	9658
 Related:	9660

@@ -1,11 +1,11 @@
 ID:	113692
-Title:	Seitokai Yakuindomo Movie 2
 Title:	劇場版 生徒会役員共２
-Tag:	Primarily Female Cast
-Tag:	Shounen
+Title:	Seitokai Yakuindomo Movie 2
+Tag:	Kuudere
 Tag:	4-koma
 Tag:	School
-Tag:	Kuudere
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	98240
 Related:	37675
 Related:	37101

@@ -1,18 +1,18 @@
 ID:	146206
 Title:	聖女の魔力は万能です Season2
-Title:	The Saint's Magic Power is Omnipotent II
 Title:	Seijo no Maryoku wa Bannou desu Season 2
+Title:	The Saint's Magic Power is Omnipotent II
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Magic
 Tag:	Iyashikei
+Tag:	Politics
+Tag:	Marriage
 Tag:	Shoujo
 Tag:	Isekai
-Tag:	Medicine
-Tag:	Female Protagonist
-Tag:	Marriage
-Tag:	Politics
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
 Tag:	Dragons
+Tag:	Medicine
 Related:	70251
 Related:	70253
 Related:	70255

@@ -1,22 +1,22 @@
 ID:	489
-Title:	Kamichu!
 Title:	かみちゅ!
-Tag:	Iyashikei
-Tag:	Mythology
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	Kamichu!
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Shrine Maiden
-Tag:	Gods
+Tag:	Female Protagonist
 Tag:	Anthropomorphism
-Tag:	Youkai
 Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Aliens
+Tag:	Mythology
+Tag:	School
+Tag:	Gods
+Tag:	Youkai
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Rural
+Tag:	Shrine Maiden
 Related:	1040
 Related:	3449
 Related:	31690

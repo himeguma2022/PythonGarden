@@ -1,15 +1,15 @@
 ID:	113814
 Title:	Idoly Pride
 Title:	IDOLY PRIDE
+Tag:	CGI
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Ghost
+Tag:	Cute Girls Doing Cute Things
+Tag:	Dancing
+Tag:	Ensemble Cast
 Tag:	Tragedy
 Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	CGI
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Dancing
 Tag:	Idol
 Related:	120038
 Related:	51251

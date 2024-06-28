@@ -1,17 +1,17 @@
 ID:	100248
-Title:	Batman Ninja
 Title:	ニンジャバットマン
 Title:	Ninja Batman
-Tag:	Full CGI
-Tag:	Super Robot
-Tag:	CGI
+Title:	Batman Ninja
 Tag:	Male Protagonist
-Tag:	Superhero
-Tag:	Ninja
-Tag:	Anachronism
+Tag:	CGI
 Tag:	Assassins
-Tag:	Samurai
+Tag:	Superhero
+Tag:	Super Robot
+Tag:	Full CGI
+Tag:	Ninja
 Tag:	Time Manipulation
+Tag:	Samurai
+Tag:	Anachronism
 Related:	103053
 Related:	98000
 Related:	177778

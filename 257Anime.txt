@@ -1,19 +1,19 @@
 ID:	257
 Title:	一騎当千
-Title:	Ikkitousen
 Title:	Battle Vixens: Ikki Tousen
-Tag:	Tomboy
+Title:	Ikkitousen
 Tag:	Super Power
+Tag:	Seinen
 Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Bisexual
+Tag:	Tsundere
 Tag:	Martial Arts
-Tag:	Female Harem
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Kuudere
-Tag:	Nudity
-Tag:	Tsundere
-Tag:	Seinen
-Tag:	Bisexual
+Tag:	Female Harem
+Tag:	Tomboy
 Related:	30372
 Related:	1956
 Related:	92107

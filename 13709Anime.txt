@@ -2,15 +2,15 @@ ID:	13709
 Title:	AFRO SAMURAI Movie
 Title:	Afro Samurai the Movie
 Title:	AFRO SAMURAI 劇場版
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Swordplay
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Nudity
 Tag:	Gore
-Tag:	Anti-Hero
+Tag:	Revenge
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	Anti-Hero
+Tag:	Shounen
 Related:	57552
 Related:	4970
 Related:	7883

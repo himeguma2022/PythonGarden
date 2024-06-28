@@ -1,17 +1,17 @@
 ID:	20481
-Title:	Little Busters!: EX
 Title:	リトルバスターズ！EX
 Title:	Little Busters! EX
-Tag:	Tragedy
-Tag:	Alternate Universe
-Tag:	Female Harem
-Tag:	School
+Title:	Little Busters!: EX
 Tag:	Kuudere
-Tag:	Afterlife
 Tag:	Tsundere
-Tag:	Time Manipulation
-Tag:	Coming of Age
+Tag:	Alternate Universe
 Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	School
+Tag:	Female Harem
+Tag:	Coming of Age
+Tag:	Afterlife
 Related:	50049
 Related:	18195
 Related:	49325

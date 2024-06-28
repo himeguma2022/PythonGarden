@@ -1,21 +1,21 @@
 ID:	345
-Title:	Emma: A Victorian Romance
-Title:	Eikoku Koi Monogatari Emma
 Title:	英國戀物語エマ
+Title:	Eikoku Koi Monogatari Emma
+Title:	Emma: A Victorian Romance
+Tag:	Work
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Tennis
+Tag:	Heterosexual
+Tag:	Maids
+Tag:	Foreign
+Tag:	Urban
 Tag:	Historical
+Tag:	Butler
 Tag:	Love Triangle
 Tag:	Orphan
-Tag:	Butler
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Seinen
-Tag:	Tennis
 Tag:	Homeless
-Tag:	Heterosexual
-Tag:	Work
-Tag:	Maids
-Tag:	Primarily Adult Cast
-Tag:	Foreign
 Related:	792
 Related:	793
 Related:	2035

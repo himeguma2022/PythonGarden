@@ -1,22 +1,22 @@
 ID:	11933
-Title:	The Ambition of Oda Nobuna
 Title:	織田信奈の野望
 Title:	Oda Nobuna no Yabou
-Tag:	Historical
-Tag:	Primarily Female Cast
-Tag:	Isekai
+Title:	The Ambition of Oda Nobuna
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Ninja
+Tag:	Isekai
 Tag:	Kuudere
-Tag:	War
-Tag:	Anachronism
-Tag:	Military
 Tag:	Tsundere
-Tag:	Yandere
-Tag:	Samurai
-Tag:	Time Manipulation
+Tag:	Military
+Tag:	Ninja
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Female Harem
+Tag:	Samurai
+Tag:	Historical
+Tag:	Anachronism
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	War
 Related:	7572
 Related:	61509

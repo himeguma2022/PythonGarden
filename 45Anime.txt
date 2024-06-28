@@ -1,20 +1,20 @@
 ID:	45
-Title:	るろうに剣心 -明治剣客浪漫譚-
-Title:	Rurouni Kenshin
 Title:	Rurouni Kenshin: Meiji Kenkaku Romantan
-Tag:	Historical
-Tag:	Cultivation
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Rurouni Kenshin
+Title:	るろうに剣心 -明治剣客浪漫譚-
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Martial Arts
-Tag:	Politics
 Tag:	Travel
-Tag:	Samurai
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Politics
 Tag:	Rehabilitation
 Tag:	Conspiracy
+Tag:	Samurai
+Tag:	Historical
+Tag:	Shounen
 Related:	401
 Related:	142877
 Related:	12067

@@ -1,11 +1,11 @@
 ID:	17873
+Title:	Pocket Monsters Best Wishes! Season 2: Decolora Adventure
 Title:	ポケットモンスター ベストウイッシュ シーズン２ デコロラアドベンチャー
 Title:	Pokémon BW: Adventures in Unova and Beyond
-Title:	Pocket Monsters Best Wishes! Season 2: Decolora Adventure
 Tag:	Shounen
 Tag:	Kids
-Tag:	Primarily Child Cast
 Tag:	Animals
+Tag:	Primarily Child Cast
 Related:	49953
 Related:	49955
 Related:	16680

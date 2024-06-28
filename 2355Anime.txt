@@ -1,18 +1,18 @@
 ID:	2355
-Title:	Devilman: The Demon Bird
 Title:	デビルマン 妖鳥シレーヌ編
 Title:	Devilman: Youchou Sirene-hen
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Shounen
-Tag:	Urban
+Title:	Devilman: The Demon Bird
 Tag:	Male Protagonist
-Tag:	Nudity
 Tag:	Body Horror
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Gore
 Tag:	Demons
+Tag:	Nudity
+Tag:	Gore
+Tag:	Shounen
+Tag:	Shapeshifting
+Tag:	Urban
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	Philosophy
 Related:	3474
 Related:	3475
 Related:	3476

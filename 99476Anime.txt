@@ -1,13 +1,13 @@
 ID:	99476
+Title:	弱虫ペダルGLORY LINE
 Title:	Yowamushi Pedal: GLORY LINE
 Title:	Yowamushi Pedal Glory Line
-Title:	弱虫ペダルGLORY LINE
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
+Tag:	School Club
 Tag:	Primarily Male Cast
 Tag:	Cycling
-Tag:	School Club
+Tag:	Shounen
 Related:	66058
 Related:	142481
 Related:	20243

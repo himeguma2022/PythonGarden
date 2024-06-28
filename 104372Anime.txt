@@ -1,12 +1,12 @@
 ID:	104372
-Title:	A Day Before Us ZERO
-Title:	Yeonae Haru Jeon ZERO
 Title:	연애하루전 ZERO
+Title:	Yeonae Haru Jeon ZERO
+Title:	A Day Before Us ZERO
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	School
-Tag:	College
 Tag:	Heterosexual
+Tag:	College
+Tag:	School
+Tag:	Love Triangle
 Tag:	Coming of Age
 Related:	132000
 Related:	102425

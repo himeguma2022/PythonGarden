@@ -1,20 +1,20 @@
 ID:	8514
-Title:	ブレイクブレイド 訣別ノ路
 Title:	Broken Blade 2
+Title:	ブレイクブレイド 訣別ノ路
 Title:	Break Blade 2: Ketsubetsu no Michi
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Shounen
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	War
 Tag:	Real Robot
+Tag:	Swordplay
+Tag:	Lost Civilization
+Tag:	Primarily Adult Cast
 Tag:	Military
 Tag:	Magic
-Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Shounen
+Tag:	War
+Tag:	Guns
 Related:	9252
 Related:	20618
 Related:	6413

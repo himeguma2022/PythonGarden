@@ -1,33 +1,33 @@
 ID:	107660
 Title:	BEASTARS
-Tag:	Love Triangle
-Tag:	Anthropomorphism
-Tag:	Cannibalism
-Tag:	Class Struggle
-Tag:	Full CGI
-Tag:	Crime
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Gangs
-Tag:	Primarily Animal Cast
-Tag:	Boarding School
-Tag:	School
-Tag:	Acting
-Tag:	Mafia
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Psychosexual
-Tag:	School Club
-Tag:	CGI
 Tag:	Rape
-Tag:	Philosophy
+Tag:	Politics
+Tag:	Psychosexual
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Cannibalism
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Heterosexual
+Tag:	School Club
 Tag:	Vore
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Full CGI
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Animal Cast
+Tag:	Acting
+Tag:	Primarily Teen Cast
+Tag:	Mafia
+Tag:	Anthropomorphism
+Tag:	Crime
+Tag:	Animals
+Tag:	Philosophy
 Related:	114194
 Related:	98587
 Related:	37532

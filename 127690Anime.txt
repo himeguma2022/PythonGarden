@@ -2,19 +2,19 @@ ID:	127690
 Title:	PUI PUI MOLCAR
 Title:	PUI PUI モルカー
 Title:	PUI PUI Molcar
-Tag:	Iyashikei
 Tag:	Kids
-Tag:	Surreal Comedy
-Tag:	No Dialogue
-Tag:	Stop Motion
-Tag:	Urban
-Tag:	Episodic
 Tag:	Parody
-Tag:	Zombie
+Tag:	No Dialogue
 Tag:	Cars
-Tag:	Henshin
-Tag:	Time Manipulation
 Tag:	Animals
+Tag:	Iyashikei
+Tag:	Time Manipulation
+Tag:	Urban
+Tag:	Surreal Comedy
+Tag:	Stop Motion
+Tag:	Zombie
+Tag:	Episodic
+Tag:	Henshin
 Related:	94329
 Related:	73850
 Related:	150188

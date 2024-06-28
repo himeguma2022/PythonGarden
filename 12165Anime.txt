@@ -1,8 +1,8 @@
 ID:	12165
-Title:	虹のかなたへ! 少女ダイアナ物語
 Title:	Niji no Kanata e! Shoujo Diana Monogatari
-Tag:	Historical
-Tag:	Shoujo
-Tag:	School
+Title:	虹のかなたへ! 少女ダイアナ物語
 Tag:	Biographical
+Tag:	Shoujo
 Tag:	Foreign
+Tag:	School
+Tag:	Historical

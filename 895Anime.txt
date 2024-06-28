@@ -1,16 +1,16 @@
 ID:	895
-Title:	ドラゴンボールＺ この世で一番強いヤツ
 Title:	Dragon Ball Z: Konoyo de Ichiban Tsuyoi Yatsu
 Title:	Dragon Ball Z: The World's Strongest
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Shounen
+Title:	ドラゴンボールＺ この世で一番強いヤツ
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Martial Arts
-Tag:	Primarily Male Cast
-Tag:	Robots
 Tag:	Primarily Adult Cast
+Tag:	Revenge
+Tag:	Robots
+Tag:	Aliens
+Tag:	Primarily Male Cast
+Tag:	Shounen
 Related:	138864
 Related:	813
 Related:	62005

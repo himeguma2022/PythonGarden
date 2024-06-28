@@ -1,29 +1,29 @@
 ID:	114129
 Title:	Gintama: THE VERY FINAL
-Title:	Gintama: THE FINAL
 Title:	銀魂 THE FINAL
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Anachronism
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Afterlife
-Tag:	Meta
-Tag:	Swordplay
-Tag:	Ninja
-Tag:	War
+Title:	Gintama: THE FINAL
 Tag:	Robots
-Tag:	Found Family
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
 Tag:	Surreal Comedy
-Tag:	Philosophy
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Meta
+Tag:	Aliens
+Tag:	Anachronism
+Tag:	War
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Historical
+Tag:	Shounen
+Tag:	Ninja
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	Samurai
+Tag:	Philosophy
 Related:	126819
 Related:	37507
 Related:	50150

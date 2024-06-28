@@ -1,20 +1,20 @@
 ID:	21887
-Title:	Fuuka
 Title:	風夏
-Tag:	Teacher
-Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Shounen
-Tag:	Band
+Title:	Fuuka
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	School
 Tag:	Nudity
-Tag:	LGBTQ+ Themes
 Tag:	Heterosexual
+Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
 Tag:	Rock Music
+Tag:	Band
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Teacher
 Tag:	Idol
 Related:	85216
 Related:	11444

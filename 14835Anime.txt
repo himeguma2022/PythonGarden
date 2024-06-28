@@ -1,11 +1,11 @@
 ID:	14835
-Title:	The Idolm@ster: Shiny Festa
 Title:	アイドルマスター シャイニーフェスタ
+Title:	The Idolm@ster: Shiny Festa
+Tag:	Work
+Tag:	Dancing
+Tag:	Alternate Universe
 Tag:	Tomboy
 Tag:	Primarily Female Cast
-Tag:	Dancing
-Tag:	Work
-Tag:	Alternate Universe
 Tag:	Idol
 Related:	11889
 Related:	43242

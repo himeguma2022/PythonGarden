@@ -1,24 +1,24 @@
 ID:	122052
 Title:	Kaizoku Oujo
-Title:	Fena: Pirate Princess
 Title:	海賊王女
-Tag:	Historical
-Tag:	Kuudere
-Tag:	Anachronism
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Female Protagonist
+Title:	Fena: Pirate Princess
 Tag:	Fairy Tale
 Tag:	Travel
 Tag:	Foreign
-Tag:	Mythology
-Tag:	Ninja
+Tag:	Memory Manipulation
 Tag:	Primarily Male Cast
-Tag:	Assassins
-Tag:	Ships
-Tag:	Heterosexual
-Tag:	Twins
+Tag:	Mythology
 Tag:	Coming of Age
+Tag:	Heterosexual
 Tag:	Pirates
-Tag:	Philosophy
+Tag:	Anachronism
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Ships
+Tag:	Historical
 Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Ninja
+Tag:	Philosophy

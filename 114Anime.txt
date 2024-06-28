@@ -1,20 +1,20 @@
 ID:	114
+Title:	Sakigake!! Cromartie Koukou
 Title:	魁!!クロマティ高校
 Title:	Cromartie High School
-Title:	Sakigake!! Cromartie Koukou
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Delinquents
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
+Tag:	Primarily Teen Cast
 Tag:	Parody
 Tag:	Animals
 Tag:	Robots
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Delinquents
 Related:	304
 Related:	98273
 Related:	30339

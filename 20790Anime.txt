@@ -1,18 +1,18 @@
 ID:	20790
-Title:	Magic Kaito 1412
 Title:	まじっく快斗1412
-Tag:	Crossover
-Tag:	Shounen
-Tag:	Urban
+Title:	Magic Kaito 1412
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Mafia
+Tag:	Crossover
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Urban
 Tag:	School
 Tag:	Detective
-Tag:	Mafia
+Tag:	Episodic
 Tag:	Anti-Hero
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Shounen
 Related:	235
 Related:	31804
 Related:	9457

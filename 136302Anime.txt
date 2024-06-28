@@ -1,17 +1,17 @@
 ID:	136302
-Title:	"Goodbye, Don Glees!"
 Title:	Goodbye, Don Glees!
+Title:	"Goodbye, Don Glees!"
 Title:	グッバイ、ドン・グリーズ！
-Tag:	Tragedy
-Tag:	Outdoor
-Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Photography
-Tag:	Primarily Male Cast
-Tag:	Travel
-Tag:	Crossdressing
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Photography
+Tag:	Travel
+Tag:	Outdoor
+Tag:	Crossdressing
+Tag:	Tragedy
 Tag:	Cycling
+Tag:	Primarily Male Cast
+Tag:	Rural
 Tag:	Coming of Age
 Related:	144017
 Related:	67700

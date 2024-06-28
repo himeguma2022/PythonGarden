@@ -1,17 +1,17 @@
 ID:	20670
-Title:	Black Butler: Book of Murder
 Title:	Kuroshitsuji: Book of Murder
 Title:	黒執事 Book of Murder
-Tag:	Crime
-Tag:	Shounen
-Tag:	Butler
+Title:	Black Butler: Book of Murder
 Tag:	Male Protagonist
-Tag:	Detective
-Tag:	Kuudere
-Tag:	Zombie
-Tag:	Anti-Hero
+Tag:	Crime
 Tag:	Demons
+Tag:	Kuudere
 Tag:	Foreign
+Tag:	Zombie
+Tag:	Butler
+Tag:	Detective
+Tag:	Anti-Hero
+Tag:	Shounen
 Related:	9188
 Related:	23914
 Related:	33866

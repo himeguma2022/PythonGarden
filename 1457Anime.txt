@@ -1,18 +1,18 @@
 ID:	1457
 Title:	KEY THE METAL IDOL
 Title:	Key the Metal Idol
-Tag:	Guns
-Tag:	Tragedy
 Tag:	Super Power
-Tag:	Dissociative Identities
 Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Cyberpunk
 Tag:	Nudity
-Tag:	Cult
+Tag:	Kuudere
 Tag:	Gore
-Tag:	Robots
 Tag:	Amnesia
+Tag:	Robots
+Tag:	Artificial Intelligence
 Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Cult
+Tag:	Cyberpunk
 Tag:	Idol
+Tag:	Guns

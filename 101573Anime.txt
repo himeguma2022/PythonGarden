@@ -1,28 +1,28 @@
 ID:	101573
+Title:	やがて君になる
 Title:	Yagate Kimi ni Naru
 Title:	Bloom Into You
-Title:	やがて君になる
-Tag:	Love Triangle
-Tag:	POV
-Tag:	Trains
-Tag:	Asexual
 Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Meta
-Tag:	Athletics
-Tag:	School
-Tag:	Acting
-Tag:	LGBTQ+ Themes
-Tag:	Aromantic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	School Club
-Tag:	Philosophy
-Tag:	Bisexual
 Tag:	Writing
+Tag:	Trains
+Tag:	School
+Tag:	Coming of Age
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	School Club
+Tag:	Aromantic
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Athletics
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Acting
+Tag:	Primarily Teen Cast
+Tag:	Asexual
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
+Tag:	POV
 Related:	22616
 Related:	86218

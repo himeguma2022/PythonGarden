@@ -1,18 +1,18 @@
 ID:	6862
 Title:	K-ON!: Live House!
 Title:	けいおん! ライブハウス!
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Female Cast
+Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Primarily Teen Cast
 Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Female Protagonist
+Tag:	Iyashikei
 Tag:	Ensemble Cast
-Tag:	School
-Tag:	Seinen
-Tag:	Rock Music
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
 Related:	5848
 Related:	49273
 Related:	5680

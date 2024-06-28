@@ -1,14 +1,14 @@
 ID:	103631
+Title:	Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou
 Title:	Trinity Seven: Heavens Library & Crimson Lord
 Title:	劇場版トリニティセブン -天空図書館と真紅の魔王
-Title:	Trinity Seven Movie - Tenkuu Toshokan to Shinku no Maou
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Harem
 Tag:	Kuudere
 Tag:	Magic
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Female Harem
+Tag:	Shounen
 Related:	24528
 Related:	54822
 Related:	43048

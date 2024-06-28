@@ -1,12 +1,12 @@
 ID:	21235
-Title:	Kuroko's Basketball: The Greatest Present
 Title:	黒子のバスケ ~最高のプレゼントです~
+Title:	Kuroko's Basketball: The Greatest Present
 Title:	Kuroko no Basket: Saikou no Present Desu
-Tag:	Basketball
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Basketball
+Tag:	Shounen
 Related:	20725
 Related:	10303

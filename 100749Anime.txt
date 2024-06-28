@@ -1,17 +1,17 @@
 ID:	100749
-Title:	Mirai no Mirai
 Title:	Mirai
+Title:	Mirai no Mirai
 Title:	未来のミライ
-Tag:	CGI
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Alternate Universe
-Tag:	Family Life
+Tag:	CGI
 Tag:	Urban Fantasy
-Tag:	Trains
+Tag:	Family Life
 Tag:	Animals
+Tag:	Alternate Universe
 Tag:	Time Manipulation
-Tag:	Coming of Age
+Tag:	Urban
+Tag:	Trains
 Tag:	Parenthood
+Tag:	Coming of Age
 Related:	145850
 Related:	69884

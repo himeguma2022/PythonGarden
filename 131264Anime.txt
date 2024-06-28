@@ -1,16 +1,16 @@
 ID:	131264
-Title:	Hanyou no Yashahime: Ni no Shou
 Title:	Yashahime: Princess Half-Demon - The Second Act
+Title:	Hanyou no Yashahime: Ni no Shou
 Title:	半妖の夜叉姫 弐の章
-Tag:	Tomboy
-Tag:	Historical
-Tag:	Archery
-Tag:	Isekai
-Tag:	Shounen
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Youkai
-Tag:	Magic
 Tag:	Demons
+Tag:	Isekai
+Tag:	Magic
+Tag:	Archery
+Tag:	Historical
+Tag:	Tomboy
+Tag:	Youkai
+Tag:	Shounen
 Related:	54517
 Related:	118399

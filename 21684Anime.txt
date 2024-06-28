@@ -1,16 +1,16 @@
 ID:	21684
 Title:	The Irregular at Magic High School The Movie: The Girl Who Summons the Stars
-Title:	劇場版 魔法科高校の劣等生 星を呼ぶ少女
 Title:	Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
-Tag:	Swordplay
+Title:	劇場版 魔法科高校の劣等生 星を呼ぶ少女
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Kuudere
+Tag:	Swordplay
 Tag:	Nudity
-Tag:	Politics
+Tag:	Kuudere
 Tag:	Military
-Tag:	Magic
 Tag:	Twins
+Tag:	Magic
+Tag:	Politics
+Tag:	School
 Related:	121561
 Related:	112300
 Related:	44604

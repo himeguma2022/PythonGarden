@@ -1,22 +1,22 @@
 ID:	103110
-Title:	アイドリッシュセブン Second BEAT!
 Title:	IDOLiSH7: Second BEAT!
 Title:	IDOLiSH7 Second BEAT!
-Tag:	Tragedy
-Tag:	Cute Boys Doing Cute Things
-Tag:	CGI
+Title:	アイドリッシュセブン Second BEAT!
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	CGI
 Tag:	Acting
-Tag:	Primarily Male Cast
-Tag:	Chibi
-Tag:	Idol
-Tag:	LGBTQ+ Themes
-Tag:	Dancing
-Tag:	Otaku Culture
-Tag:	Twins
 Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Twins
+Tag:	Dancing
+Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Otaku Culture
+Tag:	Tragedy
 Tag:	Found Family
+Tag:	Primarily Male Cast
+Tag:	LGBTQ+ Themes
+Tag:	Idol
 Related:	48354
 Related:	78790
 Related:	87495

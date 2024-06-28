@@ -1,15 +1,15 @@
 ID:	21588
-Title:	Gintama: Love Incense Arc
-Title:	銀魂 愛染香篇
 Title:	Gintamaº: Aizome Kaori-hen
-Tag:	Aliens
-Tag:	Shounen
+Title:	銀魂 愛染香篇
+Title:	Gintama: Love Incense Arc
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
 Tag:	Parody
-Tag:	Anachronism
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Female Harem
 Tag:	Samurai
+Tag:	Anachronism
+Tag:	Shounen
 Related:	17836
 Related:	10917
 Related:	20996

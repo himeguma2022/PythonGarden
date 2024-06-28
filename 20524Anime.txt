@@ -1,18 +1,18 @@
 ID:	20524
-Title:	きょうかいのかなた アイドル裁判！～迷いながらも君を裁く民～
-Title:	Beyond the Boundary: Idol Trial!
 Title:	Kyoukai no Kanata: Idol Saiban! Mayoi Nagara mo Kimi wo Sabaku Tami
-Tag:	Primarily Female Cast
-Tag:	Super Power
-Tag:	School Club
-Tag:	Cute Girls Doing Cute Things
+Title:	Beyond the Boundary: Idol Trial!
+Title:	きょうかいのかなた アイドル裁判！～迷いながらも君を裁く民～
 Tag:	CGI
+Tag:	Super Power
 Tag:	Swordplay
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Chibi
-Tag:	Demons
+Tag:	Cute Girls Doing Cute Things
+Tag:	School Club
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	8825
 Related:	18153

@@ -1,19 +1,19 @@
 ID:	98202
-Title:	Tsukigakirei
 Title:	月がきれい
+Title:	Tsukigakirei
 Title:	Tsuki ga Kirei
-Tag:	Primarily Child Cast
-Tag:	School Club
-Tag:	American Football
+Tag:	Time Skip
 Tag:	CGI
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Athletics
-Tag:	School
-Tag:	Time Skip
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Writing
+Tag:	Athletics
+Tag:	Heterosexual
+Tag:	American Football
+Tag:	Primarily Child Cast
+Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Coming of Age
 Related:	100305
 Related:	22207

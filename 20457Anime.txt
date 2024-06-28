@@ -1,23 +1,23 @@
 ID:	20457
 Title:	ブラック・ブレット
 Title:	Black Bullet
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Kemonomimi
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Military
-Tag:	Suicide
+Tag:	Kemonomimi
 Tag:	Gore
-Tag:	Yandere
+Tag:	Military
+Tag:	Revenge
 Tag:	Pandemic
-Tag:	Monster Girl
 Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Female Harem
 Tag:	Kaiju
+Tag:	Yandere
+Tag:	Suicide
+Tag:	Monster Girl
+Tag:	Guns
 Related:	75559
 Related:	46312
 Related:	75597

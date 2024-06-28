@@ -1,26 +1,26 @@
 ID:	122808
 Title:	プリンセスコネクト！Re:Dive Season 2
 Title:	Princess Connect! Re:Dive Season 2
-Tag:	Isekai
-Tag:	Elf
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
 Tag:	Food
-Tag:	Gender Bending
-Tag:	Time Manipulation
-Tag:	Agriculture
-Tag:	Kemonomimi
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	CGI
-Tag:	Virtual World
-Tag:	Ojou-sama
-Tag:	Amnesia
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Isekai
+Tag:	Ojou-sama
+Tag:	Virtual World
+Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Cute Girls Doing Cute Things
+Tag:	Time Manipulation
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Kemonomimi
+Tag:	Elf
+Tag:	Gender Bending
+Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Magic
 Tag:	Idol
 Related:	47018
 Related:	46003

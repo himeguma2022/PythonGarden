@@ -1,18 +1,18 @@
 ID:	161474
-Title:	Rascal Does Not Dream of a Knapsack Kid
 Title:	青春ブタ野郎はランドセルガールの夢を見ない
+Title:	Rascal Does Not Dream of a Knapsack Kid
 Title:	Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+Tag:	Male Protagonist
+Tag:	Acting
+Tag:	Urban Fantasy
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Alternate Universe
+Tag:	Rehabilitation
+Tag:	School
 Tag:	Primarily Female Cast
 Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Alternate Universe
-Tag:	Family Life
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Acting
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Rehabilitation
 Related:	171046
 Related:	145166
 Related:	91958

@@ -1,19 +1,19 @@
 ID:	110088
-Title:	Ani ni Tsukeru Kusuri wa Nai! 3
-Title:	兄に付ける薬はない！3
 Title:	Take My Brother Away! 3
-Tag:	Basketball
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Slapstick
+Title:	兄に付ける薬はない！3
+Title:	Ani ni Tsukeru Kusuri wa Nai! 3
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	School
 Tag:	Food
-Tag:	Crossdressing
+Tag:	Family Life
 Tag:	Foreign
+Tag:	Crossdressing
+Tag:	School
+Tag:	Love Triangle
+Tag:	Basketball
+Tag:	Episodic
+Tag:	Slapstick
 Related:	33161
 Related:	33163
 Related:	120046

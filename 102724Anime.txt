@@ -1,15 +1,15 @@
 ID:	102724
 Title:	Chicken Papa
 Title:	チキンパパ
-Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Office Lady
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Food
-Tag:	Office
-Tag:	Anthropomorphism
+Tag:	CGI
 Tag:	Cosmic Horror
-Tag:	Animals
-Tag:	Dinosaurs
+Tag:	Anthropomorphism
+Tag:	Food
 Tag:	Primarily Adult Cast
+Tag:	Animals
+Tag:	Full CGI
+Tag:	Office Lady
+Tag:	Office
+Tag:	Tragedy
+Tag:	Dinosaurs

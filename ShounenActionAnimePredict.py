@@ -19,9 +19,10 @@ class ShounenActionAnimePredict:
         self.OutputAnimeList = OutputAnimeList      
         allData:dict[str:dict[Anime:float]] = ExtractOutFile(allDataFile)
         self.allData:dict[str:dict[Anime:float]] = ExtractOutFile(allDataFile)
-        PosNegRankScoreDict(self.allData)
-        labelledData:dict[str:dict[Anime:float]] = PosNegRankScoreDict(allData.copy())
-        print("User data processed!")
+        dictData = PosNegRankScoreDict(self.allData)
+        self.uScoreGuide = dictData[1]
+        dictData2 = PosNegRankScoreDict(allData.copy())
+        labelledData:dict[str:dict[Anime:float]] = dictData2[0]
         nonTrainTest:dict[str:dict[Anime:float]] = dict()
         for t in targetUsers:
             if(t in labelledData.keys()):
@@ -79,9 +80,6 @@ class ShounenActionAnimePredict:
             y_train_List.append(np.array(vals))
         y_train = np.array(y_train_List)
         
-        plt.figure(1)
-        plt.scatter(X_train[:,0],X_train[:,1] , c=y_train[:,0],s=100*(y_train[:,1] + 1.1), cmap='viridis')
-        plt.colorbar()
         
         model = tf.keras.models.Sequential([
             tf.keras.layers.Dense(units = 1, input_shape = [len(inAnis)]),
@@ -99,7 +97,6 @@ class ShounenActionAnimePredict:
             xInInNums.append(np.array(vals))
             self.resultUIndex.update({u:len(xInInNums) - 1})
         xIn = np.array(xInInNums)
-        model.summary()
                 
         model.compile(optimizer='adam',  
                
@@ -108,32 +105,33 @@ class ShounenActionAnimePredict:
               loss=my_loss_fn,
               run_eagerly=True) 
         epsPerFit = 100
-        model.fit(X_train, y_train,epochs=epsPerFit)
-        self.res = model.predict(xIn)
+        model.fit(X_train, y_train,epochs=epsPerFit, verbose=0)
+        self.res = model.predict(xIn,verbose=0)
         self.predictedAnimes = OutputAnimes
         z = model.predict(X_train)
-        
-        plt.figure(2)
-        plt.scatter(X_train[:,0],X_train[:,1] , c=z[:,0],s=100*(z[:,1] + 1.1), cmap='viridis')
-        plt.colorbar()
         
         
         self.EvalModel()
         fitTimes = 1
         missList = [self.iacc]
-        while(fitTimes * epsPerFit < 10000):
-            model.fit(X_train, y_train,epochs=epsPerFit)
-            self.res = model.predict(xIn)
+        while(fitTimes * epsPerFit < 1000):
+            model.fit(X_train, y_train,epochs=epsPerFit,verbose=0)
+            self.res = model.predict(xIn,verbose=0)
             self.EvalModel()
             missList.append(self.iacc)
             fitTimes += 1
-        z = model.predict(X_train)
         
-        plt.figure(3)
-        plt.scatter(X_train[:,0],X_train[:,1] , c=z[:,0],s=100*(z[:,1]+1.1), cmap='viridis')
-        plt.colorbar()
-        plt.show()
-          
+        self.model = model
+        
+        
+        ScoreResultsList = []
+        for t in targetUsers:
+            if(t in self.uScoreGuide):
+                ScoreResultsList.append(ClassScoreArray(self.res[self.resultUIndex.get(t)],self.uScoreGuide.get(t)))
+            else:
+                ScoreResultsList.append(self.res[self.resultUIndex.get(t)])
+        self.ScoreResults = np.array(ScoreResultsList)
+                  
     def EvalModel(self):
         self.HData:dict[str:dict[Anime:float]] = dict()
         for u in self.targetUsers:
@@ -167,7 +165,15 @@ class ShounenActionAnimePredict:
             for A in self.TestDataPoints.get(u):
                 print(A.name + ": " + str(self.TestDataPoints.get(u).get(A)))
 
+def ClassScoreArray(hScores:np.array, scoreGuide:dict[float:float]) -> np.array:
+    for i in range(len(hScores)):
+        val = hScores[i]
+        hScores[i] = ClassScore(val, scoreGuide)
+    
+    return hScores
 
+def ClassScore(val:float, scoreGuide:dict[float:float]) -> float:
+    return scoreGuide.get(min(scoreGuide, key=lambda x:abs(x-val)))
 
 def ExtractOutFile(fileString:str) -> dict[str:dict[Anime:float]]:
     out = dict()
@@ -187,10 +193,23 @@ def ExtractOutFile(fileString:str) -> dict[str:dict[Anime:float]]:
     return out
         
                        
-def PosNegRankScoreDict(userScores:dict[str:dict[Anime:float]]) -> dict:
+def PosNegRankScoreDict(userScores:dict[str:dict[Anime:float]]) -> list[dict, dict]:
+    uGuide:dict[str:dict[float:float]] = dict()
     for u in userScores:
-        userScores.update({u:PosNegRankScore(userScores.get(u))})
-    return userScores
+        od = userScores.get(u).copy()
+        d = PosNegRankScore(userScores.get(u))
+        userScores.update({u:d})
+        uGuideD = ScoreToPosNeg(d, od)
+        uGuide.update({u:uGuideD})
+    return [userScores, uGuide]
+
+def ScoreToPosNeg(posNegs:dict[Anime:float], originalScores:dict[Anime:float]) -> dict:
+    out = dict()
+    for a in posNegs:
+        pn = posNegs.get(a)
+        if(pn not in out):
+            out.update({pn:originalScores.get(a)})
+    return out
 
 def PosNegRankScore(userScore:dict[Anime:float]) -> dict:
     vals = list(userScore.values())
@@ -284,6 +303,19 @@ def my_loss_fn(y_true:tf.Tensor, y_pred:tf.Tensor):
     squared_difference = ops.square(tensorY - y_pred)
     return ops.mean(squared_difference, axis=-1)  # Note the `axis=-1`
 
+def CalcAverageOfManyModels(modelsData:np.ndarray) -> np.ndarray:
+    out = np.ndarray(shape=modelsData[0].shape)
+    for u in range(len(out)):
+        for a in range(len(out[u])):
+            out[u][a] = np.mean(modelsData[:,u,a])
+    return out
+
+def CalcStdOfManyModels(modelsData:np.ndarray) -> np.ndarray:
+    out = np.ndarray(shape=modelsData[0].shape)
+    for u in range(len(out)):
+        for a in range(len(out[u])):
+            out[u][a] = np.std(modelsData[:,u,a])
+    return out
     
 def main():
     global Adb
@@ -302,12 +334,18 @@ def main():
         Adb.ImportFromFile('AnimeDataBase.txt')
     print("Database Loaded!")
     train = "AniListUserData.csv"
+    resultsList = []
+    for i in range(10):
+        A = ShounenActionAnimePredict(train,['Himeguma','new'],recFor)
+        resultsList.append(A.ScoreResults)
     
-    A = ShounenActionAnimePredict(train,['Himeguma','new'],recFor)
-    print(A.iacc)
-    A.printResults()
+    results = np.array(resultsList)
+    meanResults = CalcAverageOfManyModels(results)
+    stdResults = CalcStdOfManyModels(results)
+    print(meanResults)
+    print(stdResults)
     
-    Adb.ExportToFile("AnimeDataBase.txt")  
+    Adb.ExportToFile("AnimeDataBase.txt")
          
 if __name__ == '__main__':
     main()

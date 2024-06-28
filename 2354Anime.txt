@@ -1,20 +1,20 @@
 ID:	2354
-Title:	デビルマン 誕生編
-Title:	Devilman: The Birth
 Title:	Devilman: Tanjou-hen
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Drugs
-Tag:	Shounen
+Title:	Devilman: The Birth
+Title:	デビルマン 誕生編
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Nudity
 Tag:	Body Horror
-Tag:	Shapeshifting
-Tag:	Philosophy
+Tag:	Urban Fantasy
+Tag:	Drugs
+Tag:	Demons
+Tag:	Nudity
 Tag:	Gore
 Tag:	Cars
-Tag:	Demons
+Tag:	Shounen
+Tag:	Shapeshifting
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Guns
 Related:	2252
 Related:	3471
 Related:	3472

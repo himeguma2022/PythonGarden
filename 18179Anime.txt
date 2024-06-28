@@ -1,14 +1,14 @@
 ID:	18179
 Title:	弱虫ペダル
 Title:	Yowamushi Pedal
-Tag:	Primarily Teen Cast
-Tag:	CGI
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	CGI
+Tag:	Primarily Teen Cast
 Tag:	Otaku Culture
-Tag:	Cycling
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Cycling
+Tag:	Shounen
 Related:	18177
 Related:	110694
 Related:	8936

@@ -1,23 +1,23 @@
 ID:	114302
-Title:	Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore
 Title:	チート薬師のスローライフ～異世界に作ろうドラッグストア～
+Title:	Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore
 Title:	Drug Store in Another World - The Slow Life of a Cheat Pharmacist
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Kemonomimi
 Tag:	Drugs
-Tag:	Werewolf
-Tag:	Isekai
-Tag:	Medicine
-Tag:	Female Harem
-Tag:	Episodic
 Tag:	Elf
-Tag:	Gods
+Tag:	Kemonomimi
+Tag:	Ghost
 Tag:	Makeup
 Tag:	Magic
-Tag:	Conspiracy
+Tag:	Iyashikei
 Tag:	Found Family
+Tag:	Werewolf
+Tag:	Conspiracy
+Tag:	Female Harem
+Tag:	Gods
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Medicine
 Related:	37609
 Related:	106819
 Related:	106820

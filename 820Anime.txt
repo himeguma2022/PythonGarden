@@ -2,31 +2,31 @@ ID:	820
 Title:	Ginga Eiyuu Densetsu
 Title:	Legend of the Galactic Heroes
 Title:	銀河英雄伝説
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Post-Apocalyptic
-Tag:	Space
-Tag:	Cult
-Tag:	Gore
-Tag:	Royal Affairs
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Foreign
-Tag:	Terrorism
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Space Opera
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Rape
 Tag:	Military
-Tag:	Philosophy
+Tag:	Space
+Tag:	Rape
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Royal Affairs
+Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Male Protagonist
 Tag:	Femboy
+Tag:	Space Opera
+Tag:	Heterosexual
+Tag:	War
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Boys' Love
+Tag:	Terrorism
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	47136
 Related:	170816
 Related:	124032

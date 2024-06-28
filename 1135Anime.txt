@@ -1,13 +1,13 @@
 ID:	1135
 Title:	MUNTO: Toki no Kabe wo Koete
-Title:	Munto 2: Beyond the Walls of Time
 Title:	MUNTO 時の壁を越えて
+Title:	Munto 2: Beyond the Walls of Time
 Tag:	Super Power
-Tag:	Isekai
 Tag:	Female Protagonist
-Tag:	War
 Tag:	Magic
 Tag:	Alternate Universe
+Tag:	Isekai
+Tag:	War
 Related:	5702
 Related:	92582
 Related:	1174

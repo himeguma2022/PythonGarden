@@ -1,24 +1,24 @@
 ID:	1088
-Title:	Choujikuu Yousai Macross
 Title:	Macross
 Title:	超時空要塞マクロス
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Space
-Tag:	War
-Tag:	Real Robot
-Tag:	Idol
-Tag:	Military
-Tag:	Space Opera
-Tag:	Crossdressing
+Title:	Choujikuu Yousai Macross
 Tag:	Time Skip
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Musical Theater
-Tag:	Primarily Adult Cast
+Tag:	Male Protagonist
+Tag:	Real Robot
+Tag:	Space Opera
 Tag:	Incest
+Tag:	Lost Civilization
+Tag:	Idol
+Tag:	Primarily Adult Cast
+Tag:	Space
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Aliens
+Tag:	Crossdressing
+Tag:	Musical Theater
+Tag:	Love Triangle
+Tag:	War
+Tag:	Aviation
 Related:	1504
 Related:	1089
 Related:	194

@@ -1,31 +1,31 @@
 ID:	139274
-Title:	機動戦士ガンダム 水星の魔女
 Title:	Kidou Senshi Gundam: Suisei no Majo
+Title:	機動戦士ガンダム 水星の魔女
 Title:	Mobile Suit Gundam: The Witch from Mercury
 Tag:	Clone
-Tag:	Love Triangle
-Tag:	Artificial Intelligence
-Tag:	Space
-Tag:	Kuudere
-Tag:	Tsundere
-Tag:	Class Struggle
-Tag:	Conspiracy
 Tag:	Yuri
-Tag:	Witch
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Cyberpunk
+Tag:	Space
 Tag:	Politics
-Tag:	Cyborg
-Tag:	Guns
-Tag:	Terrorism
-Tag:	Boarding School
+Tag:	Conspiracy
 Tag:	School
-Tag:	Real Robot
-Tag:	Revenge
+Tag:	Bullying
 Tag:	Bisexual
+Tag:	Cyborg
+Tag:	Witch
+Tag:	Cyberpunk
+Tag:	Guns
+Tag:	Class Struggle
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Boarding School
+Tag:	Artificial Intelligence
+Tag:	Love Triangle
 Tag:	Mixed Gender Harem
+Tag:	Real Robot
+Tag:	Primarily Teen Cast
+Tag:	Terrorism
+Tag:	Tsundere
+Tag:	Revenge
 Related:	63232
 Related:	78232
 Related:	146922

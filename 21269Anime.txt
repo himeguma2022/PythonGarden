@@ -1,22 +1,22 @@
 ID:	21269
 Title:	SERVAMP
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Shoujo
-Tag:	Werewolf
-Tag:	Urban
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Ensemble Cast
-Tag:	Vampire
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Animals
-Tag:	Memory Manipulation
 Tag:	Adoption
+Tag:	Vampire
+Tag:	Revenge
+Tag:	Animals
+Tag:	Shapeshifting
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Shoujo
+Tag:	Primarily Male Cast
+Tag:	Tragedy
+Tag:	Werewolf
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Philosophy
 Related:	100768
 Related:	21707
 Related:	21709

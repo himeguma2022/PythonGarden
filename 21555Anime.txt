@@ -2,14 +2,14 @@ ID:	21555
 Title:	Dies Irae
 Title:	Dies irae
 Title:	ディエス・イレ
-Tag:	Feet
-Tag:	Super Power
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Gods
 Tag:	Chuunibyou
+Tag:	Feet
 Tag:	Magic
 Tag:	Time Manipulation
+Tag:	Gods
 Tag:	Kaiju
 Related:	22140
 Related:	175619

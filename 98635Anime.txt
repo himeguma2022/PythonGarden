@@ -2,16 +2,16 @@ ID:	98635
 Title:	ReLIFE: Final Arc
 Title:	ReLIFE: Kanketsu-hen
 Title:	ReLIFE 完結編
-Tag:	Heterosexual
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	School
-Tag:	Kuudere
 Tag:	Seinen
-Tag:	Memory Manipulation
+Tag:	Kuudere
 Tag:	Chibi
+Tag:	Heterosexual
 Tag:	Maids
 Tag:	Rehabilitation
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Age Regression
 Related:	18787
 Related:	18789
 Related:	108939

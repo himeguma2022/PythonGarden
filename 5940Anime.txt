@@ -1,11 +1,11 @@
 ID:	5940
-Title:	聖剣の刀鍛冶（ブラックスミス）
-Title:	The Sacred Blacksmith
 Title:	Seiken no Blacksmith
+Title:	The Sacred Blacksmith
+Title:	聖剣の刀鍛冶（ブラックスミス）
+Tag:	Demons
 Tag:	Swordplay
 Tag:	Magic
 Tag:	Nudity
-Tag:	Demons
 Related:	42240
 Related:	5475
 Related:	59238

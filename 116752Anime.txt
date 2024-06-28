@@ -1,19 +1,19 @@
 ID:	116752
 Title:	The Seven Deadly Sins: Dragon's Judgement
-Title:	七つの大罪 憤怒の審判
 Title:	Nanatsu no Taizai: Funnu no Shinpan
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	CGI
-Tag:	Shounen
-Tag:	Angels
+Title:	七つの大罪 憤怒の審判
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Gods
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	CGI
+Tag:	Super Power
 Tag:	Demons
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Gods
+Tag:	Shounen
+Tag:	War
 Related:	108928
 Related:	128740
 Related:	40179

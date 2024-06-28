@@ -1,27 +1,27 @@
 ID:	103713
+Title:	Pretty Guardian Sailor Moon Eternal The Movie Part 1
 Title:	美少女戦士セーラームーンEternal 前編
 Title:	Bishoujo Senshi Sailor Moon: Eternal - Zenpen
-Title:	Pretty Guardian Sailor Moon Eternal The Movie Part 1
-Tag:	Tokusatsu
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Circus
-Tag:	Ensemble Cast
 Tag:	Fairy Tale
-Tag:	Rehabilitation
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Age Regression
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Revenge
 Tag:	Demons
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Circus
+Tag:	Primarily Teen Cast
+Tag:	Revenge
+Tag:	Magic
+Tag:	Found Family
+Tag:	Rehabilitation
+Tag:	Tokusatsu
+Tag:	LGBTQ+ Themes
+Tag:	Age Regression
 Related:	24608
 Related:	103712
 Related:	24610

@@ -1,12 +1,12 @@
 ID:	1709
-Title:	Pocket Monsters: Mewtwo! Ware wa Koko ni Ari
 Title:	Pokémon: Mewtwo Returns
+Title:	Pocket Monsters: Mewtwo! Ware wa Koko ni Ari
 Title:	ポケットモンスター ミュウツー! 我ハココニ在リ
-Tag:	Kids
 Tag:	Male Protagonist
+Tag:	Kids
 Tag:	Environmental
-Tag:	Philosophy
 Tag:	Animals
+Tag:	Philosophy
 Related:	46120
 Related:	527
 Related:	528

@@ -1,27 +1,27 @@
 ID:	21803
 Title:	クビキリサイクル 青色サヴァンと戯言遣い
-Title:	Kubikiri Cycle: The Blue Savant and the Nonsense User
 Title:	Kubikiri Cycle: Aoiro Savant to Zaregotozukai
-Tag:	Tragedy
+Title:	Kubikiri Cycle: The Blue Savant and the Nonsense User
+Tag:	Maids
+Tag:	Conspiracy
+Tag:	Ojou-sama
+Tag:	Detective
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Ships
-Tag:	Heterosexual
 Tag:	Hikikomori
-Tag:	CGI
-Tag:	Detective
-Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Ojou-sama
-Tag:	Maids
+Tag:	Crime
 Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Philosophy
 Related:	101912
 Related:	11265
 Related:	23091

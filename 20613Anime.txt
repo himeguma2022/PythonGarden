@@ -1,33 +1,33 @@
 ID:	20613
 Title:	アカメが斬る！
 Title:	Akame ga Kill!
-Tag:	Tragedy
+Tag:	Demons
+Tag:	Politics
+Tag:	Yandere
+Tag:	Henshin
+Tag:	Male Protagonist
 Tag:	Super Power
-Tag:	Love Triangle
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Nekomimi
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Kemonomimi
 Tag:	Kuudere
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Kaiju
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Swordplay
 Tag:	Female Harem
-Tag:	Assassins
-Tag:	Nekomimi
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Tomboy
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Crime
 Tag:	Revenge
-Tag:	Shapeshifting
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	Kaiju
 Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Demons
 Related:	9433
 Related:	9083
 Related:	55132

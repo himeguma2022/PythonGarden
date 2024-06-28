@@ -1,23 +1,23 @@
 ID:	131930
 Title:	Yasuke
 Title:	Yasuke -ヤスケ-
-Tag:	Historical
-Tag:	Super Power
-Tag:	Orphan
-Tag:	CGI
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Martial Arts
+Tag:	CGI
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	War
+Tag:	Martial Arts
+Tag:	Gore
+Tag:	Military
+Tag:	Magic
+Tag:	Robots
+Tag:	Shapeshifting
+Tag:	Samurai
+Tag:	Orphan
+Tag:	Historical
 Tag:	Anachronism
 Tag:	Body Horror
-Tag:	Shapeshifting
-Tag:	Military
-Tag:	Gore
-Tag:	Robots
-Tag:	Magic
-Tag:	Samurai
+Tag:	War
 Tag:	Monster Girl
 Related:	136067
 Related:	59302

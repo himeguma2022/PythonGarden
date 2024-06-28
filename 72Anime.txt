@@ -1,18 +1,18 @@
 ID:	72
-Title:	Full Metal Panic? Fumoffu
 Title:	フルメタル・パニック? ふもっふ
-Tag:	Guns
-Tag:	Crime
-Tag:	Surreal Comedy
-Tag:	Slapstick
-Tag:	Delinquents
-Tag:	Female Protagonist
+Title:	Full Metal Panic? Fumoffu
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	School
+Tag:	Female Protagonist
+Tag:	Crime
 Tag:	Parody
-Tag:	Military
 Tag:	Tsundere
+Tag:	Military
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Delinquents
 Related:	28260
 Related:	167
 Related:	168

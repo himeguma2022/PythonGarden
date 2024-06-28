@@ -1,20 +1,20 @@
 ID:	109287
-Title:	Adachi to Shimamura
-Title:	Adachi and Shimamura
 Title:	安達としまむら
-Tag:	Iyashikei
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Aliens
+Title:	Adachi and Shimamura
+Title:	Adachi to Shimamura
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Fishing
-Tag:	Delinquents
 Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Aliens
 Tag:	School
-Tag:	LGBTQ+ Themes
+Tag:	Fishing
 Tag:	Table Tennis
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
+Tag:	Delinquents
 Related:	50723
 Related:	92550
 Related:	127465

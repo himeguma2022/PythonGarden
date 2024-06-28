@@ -1,17 +1,17 @@
 ID:	138
 Title:	HUNTER×HUNTER: Greed Island
-Tag:	Cultivation
-Tag:	Super Power
-Tag:	Primarily Child Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Kuudere
+Tag:	Super Power
 Tag:	Card Battle
-Tag:	Shapeshifting
-Tag:	Video Games
 Tag:	Augmented Reality
+Tag:	Kuudere
+Tag:	Cultivation
+Tag:	Shapeshifting
+Tag:	Primarily Child Cast
 Tag:	Male Pregnancy
+Tag:	Video Games
 Tag:	Death Game
+Tag:	Shounen
 Related:	356
 Related:	357
 Related:	358

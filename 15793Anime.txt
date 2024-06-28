@@ -1,32 +1,32 @@
 ID:	15793
-Title:	戦姫絶唱シンフォギアG
 Title:	Symphogear G
+Title:	戦姫絶唱シンフォギアG
 Title:	Senki Zesshou Symphogear G
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	Spearplay
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Cult
-Tag:	Gore
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Guns
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Orphan
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	Terrorism
+Tag:	Yuri
+Tag:	Politics
+Tag:	Mythology
+Tag:	Reincarnation
 Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Ships
+Tag:	Orphan
 Tag:	Henshin
+Tag:	Super Power
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Ships
 Tag:	Motorcycles
+Tag:	Fugitive
+Tag:	Primarily Teen Cast
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Cult
+Tag:	LGBTQ+ Themes
 Tag:	Idol
 Related:	51169
 Related:	20452

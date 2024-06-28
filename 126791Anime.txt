@@ -2,22 +2,22 @@ ID:	126791
 Title:	Kyuukyoku Shinka Shita Full Dive RPG ga Genjitsu yori mo Kusogee Dattara
 Title:	究極進化したフルダイブRPGが現実よりもクソゲーだったら
 Title:	Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!
-Tag:	Bullying
-Tag:	Prison
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Parody
-Tag:	Goblin
 Tag:	Virtual World
+Tag:	Parody
+Tag:	Isekai
+Tag:	Goblin
 Tag:	Gore
-Tag:	Video Games
-Tag:	Memory Manipulation
-Tag:	Yandere
-Tag:	Rehabilitation
+Tag:	Surreal Comedy
 Tag:	Conspiracy
+Tag:	Rehabilitation
+Tag:	Memory Manipulation
+Tag:	Female Harem
+Tag:	Video Games
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	Prison
 Related:	50864
 Related:	126792
 Related:	127668

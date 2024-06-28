@@ -1,9 +1,9 @@
 ID:	2400
 Title:	GS美神
 Title:	Ghost Sweeper Mikami
-Tag:	Ghost
 Tag:	Female Protagonist
 Tag:	Kuudere
+Tag:	Ghost
 Tag:	Vampire
 Tag:	Robots
 Tag:	Time Manipulation

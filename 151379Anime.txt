@@ -1,48 +1,48 @@
 ID:	151379
-Title:	Akiba Maid War
 Title:	Akiba Meido Sensou
 Title:	アキバ冥途戦争
-Tag:	Gambling
-Tag:	Tragedy
-Tag:	Yakuza
-Tag:	Time Skip
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Baseball
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Anachronism
-Tag:	Gore
-Tag:	Boxing
-Tag:	Homeless
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Title:	Akiba Maid War
 Tag:	Food
-Tag:	Parody
-Tag:	Restaurant
-Tag:	Gangs
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Orphan
-Tag:	Ninja
-Tag:	Nudity
-Tag:	War
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Revenge
-Tag:	Surreal Comedy
-Tag:	Fishing
-Tag:	Poker
-Tag:	Otaku Culture
-Tag:	Gyaru
-Tag:	Anti-Hero
-Tag:	Disability
-Tag:	Work
+Tag:	Ensemble Cast
 Tag:	Maids
+Tag:	Otaku Culture
+Tag:	Conspiracy
+Tag:	Yakuza
+Tag:	Surreal Comedy
+Tag:	Poker
+Tag:	Orphan
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Gangs
+Tag:	Cute Girls Doing Cute Things
+Tag:	Anachronism
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Work
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Baseball
+Tag:	Homeless
+Tag:	Tanned Skin
+Tag:	Crime
+Tag:	Nudity
+Tag:	Disability
+Tag:	Revenge
+Tag:	Ninja
+Tag:	Found Family
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Gyaru
+Tag:	Gambling
+Tag:	Fishing
+Tag:	Boxing
+Tag:	Anti-Hero
+Tag:	Restaurant
 Related:	89569
 Related:	168676

@@ -1,14 +1,14 @@
 ID:	111790
+Title:	Haikyuu!! Riku VS Kuu
 Title:	ハイキュー!! 陸 VS 空
 Title:	HAIKYU!! LAND VS. AIR
-Title:	Haikyuu!! Riku VS Kuu
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Ensemble Cast
-Tag:	Volleyball
-Tag:	Primarily Male Cast
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Volleyball
+Tag:	Shounen
 Related:	106625
 Related:	21698
 Related:	34883

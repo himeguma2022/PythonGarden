@@ -1,22 +1,22 @@
 ID:	11887
-Title:	ココロコネクト
 Title:	Kokoro Connect
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
+Title:	ココロコネクト
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Ensemble Cast
+Tag:	Female Protagonist
 Tag:	Gender Bending
-Tag:	Philosophy
-Tag:	LGBTQ+ Themes
 Tag:	Tsundere
-Tag:	Body Swapping
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Ensemble Cast
+Tag:	Body Swapping
 Tag:	School Club
+Tag:	Coming of Age
+Tag:	School
+Tag:	Love Triangle
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
+Tag:	Primarily Female Cast
+Tag:	Age Regression
 Related:	16001
 Related:	7562
 Related:	7563

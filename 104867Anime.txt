@@ -1,9 +1,9 @@
 ID:	104867
 Title:	コカラス
 Title:	COCOLORS
+Tag:	CGI
+Tag:	Dystopian
 Tag:	Full CGI
 Tag:	Tragedy
-Tag:	Dystopian
-Tag:	CGI
-Tag:	Post-Apocalyptic
 Tag:	Survival
+Tag:	Post-Apocalyptic

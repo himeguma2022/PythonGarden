@@ -1,18 +1,18 @@
 ID:	98514
-Title:	ウマ娘 プリティーダービー
 Title:	Umamusume: Pretty Derby
 Title:	Uma Musume: Pretty Derby
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Kemonomimi
+Title:	ウマ娘 プリティーダービー
 Tag:	CGI
-Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
 Tag:	Athletics
+Tag:	Animals
+Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Kuudere
-Tag:	Animals
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	172420
 Related:	69382

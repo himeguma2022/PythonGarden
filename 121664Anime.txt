@@ -1,10 +1,10 @@
 ID:	121664
-Title:	DAICON IV Opening Animation
 Title:	DAICONⅣ オープニングアニメ
+Title:	DAICON IV Opening Animation
+Tag:	Crossover
+Tag:	Female Protagonist
 Tag:	No Dialogue
 Tag:	Otaku Culture
-Tag:	Female Protagonist
-Tag:	Crossover
 Related:	785
 Related:	2724
 Related:	44660

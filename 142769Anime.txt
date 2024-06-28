@@ -1,21 +1,21 @@
 ID:	142769
+Title:	"Natsu e no Tunnel, Sayonara no Deguchi"
+Title:	The Tunnel to Summer, the Exit of Goodbyes
 Title:	夏へのトンネル、さよならの出口
 Title:	Natsu e no Tunnel, Sayonara no Deguchi
-Title:	The Tunnel to Summer, the Exit of Goodbyes
-Title:	"Natsu e no Tunnel, Sayonara no Deguchi"
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Drawing
+Tag:	Time Skip
+Tag:	Age Gap
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Rural
-Tag:	School
 Tag:	Kuudere
-Tag:	Age Gap
-Tag:	Time Skip
 Tag:	Heterosexual
+Tag:	Drawing
 Tag:	Time Manipulation
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	School
+Tag:	Bullying
+Tag:	Rural
 Tag:	Coming of Age
 Related:	136320
 Related:	66341

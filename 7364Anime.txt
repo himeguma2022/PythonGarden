@@ -1,10 +1,10 @@
 ID:	7364
 Title:	Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun
 Title:	ドラゴンクエスト ダイの大冒険 ぶちやぶれ!!新生6大将軍
-Tag:	Cultivation
 Tag:	Male Protagonist
+Tag:	Demons
 Tag:	Martial Arts
 Tag:	Magic
-Tag:	Demons
+Tag:	Cultivation
 Related:	2229
 Related:	81966

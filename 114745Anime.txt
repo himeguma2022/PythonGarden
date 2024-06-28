@@ -2,38 +2,38 @@ ID:	114745
 Title:	Made in Abyss: The Golden City of the Scorching Sun
 Title:	メイドインアビス 烈日の黄金郷
 Title:	Made in Abyss: Retsujitsu no Ougonkyou
-Tag:	Tragedy
-Tag:	Pregnant
-Tag:	Amnesia
-Tag:	Cannibalism
-Tag:	Gore
-Tag:	Primarily Child Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Food
 Tag:	Body Horror
+Tag:	Lost Civilization
 Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Seinen
-Tag:	Monster Girl
-Tag:	Orphan
-Tag:	Environmental
-Tag:	Survival
-Tag:	Nudity
-Tag:	Robots
-Tag:	Chibi
-Tag:	Outdoor
-Tag:	Language Barrier
-Tag:	Revenge
-Tag:	Dungeon
-Tag:	CGI
-Tag:	Rape
-Tag:	Achronological Order
-Tag:	Philosophy
-Tag:	Disability
 Tag:	Adoption
+Tag:	Environmental
+Tag:	Food
+Tag:	Rape
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Primarily Child Cast
+Tag:	Cannibalism
+Tag:	Orphan
+Tag:	Monster Girl
+Tag:	Outdoor
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Survival
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Pregnant
+Tag:	Gore
+Tag:	Chibi
+Tag:	Language Barrier
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Disability
+Tag:	Amnesia
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Dungeon
+Tag:	Philosophy
 Related:	100643
 Related:	78922
 Related:	77003

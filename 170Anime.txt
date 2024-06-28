@@ -1,14 +1,14 @@
 ID:	170
-Title:	SLAM DUNK
 Title:	Slam Dunk
+Title:	SLAM DUNK
+Tag:	Male Protagonist
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
+Tag:	School
 Tag:	Basketball
 Tag:	Educational
 Tag:	Shounen
 Tag:	Delinquents
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
 Related:	416
 Related:	417
 Related:	418

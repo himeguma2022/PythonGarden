@@ -1,45 +1,45 @@
 ID:	108465
-Title:	Mushoku Tensei: Jobless Reincarnation
-Title:	Mushoku Tensei: Isekai Ittara Honki Dasu
 Title:	無職転生 ～異世界行ったら本気だす～
-Tag:	Teacher
-Tag:	Tragedy
-Tag:	Time Skip
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Elf
+Title:	Mushoku Tensei: Isekai Ittara Honki Dasu
+Title:	Mushoku Tensei: Jobless Reincarnation
 Tag:	Demons
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Witch
+Tag:	Travel
+Tag:	Virginity
+Tag:	Rape
 Tag:	Primarily Child Cast
+Tag:	Maids
+Tag:	Politics
+Tag:	Reincarnation
+Tag:	Isekai
+Tag:	Ojou-sama
+Tag:	Dragons
+Tag:	Coming of Age
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Politics
-Tag:	Travel
-Tag:	Polyamorous
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Age Regression
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Masturbation
-Tag:	Nekomimi
-Tag:	Virginity
-Tag:	Magic
 Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Hikikomori
+Tag:	Masturbation
+Tag:	Witch
+Tag:	Nekomimi
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
 Tag:	Language Barrier
-Tag:	Tomboy
-Tag:	Rape
-Tag:	Anti-Hero
-Tag:	Ojou-sama
-Tag:	Maids
+Tag:	Hikikomori
+Tag:	Female Harem
+Tag:	Teacher
+Tag:	Elf
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Magic
 Tag:	Rehabilitation
-Tag:	Dragons
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Tomboy
+Tag:	Polyamorous
+Tag:	Anti-Hero
+Tag:	Age Regression
 Related:	31265
 Related:	31267
 Related:	127720

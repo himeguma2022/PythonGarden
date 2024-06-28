@@ -1,18 +1,18 @@
 ID:	155419
+Title:	Hoshikuzu Telepath
 Title:	星屑テレパス
 Title:	Stardust Telepath
-Title:	Hoshikuzu Telepath
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
-Tag:	Coastal
-Tag:	Female Protagonist
 Tag:	Chuunibyou
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
-Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Aliens
 Tag:	School Club
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
+Tag:	Coastal
 Related:	121501
 Related:	78463

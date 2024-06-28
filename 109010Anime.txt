@@ -1,11 +1,11 @@
 ID:	109010
 Title:	I★CHU
-Title:	I★CHU: HALFWAY THROUGH THE IDOL
 Title:	アイ★チュウ HALFWAY THROUGH THE IDOL
-Tag:	Cute Boys Doing Cute Things
-Tag:	Primarily Male Cast
-Tag:	Crossdressing
+Title:	I★CHU: HALFWAY THROUGH THE IDOL
 Tag:	Twins
+Tag:	Cute Boys Doing Cute Things
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
 Tag:	Idol
 Related:	177432
 Related:	97613

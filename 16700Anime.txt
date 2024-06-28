@@ -1,13 +1,13 @@
 ID:	16700
-Title:	ひぐらしのなく頃に拡〜アウトブレイク〜
 Title:	Higurashi no Naku Koro ni Kaku: Outbreak
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
+Title:	ひぐらしのなく頃に拡〜アウトブレイク〜
 Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Denpa
 Tag:	Gore
+Tag:	Primarily Child Cast
 Tag:	Pandemic
 Tag:	Alternate Universe
+Tag:	Denpa
+Tag:	Primarily Female Cast
+Tag:	Rural
 Related:	8342
 Related:	934

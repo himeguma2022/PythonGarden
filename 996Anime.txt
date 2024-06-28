@@ -1,50 +1,50 @@
 ID:	996
+Title:	美少女戦士セーラームーン セーラースターズ
 Title:	Bishoujo Senshi Sailor Moon: Sailor Stars
 Title:	Sailor Moon Sailor Stars
-Title:	美少女戦士セーラームーン セーラースターズ
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Basketball
-Tag:	Love Triangle
-Tag:	Baseball
-Tag:	Space
-Tag:	Tokusatsu
-Tag:	Gods
-Tag:	Unrequited Love
-Tag:	American Football
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Transgender
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
 Tag:	Fairy Tale
-Tag:	Torture
-Tag:	Villainess
-Tag:	Cosmic Horror
 Tag:	Body Horror
-Tag:	Gender Bending
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Shoujo
-Tag:	Urban Fantasy
-Tag:	War
-Tag:	Astronomy
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Musical Theater
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Superhero
-Tag:	Philosophy
 Tag:	Demons
+Tag:	Yuri
+Tag:	Space
+Tag:	Astronomy
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	Shoujo
+Tag:	Villainess
+Tag:	Basketball
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Age Gap
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Baseball
+Tag:	American Football
+Tag:	Love Triangle
+Tag:	Torture
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Revenge
+Tag:	Magic
+Tag:	Transgender
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	Musical Theater
+Tag:	Tomboy
+Tag:	Gods
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Tag:	Idol
 Related:	72068
 Related:	83754

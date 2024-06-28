@@ -1,7 +1,7 @@
 ID:	103373
-Title:	Gokiburi Taisou
 Title:	ゴキブリ体操
-Tag:	Dancing
+Title:	Gokiburi Taisou
 Tag:	No Dialogue
-Tag:	Fitness
 Tag:	Animals
+Tag:	Dancing
+Tag:	Fitness

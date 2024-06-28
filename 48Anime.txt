@@ -1,23 +1,23 @@
 ID:	48
-Title:	.hack//Sign
 Title:	.hack//SIGN
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Dungeon
+Title:	.hack//Sign
 Tag:	CGI
-Tag:	Isekai
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Denpa
+Tag:	Super Power
 Tag:	Tanned Skin
 Tag:	LGBTQ+ Themes
-Tag:	Virtual World
+Tag:	Female Protagonist
+Tag:	Isekai
+Tag:	Gender Bending
+Tag:	Amnesia
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Dungeon
+Tag:	Denpa
 Tag:	Video Games
 Tag:	Anti-Hero
-Tag:	Magic
-Tag:	Amnesia
+Tag:	Virtual World
 Related:	30089
 Related:	34574
 Related:	34578

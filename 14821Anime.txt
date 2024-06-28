@@ -1,5 +1,5 @@
 ID:	14821
-Title:	태권동자 마루치 아라치
 Title:	Taekwon Dongja Maruchi Arachi
+Title:	태권동자 마루치 아라치
 Related:	8038
 Related:	16399

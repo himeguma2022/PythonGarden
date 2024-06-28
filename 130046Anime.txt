@@ -1,12 +1,12 @@
 ID:	130046
 Title:	一番近くて遠い星
 Title:	Ichiban Chikakute Tooi Hoshi
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Astronomy
 Tag:	Time Skip
-Tag:	Coming of Age
+Tag:	Female Protagonist
 Tag:	Advertisement
+Tag:	Astronomy
+Tag:	Urban
+Tag:	School
+Tag:	Coming of Age
 Related:	53434
 Related:	130050

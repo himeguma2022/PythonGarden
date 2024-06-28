@@ -1,25 +1,25 @@
 ID:	1110
-Title:	Mermaid Melody: Pichi Pichi Pitch Pure
 Title:	マーメイドメロディーぴちぴちピッチピュア
-Tag:	Tragedy
-Tag:	Dissociative Identities
+Title:	Mermaid Melody: Pichi Pichi Pitch Pure
+Tag:	Surfing
 Tag:	Cosplay
+Tag:	Shoujo
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Denpa
-Tag:	Boxing
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Suicide
 Tag:	Mermaid
-Tag:	Shoujo
+Tag:	Suicide
 Tag:	Coastal
 Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Amnesia
 Tag:	Animals
 Tag:	Magic
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	Musical Theater
-Tag:	Surfing
-Tag:	Amnesia
+Tag:	Boxing
 Related:	1920
 Related:	521
 Related:	30336

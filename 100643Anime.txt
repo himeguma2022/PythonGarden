@@ -2,29 +2,29 @@ ID:	100643
 Title:	メイドインアビス 深き魂の黎明
 Title:	Made in Abyss: Fukaki Tamashii no Reimei
 Title:	Made in Abyss: Dawn of the Deep Soul
+Tag:	Lost Civilization
+Tag:	Food
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Primarily Child Cast
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Survival
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Chibi
+Tag:	Seinen
+Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Amnesia
+Tag:	Magic
+Tag:	Body Swapping
 Tag:	Tragedy
 Tag:	Dissociative Identities
-Tag:	Anthropomorphism
-Tag:	Gore
-Tag:	Primarily Child Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Lost Civilization
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Body Horror
-Tag:	Seinen
-Tag:	Monster Girl
-Tag:	Survival
-Tag:	Nudity
-Tag:	Robots
-Tag:	Magic
-Tag:	Chibi
 Tag:	Dungeon
 Tag:	Anti-Hero
-Tag:	Body Swapping
-Tag:	Amnesia
+Tag:	Body Horror
 Related:	101344
 Related:	97986
 Related:	21540

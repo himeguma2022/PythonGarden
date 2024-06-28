@@ -1,20 +1,20 @@
 ID:	16011
-Title:	東京レイヴンズ
 Title:	Tokyo Ravens
-Tag:	Reincarnation
-Tag:	Achromatic
-Tag:	Super Power
-Tag:	CGI
-Tag:	Slapstick
+Title:	東京レイヴンズ
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	CGI
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Robots
-Tag:	Magic
 Tag:	Demons
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Robots
+Tag:	Crossdressing
+Tag:	Reincarnation
+Tag:	School
+Tag:	Female Harem
+Tag:	Achromatic
+Tag:	Slapstick
 Related:	20896
 Related:	9713
 Related:	53898

@@ -1,15 +1,15 @@
 ID:	139310
-Title:	僕が愛したすべての君へ
 Title:	Boku ga Aishita Subete no Kimi e
+Title:	僕が愛したすべての君へ
 Title:	To Every You I’ve Loved Before
-Tag:	Coming of Age
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Philosophy
-Tag:	Time Skip
 Tag:	Heterosexual
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Philosophy
+Tag:	Coming of Age
 Related:	155634
 Related:	63235
 Related:	78623

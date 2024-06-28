@@ -1,21 +1,21 @@
 ID:	4472
-Title:	Lucky☆Star OVA
 Title:	らき☆すた OVA
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
+Title:	Lucky☆Star OVA
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Kuudere
-Tag:	Volleyball
 Tag:	Parody
-Tag:	LGBTQ+ Themes
-Tag:	Virtual World
-Tag:	Video Games
-Tag:	Magic
-Tag:	Otaku Culture
+Tag:	Kuudere
 Tag:	Twins
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Volleyball
+Tag:	Video Games
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Virtual World
 Related:	4864
 Related:	1887

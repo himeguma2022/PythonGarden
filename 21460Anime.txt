@@ -1,21 +1,21 @@
 ID:	21460
 Title:	響け！ユーフォニアム 2
-Title:	Hibike! Euphonium 2
 Title:	Sound! Euphonium 2
-Tag:	Yuri
-Tag:	Primarily Female Cast
+Title:	Hibike! Euphonium 2
 Tag:	Primarily Teen Cast
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	School
+Tag:	Yuri
 Tag:	Kuudere
 Tag:	Unrequited Love
-Tag:	LGBTQ+ Themes
+Tag:	Family Life
 Tag:	Classical Music
-Tag:	Coming of Age
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	98338
 Related:	58694
 Related:	132615

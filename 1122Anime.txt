@@ -1,12 +1,12 @@
 ID:	1122
 Title:	Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys
-Title:	Pokémon: Destiny Deoxys
 Title:	ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス
-Tag:	Kids
-Tag:	Aliens
-Tag:	Primarily Child Cast
+Title:	Pokémon: Destiny Deoxys
 Tag:	CGI
+Tag:	Kids
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Aliens
 Tag:	Dragons
 Related:	54225
 Related:	1939

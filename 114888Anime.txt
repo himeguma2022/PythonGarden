@@ -1,17 +1,17 @@
 ID:	114888
-Title:	The Millionaire Detective - Balance: UNLIMITED
-Title:	Fugou Keiji: Balance:UNLIMITED
 Title:	富豪刑事 Balance:UNLIMITED
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Butler
-Tag:	Urban
+Title:	Fugou Keiji: Balance:UNLIMITED
+Title:	The Millionaire Detective - Balance: UNLIMITED
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Detective
+Tag:	Crime
 Tag:	Kuudere
-Tag:	Primarily Male Cast
-Tag:	Ships
 Tag:	Cars
-Tag:	Police
 Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Butler
+Tag:	Primarily Male Cast
+Tag:	Police
+Tag:	Detective

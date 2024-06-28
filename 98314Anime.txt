@@ -1,28 +1,28 @@
 ID:	98314
 Title:	賭ケグルイ
 Title:	Kakegurui
-Tag:	Gambling
-Tag:	Slavery
-Tag:	Death Game
+Tag:	School
+Tag:	Poker
+Tag:	Ojou-sama
 Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Body Horror
-Tag:	Villainess
 Tag:	Yandere
-Tag:	Masochism
+Tag:	Male Protagonist
+Tag:	School Club
+Tag:	Villainess
+Tag:	Primarily Female Cast
 Tag:	Guns
 Tag:	Delinquents
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	School Club
-Tag:	Battle Royale
-Tag:	Poker
+Tag:	Female Protagonist
 Tag:	Anti-Hero
-Tag:	Ojou-sama
+Tag:	Battle Royale
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Masochism
+Tag:	Slavery
+Tag:	Gambling
+Tag:	Death Game
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Tag:	Idol
 Related:	85793
 Related:	107622

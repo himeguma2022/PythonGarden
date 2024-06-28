@@ -1,14 +1,14 @@
 ID:	97730
 Title:	Seiren
 Title:	セイレン
-Tag:	Primarily Female Cast
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Otaku Culture
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Video Games
 Tag:	Heterosexual
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Female Harem
+Tag:	Video Games
+Tag:	Primarily Female Cast
 Related:	11235
 Related:	18172

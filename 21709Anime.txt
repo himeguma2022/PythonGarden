@@ -2,21 +2,21 @@ ID:	21709
 Title:	Yuuri!!! on ICE
 Title:	ユーリ!!! on ICE
 Title:	Yuri!!! on ICE
-Tag:	Ice Skating
-Tag:	Boys' Love
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Rotoscoping
-Tag:	Primarily Male Cast
 Tag:	Tanned Skin
-Tag:	LGBTQ+ Themes
-Tag:	Tsundere
-Tag:	Asexual
 Tag:	Bisexual
-Tag:	Coming of Age
 Tag:	Primarily Adult Cast
+Tag:	Tsundere
+Tag:	Ice Skating
+Tag:	Asexual
 Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Boys' Love
+Tag:	LGBTQ+ Themes
+Tag:	Coming of Age
 Related:	98656
-Related:	23302
-Related:	18806
 Related:	102167
+Related:	18806
+Related:	23302

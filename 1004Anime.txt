@@ -1,10 +1,10 @@
 ID:	1004
+Title:	She and Her Cat: Their Standing Points
 Title:	彼女と彼女の猫
 Title:	Kanojo to Kanojo no Neko
-Title:	She and Her Cat: Their Standing Points
-Tag:	Achromatic
 Tag:	Philosophy
 Tag:	Animals
+Tag:	Achromatic
 Related:	19496
 Related:	21577
 Related:	34513

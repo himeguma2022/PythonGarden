@@ -1,17 +1,17 @@
 ID:	117763
-Title:	BanG Dream! Episode of Roselia I: 約束
-Title:	BanG Dream! Episode of Roselia I: Promise
 Title:	BanG Dream! Episode of Roselia I: Yakusoku
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Band
-Tag:	Female Protagonist
+Title:	BanG Dream! Episode of Roselia I: Promise
+Title:	BanG Dream! Episode of Roselia I: 約束
 Tag:	Chuunibyou
-Tag:	Rock Music
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
 Tag:	Twins
-Tag:	Coming of Age
+Tag:	Full CGI
+Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coming of Age
 Related:	75138
 Related:	101634
 Related:	117764

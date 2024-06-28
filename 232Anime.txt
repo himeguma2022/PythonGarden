@@ -1,29 +1,29 @@
 ID:	232
-Title:	Cardcaptor Sakura
 Title:	カードキャプターさくら
-Tag:	Boys' Love
-Tag:	Love Triangle
-Tag:	Fashion
-Tag:	Dissociative Identities
-Tag:	Martial Arts
+Title:	Cardcaptor Sakura
 Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Time Manipulation
+Tag:	Fashion
 Tag:	Reincarnation
-Tag:	Shoujo
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Agender
+Tag:	Coming of Age
+Tag:	Henshin
 Tag:	Bisexual
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Time Manipulation
+Tag:	Shoujo
+Tag:	Episodic
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Love Triangle
+Tag:	Boys' Love
+Tag:	Urban Fantasy
+Tag:	Martial Arts
+Tag:	Magic
+Tag:	Dissociative Identities
+Tag:	LGBTQ+ Themes
 Related:	545
 Related:	546
 Related:	547

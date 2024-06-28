@@ -1,15 +1,15 @@
 ID:	1815
-Title:	劇場版 灼眼のシャナ
 Title:	Shakugan no Shana Movie
 Title:	Shakugan no Shana: The Movie
-Tag:	Super Power
-Tag:	Love Triangle
+Title:	劇場版 灼眼のシャナ
 Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Tsundere
+Tag:	School
+Tag:	Love Triangle
 Related:	355
 Related:	36680
 Related:	2857

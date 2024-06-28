@@ -1,16 +1,16 @@
 ID:	107068
-Title:	Karakai Jouzu no Takagi-san 2
-Title:	からかい上手の高木さん 2
 Title:	Teasing Master Takagi-san Season 2
-Tag:	Primarily Child Cast
-Tag:	Shounen
-Tag:	Slapstick
+Title:	からかい上手の高木さん 2
+Title:	Karakai Jouzu no Takagi-san 2
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
 Tag:	Heterosexual
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Episodic
+Tag:	Shounen
 Tag:	Rural
+Tag:	Slapstick
 Related:	33701
 Related:	87142
 Related:	28743

@@ -1,26 +1,26 @@
 ID:	14833
+Title:	まおゆう魔王勇者
 Title:	Maoyuu Maou Yuusha
 Title:	Maoyu: Archenemy & Hero
-Title:	まおゆう魔王勇者
-Tag:	Teacher
-Tag:	Historical
-Tag:	Love Triangle
-Tag:	Anachronism
-Tag:	Primarily Adult Cast
-Tag:	Educational
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Monster Girl
-Tag:	Foreign
-Tag:	Economics
-Tag:	War
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Kingdom Management
-Tag:	Maids
 Tag:	Demons
+Tag:	Politics
+Tag:	Maids
+Tag:	Foreign
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Anachronism
+Tag:	War
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Kingdom Management
+Tag:	Love Triangle
+Tag:	Historical
+Tag:	Shounen
+Tag:	Teacher
+Tag:	Economics
+Tag:	Magic
+Tag:	Educational
 Related:	56441
 Related:	55483
 Related:	8044

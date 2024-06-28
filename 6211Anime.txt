@@ -1,20 +1,20 @@
 ID:	6211
-Title:	Tokyo Magnitude 8.0
 Title:	東京マグニチュード8.0
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	Ghost
+Title:	Tokyo Magnitude 8.0
 Tag:	CGI
-Tag:	Post-Apocalyptic
-Tag:	Urban
 Tag:	Female Protagonist
+Tag:	Ghost
 Tag:	Family Life
-Tag:	Motorcycles
-Tag:	School
-Tag:	Survival
-Tag:	Natural Disaster
 Tag:	Military
 Tag:	Robots
+Tag:	Natural Disaster
+Tag:	Primarily Child Cast
+Tag:	Urban
+Tag:	Tragedy
+Tag:	School
+Tag:	Survival
+Tag:	Motorcycles
+Tag:	Post-Apocalyptic
 Tag:	Coming of Age
 Related:	30771
 Related:	7654

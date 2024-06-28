@@ -1,28 +1,28 @@
 ID:	100077
-Title:	HINAMATSURI
 Title:	Hinamatsuri
+Title:	HINAMATSURI
 Title:	ヒナまつり
-Tag:	Super Power
+Tag:	Adoption
+Tag:	Ensemble Cast
 Tag:	Yakuza
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Parenthood
 Tag:	Isekai
-Tag:	Urban
-Tag:	Slapstick
+Tag:	Coming of Age
 Tag:	Satire
+Tag:	Super Power
+Tag:	Family Life
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Homeless
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Seinen
-Tag:	School
 Tag:	Bar
-Tag:	Parenthood
-Tag:	Coming of Age
+Tag:	Seinen
 Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Adoption
+Tag:	Urban
 Related:	21057
 Related:	66413

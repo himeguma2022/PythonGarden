@@ -1,20 +1,20 @@
 ID:	19429
-Title:	Akuma no Riddle
 Title:	悪魔のリドル
 Title:	Riddle Story of Devil
-Tag:	Yuri
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Battle Royale
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Boarding School
-Tag:	Survival
-Tag:	School
-Tag:	Kuudere
-Tag:	Assassins
+Title:	Akuma no Riddle
 Tag:	Seinen
+Tag:	Assassins
+Tag:	Yuri
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Primarily Teen Cast
+Tag:	Boarding School
+Tag:	Battle Royale
+Tag:	Tragedy
+Tag:	School
+Tag:	Survival
 Tag:	Death Game
+Tag:	Primarily Female Cast
 Related:	9760
 Related:	82267
 Related:	20926

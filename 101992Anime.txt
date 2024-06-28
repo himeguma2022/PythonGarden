@@ -2,16 +2,16 @@ ID:	101992
 Title:	Sound! Euphonium: The Movie - Our Promise: A Brand New Day
 Title:	劇場版 響け！ユーフォニアム～誓いのフィナーレ～
 Title:	Hibike! Euphonium: Chikai no Finale
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Classical Music
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Classical Music
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	74122
 Related:	100178
 Related:	21460

@@ -1,23 +1,23 @@
 ID:	650
 Title:	Gunsmith Cats
 Title:	ガンスミスキャッツ
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Noir
+Tag:	Seinen
+Tag:	Assassins
 Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Primarily Adult Cast
-Tag:	Urban
 Tag:	Female Protagonist
+Tag:	Cars
+Tag:	Primarily Adult Cast
+Tag:	Noir
 Tag:	Episodic
 Tag:	Politics
-Tag:	Assassins
-Tag:	Cars
-Tag:	Police
-Tag:	Seinen
-Tag:	Conspiracy
 Tag:	Foreign
-Related:	31319
-Related:	917
+Tag:	Urban
+Tag:	Conspiracy
+Tag:	Tomboy
+Tag:	Police
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	20870
+Related:	917
 Related:	1286
+Related:	31319

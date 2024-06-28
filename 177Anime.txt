@@ -1,16 +1,16 @@
 ID:	177
-Title:	ツバサ・クロニクル
-Title:	Tsubasa RESERVoir CHRoNiCLE
 Title:	Tsubasa Chronicle
+Title:	Tsubasa RESERVoir CHRoNiCLE
+Title:	ツバサ・クロニクル
 Tag:	Crossover
+Tag:	Amnesia
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Alternate Universe
+Tag:	Survival
 Tag:	Isekai
 Tag:	Shounen
-Tag:	Survival
-Tag:	Amnesia
 Tag:	Virtual World
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Alternate Universe
 Related:	156
 Related:	807
 Related:	429

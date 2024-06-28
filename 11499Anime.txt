@@ -1,25 +1,25 @@
 ID:	11499
-Title:	Sankarea: Undying Love
 Title:	さんかれあ
+Title:	Sankarea: Undying Love
 Title:	Sankarea
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Fencing
-Tag:	School
-Tag:	Kuudere
-Tag:	Zombie
-Tag:	Torture
-Tag:	Nudity
 Tag:	Age Gap
-Tag:	Animals
-Tag:	Ojou-sama
-Tag:	Heterosexual
-Tag:	Monster Girl
-Tag:	Maids
 Tag:	Incest
+Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Animals
+Tag:	Maids
+Tag:	Zombie
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Ojou-sama
+Tag:	Shounen
+Tag:	Fencing
+Tag:	Monster Girl
+Tag:	Torture
 Related:	7463
 Related:	7464
 Related:	7465

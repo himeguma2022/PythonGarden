@@ -1,21 +1,21 @@
 ID:	21403
 Title:	Sword Art Online the Movie: Ordinal Scale
-Title:	ソードアート・オンライン -オーディナル・スケール-
 Title:	Sword Art Online: Ordinal Scale
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
+Title:	ソードアート・オンライン -オーディナル・スケール-
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
+Tag:	Swordplay
 Tag:	Tanned Skin
+Tag:	Female Protagonist
 Tag:	Nudity
-Tag:	Virtual World
-Tag:	Video Games
-Tag:	Memory Manipulation
+Tag:	Primarily Teen Cast
 Tag:	Augmented Reality
 Tag:	Heterosexual
+Tag:	Artificial Intelligence
+Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	Video Games
+Tag:	Primarily Female Cast
+Tag:	Virtual World
 Related:	21184
 Related:	106537
 Related:	36714

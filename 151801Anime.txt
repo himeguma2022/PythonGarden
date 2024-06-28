@@ -1,28 +1,28 @@
 ID:	151801
-Title:	Mashle
-Title:	マッシュル-MASHLE-
 Title:	MASHLE
+Title:	Mashle
 Title:	MASHLE: MAGIC AND MUSCLES
-Tag:	Super Power
-Tag:	Fitness
-Tag:	Slapstick
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Food
-Tag:	Parody
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Magic
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Chimera
-Tag:	Philosophy
+Title:	マッシュル-MASHLE-
 Tag:	Adoption
+Tag:	Food
+Tag:	Primarily Male Cast
+Tag:	School
 Tag:	Dragons
+Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Unrequited Love
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Battle Royale
+Tag:	Fitness
+Tag:	Chimera
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Magic
+Tag:	Philosophy
 Related:	114960
 Related:	75361
 Related:	166610

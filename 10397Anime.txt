@@ -1,22 +1,22 @@
 ID:	10397
-Title:	Mashiroiro Symphony
-Title:	Mashiroiro Symphony: The color of lovers
 Title:	ましろ色シンフォニー -The color of lovers-
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
+Title:	Mashiroiro Symphony: The color of lovers
+Title:	Mashiroiro Symphony
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
 Tag:	Nudity
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Animals
 Tag:	Heterosexual
+Tag:	Animals
 Tag:	Maids
-Tag:	Rural
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
+Tag:	Rural
 Related:	47328
 Related:	14049
 Related:	7127

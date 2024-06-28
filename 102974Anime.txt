@@ -3,10 +3,10 @@ Title:	Gurazeni: Money Pitch 2
 Title:	グラゼニ 2
 Title:	Gurazeni 2
 Tag:	Male Protagonist
-Tag:	Baseball
 Tag:	Seinen
 Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Baseball
 Related:	24120
 Related:	24122
 Related:	69757

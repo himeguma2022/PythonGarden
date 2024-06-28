@@ -1,16 +1,16 @@
 ID:	144533
 Title:	虫かぶり姫
-Title:	Mushikaburi-hime
 Title:	Bibliophile Princess
-Tag:	Historical
-Tag:	Shoujo
+Title:	Mushikaburi-hime
 Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Politics
 Tag:	Arranged Marriage
-Tag:	Ojou-sama
 Tag:	Heterosexual
+Tag:	Politics
 Tag:	Foreign
+Tag:	Shoujo
+Tag:	Historical
+Tag:	Ojou-sama
 Related:	68176
 Related:	110505
 Related:	110504

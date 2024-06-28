@@ -1,18 +1,18 @@
 ID:	11837
-Title:	ゼットマン
 Title:	Zetman
-Tag:	Tragedy
-Tag:	Henshin
-Tag:	Super Power
+Title:	ゼットマン
 Tag:	Time Skip
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Tokusatsu
-Tag:	Nudity
-Tag:	Bar
-Tag:	Gore
+Tag:	Super Power
 Tag:	Seinen
-Tag:	Anti-Hero
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Gore
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Tokusatsu
 Tag:	Homeless
+Tag:	Anti-Hero
+Tag:	Bar
+Tag:	Henshin
 Related:	7549
 Related:	31534

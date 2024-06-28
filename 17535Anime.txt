@@ -1,9 +1,9 @@
 ID:	17535
-Title:	FAIRY TAIL: Houou no Miko - Hajimari no Asa
 Title:	劇場版 FAIRY TAIL 鳳凰の巫女「はじまりの朝」
 Title:	Fairy Tail the Movie: Prologue - The First Morning
-Tag:	Shounen
+Title:	FAIRY TAIL: Houou no Miko - Hajimari no Asa
 Tag:	Fairy Tale
+Tag:	Shounen
 Tag:	Female Protagonist
 Tag:	Magic
 Related:	6702

@@ -1,37 +1,37 @@
 ID:	98034
-Title:	The Disastrous Life of Saiki K. Season 2
 Title:	Saiki Kusuo no Ψ-nan 2
 Title:	斉木楠雄のΨ難 2
-Tag:	Super Power
-Tag:	Love Triangle
+Title:	The Disastrous Life of Saiki K. Season 2
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Surreal Comedy
+Tag:	School
 Tag:	Post-Apocalyptic
 Tag:	Satire
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Asexual
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Transgender
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Parody
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	School
-Tag:	Primarily Male Cast
+Tag:	Super Power
 Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	School Club
-Tag:	Surreal Comedy
 Tag:	Superhero
-Tag:	Gyaru
-Tag:	Otaku Culture
 Tag:	Bisexual
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Ghost
+Tag:	Transgender
+Tag:	Asexual
+Tag:	Gyaru
+Tag:	LGBTQ+ Themes
 Related:	104580
 Related:	48456
 Related:	25419

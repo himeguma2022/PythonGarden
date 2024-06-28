@@ -1,16 +1,16 @@
 ID:	97903
 Title:	Sakura Quest
 Title:	サクラクエスト
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Rural
-Tag:	Ensemble Cast
 Tag:	Acting
-Tag:	Politics
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Female Protagonist
 Tag:	Primarily Adult Cast
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Coming of Age
 Related:	33017
 Related:	109891
 Related:	33985

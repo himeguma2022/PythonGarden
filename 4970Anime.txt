@@ -1,24 +1,24 @@
 ID:	4970
 Title:	アフロサムライ：レザレクション
 Title:	Afro Samurai: Resurrection
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Ghost
-Tag:	Orphan
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Primarily Male Cast
-Tag:	Tanned Skin
-Tag:	Anachronism
-Tag:	Travel
-Tag:	Nudity
-Tag:	Gore
-Tag:	Robots
-Tag:	Anti-Hero
-Tag:	Samurai
 Tag:	Seinen
+Tag:	Swordplay
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Anachronism
+Tag:	Ghost
 Tag:	Primarily Adult Cast
+Tag:	Gore
+Tag:	Martial Arts
+Tag:	Revenge
+Tag:	Travel
+Tag:	Robots
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Samurai
+Tag:	Orphan
+Tag:	Anti-Hero
 Related:	5065
 Related:	5066
 Related:	1292

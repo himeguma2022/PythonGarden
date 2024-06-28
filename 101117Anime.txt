@@ -1,17 +1,17 @@
 ID:	101117
+Title:	Free!: Dive to the Future
 Title:	Free! -Dive to the Future-
 Title:	Free!-Dive to the Future-
-Title:	Free!: Dive to the Future
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Cute Boys Doing Cute Things
+Tag:	Foreign
+Tag:	School Club
+Tag:	Primarily Male Cast
 Tag:	Tomboy
 Tag:	Swimming
-Tag:	School Club
-Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
-Tag:	College
-Tag:	Primarily Male Cast
-Tag:	Time Skip
-Tag:	Primarily Adult Cast
-Tag:	Foreign
 Related:	107202
 Related:	107203
 Related:	103588

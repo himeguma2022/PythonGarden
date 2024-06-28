@@ -1,41 +1,41 @@
 ID:	532
+Title:	Sailor Moon S
 Title:	美少女戦士セーラームーン S
 Title:	Bishoujo Senshi Sailor Moon S
-Title:	Sailor Moon S
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Tokusatsu
-Tag:	Shrine Maiden
+Tag:	Demons
 Tag:	Yuri
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Reincarnation
 Tag:	Mythology
-Tag:	Shoujo
+Tag:	Reincarnation
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Makeup
+Tag:	Bullying
 Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Tomboy
+Tag:	Henshin
+Tag:	Shrine Maiden
+Tag:	Super Power
 Tag:	Superhero
 Tag:	Bisexual
-Tag:	Demons
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	Shoujo
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Age Gap
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Makeup
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Magic
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Tag:	Idol
 Related:	740
 Related:	1125

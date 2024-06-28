@@ -1,17 +1,17 @@
 ID:	157397
-Title:	Yumemiru Danshi wa Genjitsushugisha
 Title:	The Dreaming Boy is a Realist
+Title:	Yumemiru Danshi wa Genjitsushugisha
 Title:	夢見る男子は現実主義者
-Tag:	Tomboy
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Gyaru
-Tag:	Ojou-sama
 Tag:	Heterosexual
+Tag:	Gyaru
+Tag:	School
+Tag:	Tomboy
+Tag:	Female Harem
+Tag:	Ojou-sama
 Tag:	Coming of Age
 Related:	132664
 Related:	119137

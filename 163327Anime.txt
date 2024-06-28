@@ -1,16 +1,16 @@
 ID:	163327
 Title:	五等分の花嫁∽
 Title:	Go-toubun no Hanayome∽
-Tag:	Primarily Female Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
 Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Ojou-sama
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Ensemble Cast
+Tag:	Female Harem
+Tag:	Ojou-sama
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	131520
 Related:	100230

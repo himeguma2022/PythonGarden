@@ -1,16 +1,16 @@
 ID:	207
+Title:	Lodoss-tou Senki
 Title:	Record of Lodoss War
 Title:	ロードス島戦記
-Title:	Lodoss-tou Senki
-Tag:	Tomboy
-Tag:	Witch
 Tag:	Swordplay
-Tag:	War
 Tag:	Elf
-Tag:	Gods
 Tag:	Goblin
 Tag:	Magic
+Tag:	Gods
+Tag:	Tomboy
+Tag:	Witch
 Tag:	Dragons
+Tag:	War
 Related:	31618
 Related:	515
 Related:	80709

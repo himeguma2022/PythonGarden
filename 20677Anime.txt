@@ -1,18 +1,18 @@
 ID:	20677
 Title:	ドラマティカル マーダー
 Title:	DRAMAtical Murder
-Tag:	Super Power
-Tag:	Video Games
-Tag:	Boys' Love
-Tag:	Primarily Adult Cast
 Tag:	Male Protagonist
+Tag:	Real Robot
+Tag:	Super Power
+Tag:	Gangs
+Tag:	Bisexual
+Tag:	Primarily Adult Cast
+Tag:	Robots
 Tag:	Artificial Intelligence
 Tag:	Primarily Male Cast
-Tag:	Real Robot
+Tag:	Boys' Love
 Tag:	LGBTQ+ Themes
-Tag:	Robots
-Tag:	Bisexual
-Tag:	Gangs
+Tag:	Video Games
 Related:	33511
 Related:	110346
 Related:	73707

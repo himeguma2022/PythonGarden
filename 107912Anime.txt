@@ -1,22 +1,22 @@
 ID:	107912
-Title:	刺客伍六七
 Title:	Scissor Seven
 Title:	Cike Wu Liuqi
-Tag:	Cultivation
-Tag:	Super Power
-Tag:	Surreal Comedy
-Tag:	Slapstick
-Tag:	Urban
+Title:	刺客伍六七
 Tag:	Satire
-Tag:	Martial Arts
-Tag:	Episodic
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Assassins
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Animals
+Tag:	Martial Arts
 Tag:	Amnesia
+Tag:	Animals
+Tag:	Cultivation
+Tag:	Shapeshifting
 Tag:	Meta
+Tag:	Urban
+Tag:	Surreal Comedy
+Tag:	Episodic
+Tag:	Philosophy
+Tag:	Slapstick
 Related:	37955
 Related:	46053
 Related:	107913

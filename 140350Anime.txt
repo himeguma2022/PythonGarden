@@ -1,17 +1,17 @@
 ID:	140350
-Title:	Kingdom 4th Season
 Title:	キングダム 第4シリーズ
+Title:	Kingdom 4th Season
 Title:	Kingdom Season 4
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Politics
-Tag:	Military
+Tag:	Swordplay
 Tag:	Seinen
+Tag:	Military
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Tragedy
 Tag:	Ancient China
+Tag:	Historical
+Tag:	War
 Related:	64161
 Related:	64163
 Related:	46765

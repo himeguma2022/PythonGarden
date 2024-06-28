@@ -1,18 +1,18 @@
 ID:	617
-Title:	獣兵衛忍風帖
 Title:	Juubee Ninpuuchou
 Title:	Ninja Scroll
+Title:	獣兵衛忍風帖
+Tag:	Male Protagonist
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Rape
+Tag:	Ninja
+Tag:	Politics
 Tag:	Tragedy
 Tag:	Historical
-Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ninja
-Tag:	Nudity
-Tag:	Politics
-Tag:	Rape
-Tag:	Gore
 Tag:	Rural
-Tag:	Primarily Adult Cast
 Related:	1250
 Related:	618

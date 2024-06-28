@@ -1,8 +1,8 @@
 ID:	20460
 Title:	死者のメイド
 Title:	Maid of the Dead
-Tag:	Stop Motion
-Tag:	Food
-Tag:	Zombie
 Tag:	Gore
+Tag:	Food
 Tag:	Maids
+Tag:	Zombie
+Tag:	Stop Motion

@@ -1,25 +1,25 @@
 ID:	8769
-Title:	Ore no Imouto ga Konna ni Kawaii Wake ga Nai
 Title:	Oreimo
 Title:	俺の妹がこんなに可愛いわけがない
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Writing
+Title:	Ore no Imouto ga Konna ni Kawaii Wake ga Nai
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Female Harem
-Tag:	Cosplay
-Tag:	Otaku Culture
-Tag:	Kuudere
-Tag:	Parody
-Tag:	School
 Tag:	Chuunibyou
-Tag:	Badminton
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Primarily Teen Cast
 Tag:	Incest
+Tag:	Parody
+Tag:	Badminton
+Tag:	Kuudere
+Tag:	Writing
+Tag:	Tsundere
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Cosplay
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	10020
 Related:	45317
 Related:	80638

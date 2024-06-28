@@ -1,6 +1,6 @@
 ID:	10622
-Title:	天元突破 グレンラガン  俺のグレンはピッカピカ!!
 Title:	Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!
+Title:	天元突破 グレンラガン  俺のグレンはピッカピカ!!
 Tag:	Male Protagonist
 Tag:	Super Robot
 Tag:	Kemonomimi

@@ -3,18 +3,18 @@ Title:	空の境界伽藍の洞
 Title:	Kara no Kyoukai: Garan no Dou
 Title:	the Garden of sinners Chapter 4: garan-no-dou. (The Hollow Shrine)
 Tag:	Super Power
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
+Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Rape
-Tag:	Achronological Order
 Tag:	Gore
-Tag:	Anti-Hero
-Tag:	Amnesia
-Tag:	Rehabilitation
 Tag:	Primarily Adult Cast
+Tag:	Amnesia
+Tag:	Rape
+Tag:	Urban
+Tag:	Rehabilitation
+Tag:	Dissociative Identities
+Tag:	Anti-Hero
+Tag:	Achronological Order
 Related:	6624
 Related:	40741
 Related:	3783

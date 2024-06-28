@@ -1,17 +1,17 @@
 ID:	2693
-Title:	でたとこプリンセス
 Title:	Detatoko Princess
+Title:	でたとこプリンセス
 Title:	Suddenly Princess
-Tag:	Fitness
-Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	Ojou-sama
-Tag:	Food
-Tag:	Elf
-Tag:	Parody
-Tag:	Travel
 Tag:	Tanned Skin
-Tag:	Henshin
+Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Elf
+Tag:	Travel
+Tag:	Food
 Tag:	Magic
+Tag:	Fitness
+Tag:	Ojou-sama
+Tag:	Slapstick
+Tag:	Henshin
 Related:	65897
 Related:	95429

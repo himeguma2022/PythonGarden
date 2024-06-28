@@ -1,17 +1,17 @@
 ID:	9926
+Title:	Sekaiichi Hatsukoi
 Title:	Sekai Ichi Hatsukoi - The World's Greatest First Love
 Title:	世界一初恋 TV
-Title:	Sekaiichi Hatsukoi
-Tag:	Josei
-Tag:	Boys' Love
+Tag:	Time Skip
+Tag:	Age Gap
 Tag:	Male Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Rape
+Tag:	Josei
 Tag:	Ensemble Cast
 Tag:	Primarily Male Cast
-Tag:	Rape
+Tag:	Boys' Love
 Tag:	LGBTQ+ Themes
-Tag:	Age Gap
-Tag:	Time Skip
-Tag:	Primarily Adult Cast
 Related:	6883
 Related:	6884
 Related:	6885

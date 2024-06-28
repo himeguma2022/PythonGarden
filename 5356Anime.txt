@@ -1,20 +1,20 @@
 ID:	5356
 Title:	カナン
 Title:	Canaan
-Tag:	Guns
-Tag:	Revenge
 Tag:	Super Power
-Tag:	Urban
-Tag:	Terrorism
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Politics
 Tag:	Assassins
-Tag:	LGBTQ+ Themes
 Tag:	Photography
+Tag:	Female Protagonist
+Tag:	Terrorism
 Tag:	Primarily Adult Cast
+Tag:	Revenge
+Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Urban
+Tag:	LGBTQ+ Themes
+Tag:	War
+Tag:	Guns
 Related:	41158
 Related:	94567
 Related:	45480

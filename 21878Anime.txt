@@ -1,27 +1,27 @@
 ID:	21878
-Title:	Gabriel DropOut
-Title:	ガヴリールドロップアウト
 Title:	Gabriel Dropout
-Tag:	Urban
+Title:	ガヴリールドロップアウト
+Title:	Gabriel DropOut
+Tag:	Demons
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Video Games
+Tag:	Chuunibyou
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Slapstick
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Hikikomori
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Urban
 Tag:	Angels
 Tag:	Gods
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Parody
-Tag:	Video Games
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Chuunibyou
-Tag:	Magic
-Tag:	Hikikomori
-Tag:	Surreal Comedy
-Tag:	Demons
 Related:	86864
 Related:	98524
 Related:	11429

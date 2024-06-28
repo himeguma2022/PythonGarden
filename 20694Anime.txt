@@ -1,19 +1,19 @@
 ID:	20694
-Title:	Non Non Biyori: Repeat
 Title:	Non Non Biyori Repeat
 Title:	のんのんびより りぴーと
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	Non Non Biyori: Repeat
+Tag:	Seinen
 Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Kuudere
+Tag:	Tomboy
+Tag:	Episodic
 Tag:	Achronological Order
-Tag:	Seinen
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	47552
 Related:	9889

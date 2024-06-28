@@ -1,32 +1,32 @@
 ID:	112608
+Title:	Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
 Title:	I've Been Killing Slimes for 300 Years and Maxed Out My Level
 Title:	スライム倒して300年、知らないうちにレベルMAXになってました
 Title:	"Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita"
-Title:	Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Tanned Skin
-Tag:	Elf
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Monster Girl
+Tag:	Demons
 Tag:	Iyashikei
 Tag:	Reincarnation
-Tag:	Medicine
-Tag:	Age Regression
-Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Rural
-Tag:	Found Family
-Tag:	Time Skip
-Tag:	Work
-Tag:	Demons
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Time Skip
+Tag:	Family Life
+Tag:	Cute Girls Doing Cute Things
+Tag:	Witch
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Medicine
+Tag:	Slapstick
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Tanned Skin
+Tag:	Elf
+Tag:	Ghost
+Tag:	Magic
+Tag:	Found Family
+Tag:	LGBTQ+ Themes
+Tag:	Age Regression
+Tag:	Rural
 Related:	35809
 Related:	35811
 Related:	100068

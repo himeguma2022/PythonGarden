@@ -1,15 +1,15 @@
 ID:	143417
 Title:	Teppen!!!!!!!!!!!!!!!
-Title:	てっぺんっ!!!!!!!!!!!!!!!
 Title:	TEPPEN!!!!!!!!!!!!!!! Laughing 'til You Cry
-Tag:	Surreal Comedy
-Tag:	Aliens
+Title:	てっぺんっ!!!!!!!!!!!!!!!
 Tag:	Primarily Teen Cast
-Tag:	Primarily Female Cast
 Tag:	Cute Girls Doing Cute Things
-Tag:	Episodic
 Tag:	Ensemble Cast
-Tag:	Rakugo
 Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Surreal Comedy
+Tag:	Episodic
+Tag:	Rakugo
+Tag:	Primarily Female Cast
 Related:	67097
 Related:	128869

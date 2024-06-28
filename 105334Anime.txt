@@ -1,53 +1,53 @@
 ID:	105334
-Title:	Fruits Basket: 1st Season
-Title:	Fruits Basket (2019)
 Title:	フルーツバスケット 1st Season
 Title:	Fruits Basket 1st Season
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Kuudere
-Tag:	Denpa
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Homeless
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
+Title:	Fruits Basket (2019)
+Title:	Fruits Basket: 1st Season
 Tag:	Fairy Tale
-Tag:	Body Horror
-Tag:	Gender Bending
-Tag:	Male Harem
-Tag:	Suicide
-Tag:	Gangs
-Tag:	Agriculture
-Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Orphan
-Tag:	Shoujo
-Tag:	Delinquents
-Tag:	School
-Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
 Tag:	Primarily Male Cast
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	LGBTQ+ Themes
-Tag:	Animals
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	School Club
-Tag:	Card Battle
-Tag:	Shapeshifting
-Tag:	Femboy
+Tag:	Crossdressing
+Tag:	School
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Bullying
 Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Femboy
+Tag:	Agriculture
+Tag:	Gangs
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Unrequited Love
+Tag:	Male Harem
+Tag:	Shapeshifting
+Tag:	School Club
+Tag:	Shoujo
+Tag:	Nekomimi
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Delinquents
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Chibi
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Homeless
+Tag:	Suicide
+Tag:	Card Battle
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Gender Bending
 Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Animals
+Tag:	Found Family
 Tag:	Rehabilitation
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	111762
 Related:	26709
 Related:	30102

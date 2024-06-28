@@ -1,23 +1,23 @@
 ID:	21745
 Title:	終物語（下）
-Title:	Owarimonogatari Second Season
 Title:	Owarimonogatari (Ge)
-Tag:	Achromatic
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Dissociative Identities
+Title:	Owarimonogatari Second Season
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Afterlife
-Tag:	Vampire
-Tag:	Achronological Order
 Tag:	Philosophy
-Tag:	Astronomy
-Tag:	Tsundere
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Ghost
+Tag:	Vampire
 Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Astronomy
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Achromatic
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
+Tag:	Afterlife
 Related:	143747
 Related:	67429
 Related:	51430

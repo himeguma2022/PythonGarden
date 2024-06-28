@@ -1,15 +1,15 @@
 ID:	101547
-Title:	Isekai Cheat Magician
 Title:	異世界チート魔術師
-Tag:	Tragedy
-Tag:	Isekai
+Title:	Isekai Cheat Magician
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	War
-Tag:	Elf
 Tag:	Assassins
+Tag:	Elf
 Tag:	Goblin
 Tag:	Magic
+Tag:	Tragedy
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	War
 Related:	22595
 Related:	136263
 Related:	44685

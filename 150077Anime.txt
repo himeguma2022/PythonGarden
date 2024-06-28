@@ -1,19 +1,19 @@
 ID:	150077
 Title:	Paradox Live THE ANIMATION
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Transgender
-Tag:	Primarily Adult Cast
 Tag:	CGI
-Tag:	Urban
+Tag:	Super Power
+Tag:	Hip-hop Music
+Tag:	Primarily Adult Cast
+Tag:	Transgender
 Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
+Tag:	Found Family
+Tag:	Urban
+Tag:	Conspiracy
 Tag:	Bar
-Tag:	Idol
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Bullying
+Tag:	Primarily Male Cast
 Tag:	LGBTQ+ Themes
 Tag:	Suicide
-Tag:	Memory Manipulation
-Tag:	Hip-hop Music
-Tag:	Conspiracy
-Tag:	Found Family
+Tag:	Idol

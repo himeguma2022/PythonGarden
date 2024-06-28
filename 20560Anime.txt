@@ -1,34 +1,34 @@
 ID:	20560
 Title:	Senki Zesshou Symphogear GX
-Title:	戦姫絶唱シンフォギアGX
 Title:	Symphogear GX
+Title:	戦姫絶唱シンフォギアGX
 Tag:	Clone
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Kuudere
-Tag:	Memory Manipulation
+Tag:	Drugs
+Tag:	Alchemy
 Tag:	Yuri
-Tag:	Witch
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
+Tag:	Robots
 Tag:	Ensemble Cast
 Tag:	Politics
-Tag:	Suicide
-Tag:	Guns
+Tag:	Memory Manipulation
 Tag:	Mythology
 Tag:	Orphan
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Robots
-Tag:	Henshin
-Tag:	Magic
-Tag:	Alchemy
-Tag:	Motorcycles
-Tag:	Philosophy
 Tag:	Agender
+Tag:	Bullying
+Tag:	Henshin
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Motorcycles
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Martial Arts
+Tag:	Magic
+Tag:	Urban
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Tag:	Idol
 Related:	21508
 Related:	21672

@@ -2,27 +2,27 @@ ID:	20462
 Title:	棺姫のチャイカ
 Title:	Chaika -The Coffin Princess-
 Title:	Hitsugi no Chaika
-Tag:	Urban
-Tag:	Fugitive
-Tag:	Memory Manipulation
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Travel
-Tag:	Skeleton
+Tag:	Military
 Tag:	Foreign
+Tag:	Memory Manipulation
+Tag:	Skeleton
+Tag:	Dragons
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Shapeshifting
 Tag:	Guns
 Tag:	Swordplay
+Tag:	Female Protagonist
 Tag:	Female Harem
 Tag:	Steampunk
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Shapeshifting
-Tag:	Military
-Tag:	Anti-Hero
+Tag:	Fugitive
+Tag:	Crime
 Tag:	Amnesia
-Tag:	Dragons
+Tag:	Magic
+Tag:	Urban
+Tag:	Anti-Hero
+Tag:	Rural
 Related:	9319
 Related:	62831
 Related:	81903

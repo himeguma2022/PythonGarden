@@ -1,20 +1,20 @@
 ID:	158539
 Title:	Oemojisangjuui
-Title:	외모지상주의
 Title:	Lookism
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Fashion
-Tag:	CGI
-Tag:	Delinquents
+Title:	외모지상주의
 Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	School
-Tag:	Parody
-Tag:	Boxing
-Tag:	Body Swapping
+Tag:	CGI
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Parody
 Tag:	Gangs
+Tag:	Martial Arts
+Tag:	Primarily Teen Cast
+Tag:	Body Swapping
+Tag:	Fashion
+Tag:	School
+Tag:	Boxing
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Delinquents
 Related:	86848
 Related:	81829

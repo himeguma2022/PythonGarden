@@ -1,20 +1,20 @@
 ID:	1030
-Title:	Pom Poko
 Title:	平成狸合戦ぽんぽこ
 Title:	Heisei Tanuki Gassen Ponpoko
-Tag:	Kids
-Tag:	Revenge
-Tag:	Mythology
-Tag:	Transgender
-Tag:	Slapstick
+Title:	Pom Poko
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
+Tag:	Kids
 Tag:	Anthropomorphism
 Tag:	Travel
-Tag:	Youkai
-Tag:	Shapeshifting
+Tag:	Environmental
+Tag:	Revenge
 Tag:	Animals
-Tag:	Henshin
+Tag:	Transgender
+Tag:	Shapeshifting
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Primarily Male Cast
+Tag:	Youkai
 Tag:	Rural
+Tag:	Slapstick
+Tag:	Henshin

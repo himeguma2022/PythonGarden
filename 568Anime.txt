@@ -1,18 +1,18 @@
 ID:	568
 Title:	バブルガムクライシス TOKYO2040
 Title:	Bubblegum Crisis TOKYO 2040
-Tag:	Primarily Female Cast
-Tag:	Motorcycles
-Tag:	Band
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Cyberpunk
 Tag:	Real Robot
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Police
+Tag:	Female Protagonist
+Tag:	Band
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Motorcycles
+Tag:	Police
+Tag:	Cyberpunk
+Tag:	Primarily Female Cast
 Related:	1347
 Related:	1196
 Related:	1349

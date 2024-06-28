@@ -1,12 +1,12 @@
 ID:	2811
-Title:	空飛ぶゆうれい船
-Title:	Sora Tobu Yuurei Sen
 Title:	The Flying Ghost Ship
-Tag:	Shounen
+Title:	Sora Tobu Yuurei Sen
+Title:	空飛ぶゆうれい船
 Tag:	Male Protagonist
-Tag:	Tanks
 Tag:	Ships
 Tag:	Conspiracy
+Tag:	Tanks
 Tag:	Kaiju
+Tag:	Shounen
 Related:	113015
 Related:	36271

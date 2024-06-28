@@ -1,18 +1,18 @@
 ID:	16001
-Title:	Kokoro Connect: Michi Random
 Title:	Kokoro Connect ~ The OVAs
+Title:	Kokoro Connect: Michi Random
 Title:	ココロコネクト ミチランダム
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Philosophy
 Tag:	Tsundere
-Tag:	Body Swapping
 Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Body Swapping
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Philosophy
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	8224
 Related:	54380

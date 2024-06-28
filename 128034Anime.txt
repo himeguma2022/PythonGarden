@@ -1,22 +1,22 @@
 ID:	128034
-Title:	オリエント
 Title:	ORIENT
+Title:	オリエント
+Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Agriculture
-Tag:	Historical
+Tag:	Nudity
+Tag:	Demons
+Tag:	Gore
 Tag:	Slavery
+Tag:	Magic
+Tag:	Ninja
+Tag:	Survival
+Tag:	Kaiju
+Tag:	Historical
+Tag:	Samurai
+Tag:	Gods
 Tag:	Shounen
 Tag:	Slapstick
-Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Ninja
-Tag:	Gods
-Tag:	Nudity
-Tag:	Gore
-Tag:	Magic
-Tag:	Samurai
-Tag:	Demons
-Tag:	Kaiju
 Related:	70744
 Related:	101873
 Related:	146637

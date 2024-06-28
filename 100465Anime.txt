@@ -1,18 +1,18 @@
 ID:	100465
-Title:	Shingeki no Kyojin Season 2
-Title:	Attack on Titan: The Roar of Awakening
-Title:	Shingeki no Kyojin Season 2: Kakusei no Houkou
 Title:	劇場版「進撃の巨人」Season 2～覚醒の咆哮～
-Tag:	Tragedy
+Title:	Shingeki no Kyojin Season 2: Kakusei no Houkou
+Title:	Attack on Titan: The Roar of Awakening
+Title:	Shingeki no Kyojin Season 2
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Shounen
-Tag:	Post-Apocalyptic
-Tag:	Male Protagonist
-Tag:	Survival
 Tag:	Military
+Tag:	Tragedy
 Tag:	Steampunk
-Tag:	Monster Girl
+Tag:	Survival
 Tag:	Kaiju
+Tag:	Post-Apocalyptic
+Tag:	Monster Girl
 Related:	21440
 Related:	21445
 Related:	60780

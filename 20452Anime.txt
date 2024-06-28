@@ -1,14 +1,14 @@
 ID:	20452
+Title:	戦姫絶唱シンフォギアG 戦姫絶唱しないシンフォギア
 Title:	Senki Zesshou Symphogear G: Senki Zesshou Shinai Symphogear
 Title:	Symphogear G: Non-Songs of the Valkyries
-Title:	戦姫絶唱シンフォギアG 戦姫絶唱しないシンフォギア
-Tag:	Mythology
-Tag:	Primarily Female Cast
 Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Kuudere
-Tag:	Henshin
 Tag:	Chibi
+Tag:	Mythology
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Henshin
 Related:	15793
 Related:	51170

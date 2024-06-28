@@ -1,38 +1,38 @@
 ID:	127401
 Title:	プラチナエンド
 Title:	Platinum End
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Archery
-Tag:	Urban
-Tag:	Angels
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Denpa
-Tag:	Gore
-Tag:	Religion
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Bullying
-Tag:	Crime
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	Rape
 Tag:	Politics
-Tag:	Cosmic Horror
-Tag:	Suicide
-Tag:	Survival
-Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Conspiracy
+Tag:	Bullying
+Tag:	Yandere
 Tag:	Henshin
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Religion
 Tag:	Heterosexual
+Tag:	Survival
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Primarily Adult Cast
 Tag:	Hikikomori
 Tag:	Battle Royale
-Tag:	CGI
-Tag:	Rape
+Tag:	Denpa
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Crime
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Gods
 Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Yandere
 Related:	64361
 Related:	50701
 Related:	86526

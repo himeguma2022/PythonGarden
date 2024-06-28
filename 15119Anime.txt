@@ -2,13 +2,13 @@ ID:	15119
 Title:	閃乱カグラ
 Title:	Senran Kagura: Ninja Flash!
 Title:	Senran Kagura
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Ninja
-Tag:	Kuudere
 Tag:	Nudity
+Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ninja
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Henshin
 Related:	17345
 Related:	63267

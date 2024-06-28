@@ -1,29 +1,29 @@
 ID:	21714
-Title:	フリップフラッパーズ
-Title:	Flip Flappers
 Title:	FLIP FLAPPERS
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Dissociative Identities
-Tag:	Cult
-Tag:	Tsundere
-Tag:	Memory Manipulation
+Title:	Flip Flappers
+Title:	フリップフラッパーズ
 Tag:	Yuri
+Tag:	Surfing
+Tag:	Memory Manipulation
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Isekai
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Episodic
 Tag:	Primarily Female Cast
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Age Regression
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
+Tag:	Super Robot
+Tag:	Love Triangle
+Tag:	Tsundere
 Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Surreal Comedy
-Tag:	Surfing
-Tag:	Yandere
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Dissociative Identities
+Tag:	LGBTQ+ Themes
+Tag:	Age Regression

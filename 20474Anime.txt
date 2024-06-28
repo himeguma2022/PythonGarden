@@ -1,28 +1,28 @@
 ID:	20474
-Title:	JoJo no Kimyou na Bouken: Stardust Crusaders
 Title:	ジョジョの奇妙な冒険 スターダストクルセイダース
+Title:	JoJo no Kimyou na Bouken: Stardust Crusaders
 Title:	JoJo's Bizarre Adventure: Stardust Crusaders
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	Desert
+Tag:	Travel
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Vampire
+Tag:	Time Manipulation
+Tag:	Delinquents
+Tag:	CGI
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Travel
-Tag:	Time Manipulation
-Tag:	Foreign
-Tag:	Delinquents
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Vampire
 Tag:	Ships
-Tag:	Found Family
+Tag:	Shounen
+Tag:	Urban Fantasy
 Tag:	Revenge
-Tag:	CGI
-Tag:	Bisexual
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Body Horror
 Related:	9510
 Related:	14719
 Related:	8744

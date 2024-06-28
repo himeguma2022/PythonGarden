@@ -1,23 +1,23 @@
 ID:	151679
-Title:	Nokemono-tachi no Yoru
 Title:	The tale of outcasts
 Title:	ノケモノたちの夜
-Tag:	Guns
-Tag:	Historical
-Tag:	Slavery
-Tag:	Disability
-Tag:	Orphan
-Tag:	Shounen
-Tag:	Swordplay
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	Anthropomorphism
-Tag:	Shapeshifting
+Title:	Nokemono-tachi no Yoru
 Tag:	Age Gap
 Tag:	Religion
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Swordplay
+Tag:	Urban Fantasy
 Tag:	Demons
+Tag:	Female Protagonist
+Tag:	Disability
+Tag:	Anthropomorphism
+Tag:	Slavery
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Shapeshifting
 Tag:	Foreign
+Tag:	Orphan
+Tag:	Historical
+Tag:	Shounen
+Tag:	Guns
 Related:	110934
 Related:	75231

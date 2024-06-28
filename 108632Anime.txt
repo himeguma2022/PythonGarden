@@ -1,37 +1,37 @@
 ID:	108632
-Title:	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
-Title:	Re:ZERO -Starting Life in Another World- Season 2
 Title:	Re:ゼロから始める異世界生活 2nd Season
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Cult
+Title:	Re:ZERO -Starting Life in Another World- Season 2
+Title:	Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season
 Tag:	Demons
-Tag:	Gore
+Tag:	Travel
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Maids
 Tag:	Memory Manipulation
+Tag:	Isekai
+Tag:	Yandere
+Tag:	Monster Girl
+Tag:	Time Skip
+Tag:	Femboy
+Tag:	Male Protagonist
+Tag:	Time Loop
+Tag:	Heterosexual
+Tag:	Time Manipulation
 Tag:	Witch
 Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Travel
-Tag:	Monster Girl
-Tag:	Time Manipulation
-Tag:	Foreign
-Tag:	Kemonomimi
-Tag:	Assassins
 Tag:	Age Gap
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Assassins
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
 Tag:	Twins
 Tag:	Hikikomori
-Tag:	Time Loop
-Tag:	Femboy
-Tag:	Time Skip
-Tag:	Yandere
-Tag:	Maids
-Tag:	Alternate Universe
+Tag:	Elf
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Body Horror
 Related:	43079
 Related:	85737
 Related:	43083

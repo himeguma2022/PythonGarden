@@ -1,15 +1,15 @@
 ID:	3886
 Title:	Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!
 Title:	スーパーマリオブラザーズ　ピーチ姫救出大作戦!
-Tag:	Primarily Adult Cast
-Tag:	Isekai
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Drugs
-Tag:	Virtual World
-Tag:	Video Games
-Tag:	Advertisement
+Tag:	Isekai
+Tag:	Primarily Adult Cast
 Tag:	Foreign
+Tag:	Love Triangle
+Tag:	Video Games
+Tag:	Virtual World
+Tag:	Advertisement
 Related:	62340
 Related:	62469
 Related:	62982

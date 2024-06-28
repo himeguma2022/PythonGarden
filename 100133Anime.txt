@@ -1,13 +1,13 @@
 ID:	100133
-Title:	One Room: Second Season
-Title:	One Room セカンドシーズン
 Title:	One Room SECOND SEASON
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	One Room セカンドシーズン
+Title:	One Room: Second Season
 Tag:	Male Protagonist
+Tag:	Primarily Female Cast
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
 Tag:	Female Harem
 Tag:	POV
-Tag:	Heterosexual
 Tag:	Outdoor
 Related:	97857
 Related:	107298

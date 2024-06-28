@@ -1,19 +1,19 @@
 ID:	122441
-Title:	ピーチボーイリバーサイド
 Title:	Peach Boy Riverside
-Tag:	Tragedy
-Tag:	Shounen
+Title:	ピーチボーイリバーサイド
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Elf
-Tag:	Travel
-Tag:	Achronological Order
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Yandere
-Tag:	Heterosexual
-Tag:	Monster Girl
 Tag:	Demons
+Tag:	Elf
+Tag:	Gore
+Tag:	Shounen
+Tag:	Achronological Order
+Tag:	Heterosexual
+Tag:	Travel
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Yandere
+Tag:	Monster Girl
 Related:	95895
 Related:	152001
 Related:	45715

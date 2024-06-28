@@ -1,16 +1,16 @@
 ID:	1118
-Title:	劇場版ポケットモンスター 結晶塔の帝王 ENTEI
 Title:	Pokémon 3: The Movie
+Title:	劇場版ポケットモンスター 結晶塔の帝王 ENTEI
 Title:	Pocket Monsters: Kesshoutou no Teiou ENTEI
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Kids
 Tag:	Family Life
 Tag:	Animals
+Tag:	Primarily Child Cast
 Tag:	Memory Manipulation
-Tag:	Rural
 Tag:	Dragons
+Tag:	Rural
 Related:	1927
 Related:	1928
 Related:	54222

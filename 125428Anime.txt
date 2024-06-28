@@ -1,25 +1,25 @@
 ID:	125428
-Title:	天空侵犯
 Title:	Tenkuu Shinpan
 Title:	High-Rise Invasion
+Title:	天空侵犯
+Tag:	Maids
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
 Tag:	Isekai
+Tag:	Survival
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Battle Royale
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Nudity
+Tag:	Amnesia
 Tag:	Urban
 Tag:	Dissociative Identities
 Tag:	Gods
-Tag:	Gore
-Tag:	Memory Manipulation
 Tag:	Death Game
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	Guns
-Tag:	Swordplay
-Tag:	Survival
-Tag:	Nudity
 Tag:	LGBTQ+ Themes
-Tag:	Battle Royale
-Tag:	Amnesia
-Tag:	Maids
 Related:	48633
 Related:	85388

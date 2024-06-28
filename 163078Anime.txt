@@ -1,24 +1,24 @@
 ID:	163078
-Title:	夜のクラゲは泳げない
 Title:	Yoru no Kurage wa Oyogenai
 Title:	Jellyfish Can’t Swim in the Night
-Tag:	Yuri
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Drawing
-Tag:	Transgender
+Title:	夜のクラゲは泳げない
+Tag:	Age Gap
 Tag:	Primarily Teen Cast
 Tag:	VTuber
-Tag:	Band
-Tag:	Urban
+Tag:	Yuri
 Tag:	Female Protagonist
+Tag:	Drawing
+Tag:	Transgender
 Tag:	Cute Girls Doing Cute Things
+Tag:	Hikikomori
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Motorcycles
 Tag:	Denpa
-Tag:	Age Gap
+Tag:	Band
 Tag:	LGBTQ+ Themes
-Tag:	Coming of Age
-Tag:	Hikikomori
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coming of Age
 Related:	97010
 Related:	176730

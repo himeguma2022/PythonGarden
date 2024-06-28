@@ -1,22 +1,22 @@
 ID:	156023
 Title:	魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？
+Title:	An Archdemon's Dilemma: How to Love Your Elf Bride
 Title:	Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?
 Title:	"Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?"
-Title:	An Archdemon's Dilemma: How to Love Your Elf Bride
-Tag:	Iyashikei
-Tag:	Slavery
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Gore
-Tag:	Anti-Hero
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Monster Girl
 Tag:	Demons
+Tag:	Elf
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Slavery
 Tag:	Adoption
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Anti-Hero
+Tag:	Monster Girl
 Related:	79577
 Related:	101722
 Related:	99605

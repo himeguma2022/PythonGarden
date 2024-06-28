@@ -1,10 +1,10 @@
 ID:	15591
 Title:	Joshiraku OVA
 Title:	じょしらくOVA
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
 Tag:	Satire
-Tag:	Rakugo
+Tag:	Cute Girls Doing Cute Things
 Tag:	Meta
+Tag:	Surreal Comedy
+Tag:	Rakugo
 Related:	8144
 Related:	12679

@@ -1,21 +1,21 @@
 ID:	146922
-Title:	機動戦士ガンダム 水星の魔女 PROLOGUE
-Title:	Kidou Senshi Gundam: Suisei no Majo - Prologue
-Title:	Mobile Suit Gundam: The Witch from Mercury - PROLOGUE
 Title:	Kidou Senshi Gundam: Suisei no Majo - PROLOGUE
+Title:	Kidou Senshi Gundam: Suisei no Majo - Prologue
+Title:	機動戦士ガンダム 水星の魔女 PROLOGUE
+Title:	Mobile Suit Gundam: The Witch from Mercury - PROLOGUE
+Tag:	Real Robot
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Space
+Tag:	Family Life
+Tag:	Military
+Tag:	Cyborg
+Tag:	Politics
+Tag:	Conspiracy
 Tag:	Tragedy
 Tag:	Witch
-Tag:	Primarily Adult Cast
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Space
-Tag:	War
-Tag:	Politics
-Tag:	Real Robot
-Tag:	Cyborg
-Tag:	Military
 Tag:	LGBTQ+ Themes
-Tag:	Conspiracy
+Tag:	War
 Related:	85424
 Related:	139274
 Related:	163179

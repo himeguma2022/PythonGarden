@@ -1,30 +1,30 @@
 ID:	161645
+Title:	Kusuriya no Hitorigoto
 Title:	The Apothecary Diaries
 Title:	薬屋のひとりごと
-Title:	Kusuriya no Hitorigoto
-Tag:	Slavery
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Unrequited Love
-Tag:	Royal Affairs
-Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Female Protagonist
+Tag:	Drugs
+Tag:	Alchemy
+Tag:	Adoption
 Tag:	Food
 Tag:	Politics
-Tag:	Foreign
-Tag:	Drugs
-Tag:	Medicine
-Tag:	Nudity
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Ancient China
-Tag:	Alchemy
-Tag:	Detective
-Tag:	Work
 Tag:	Maids
-Tag:	Adoption
+Tag:	Foreign
+Tag:	Conspiracy
+Tag:	Royal Affairs
+Tag:	Detective
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Historical
+Tag:	Crime
+Tag:	Nudity
+Tag:	Slavery
+Tag:	Tragedy
+Tag:	Ancient China
+Tag:	Medicine
 Related:	90985
 Related:	113322
 Related:	170508

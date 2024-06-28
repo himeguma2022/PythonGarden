@@ -1,8 +1,8 @@
 ID:	130318
 Title:	MOGU MOGU YUMMY!
 Title:	もぐもぐYUMMY！
-Tag:	Food
 Tag:	Nekomimi
+Tag:	Food
 Tag:	VTuber
 Related:	53745
 Related:	118123

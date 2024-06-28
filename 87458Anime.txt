@@ -1,15 +1,15 @@
 ID:	87458
+Title:	GODZILLA: Kaijuu Wakusei
 Title:	GODZILLA -怪獣惑星-
 Title:	Godzilla: Planet of the Monsters
-Title:	GODZILLA: Kaijuu Wakusei
-Tag:	Full CGI
-Tag:	Revenge
-Tag:	Aliens
-Tag:	Post-Apocalyptic
+Tag:	Military
 Tag:	Environmental
 Tag:	Space
-Tag:	Military
+Tag:	Revenge
+Tag:	Full CGI
+Tag:	Aliens
 Tag:	Kaiju
+Tag:	Post-Apocalyptic
 Related:	100561
 Related:	34645
 Related:	111625

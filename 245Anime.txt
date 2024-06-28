@@ -1,35 +1,35 @@
 ID:	245
 Title:	GTO: Great Teacher Onizuka
 Title:	GTO
-Tag:	Teacher
-Tag:	Satire
-Tag:	Martial Arts
-Tag:	Kuudere
-Tag:	Fugitive
 Tag:	Crossdressing
 Tag:	Conspiracy
+Tag:	School
 Tag:	Bullying
-Tag:	Crime
-Tag:	Educational
-Tag:	Shounen
+Tag:	Coming of Age
+Tag:	Satire
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Parody
-Tag:	Suicide
-Tag:	Gangs
 Tag:	Agriculture
+Tag:	Gangs
+Tag:	Heterosexual
+Tag:	Episodic
 Tag:	Guns
 Tag:	Delinquents
-Tag:	School
-Tag:	Acting
-Tag:	Nudity
-Tag:	Real Robot
 Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Coming of Age
-Tag:	Revenge
 Tag:	Work
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Police
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Teacher
+Tag:	Fugitive
+Tag:	Real Robot
+Tag:	Acting
+Tag:	Crime
+Tag:	Nudity
+Tag:	Martial Arts
+Tag:	Revenge
+Tag:	Educational
 Related:	30336
 Related:	1913
 Related:	602

@@ -1,20 +1,20 @@
 ID:	102680
+Title:	WATATEN!: an Angel Flew Down to Me
 Title:	Watashi ni Tenshi ga Maiorita!
 Title:	私に天使が舞い降りた！
-Title:	WATATEN!: an Angel Flew Down to Me
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Angels
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Cosplay
-Tag:	School
-Tag:	College
-Tag:	Food
 Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Food
+Tag:	Family Life
+Tag:	College
 Tag:	Hikikomori
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Child Cast
+Tag:	Angels
+Tag:	School
+Tag:	Cosplay
+Tag:	Primarily Female Cast
 Related:	28825
 Related:	107138
 Related:	52675

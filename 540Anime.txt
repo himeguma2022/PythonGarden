@@ -2,19 +2,19 @@ ID:	540
 Title:	Tenchi Muyou! Ryououki Dai 2-ki
 Title:	Tenchi Muyo! Ryo-Ohki Season 2
 Title:	天地無用! 魎皇鬼 第2期
-Tag:	Aliens
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Slapstick
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Space
 Tag:	Nudity
-Tag:	Shapeshifting
+Tag:	Kemonomimi
 Tag:	Tsundere
+Tag:	Space
+Tag:	Shapeshifting
+Tag:	Aliens
+Tag:	Dissociative Identities
 Tag:	Gyaru
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Tag:	Rural
+Tag:	Slapstick
 Related:	1152
 Related:	1153
 Related:	30855

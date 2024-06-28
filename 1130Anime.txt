@@ -1,18 +1,18 @@
 ID:	1130
-Title:	Windaria
 Title:	Once Upon A Time
 Title:	ウインダリア
-Tag:	Guns
+Title:	Windaria
+Tag:	Time Skip
+Tag:	Ghost
+Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Politics
+Tag:	Urban
 Tag:	Swimming
 Tag:	Tragedy
-Tag:	Ghost
-Tag:	Slapstick
-Tag:	Urban
-Tag:	War
-Tag:	Politics
+Tag:	Aviation
 Tag:	Tanks
 Tag:	Suicide
-Tag:	Ships
-Tag:	Time Skip
-Tag:	Aviation
-Tag:	Primarily Adult Cast
+Tag:	War
+Tag:	Slapstick
+Tag:	Guns

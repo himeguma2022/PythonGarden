@@ -1,30 +1,30 @@
 ID:	133844
 Title:	オーバーロードⅣ
 Title:	Overlord IV
+Tag:	Demons
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Maids
+Tag:	Zombie
+Tag:	Conspiracy
+Tag:	Skeleton
 Tag:	Isekai
+Tag:	Virtual World
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Femboy
+Tag:	Vampire
+Tag:	Male Harem
+Tag:	CGI
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Male Harem
-Tag:	Skeleton
-Tag:	Monster Girl
-Tag:	Succubus
 Tag:	Female Harem
-Tag:	Zombie
-Tag:	Vampire
+Tag:	Succubus
+Tag:	Revenge
 Tag:	Magic
 Tag:	Tomboy
-Tag:	Revenge
-Tag:	CGI
 Tag:	Monster Boy
-Tag:	Virtual World
-Tag:	Femboy
 Tag:	Anti-Hero
-Tag:	Maids
-Tag:	Demons
 Related:	57184
 Related:	101474
 Related:	75465

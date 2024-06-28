@@ -1,34 +1,34 @@
 ID:	227
 Title:	フリクリ
 Title:	FLCL
-Tag:	Aliens
-Tag:	Super Robot
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Baseball
-Tag:	Gods
-Tag:	Denpa
-Tag:	Kaiju
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Parody
 Tag:	Body Horror
-Tag:	Meta
-Tag:	Guns
-Tag:	Nudity
-Tag:	Real Robot
-Tag:	Age Gap
 Tag:	Robots
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Surreal Comedy
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Meta
 Tag:	Mopeds
-Tag:	CGI
-Tag:	Philosophy
-Tag:	Amnesia
+Tag:	Aliens
 Tag:	Vore
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Guns
+Tag:	CGI
+Tag:	Age Gap
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Super Robot
+Tag:	Baseball
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Real Robot
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Amnesia
+Tag:	Gods
+Tag:	Kaiju
+Tag:	Philosophy
 Related:	32037
 Related:	32039
 Related:	11176

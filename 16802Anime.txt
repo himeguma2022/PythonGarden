@@ -1,7 +1,7 @@
 ID:	16802
-Title:	Golden Batman
 Title:	검은별과 황금박쥐
-Tag:	Kids
+Title:	Golden Batman
 Tag:	Male Protagonist
-Tag:	Crime
+Tag:	Kids
 Tag:	Superhero
+Tag:	Crime

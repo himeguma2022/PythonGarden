@@ -1,24 +1,24 @@
 ID:	20541
-Title:	Mekakucity Actors
 Title:	メカクシティアクターズ
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Primarily Teen Cast
+Title:	Mekakucity Actors
 Tag:	CGI
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Time Loop
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
+Tag:	Primarily Teen Cast
+Tag:	Time Loop
 Tag:	Kuudere
-Tag:	Denpa
-Tag:	Idol
-Tag:	Achronological Order
-Tag:	Suicide
 Tag:	Tsundere
-Tag:	Time Manipulation
 Tag:	Hikikomori
 Tag:	Found Family
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Time Manipulation
+Tag:	Dissociative Identities
+Tag:	Denpa
+Tag:	Achronological Order
+Tag:	Suicide
+Tag:	Idol
 Related:	23552
 Related:	133136
 Related:	21648

@@ -1,14 +1,14 @@
 ID:	9834
-Title:	Level E
 Title:	レベルE
+Title:	Level E
+Tag:	Parody
+Tag:	Space
+Tag:	Baseball
+Tag:	Meta
 Tag:	Aliens
 Tag:	Surreal Comedy
-Tag:	Shounen
-Tag:	Baseball
-Tag:	Space
-Tag:	Parody
 Tag:	LGBTQ+ Themes
-Tag:	Meta
+Tag:	Shounen
 Related:	31193
 Related:	6842
 Related:	90611

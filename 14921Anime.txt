@@ -1,19 +1,19 @@
 ID:	14921
 Title:	RDG レッドデータガール
-Title:	RDG: Red Data Girl
 Title:	Red Data Girl
-Tag:	Mythology
-Tag:	Archery
-Tag:	Female Protagonist
+Title:	RDG: Red Data Girl
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Shrine Maiden
-Tag:	Gods
-Tag:	Youkai
+Tag:	Female Protagonist
+Tag:	Twins
 Tag:	Magic
 Tag:	Body Swapping
-Tag:	Twins
+Tag:	Archery
+Tag:	Mythology
+Tag:	School
+Tag:	Gods
+Tag:	Youkai
 Tag:	Rural
+Tag:	Shrine Maiden
 Related:	54801
 Related:	71259
 Related:	75605

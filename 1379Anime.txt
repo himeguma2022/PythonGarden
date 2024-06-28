@@ -1,13 +1,13 @@
 ID:	1379
-Title:	キノの旅 何かをするために -life goes on.-
 Title:	Kino no Tabi: Nanika wo Suru Tame ni -life goes on.-
-Tag:	Guns
-Tag:	Motorcycles
+Title:	キノの旅 何かをするために -life goes on.-
 Tag:	Female Protagonist
-Tag:	Philosophy
-Tag:	LGBTQ+ Themes
-Tag:	Agender
 Tag:	Foreign
+Tag:	Motorcycles
+Tag:	Agender
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
+Tag:	Guns
 Related:	53233
 Related:	2242
 Related:	486

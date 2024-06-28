@@ -1,14 +1,14 @@
 ID:	718
 Title:	If I See You in My Dreams
-Title:	夢で逢えたら
 Title:	Yume de Aetara (TV)
-Tag:	Love Triangle
+Title:	夢で逢えたら
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Nudity
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Female Harem
+Tag:	Love Triangle
 Related:	1354
 Related:	1355
 Related:	715

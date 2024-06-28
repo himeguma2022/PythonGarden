@@ -1,10 +1,10 @@
 ID:	19511
-Title:	NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!
 Title:	NARUTO: Shippuuden - Sunny Side Battle!!!
+Title:	NARUTO -ナルト- 疾風伝 サニー・サイド・バトル!!!
 Tag:	Super Power
-Tag:	Shounen
-Tag:	Ninja
-Tag:	Food
 Tag:	Cosmic Horror
+Tag:	Food
+Tag:	Ninja
+Tag:	Shounen
 Related:	8941
 Related:	1735

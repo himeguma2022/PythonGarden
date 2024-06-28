@@ -1,29 +1,29 @@
 ID:	108759
 Title:	ソードアート・オンライン アリシゼーション War of Underworld
 Title:	Sword Art Online: Alicization - War of Underworld
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Artificial Intelligence
-Tag:	Gods
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Augmented Reality
-Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Conspiracy
 Tag:	Video Games
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	War
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Goblin
-Tag:	Virtual World
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Virtual World
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Artificial Intelligence
+Tag:	Love Triangle
+Tag:	Primarily Teen Cast
+Tag:	Augmented Reality
+Tag:	Terrorism
+Tag:	Goblin
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Gods
 Related:	114308
 Related:	31691
 Related:	31693

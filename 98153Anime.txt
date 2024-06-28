@@ -1,13 +1,13 @@
 ID:	98153
-Title:	スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者
 Title:	Super Danganronpa 2.5 Komaeda Nagito to Sekai no Hakaimono
-Tag:	Guns
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
+Title:	スーパーダンガンロンパ2.5 狛枝凪斗と世界の破壊者
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Swordplay
+Tag:	Primarily Teen Cast
 Tag:	Augmented Reality
 Tag:	Alternate Universe
+Tag:	School
+Tag:	Guns
 Related:	97672
 Related:	40785
 Related:	40787

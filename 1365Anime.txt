@@ -1,22 +1,22 @@
 ID:	1365
-Title:	Meitantei Conan: Baker Street no Bourei
 Title:	Case Closed: The Phantom of Baker Street
 Title:	名探偵コナン　ベイカー街(ストリート)の亡霊
+Title:	Meitantei Conan: Baker Street no Bourei
+Tag:	Male Protagonist
+Tag:	Virtual World
+Tag:	Isekai
 Tag:	Crime
+Tag:	Crossover
+Tag:	Shounen
 Tag:	Revenge
 Tag:	Primarily Child Cast
-Tag:	Crossover
-Tag:	Isekai
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Age Regression
 Tag:	Artificial Intelligence
-Tag:	Detective
-Tag:	Virtual World
-Tag:	Suicide
-Tag:	Video Games
-Tag:	Classic Literature
-Tag:	Police
 Tag:	Foreign
+Tag:	Video Games
+Tag:	Police
+Tag:	Detective
+Tag:	Age Regression
+Tag:	Suicide
+Tag:	Classic Literature
 Related:	235
 Related:	2220

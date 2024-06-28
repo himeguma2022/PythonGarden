@@ -1,22 +1,22 @@
 ID:	104463
+Title:	Toaru Kagaku no Accelerator
 Title:	とある科学の一方通行【アクセラレータ】
 Title:	A Certain Scientific Accelerator
-Title:	Toaru Kagaku no Accelerator
-Tag:	Guns
-Tag:	Crime
-Tag:	Super Power
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Necromancy
-Tag:	School
-Tag:	Military
+Tag:	Crime
 Tag:	Gore
-Tag:	Robots
-Tag:	Anti-Hero
+Tag:	Military
 Tag:	Magic
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Necromancy
 Tag:	Conspiracy
+Tag:	School
+Tag:	Anti-Hero
+Tag:	Shounen
+Tag:	Guns
 Related:	25318
 Related:	85322
 Related:	4654

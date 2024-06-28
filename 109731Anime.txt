@@ -1,16 +1,16 @@
 ID:	109731
 Title:	響け！ユーフォニアム３
-Title:	Sound! Euphonium 3
 Title:	Hibike! Euphonium 3
-Tag:	Yuri
-Tag:	Primarily Female Cast
+Title:	Sound! Euphonium 3
 Tag:	Primarily Teen Cast
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	School
+Tag:	Yuri
 Tag:	Classical Music
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	177008
 Related:	74124
 Related:	97253

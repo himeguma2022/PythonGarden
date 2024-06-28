@@ -1,10 +1,10 @@
 ID:	754
+Title:	雪の女王
 Title:	Yuki no Joou
 Title:	The Snow Queen
-Title:	雪の女王
-Tag:	Animals
-Tag:	Female Protagonist
 Tag:	Fairy Tale
+Tag:	Female Protagonist
 Tag:	Travel
-Tag:	Classic Literature
 Tag:	Snowscape
+Tag:	Animals
+Tag:	Classic Literature

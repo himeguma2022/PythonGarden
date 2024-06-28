@@ -1,12 +1,12 @@
 ID:	19021
-Title:	Love, Chunibyo & Other Delusions: Rikka Version
-Title:	小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~
 Title:	Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie
-Tag:	Primarily Female Cast
+Title:	小鳥遊六花・改 ~劇場版 中二病でも恋がしたい!~
+Title:	Love, Chunibyo & Other Delusions: Rikka Version
 Tag:	Male Protagonist
+Tag:	Chuunibyou
 Tag:	Female Protagonist
 Tag:	School
-Tag:	Chuunibyou
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	8701
 Related:	20660

@@ -1,29 +1,29 @@
 ID:	21827
-Title:	Violet Evergarden
 Title:	ヴァイオレット・エヴァーガーデン
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Kuudere
-Tag:	Trains
-Tag:	Primarily Adult Cast
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	Violet Evergarden
 Tag:	Travel
-Tag:	Foreign
-Tag:	Guns
-Tag:	Orphan
-Tag:	War
-Tag:	Assassins
-Tag:	Age Gap
-Tag:	Steampunk
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Military
-Tag:	Philosophy
-Tag:	Disability
-Tag:	Work
-Tag:	Rehabilitation
 Tag:	Writing
+Tag:	Military
+Tag:	Foreign
+Tag:	Trains
+Tag:	Orphan
+Tag:	Coming of Age
+Tag:	Heterosexual
+Tag:	Episodic
+Tag:	War
+Tag:	Guns
+Tag:	Age Gap
+Tag:	Work
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Steampunk
+Tag:	Historical
+Tag:	Disability
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Philosophy
 Related:	109190
 Related:	97298
 Related:	22516

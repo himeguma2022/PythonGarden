@@ -2,26 +2,26 @@ ID:	126192
 Title:	カノジョも彼女
 Title:	Kanojo mo Kanojo
 Title:	Girlfriend, Girlfriend
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Satire
-Tag:	Cosplay
 Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Parody
-Tag:	Video Games
-Tag:	Polyamorous
-Tag:	Female Harem
-Tag:	School
-Tag:	Nudity
-Tag:	Heterosexual
 Tag:	Surreal Comedy
+Tag:	School
+Tag:	Video Games
+Tag:	Cosplay
 Tag:	Yandere
+Tag:	Satire
+Tag:	Male Protagonist
 Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Parody
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Polyamorous
 Related:	77848
 Related:	49441
 Related:	116266

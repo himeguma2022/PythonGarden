@@ -1,22 +1,22 @@
 ID:	126546
-Title:	精霊幻想記
 Title:	Seirei Gensouki
+Title:	精霊幻想記
 Title:	Seirei Gensouki: Spirit Chronicles
-Tag:	Bullying
-Tag:	Slavery
-Tag:	Reincarnation
-Tag:	Super Power
-Tag:	Kemonomimi
-Tag:	Isekai
-Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Travel
 Tag:	Time Skip
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Class Struggle
+Tag:	Kemonomimi
+Tag:	Travel
+Tag:	Slavery
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Reincarnation
+Tag:	School
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Bullying
 Related:	99587
 Related:	88871
 Related:	49807

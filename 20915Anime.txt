@@ -1,10 +1,10 @@
 ID:	20915
-Title:	BROTHERS CONFLICT Special
 Title:	BROTHERS CONFLICT 第十二・五衝突「切望」
+Title:	BROTHERS CONFLICT Special
 Tag:	Female Protagonist
 Tag:	Unrequited Love
-Tag:	Male Harem
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Magic
+Tag:	Male Harem
 Related:	15605
 Related:	9742

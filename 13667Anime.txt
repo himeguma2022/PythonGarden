@@ -1,15 +1,15 @@
 ID:	13667
+Title:	ROAD TO NINJA: NARUTO THE MOVIE
 Title:	ROAD TO NINJA -NARUTO THE MOVIE-
 Title:	Road to Ninja: Naruto the Movie
-Title:	ROAD TO NINJA: NARUTO THE MOVIE
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Female Protagonist
 Tag:	Family Life
 Tag:	Ninja
 Tag:	Alternate Universe
+Tag:	Isekai
+Tag:	Shounen
 Related:	7877
 Related:	7878
 Related:	1735

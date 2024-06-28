@@ -1,20 +1,20 @@
 ID:	136707
-Title:	Parallel World Pharmacy
 Title:	異世界薬局
 Title:	Isekai Yakkyoku
-Tag:	Iyashikei
-Tag:	Historical
-Tag:	Reincarnation
+Title:	Parallel World Pharmacy
+Tag:	Male Protagonist
 Tag:	Alchemy
+Tag:	Isekai
+Tag:	Makeup
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Pandemic
+Tag:	Reincarnation
+Tag:	Gods
+Tag:	Historical
 Tag:	Educational
 Tag:	Matriarchy
-Tag:	Isekai
 Tag:	Medicine
-Tag:	Male Protagonist
-Tag:	Gods
-Tag:	Makeup
-Tag:	Pandemic
-Tag:	Magic
 Related:	99024
 Related:	97314
 Related:	60093

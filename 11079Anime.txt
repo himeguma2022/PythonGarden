@@ -1,16 +1,16 @@
 ID:	11079
 Title:	キルミーベイベー
 Title:	Kill Me Baby
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Ninja
 Tag:	Assassins
 Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ninja
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	48472
 Related:	8769
 Related:	7401

@@ -1,12 +1,12 @@
 ID:	108758
-Title:	超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷのなつやすみ~
 Title:	Choujigen Game Neptune THE ANIMATION: Nepu no Natsuyasumi
-Tag:	Primarily Female Cast
+Title:	超次元ゲイム ネプテューヌ THE ANIMATION ~ねぷのなつやすみ~
 Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Video Games
-Tag:	Henshin
 Tag:	Alternate Universe
+Tag:	Video Games
+Tag:	Primarily Female Cast
+Tag:	Henshin
 Related:	31690
 Related:	16157
 Related:	139806

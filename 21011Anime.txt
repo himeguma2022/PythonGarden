@@ -1,11 +1,11 @@
 ID:	21011
-Title:	ドラマティカル マーダー OVA「Data_xx_Transitory」
 Title:	DRAMAtical Murder OVA: Data_xx_Transitory
-Tag:	Boys' Love
+Title:	ドラマティカル マーダー OVA「Data_xx_Transitory」
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
 Tag:	Gore
-Tag:	Robots
 Tag:	Primarily Adult Cast
+Tag:	Robots
+Tag:	Primarily Male Cast
+Tag:	Boys' Love
 Related:	9913
 Related:	20677

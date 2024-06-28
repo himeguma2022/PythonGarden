@@ -1,26 +1,26 @@
 ID:	116674
 Title:	BLEACH: Thousand-Year Blood War
-Title:	BLEACH 千年血戦篇
 Title:	BLEACH: Sennen Kessen-hen
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Angels
-Tag:	Gore
-Tag:	Religion
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Afterlife
-Tag:	Cosmic Horror
-Tag:	Body Horror
+Title:	BLEACH 千年血戦篇
 Tag:	Mythology
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Urban Fantasy
-Tag:	War
-Tag:	Tomboy
-Tag:	Cultivation
-Tag:	CGI
+Tag:	Afterlife
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Religion
+Tag:	Cultivation
+Tag:	War
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Cosmic Horror
+Tag:	Gore
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Terrorism
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Tomboy
+Tag:	Body Horror
 Related:	269
 Related:	142033
 Related:	82712

@@ -1,12 +1,12 @@
 ID:	104371
-Title:	연애하루전2
 Title:	A Day Before Us 2nd Season
+Title:	연애하루전2
 Title:	Yeonae Haru Jeon 2
-Tag:	Love Triangle
-Tag:	Ensemble Cast
-Tag:	College
-Tag:	Heterosexual
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Love Triangle
 Related:	25232
 Related:	102425

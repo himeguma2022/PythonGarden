@@ -1,16 +1,16 @@
 ID:	13333
-Title:	TARI TARI
 Title:	Tari Tari
-Tag:	Tragedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Coastal
+Title:	TARI TARI
 Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Animals
-Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	Tragedy
+Tag:	School
+Tag:	Band
+Tag:	Coming of Age
+Tag:	Coastal
 Related:	63873
 Related:	9605
 Related:	102605

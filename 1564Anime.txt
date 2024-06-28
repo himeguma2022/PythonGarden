@@ -1,22 +1,22 @@
 ID:	1564
-Title:	ポケットモンスター　アドバンスジェネレーション
 Title:	Pokémon the Series: Ruby and Sapphire
 Title:	Pocket Monsters Advanced Generation
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Super Robot
-Tag:	CGI
-Tag:	Slapstick
+Title:	ポケットモンスター　アドバンスジェネレーション
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Rural
-Tag:	Episodic
+Tag:	CGI
+Tag:	Kids
 Tag:	Urban Fantasy
 Tag:	Female Protagonist
-Tag:	Animals
+Tag:	Environmental
+Tag:	Super Robot
 Tag:	Proxy Battle
-Tag:	Outdoor
+Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Episodic
 Tag:	Dragons
+Tag:	Rural
+Tag:	Slapstick
+Tag:	Outdoor
 Related:	11009
 Related:	9866
 Related:	11019

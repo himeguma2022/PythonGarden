@@ -1,25 +1,25 @@
 ID:	21860
-Title:	Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
 Title:	WorldEnd: What are you doing at the end of the world? Are you busy? Will you save us?
 Title:	終末なにしてますか? 忙しいですか? 救ってもらっていいですか?
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Post-Apocalyptic
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
+Title:	Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Kuudere
-Tag:	Cosmic Horror
-Tag:	Military
 Tag:	Age Gap
-Tag:	Fairy
-Tag:	Memory Manipulation
+Tag:	Cosmic Horror
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Ghost
+Tag:	Military
 Tag:	Magic
 Tag:	Found Family
+Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	Fairy
+Tag:	Dissociative Identities
+Tag:	Female Harem
+Tag:	Post-Apocalyptic
+Tag:	Primarily Female Cast
 Related:	11392
 Related:	34064
 Related:	87284

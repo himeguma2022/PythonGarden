@@ -1,25 +1,25 @@
 ID:	18153
-Title:	Beyond the Boundary
 Title:	Kyoukai no Kanata
+Title:	Beyond the Boundary
 Title:	境界の彼方
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Kuudere
-Tag:	Conspiracy
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Demons
 Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Swordplay
+Tag:	Conspiracy
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Magic
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Heterosexual
 Tag:	School Club
-Tag:	Revenge
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
-Tag:	Demons
+Tag:	Revenge
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Body Horror
 Tag:	Idol
 Related:	9440
 Related:	20768

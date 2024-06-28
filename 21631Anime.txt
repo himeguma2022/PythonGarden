@@ -1,15 +1,15 @@
 ID:	21631
-Title:	うどんの国の金色毛鞠
-Title:	Poco's Udon World
 Title:	Udon no Kuni no Kiniro Kemari
-Tag:	Kemonomimi
+Title:	Poco's Udon World
+Title:	うどんの国の金色毛鞠
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Food
-Tag:	Shapeshifting
 Tag:	Seinen
-Tag:	Rural
+Tag:	Kemonomimi
+Tag:	Food
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Shapeshifting
 Tag:	Found Family
+Tag:	Rural
 Related:	10976
 Related:	86840

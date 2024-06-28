@@ -1,21 +1,21 @@
 ID:	21421
-Title:	Kiznaiver
 Title:	キズナイーバー
-Tag:	Seinen
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Urban
+Title:	Kiznaiver
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
+Tag:	Seinen
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
-Tag:	Amnesia
-Tag:	Philosophy
-Tag:	Rehabilitation
-Tag:	Tsundere
-Tag:	Heterosexual
 Tag:	Bisexual
+Tag:	Amnesia
+Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Rehabilitation
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Philosophy
 Tag:	Coming of Age
 Related:	69600
 Related:	145636

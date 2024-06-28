@@ -1,13 +1,13 @@
 ID:	413
+Title:	破滅のマルス
 Title:	Mars of Destruction
 Title:	Hametsu no Mars
-Title:	破滅のマルス
-Tag:	Guns
-Tag:	Aliens
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Space
 Tag:	Acting
-Tag:	Philosophy
+Tag:	Primarily Teen Cast
 Tag:	Gore
+Tag:	Space
+Tag:	Aliens
+Tag:	Philosophy
+Tag:	Primarily Female Cast
+Tag:	Guns

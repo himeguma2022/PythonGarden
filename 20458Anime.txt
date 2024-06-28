@@ -2,21 +2,21 @@ ID:	20458
 Title:	The Irregular at Magic High School
 Title:	魔法科高校の劣等生
 Title:	Mahouka Koukou no Rettousei
-Tag:	Guns
-Tag:	Primarily Teen Cast
-Tag:	CGI
-Tag:	Terrorism
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
-Tag:	Nudity
-Tag:	Military
-Tag:	Gore
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	CGI
+Tag:	Primarily Teen Cast
 Tag:	Incest
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Military
+Tag:	Terrorism
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	School
+Tag:	Female Harem
+Tag:	Guns
 Related:	9226
 Related:	86053
 Related:	49324

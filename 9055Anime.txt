@@ -1,15 +1,15 @@
 ID:	9055
-Title:	たまゆら
 Title:	Tamayura
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Coming of Age
-Tag:	Female Protagonist
-Tag:	School
+Title:	たまゆら
 Tag:	Photography
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Rural
+Tag:	Coming of Age
 Related:	28024
 Related:	10232
 Related:	6572

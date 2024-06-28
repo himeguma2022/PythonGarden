@@ -2,18 +2,18 @@ ID:	131019
 Title:	Tsuki to Laika to Nosferatu
 Title:	月とライカと吸血姫
 Title:	Irina: The Vampire Cosmonaut
-Tag:	Historical
 Tag:	CGI
+Tag:	Work
+Tag:	Tsundere
 Tag:	Space
-Tag:	War
-Tag:	Politics
+Tag:	Heterosexual
 Tag:	Vampire
 Tag:	Military
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Work
-Tag:	Aviation
+Tag:	Politics
 Tag:	Foreign
+Tag:	Historical
+Tag:	War
+Tag:	Aviation
 Related:	140162
 Related:	64015
 Related:	54383

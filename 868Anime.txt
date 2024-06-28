@@ -1,8 +1,8 @@
 ID:	868
 Title:	スレーヤーズぐれえと
 Title:	Slayers Great
-Tag:	Magic
 Tag:	Female Protagonist
+Tag:	Magic
 Related:	867
 Related:	869
 Related:	1546

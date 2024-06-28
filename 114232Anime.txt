@@ -1,30 +1,30 @@
 ID:	114232
 Title:	Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway
-Title:	Hige wo Soru. Soshite Joshikousei wo Hirou.
 Title:	ひげを剃る。そして女子高生を拾う。
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Bullying
-Tag:	Estranged Family
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Office
-Tag:	Suicide
-Tag:	Konbini
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Office Lady
-Tag:	Rape
-Tag:	Gyaru
-Tag:	Time Skip
-Tag:	Work
-Tag:	Rehabilitation
+Title:	Hige wo Soru. Soshite Joshikousei wo Hirou.
 Tag:	Adoption
+Tag:	Rape
+Tag:	Konbini
+Tag:	Ensemble Cast
+Tag:	Office Lady
+Tag:	Office
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Heterosexual
+Tag:	Age Gap
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Estranged Family
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Gyaru
 Related:	104505
 Related:	37571
 Related:	37573

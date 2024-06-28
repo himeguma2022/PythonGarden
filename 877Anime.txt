@@ -2,23 +2,23 @@ ID:	877
 Title:	NANA
 Title:	NANA-ナナ-
 Tag:	Noir
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Fashion
-Tag:	Band
-Tag:	Mahjong
-Tag:	College
-Tag:	Kuudere
-Tag:	Netorare
-Tag:	Primarily Adult Cast
-Tag:	Female Protagonist
 Tag:	Ensemble Cast
+Tag:	Fashion
+Tag:	Coming of Age
+Tag:	Heterosexual
 Tag:	Shoujo
 Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Love Triangle
 Tag:	Rock Music
-Tag:	Coming of Age
+Tag:	Tragedy
 Tag:	Gyaru
+Tag:	Mahjong
+Tag:	Netorare
+Tag:	Band
+Tag:	LGBTQ+ Themes
 Related:	1562
 Related:	30028

@@ -1,24 +1,24 @@
 ID:	20627
-Title:	聖剣使いの禁呪詠唱＜ワールドブレイク＞
-Title:	Seiken Tsukai no World Break
 Title:	World Break: Aria of Curse for a Holy Swordsman
-Tag:	Bullying
-Tag:	Slavery
-Tag:	Reincarnation
-Tag:	Primarily Female Cast
+Title:	Seiken Tsukai no World Break
+Title:	聖剣使いの禁呪詠唱＜ワールドブレイク＞
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Kaiju
-Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Kuudere
 Tag:	Nudity
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Henshin
+Tag:	Slavery
 Tag:	Magic
 Tag:	Dragons
+Tag:	Reincarnation
+Tag:	School
+Tag:	Female Harem
+Tag:	Kaiju
+Tag:	Bullying
+Tag:	Primarily Female Cast
+Tag:	Henshin
 Related:	10088
 Related:	43628
 Related:	86014

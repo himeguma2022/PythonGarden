@@ -1,10 +1,10 @@
 ID:	124963
 Title:	Aggressive Girl
 Title:	アグレッシブガール
-Tag:	Primarily Female Cast
+Tag:	Primarily Adult Cast
 Tag:	Metal Music
 Tag:	Primarily Animal Cast
-Tag:	Primarily Adult Cast
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	110857
 Related:	48085

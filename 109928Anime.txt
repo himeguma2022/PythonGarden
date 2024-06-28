@@ -2,19 +2,19 @@ ID:	109928
 Title:	犬王
 Title:	Inu-ou
 Title:	Inu-Oh
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Disability
-Tag:	Band
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Acting
-Tag:	Primarily Male Cast
+Tag:	Demons
 Tag:	Anachronism
 Tag:	Gender Bending
-Tag:	Musical Theater
-Tag:	LGBTQ+ Themes
-Tag:	Time Skip
+Tag:	Disability
 Tag:	Dancing
+Tag:	Primarily Male Cast
+Tag:	Tragedy
+Tag:	Musical Theater
 Tag:	Samurai
+Tag:	Historical
+Tag:	Band
+Tag:	LGBTQ+ Themes
 Tag:	Rock Music
-Tag:	Demons

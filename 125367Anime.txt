@@ -1,29 +1,29 @@
 ID:	125367
+Title:	Kaguya-sama wa Kokurasetai: Ultra Romantic
 Title:	Kaguya-sama: Love is War -Ultra Romantic-
 Title:	かぐや様は告らせたい-ウルトラロマンティック-
-Title:	Kaguya-sama wa Kokurasetai: Ultra Romantic
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Satire
-Tag:	Cosplay
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Seinen
-Tag:	Meta
+Tag:	Crossdressing
 Tag:	School
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	School Club
-Tag:	CGI
-Tag:	Detective
 Tag:	Ojou-sama
+Tag:	Cosplay
+Tag:	Detective
+Tag:	Coming of Age
+Tag:	Satire
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	School Club
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Love Triangle
+Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
 Related:	112641
 Related:	87107
 Related:	48521

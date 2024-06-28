@@ -1,24 +1,24 @@
 ID:	12119
 Title:	夏色キセキ
 Title:	Natsuiro Kiseki
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Witch
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Time Manipulation
-Tag:	Cute Girls Doing Cute Things
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Kuudere
 Tag:	Tanned Skin
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Tennis
 Tag:	Ships
 Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	Body Swapping
-Tag:	Tennis
-Tag:	Coming of Age
+Tag:	Time Manipulation
+Tag:	School
+Tag:	Tomboy
+Tag:	Love Triangle
+Tag:	Witch
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coming of Age
 Related:	74299
 Related:	38173
 Related:	7630

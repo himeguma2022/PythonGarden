@@ -1,16 +1,16 @@
 ID:	12321
 Title:	Thermae Romae
 Title:	テルマエ・ロマエ
-Tag:	Language Barrier
-Tag:	Historical
 Tag:	Male Protagonist
-Tag:	Anachronism
-Tag:	LGBTQ+ Themes
 Tag:	Seinen
 Tag:	Work
-Tag:	Time Manipulation
+Tag:	LGBTQ+ Themes
 Tag:	Primarily Adult Cast
+Tag:	Language Barrier
 Tag:	Foreign
+Tag:	Time Manipulation
+Tag:	Historical
+Tag:	Anachronism
 Related:	12727
 Related:	110245
 Related:	125447

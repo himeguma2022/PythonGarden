@@ -1,16 +1,16 @@
 ID:	104198
-Title:	Gochuumon wa Usagi desu ka? BLOOM
 Title:	ご注文はうさぎですか？ BLOOM
+Title:	Gochuumon wa Usagi desu ka? BLOOM
 Title:	Is the Order a Rabbit? BLOOM
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Tsundere
 Tag:	Seinen
-Tag:	Magic
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	48042
 Related:	79835

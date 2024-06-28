@@ -1,13 +1,13 @@
 ID:	2472
-Title:	劇場版 NARUTO -ナルト- 疾風伝
-Title:	Naruto Shippuden the Movie
 Title:	NARUTO: Shippuuden Movie
-Tag:	Super Power
-Tag:	Shounen
+Title:	Naruto Shippuden the Movie
+Title:	劇場版 NARUTO -ナルト- 疾風伝
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Demons
 Tag:	Ninja
 Tag:	Gods
-Tag:	Demons
+Tag:	Shounen
 Related:	132770
 Related:	3613
 Related:	56198

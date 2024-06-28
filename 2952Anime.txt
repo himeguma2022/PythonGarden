@@ -1,16 +1,16 @@
 ID:	2952
+Title:	FINAL FANTASY VII: ADVENT CHILDREN COMPLETE
 Title:	ファイナルファンタジーVII アドベント チルドレン コンプリート
 Title:	Final Fantasy VII: Advent Children Complete
-Title:	FINAL FANTASY VII: ADVENT CHILDREN COMPLETE
-Tag:	Guns
-Tag:	Full CGI
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Swordplay
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Swordplay
+Tag:	Full CGI
+Tag:	Aliens
 Tag:	Cyberpunk
 Tag:	Gods
 Tag:	Dragons
+Tag:	Guns
 Related:	110503
 Related:	6151
 Related:	3997

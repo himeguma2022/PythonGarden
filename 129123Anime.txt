@@ -2,11 +2,11 @@ ID:	129123
 Title:	Santa Company: Manatsu no Merry Christmas
 Title:	サンタ・カンパニー ～真夏のメリークリスマス～
 Tag:	Kids
-Tag:	Surfing
-Tag:	Environmental
+Tag:	Work
 Tag:	Female Protagonist
 Tag:	Elf
 Tag:	Tsundere
-Tag:	Work
+Tag:	Environmental
+Tag:	Surfing
 Related:	52298
 Related:	16381

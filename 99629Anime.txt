@@ -2,23 +2,23 @@ ID:	99629
 Title:	殺戮の天使
 Title:	Angels of Death
 Title:	Satsuriku no Tenshi
-Tag:	Tragedy
-Tag:	Crime
+Tag:	Age Gap
 Tag:	Religion
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Survival
-Tag:	Gods
 Tag:	Assassins
-Tag:	Male Harem
-Tag:	Philosophy
+Tag:	Crime
+Tag:	Female Protagonist
 Tag:	Gore
-Tag:	Age Gap
-Tag:	Anti-Hero
-Tag:	Yandere
 Tag:	Amnesia
+Tag:	Male Harem
+Tag:	Yandere
 Tag:	Foreign
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Love Triangle
+Tag:	Gods
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	38195
 Related:	104243
 Related:	86837

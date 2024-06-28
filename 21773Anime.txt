@@ -1,18 +1,18 @@
 ID:	21773
-Title:	Fukumenkei Noise
 Title:	覆面系ノイズ
+Title:	Fukumenkei Noise
 Title:	Anonymous Noise
+Tag:	Female Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Crossdressing
 Tag:	Shoujo
 Tag:	School Club
-Tag:	Love Triangle
-Tag:	Band
-Tag:	Female Protagonist
 Tag:	Primarily Male Cast
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Heterosexual
+Tag:	Love Triangle
 Tag:	Rock Music
+Tag:	Band
 Tag:	Idol
 Related:	11217
 Related:	80587

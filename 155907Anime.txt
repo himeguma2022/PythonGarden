@@ -1,23 +1,23 @@
 ID:	155907
 Title:	Buddy Daddies
-Tag:	Tragedy
-Tag:	Urban
-Tag:	Gore
-Tag:	Primarily Adult Cast
-Tag:	Crime
+Tag:	Adoption
+Tag:	Surreal Comedy
+Tag:	Parenthood
+Tag:	Video Games
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Video Games
-Tag:	Guns
-Tag:	Mafia
-Tag:	Espionage
-Tag:	Assassins
-Tag:	Parenthood
 Tag:	Heterosexual
-Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Time Skip
+Tag:	Guns
 Tag:	Work
-Tag:	Adoption
+Tag:	Assassins
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Espionage
+Tag:	Mafia
+Tag:	Crime
+Tag:	Found Family
+Tag:	Urban
+Tag:	Tragedy
 Related:	160963
 Related:	83844

@@ -1,27 +1,27 @@
 ID:	15583
 Title:	Date A Live
 Title:	デート・ア・ライブ
-Tag:	Super Power
 Tag:	Clone
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Kuudere
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
 Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Time Manipulation
-Tag:	Swordplay
-Tag:	Female Harem
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	CGI
 Tag:	Yandere
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
 Related:	34915
 Related:	44163
 Related:	67523

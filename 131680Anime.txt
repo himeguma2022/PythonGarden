@@ -1,17 +1,17 @@
 ID:	131680
-Title:	Black Clover: Mahou Tei no Ken
-Title:	ブラッククローバー 魔法帝の剣
 Title:	Black Clover: Sword of the Wizard King
-Tag:	Reincarnation
-Tag:	Super Power
-Tag:	Revenge
-Tag:	CGI
-Tag:	Shounen
-Tag:	Swordplay
+Title:	ブラッククローバー 魔法帝の剣
+Title:	Black Clover: Mahou Tei no Ken
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Robots
-Tag:	Magic
+Tag:	CGI
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Demons
+Tag:	Revenge
+Tag:	Magic
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	Shounen
 Related:	55056
 Related:	97940

@@ -1,19 +1,19 @@
 ID:	20596
+Title:	Ao Haru Ride
 Title:	アオハライド
 Title:	Blue Spring Ride
-Title:	Ao Haru Ride
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Shoujo
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Estranged Family
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	School
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Shoujo
+Tag:	Tragedy
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Estranged Family
 Related:	20900
 Related:	20837
 Related:	9844

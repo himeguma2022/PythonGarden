@@ -1,17 +1,17 @@
 ID:	17777
-Title:	Recently, My Sister Is Unusual
 Title:	最近、妹のようすがちょっとおかしいんだが。
-Title:	Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
 Title:	"Saikin, Imouto no Yousu ga Chotto Okashiinda ga."
-Tag:	Tragedy
+Title:	Recently, My Sister Is Unusual
+Title:	Saikin, Imouto no Yousu ga Chotto Okashiinda ga.
+Tag:	Female Protagonist
+Tag:	Bisexual
+Tag:	Kuudere
 Tag:	Ghost
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	LGBTQ+ Themes
 Tag:	Shounen
 Tag:	Inseki
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Kuudere
-Tag:	LGBTQ+ Themes
-Tag:	Bisexual
 Related:	53602
 Related:	8955
 Related:	8500

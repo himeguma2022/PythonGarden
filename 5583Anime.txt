@@ -1,16 +1,16 @@
 ID:	5583
-Title:	SONIC NIGHT OF THE WEREHOG ～ソニック&チップ 恐怖の館～
 Title:	SONIC: NIGHT OF THE WEREHOG - Sonic & Chip Kyoufu no Kan
 Title:	Sonic: Night of the Werehog
-Tag:	Full CGI
-Tag:	Ghost
-Tag:	No Dialogue
-Tag:	Love Triangle
-Tag:	Werewolf
-Tag:	CGI
+Title:	SONIC NIGHT OF THE WEREHOG ～ソニック&チップ 恐怖の館～
 Tag:	Male Protagonist
-Tag:	Unrequited Love
-Tag:	Shapeshifting
+Tag:	CGI
 Tag:	Photography
+Tag:	No Dialogue
+Tag:	Ghost
+Tag:	Unrequited Love
+Tag:	Full CGI
+Tag:	Shapeshifting
+Tag:	Werewolf
+Tag:	Love Triangle
 Related:	177465
 Related:	98459

@@ -1,14 +1,14 @@
 ID:	124115
-Title:	Girls und Panzer: Saishuushou 3
-Title:	Girls und Panzer das Finale – Part 3
 Title:	ガールズ＆パンツァー 最終章 第3話
-Tag:	Primarily Female Cast
+Title:	Girls und Panzer das Finale – Part 3
+Title:	Girls und Panzer: Saishuushou 3
 Tag:	Primarily Teen Cast
+Tag:	Military
 Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
-Tag:	Tanks
-Tag:	Military
 Tag:	School Club
+Tag:	Tanks
+Tag:	Primarily Female Cast
 Related:	144803
 Related:	55780
 Related:	132420

@@ -1,14 +1,14 @@
 ID:	517
-Title:	スクールランブル一学期補習
-Title:	School Rumble Ichi Gakki Hoshuu
-Title:	School Rumble: Ichi Gakki Hoshuu
 Title:	School Rumble OVA
+Title:	School Rumble Ichi Gakki Hoshuu
+Title:	スクールランブル一学期補習
+Title:	School Rumble: Ichi Gakki Hoshuu
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	School
 Tag:	Love Triangle
 Tag:	Shounen
 Tag:	Delinquents
-Tag:	School
-Tag:	Kuudere
-Tag:	Heterosexual
 Related:	30124
 Related:	846
 Related:	30160

@@ -1,25 +1,25 @@
 ID:	20993
 Title:	終わりのセラフ　名古屋決戦編
-Title:	Owari no Seraph: Nagoya Kessen-hen
 Title:	Seraph of the End: Battle in Nagoya
-Tag:	Tragedy
+Title:	Owari no Seraph: Nagoya Kessen-hen
+Tag:	Male Protagonist
+Tag:	Cosmic Horror
+Tag:	Swordplay
+Tag:	Demons
+Tag:	Urban Fantasy
+Tag:	Lost Civilization
+Tag:	Gore
+Tag:	Rotoscoping
+Tag:	Heterosexual
+Tag:	Vampire
 Tag:	Revenge
+Tag:	Military
+Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
 Tag:	Boys' Love
 Tag:	Shounen
-Tag:	Post-Apocalyptic
-Tag:	Swordplay
-Tag:	Lost Civilization
-Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Rotoscoping
 Tag:	War
-Tag:	Vampire
-Tag:	Cosmic Horror
-Tag:	Military
-Tag:	Gore
-Tag:	Heterosexual
-Tag:	Demons
-Tag:	Conspiracy
 Related:	28867
 Related:	21765
 Related:	73661

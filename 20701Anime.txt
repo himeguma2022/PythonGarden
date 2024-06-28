@@ -4,13 +4,13 @@ Title:	Ookami Shoujo to Kuro Ouji
 Title:	Wolf Girl and Black Prince
 Tag:	Fake Relationship
 Tag:	Primarily Teen Cast
-Tag:	Shoujo
-Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Tsundere
-Tag:	Gyaru
 Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	Gyaru
+Tag:	School
+Tag:	Love Triangle
 Related:	74747
 Related:	58825
 Related:	32590

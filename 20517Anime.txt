@@ -1,19 +1,19 @@
 ID:	20517
-Title:	Is the Order a Rabbit?
 Title:	ご注文はうさぎですか？
+Title:	Is the Order a Rabbit?
 Title:	Gochuumon wa Usagi desu ka?
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Kuudere
-Tag:	Tsundere
 Tag:	Seinen
 Tag:	Work
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Primarily Child Cast
 Tag:	Foreign
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Related:	21034
 Related:	79835
 Related:	8812

@@ -1,10 +1,10 @@
 ID:	7279
-Title:	TO
 Title:	トゥー
-Tag:	Full CGI
-Tag:	Space
+Title:	TO
 Tag:	Aliens
+Tag:	Space
 Tag:	Seinen
+Tag:	Full CGI
 Related:	6008
 Related:	30067
 Related:	1662

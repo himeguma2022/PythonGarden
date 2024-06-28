@@ -1,17 +1,17 @@
 ID:	11123
+Title:	世界一初恋 2
 Title:	Sekai Ichi Hatsukoi - The World's Greatest First Love Season 2
 Title:	Sekaiichi Hatsukoi 2
-Title:	世界一初恋 2
-Tag:	Josei
-Tag:	Boys' Love
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	LGBTQ+ Themes
 Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Work
 Tag:	Bisexual
 Tag:	Primarily Adult Cast
+Tag:	Josei
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
+Tag:	Boys' Love
+Tag:	LGBTQ+ Themes
 Related:	34436
 Related:	9926
 Related:	111305

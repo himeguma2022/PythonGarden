@@ -1,33 +1,33 @@
 ID:	100388
 Title:	BANANA FISH
-Tag:	Noir
-Tag:	Criminal Organization
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Urban
-Tag:	Tanned Skin
-Tag:	Fugitive
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Prison
-Tag:	Male Protagonist
-Tag:	Photography
-Tag:	Gangs
-Tag:	Foreign
-Tag:	Guns
-Tag:	Shoujo
-Tag:	Orphan
 Tag:	Drugs
-Tag:	Primarily Male Cast
-Tag:	Mafia
-Tag:	Assassins
-Tag:	LGBTQ+ Themes
-Tag:	Classic Literature
-Tag:	Coming of Age
-Tag:	Revenge
+Tag:	Noir
 Tag:	Rape
+Tag:	Foreign
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Shoujo
+Tag:	Classic Literature
+Tag:	Guns
+Tag:	Assassins
+Tag:	Photography
 Tag:	Anti-Hero
+Tag:	Primarily Adult Cast
+Tag:	Boys' Love
+Tag:	Prison
+Tag:	Fugitive
+Tag:	Mafia
+Tag:	Crime
+Tag:	Tanned Skin
+Tag:	Criminal Organization
+Tag:	Revenge
+Tag:	Urban
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
 Related:	25752
 Related:	47361
 Related:	30756

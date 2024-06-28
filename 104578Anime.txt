@@ -2,36 +2,36 @@ ID:	104578
 Title:	Shingeki no Kyojin 3 Part 2
 Title:	進撃の巨人３ Part.2
 Title:	Attack on Titan Season 3 Part 2
-Tag:	Tragedy
+Tag:	Drugs
+Tag:	Military
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Mythology
+Tag:	Matriarchy
+Tag:	Male Protagonist
 Tag:	Super Power
-Tag:	Dissociative Identities
-Tag:	Baseball
+Tag:	Shapeshifting
+Tag:	Survival
+Tag:	War
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Dystopian
 Tag:	Kuudere
 Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Class Struggle
-Tag:	Conspiracy
 Tag:	Primarily Adult Cast
-Tag:	Kaiju
+Tag:	Baseball
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Mythology
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	Survival
-Tag:	Primarily Male Cast
 Tag:	Espionage
-Tag:	War
 Tag:	Revenge
-Tag:	Dystopian
-Tag:	Matriarchy
-Tag:	CGI
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	Monster Boy
-Tag:	Shapeshifting
-Tag:	Military
-Tag:	Philosophy
+Tag:	Kaiju
 Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	25408
 Related:	25409
 Related:	120257

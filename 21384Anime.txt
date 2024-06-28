@@ -1,15 +1,15 @@
 ID:	21384
+Title:	Wagnaria!!3: Lord of the Takanashi
 Title:	WORKING!!!: Lord of the Takanashi
 Title:	WORKING!!! ロード・オブ・ザ・小鳥遊
-Title:	Wagnaria!!3: Lord of the Takanashi
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	Seinen
+Tag:	Work
 Tag:	Food
+Tag:	Heterosexual
+Tag:	Ensemble Cast
 Tag:	Crossdressing
 Tag:	Restaurant
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Work
 Related:	10553
 Related:	20819
 Related:	33044

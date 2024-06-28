@@ -1,25 +1,25 @@
 ID:	20727
-Title:	Blood Blockade Battlefront
 Title:	Kekkai Sensen
+Title:	Blood Blockade Battlefront
 Title:	血界戦線
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Shounen
-Tag:	Post-Apocalyptic
-Tag:	Slapstick
-Tag:	Alternate Universe
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Vampire
+Tag:	Super Power
 Tag:	Cosmic Horror
-Tag:	Philosophy
-Tag:	Gore
-Tag:	Twins
+Tag:	Urban Fantasy
 Tag:	Demons
+Tag:	Gore
+Tag:	Shounen
 Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Vampire
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Aliens
+Tag:	Post-Apocalyptic
+Tag:	Episodic
+Tag:	Philosophy
+Tag:	Slapstick
 Related:	21640
 Related:	10988
 Related:	42994

@@ -1,8 +1,8 @@
 ID:	137063
 Title:	Hitoriiro
 Title:	ヒトリイロ
-Tag:	Full CGI
-Tag:	Female Protagonist
 Tag:	Demons
+Tag:	Female Protagonist
+Tag:	Full CGI
 Related:	65576
 Related:	142018

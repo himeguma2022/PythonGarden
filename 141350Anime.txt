@@ -1,23 +1,23 @@
 ID:	141350
 Title:	Kunoichi Tsubaki no Mune no Uchi
-Title:	くノ一ツバキの胸の内
 Title:	In the Heart of Kunoichi Tsubaki
-Tag:	Feet
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Ninja
+Title:	くノ一ツバキの胸の内
 Tag:	Tanned Skin
+Tag:	Female Protagonist
 Tag:	Tsundere
-Tag:	Gyaru
-Tag:	Magic
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Feet
+Tag:	Magic
+Tag:	Ninja
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Gyaru
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Rural
+Tag:	Slapstick
 Related:	100930
 Related:	64959

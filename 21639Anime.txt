@@ -1,19 +1,19 @@
 ID:	21639
 Title:	Keijo!!!!!!!!
 Title:	競女!!!!!!!!
-Tag:	Yuri
-Tag:	Tomboy
-Tag:	Primarily Female Cast
 Tag:	Super Power
-Tag:	Fitness
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Delinquents
-Tag:	Dissociative Identities
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Parody
+Tag:	Yuri
 Tag:	Nudity
+Tag:	Parody
+Tag:	School
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Fitness
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Delinquents
 Related:	19008
 Related:	10985
 Related:	85929

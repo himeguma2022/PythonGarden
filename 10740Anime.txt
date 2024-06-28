@@ -1,11 +1,11 @@
 ID:	10740
 Title:	Pocket Monsters Best Wishes!: Victini to Shiroki Eiyuu Reshiram
-Title:	劇場版 ポケットモンスター ベストウイッシュ ビクティニと白き英雄 レシラム
 Title:	Pokémon the Movie: Black—Victini and Reshiram
-Tag:	Animals
-Tag:	Kids
+Title:	劇場版 ポケットモンスター ベストウイッシュ ビクティニと白き英雄 レシラム
 Tag:	Battle Royale
 Tag:	Dragons
+Tag:	Kids
+Tag:	Animals
 Related:	9107
 Related:	7284
 Related:	7285

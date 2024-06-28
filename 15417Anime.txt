@@ -1,29 +1,29 @@
 ID:	15417
 Title:	銀魂’延長戦
-Title:	Gintama': Enchousen
 Title:	Gintama Season 3
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Mahjong
+Title:	Gintama': Enchousen
 Tag:	Space
-Tag:	Kuudere
-Tag:	Anachronism
-Tag:	Gore
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Politics
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Politics
-Tag:	Suicide
 Tag:	Meta
+Tag:	Aliens
+Tag:	Anachronism
 Tag:	Swordplay
-Tag:	Robots
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Historical
+Tag:	Shounen
+Tag:	Suicide
 Tag:	Found Family
-Tag:	Philosophy
+Tag:	Tragedy
+Tag:	Mahjong
 Tag:	Samurai
+Tag:	Philosophy
 Related:	8128
 Related:	20996
 Related:	15335

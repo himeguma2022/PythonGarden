@@ -1,23 +1,23 @@
 ID:	9750
-Title:	いつか天魔の黒ウサギ
 Title:	A Dark Rabbit has Seven Lives
+Title:	いつか天魔の黒ウサギ
 Title:	Itsuka Tenma no Kuro Usagi
-Tag:	Primarily Teen Cast
-Tag:	Twins
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Kemonomimi
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Nudity
-Tag:	Vampire
-Tag:	Gore
-Tag:	Henshin
-Tag:	Yandere
-Tag:	Heterosexual
-Tag:	Magic
+Tag:	Primarily Teen Cast
 Tag:	Demons
+Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Gore
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	Magic
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Yandere
+Tag:	Slapstick
+Tag:	Henshin
 Related:	12579
 Related:	55210
 Related:	47853

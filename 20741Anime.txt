@@ -2,16 +2,16 @@ ID:	20741
 Title:	劇場版デート・ア・ライブ 万由里ジャッジメント
 Title:	Date A Live Mayuri Judgement
 Title:	Date A Live Movie: Mayuri Judgement
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Angels
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Kuudere
-Tag:	Crossdressing
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Angels
+Tag:	School
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	100722
 Related:	21660

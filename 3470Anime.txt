@@ -1,25 +1,25 @@
 ID:	3470
-Title:	スペシャル・エー
 Title:	Special A
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Dissociative Identities
-Tag:	Martial Arts
-Tag:	Tsundere
-Tag:	Bullying
-Tag:	Wrestling
-Tag:	Female Protagonist
+Title:	スペシャル・エー
 Tag:	Ensemble Cast
 Tag:	Foreign
-Tag:	Shoujo
-Tag:	School
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Musical Theater
-Tag:	School Club
-Tag:	Incest
 Tag:	Maids
+Tag:	School
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Incest
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Shoujo
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	Twins
+Tag:	Love Triangle
+Tag:	Wrestling
+Tag:	Martial Arts
+Tag:	Tsundere
+Tag:	Animals
+Tag:	Dissociative Identities
+Tag:	Musical Theater
 Related:	4339
 Related:	31271

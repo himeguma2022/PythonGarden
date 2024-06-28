@@ -1,23 +1,23 @@
 ID:	127549
 Title:	Slow Loop
 Title:	スローループ
-Tag:	Iyashikei
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Educational
-Tag:	Fishing
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	School
-Tag:	Food
-Tag:	Tanned Skin
 Tag:	Seinen
-Tag:	Chibi
+Tag:	Tanned Skin
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Family Life
 Tag:	Twins
-Tag:	Outdoor
+Tag:	Chibi
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	Found Family
+Tag:	Tragedy
+Tag:	School
+Tag:	Fishing
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Outdoor
 Related:	108633
 Related:	130003
 Related:	50789

@@ -1,24 +1,24 @@
 ID:	171144
 Title:	Meiji Gekken: 1874
 Title:	明治撃剣－1874－
-Tag:	Historical
-Tag:	Tragedy
+Tag:	Drugs
+Tag:	Politics
 Tag:	Archery
 Tag:	Yakuza
-Tag:	Urban
+Tag:	Conspiracy
+Tag:	Detective
+Tag:	Male Protagonist
 Tag:	Oiran
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Assassins
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Politics
-Tag:	Guns
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	Espionage
-Tag:	Assassins
+Tag:	Historical
 Tag:	Police
+Tag:	Espionage
+Tag:	Crime
 Tag:	Revenge
-Tag:	Detective
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Samurai

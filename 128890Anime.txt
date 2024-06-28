@@ -1,20 +1,20 @@
 ID:	128890
+Title:	アイドリッシュセブン Third BEAT! 第2クール
 Title:	IDOLiSH7 Third BEAT! Part 2
 Title:	IDOLiSH7: Third BEAT! Part 2
-Title:	アイドリッシュセブン Third BEAT! 第2クール
-Tag:	Revenge
-Tag:	Primarily Adult Cast
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Idol
-Tag:	Dancing
-Tag:	Otaku Culture
 Tag:	Work
+Tag:	Primarily Adult Cast
 Tag:	Twins
+Tag:	Revenge
+Tag:	Dancing
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Urban
 Tag:	Conspiracy
 Tag:	Found Family
+Tag:	Primarily Male Cast
+Tag:	Idol
 Related:	161440
 Related:	155843
 Related:	52069

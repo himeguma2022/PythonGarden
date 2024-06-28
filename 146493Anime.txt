@@ -1,21 +1,21 @@
 ID:	146493
-Title:	Ragna Crimson
 Title:	ラグナクリムゾン
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Orphan
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Ragna Crimson
 Tag:	Male Protagonist
-Tag:	War
-Tag:	Gender Bending
-Tag:	Nekomimi
-Tag:	Tsundere
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Gore
-Tag:	Anti-Hero
+Tag:	Tsundere
+Tag:	Gender Bending
+Tag:	Revenge
 Tag:	Magic
 Tag:	Time Manipulation
+Tag:	Tragedy
 Tag:	Dragons
+Tag:	Orphan
+Tag:	Nekomimi
+Tag:	Anti-Hero
+Tag:	Shounen
+Tag:	War
 Related:	99065
 Related:	70547

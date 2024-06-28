@@ -1,21 +1,21 @@
 ID:	1571
 Title:	Ghost Hunt
 Title:	ゴーストハント
-Tag:	Tragedy
-Tag:	Crime
 Tag:	Super Power
-Tag:	Ghost
-Tag:	Shoujo
 Tag:	Female Protagonist
-Tag:	Detective
-Tag:	Shrine Maiden
-Tag:	Denpa
-Tag:	Body Horror
-Tag:	Youkai
-Tag:	Gods
-Tag:	Gore
-Tag:	Cars
+Tag:	Crime
 Tag:	Demons
+Tag:	Ghost
+Tag:	Cars
+Tag:	Gore
+Tag:	Shoujo
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Youkai
+Tag:	Denpa
+Tag:	Detective
+Tag:	Body Horror
+Tag:	Shrine Maiden
 Related:	59667
 Related:	44269
 Related:	2550

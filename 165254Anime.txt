@@ -1,17 +1,17 @@
 ID:	165254
 Title:	BUCCHIGIRI?!
 Title:	ぶっちぎり?!
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Revenge
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Delinquents
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Gangs
 Tag:	Martial Arts
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Magic
+Tag:	Cute Boys Doing Cute Things
+Tag:	Mythology
+Tag:	Tragedy
 Tag:	School
 Tag:	Primarily Male Cast
-Tag:	Unrequited Love
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Gangs
+Tag:	Delinquents

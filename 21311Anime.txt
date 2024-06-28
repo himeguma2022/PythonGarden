@@ -1,39 +1,39 @@
 ID:	21311
 Title:	Bungou Stray Dogs
-Title:	Bungo Stray Dogs
 Title:	文豪ストレイドッグス
-Tag:	Tragedy
-Tag:	Super Power
+Title:	Bungo Stray Dogs
+Tag:	Ensemble Cast
 Tag:	Yakuza
-Tag:	Urban
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Detective
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Incest
+Tag:	Gangs
+Tag:	Shapeshifting
+Tag:	Episodic
+Tag:	Classic Literature
 Tag:	Slapstick
+Tag:	Guns
+Tag:	Work
+Tag:	Assassins
+Tag:	Anti-Hero
 Tag:	Kuudere
 Tag:	Gore
-Tag:	Homeless
 Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
+Tag:	Homeless
 Tag:	Suicide
-Tag:	Seinen
-Tag:	Gangs
-Tag:	Guns
-Tag:	Orphan
-Tag:	Terrorism
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Mafia
-Tag:	Assassins
 Tag:	Bar
+Tag:	Urban Fantasy
+Tag:	Mafia
+Tag:	Crime
+Tag:	Seinen
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Tragedy
 Tag:	LGBTQ+ Themes
-Tag:	Classic Literature
-Tag:	Henshin
-Tag:	Incest
-Tag:	Detective
-Tag:	Shapeshifting
-Tag:	Anti-Hero
-Tag:	Work
 Related:	24352
 Related:	43457
 Related:	11047

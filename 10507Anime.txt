@@ -1,16 +1,16 @@
 ID:	10507
-Title:	イナズマイレブン GO
 Title:	Inazuma Eleven GO
+Title:	イナズマイレブン GO
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Kids
 Tag:	Primarily Child Cast
-Tag:	Super Power
 Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Football
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Conspiracy
 Tag:	School Club
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Football
 Related:	80161
 Related:	7172
 Related:	7173

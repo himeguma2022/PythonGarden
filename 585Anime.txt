@@ -1,22 +1,22 @@
 ID:	585
-Title:	耳をすませば
-Title:	Whisper of the Heart
 Title:	Mimi wo Sumaseba
-Tag:	Crossover
-Tag:	Shoujo
-Tag:	Primarily Teen Cast
-Tag:	Kemonomimi
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	School
+Title:	Whisper of the Heart
+Title:	耳をすませば
 Tag:	Fairy Tale
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Crossover
 Tag:	Unrequited Love
-Tag:	Nekomimi
+Tag:	Writing
+Tag:	Heterosexual
 Tag:	Tsundere
 Tag:	Animals
-Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	School
+Tag:	Love Triangle
+Tag:	Nekomimi
 Tag:	Coming of Age
-Tag:	Writing
 Related:	1209
 Related:	36834
 Related:	35228

@@ -2,20 +2,20 @@ ID:	9289
 Title:	花咲くいろは
 Title:	Hanasaku Iroha ~Blossoms for Tomorrow~
 Title:	Hanasaku Iroha
-Tag:	Primarily Female Cast
 Tag:	Inn
-Tag:	Cute Girls Doing Cute Things
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Rural
-Tag:	School
-Tag:	Trains
-Tag:	Crossdressing
-Tag:	Heterosexual
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Female Protagonist
 Tag:	Writing
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Crossdressing
+Tag:	Trains
+Tag:	School
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Coming of Age
 Related:	53376
 Related:	110858
 Related:	102605

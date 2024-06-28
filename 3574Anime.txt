@@ -1,12 +1,12 @@
 ID:	3574
-Title:	スイッチ
 Title:	Switch
-Tag:	Boys' Love
-Tag:	Primarily Adult Cast
-Tag:	Shounen
+Title:	スイッチ
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Police
 Tag:	Gangs
+Tag:	Primarily Adult Cast
+Tag:	Primarily Male Cast
+Tag:	Boys' Love
+Tag:	Police
+Tag:	Shounen
 Related:	4401
 Related:	31351

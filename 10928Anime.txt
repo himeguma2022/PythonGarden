@@ -1,14 +1,14 @@
 ID:	10928
+Title:	Nogizaka Haruka no Himitsu: Finale♪
 Title:	Haruka Nogizaka's Secret: Finale
 Title:	乃木坂春香の秘密 ふぃな～れ♪
-Title:	Nogizaka Haruka no Himitsu: Finale♪
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Otaku Culture
 Tag:	Kuudere
-Tag:	Marriage
 Tag:	Heterosexual
+Tag:	Otaku Culture
+Tag:	Marriage
+Tag:	School
+Tag:	Love Triangle
 Related:	7357
 Related:	6023

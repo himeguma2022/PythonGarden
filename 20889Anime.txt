@@ -2,10 +2,10 @@ ID:	20889
 Title:	中二病でも恋がしたい！戀 再生の･･･邪王真眼黙示録
 Title:	Love, Chunibyo & Other Delusions - Heart Throb -: The Rikka Wars/ Apocalypse of the Wicked Lord Shingan Reborn
 Title:	Chuunibyou demo Koi ga Shitai! Ren: Saisei no... Jaou Shingan Mokushiroku
-Tag:	Heterosexual
 Tag:	Chuunibyou
-Tag:	School
 Tag:	School Club
+Tag:	Heterosexual
+Tag:	School
 Related:	9697
 Related:	98762
 Related:	69393

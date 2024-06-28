@@ -2,18 +2,18 @@ ID:	113476
 Title:	Show by Rock!! Stars!!
 Title:	SHOW BY ROCK!!STARS!!
 Title:	SHOW BY ROCK!! STARS!!
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
-Tag:	Werewolf
-Tag:	Band
-Tag:	Isekai
 Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Nekomimi
+Tag:	Kemonomimi
 Tag:	Cars
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Werewolf
 Tag:	Rock Music
+Tag:	Isekai
+Tag:	Band
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	113470
 Related:	51302

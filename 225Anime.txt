@@ -1,18 +1,18 @@
 ID:	225
 Title:	ドラゴンボールGT
 Title:	Dragon Ball GT
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Age Regression
+Tag:	Super Power
 Tag:	Martial Arts
-Tag:	Artificial Intelligence
+Tag:	Shounen
 Tag:	Space
-Tag:	Henshin
+Tag:	Super Robot
 Tag:	Magic
+Tag:	Artificial Intelligence
+Tag:	Aliens
 Tag:	Dragons
+Tag:	Age Regression
+Tag:	Henshin
 Related:	533
 Related:	987
 Related:	813

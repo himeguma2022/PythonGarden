@@ -1,19 +1,19 @@
 ID:	98491
+Title:	異世界はスマートフォンとともに。
 Title:	In Another World With My Smartphone
 Title:	Isekai wa Smartphone to Tomo ni.
-Title:	異世界はスマートフォンとともに。
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Kuudere
-Tag:	Afterlife
-Tag:	Anachronism
 Tag:	Age Gap
-Tag:	Magic
+Tag:	Kemonomimi
+Tag:	Kuudere
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Magic
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Anachronism
+Tag:	Primarily Female Cast
+Tag:	Afterlife
 Related:	47297
 Related:	87174
 Related:	99465

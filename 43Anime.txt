@@ -1,25 +1,25 @@
 ID:	43
-Title:	Ghost in the Shell
 Title:	GHOST IN THE SHELL: Koukaku Kidoutai
+Title:	Ghost in the Shell
 Title:	GHOST IN THE SHELL / 攻殻機動隊
-Tag:	Guns
-Tag:	Noir
-Tag:	Crime
-Tag:	Dystopian
 Tag:	CGI
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Cyberpunk
-Tag:	Espionage
-Tag:	Cyborg
-Tag:	Nudity
-Tag:	Philosophy
-Tag:	Gore
-Tag:	Robots
-Tag:	Police
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Crime
+Tag:	Nudity
+Tag:	Dystopian
+Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	Noir
+Tag:	Cyborg
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Espionage
+Tag:	Police
+Tag:	Cyberpunk
+Tag:	Philosophy
+Tag:	Guns
 Related:	4672
 Related:	9985
 Related:	9986

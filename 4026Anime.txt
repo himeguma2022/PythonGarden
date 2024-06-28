@@ -1,13 +1,13 @@
 ID:	4026
+Title:	Pokémon: Giratina and the Sky Warrior
 Title:	Pocket Monsters Diamond & Pearl: Giratina to Sora no Hanataba Sheimi
 Title:	ポケットモンスター ダイヤモンド&パール ギラティナと氷空の花束 シェイミ
-Title:	Pokémon: Giratina and the Sky Warrior
+Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Kids
+Tag:	Animals
 Tag:	Primarily Child Cast
 Tag:	Isekai
-Tag:	CGI
-Tag:	Male Protagonist
-Tag:	Animals
 Tag:	Dragons
 Related:	4642
 Related:	6178

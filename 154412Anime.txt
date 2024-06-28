@@ -1,24 +1,24 @@
 ID:	154412
-Title:	The Café Terrace and Its Goddesses
 Title:	Megami no Café Terrace
 Title:	女神のカフェテラス
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Band
-Tag:	Coastal
+Title:	The Café Terrace and Its Goddesses
 Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	Orphan
-Tag:	Food
-Tag:	Nudity
-Tag:	Maids
-Tag:	Restaurant
-Tag:	Heterosexual
 Tag:	Work
-Tag:	Twins
+Tag:	Nudity
+Tag:	Food
 Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Maids
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Orphan
+Tag:	Band
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Restaurant
+Tag:	Coastal
 Related:	164197
 Related:	87846
 Related:	77671

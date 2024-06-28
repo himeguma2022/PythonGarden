@@ -1,33 +1,33 @@
 ID:	6213
 Title:	とある科学の超電磁砲
-Title:	A Certain Scientific Railgun
 Title:	Toaru Kagaku no Railgun
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Artificial Intelligence
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Kaiju
-Tag:	Primarily Female Cast
-Tag:	Shounen
-Tag:	Female Protagonist
+Title:	A Certain Scientific Railgun
+Tag:	Robots
 Tag:	Ensemble Cast
 Tag:	Maids
-Tag:	Gangs
-Tag:	Orphan
-Tag:	Boarding School
+Tag:	Crossdressing
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Tomboy
-Tag:	Superhero
-Tag:	Gyaru
+Tag:	Orphan
 Tag:	Ojou-sama
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Gangs
 Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	Super Robot
+Tag:	Boarding School
+Tag:	Artificial Intelligence
+Tag:	Police
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tsundere
+Tag:	Urban
+Tag:	Gyaru
+Tag:	Tomboy
+Tag:	Kaiju
 Related:	9063
 Related:	8798
 Related:	4654

@@ -1,20 +1,20 @@
 ID:	3782
+Title:	空の境界 殺人考察(前)
 Title:	the Garden of sinners Chapter 2: …and nothing heart. (Murder Speculation Part A)
 Title:	Kara no Kyoukai: Satsujin Kousatsu (Zen)
-Title:	空の境界 殺人考察(前)
-Tag:	Crime
-Tag:	Super Power
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
+Tag:	Female Protagonist
+Tag:	Crime
 Tag:	Kuudere
-Tag:	Achronological Order
 Tag:	Gore
+Tag:	Achronological Order
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Police
 Tag:	Anti-Hero
 Tag:	Yandere
-Tag:	Police
 Related:	6624
 Related:	2593
 Related:	3783

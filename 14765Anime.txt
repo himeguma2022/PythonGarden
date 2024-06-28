@@ -1,9 +1,9 @@
 ID:	14765
-Title:	イクシオン サーガ DT
 Title:	Ixion Saga DT
+Title:	イクシオン サーガ DT
 Tag:	Isekai
-Tag:	Parody
 Tag:	Male Protagonist
 Tag:	Transgender
+Tag:	Parody
 Related:	37041
 Related:	78467

@@ -2,17 +2,17 @@ ID:	578
 Title:	火垂るの墓
 Title:	Hotaru no Haka
 Title:	Grave of the Fireflies
-Tag:	Tragedy
-Tag:	Autobiographical
-Tag:	Historical
-Tag:	Primarily Child Cast
-Tag:	Educational
-Tag:	Orphan
 Tag:	Male Protagonist
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	Survival
 Tag:	War
 Tag:	Military
-Tag:	Homeless
+Tag:	Primarily Child Cast
 Tag:	Rural
+Tag:	Tragedy
+Tag:	Autobiographical
+Tag:	Survival
+Tag:	Orphan
+Tag:	Historical
+Tag:	Homeless
+Tag:	Educational

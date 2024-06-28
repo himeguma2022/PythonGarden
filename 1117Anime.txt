@@ -1,17 +1,17 @@
 ID:	1117
-Title:	劇場版ポケットモンスター 幻のポケモン ルギア爆誕
-Title:	Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan
 Title:	Pokémon the Movie 2000
-Tag:	Kids
-Tag:	Mythology
-Tag:	Primarily Child Cast
-Tag:	Love Triangle
-Tag:	CGI
+Title:	Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan
+Title:	劇場版ポケットモンスター 幻のポケモン ルギア爆誕
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Kids
 Tag:	Female Protagonist
+Tag:	Tsundere
 Tag:	Ships
 Tag:	Animals
-Tag:	Tsundere
+Tag:	Primarily Child Cast
+Tag:	Mythology
+Tag:	Love Triangle
 Tag:	Dragons
 Related:	1923
 Related:	1924

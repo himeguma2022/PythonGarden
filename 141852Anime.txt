@@ -1,22 +1,22 @@
 ID:	141852
-Title:	The Daily Life of the Immortal King Season 3
 Title:	仙王的日常生活 第三季
-Title:	Xian Wang De Richang Shenghuo 3
 Title:	Xian Wang de Richang Shenghuo 3
-Tag:	Cultivation
-Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
-Tag:	Male Protagonist
+Title:	The Daily Life of the Immortal King Season 3
+Title:	Xian Wang De Richang Shenghuo 3
 Tag:	Satire
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Parody
 Tag:	Time Skip
-Tag:	Magic
-Tag:	Time Manipulation
+Tag:	Super Power
+Tag:	Swordplay
+Tag:	Urban Fantasy
 Tag:	Demons
+Tag:	Female Protagonist
+Tag:	Male Protagonist
+Tag:	Parody
+Tag:	Primarily Teen Cast
+Tag:	Magic
+Tag:	Cultivation
+Tag:	Time Manipulation
+Tag:	School
 Related:	65411
 Related:	126357
 Related:	156110

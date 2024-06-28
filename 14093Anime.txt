@@ -1,11 +1,11 @@
 ID:	14093
-Title:	ポケットモンスター ベストウイッシュ シーズン2
 Title:	Pokémon BW: Rival Destinies
 Title:	Pocket Monsters Best Wishes! Season 2
+Title:	ポケットモンスター ベストウイッシュ シーズン2
 Tag:	Kids
-Tag:	Slapstick
-Tag:	Primarily Child Cast
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Slapstick
 Related:	7937
 Related:	7938
 Related:	7939

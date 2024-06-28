@@ -1,4 +1,4 @@
 ID:	126668
-Title:	エレクトリック・ラブ
 Title:	Electric Love
+Title:	エレクトリック・ラブ
 Tag:	Full CGI

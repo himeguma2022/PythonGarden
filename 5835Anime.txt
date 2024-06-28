@@ -1,12 +1,12 @@
 ID:	5835
 Title:	花咲ける青少年
 Title:	Hanasakeru Seishounen
+Tag:	Female Protagonist
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Male Harem
+Tag:	Politics
 Tag:	Shoujo
 Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Male Harem
-Tag:	Heterosexual
-Tag:	Bisexual
 Related:	5444
 Related:	35854

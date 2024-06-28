@@ -1,15 +1,15 @@
 ID:	117002
-Title:	Magia Record: Puella Magi Madoka Magica Side Story Season 2 -The Eve of Awakening-
-Title:	Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON - Kakusei Zenya
 Title:	マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON -覚醒前夜-
+Title:	Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd SEASON - Kakusei Zenya
+Title:	Magia Record: Puella Magi Madoka Magica Side Story Season 2 -The Eve of Awakening-
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Magic
+Tag:	Ensemble Cast
 Tag:	Witch
 Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Kuudere
 Tag:	Henshin
-Tag:	Magic
-Tag:	Twins
 Related:	140076
 Related:	59309
 Related:	136080

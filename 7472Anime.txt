@@ -1,20 +1,20 @@
 ID:	7472
+Title:	Gintama - The Movie
 Title:	銀魂 新訳紅桜篇
 Title:	Gintama: Shinyaku Benizakura-hen
-Title:	Gintama - The Movie
-Tag:	Historical
-Tag:	Shounen
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Ninja
-Tag:	Kuudere
-Tag:	Primarily Male Cast
-Tag:	Anachronism
-Tag:	Pirates
+Tag:	Swordplay
 Tag:	Parody
-Tag:	Samurai
+Tag:	Kuudere
+Tag:	Ninja
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Pirates
+Tag:	Primarily Male Cast
+Tag:	Samurai
+Tag:	Historical
+Tag:	Anachronism
+Tag:	Shounen
 Related:	9735
 Related:	6063
 Related:	6064

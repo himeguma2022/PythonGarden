@@ -1,23 +1,23 @@
 ID:	8424
-Title:	えむえむっ!
 Title:	MM!
-Tag:	Bullying
-Tag:	Bondage
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
+Title:	えむえむっ!
 Tag:	Male Protagonist
-Tag:	Love Triangle
-Tag:	Family Life
-Tag:	Female Harem
-Tag:	School
-Tag:	Gender Bending
 Tag:	Parody
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Ojou-sama
-Tag:	Heterosexual
 Tag:	Masochism
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Bondage
+Tag:	Crossdressing
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Ojou-sama
+Tag:	Bullying
+Tag:	Slapstick
 Related:	45184
 Related:	6379
 Related:	6380

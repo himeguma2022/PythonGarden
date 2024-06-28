@@ -1,16 +1,16 @@
 ID:	8476
-Title:	おとめ妖怪 ざくろ
-Title:	Zakuro
 Title:	Otome Youkai Zakuro
-Tag:	Historical
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Youkai
-Tag:	Military
-Tag:	Tsundere
+Title:	Zakuro
+Title:	おとめ妖怪 ざくろ
 Tag:	Seinen
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Tsundere
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Military
+Tag:	Youkai
+Tag:	Historical
 Related:	10180
 Related:	39084
 Related:	6397

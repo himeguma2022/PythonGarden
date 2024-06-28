@@ -1,33 +1,33 @@
 ID:	20997
-Title:	Charlotte
 Title:	Charlotte(シャーロット)
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Band
-Tag:	Slapstick
-Tag:	Dissociative Identities
-Tag:	Baseball
-Tag:	Tsundere
-Tag:	Gore
+Title:	Charlotte
 Tag:	Memory Manipulation
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Time Manipulation
-Tag:	Delinquents
-Tag:	Survival
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Heterosexual
-Tag:	School Club
-Tag:	Tomboy
-Tag:	CGI
-Tag:	Anti-Hero
+Tag:	Bullying
 Tag:	Yandere
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Survival
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Delinquents
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Baseball
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
+Tag:	Tsundere
 Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Band
+Tag:	Anti-Hero
 Related:	74737
 Related:	49394
 Related:	118419

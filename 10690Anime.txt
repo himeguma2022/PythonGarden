@@ -1,14 +1,14 @@
 ID:	10690
-Title:	Magic Tree House
 Title:	マジック・ツリーハウス
+Title:	Magic Tree House
 Tag:	Kids
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Primarily Child Cast
-Tag:	Time Manipulation
 Tag:	Isekai
-Tag:	Pirates
 Tag:	Ships
 Tag:	Magic
-Tag:	Dinosaurs
+Tag:	Primarily Child Cast
 Tag:	Foreign
+Tag:	Pirates
+Tag:	Tragedy
+Tag:	Time Manipulation
+Tag:	Historical
+Tag:	Dinosaurs

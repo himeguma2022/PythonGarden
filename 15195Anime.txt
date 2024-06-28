@@ -1,12 +1,12 @@
 ID:	15195
-Title:	ヘタリア The Beautiful World
 Title:	Hetalia: The Beautiful World
-Tag:	Historical
-Tag:	Cute Boys Doing Cute Things
-Tag:	Educational
-Tag:	Primarily Male Cast
+Title:	ヘタリア The Beautiful World
 Tag:	Parody
 Tag:	Anthropomorphism
+Tag:	Cute Boys Doing Cute Things
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Educational
 Related:	20962
 Related:	23204
 Related:	8100

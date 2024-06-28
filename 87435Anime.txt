@@ -1,17 +1,17 @@
 ID:	87435
 Title:	BanG Dream!（バンドリ！）
 Title:	BanG Dream!
-Tag:	Swimming
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Band
-Tag:	Urban
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Urban
+Tag:	School
 Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Swimming
 Related:	101632
 Related:	101633
 Related:	26884

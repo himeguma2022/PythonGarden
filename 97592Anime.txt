@@ -1,29 +1,29 @@
 ID:	97592
 Title:	Demi-chan wa Kataritai
-Title:	亜人ちゃんは語りたい
 Title:	Interviews with Monster Girls
-Tag:	Teacher
-Tag:	Dullahan
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Educational
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
+Title:	亜人ちゃんは語りたい
 Tag:	Fairy Tale
-Tag:	Seinen
-Tag:	Monster Girl
+Tag:	Ensemble Cast
 Tag:	Mythology
-Tag:	Succubus
-Tag:	Female Harem
 Tag:	School
-Tag:	Urban Fantasy
+Tag:	Bullying
+Tag:	Detective
+Tag:	Monster Girl
+Tag:	Male Protagonist
 Tag:	Vampire
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Age Gap
 Tag:	Twins
+Tag:	Female Harem
+Tag:	Teacher
+Tag:	Urban Fantasy
+Tag:	Seinen
+Tag:	Succubus
 Tag:	Tomboy
-Tag:	Detective
+Tag:	Dullahan
+Tag:	Educational
 Related:	17560
 Related:	20186
 Related:	99394

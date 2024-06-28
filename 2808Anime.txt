@@ -1,13 +1,13 @@
 ID:	2808
 Title:	イレギュラーハンターＸ
-Title:	Mega Man X - The Day of Sigma
 Title:	Irregular Hunter X: The Day of Sigma
-Tag:	Tragedy
-Tag:	CGI
+Title:	Mega Man X - The Day of Sigma
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Primarily Male Cast
+Tag:	CGI
 Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Tragedy
+Tag:	Primarily Male Cast
 Related:	63201
 Related:	3493
 Related:	63197

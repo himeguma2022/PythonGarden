@@ -1,23 +1,23 @@
 ID:	1016
-Title:	Battle Angel Alita
-Title:	銃夢
 Title:	GUNNM
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Dystopian
-Tag:	Shounen
-Tag:	Post-Apocalyptic
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Cyberpunk
+Title:	銃夢
+Title:	Battle Angel Alita
 Tag:	Body Horror
-Tag:	Cyborg
-Tag:	Fugitive
+Tag:	Female Protagonist
+Tag:	Crime
 Tag:	Nudity
+Tag:	Dystopian
 Tag:	Gore
-Tag:	Robots
 Tag:	Amnesia
+Tag:	Cyborg
+Tag:	Robots
+Tag:	Fugitive
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Cyberpunk
+Tag:	Shounen
+Tag:	Guns
 Related:	30768
 Related:	1818
 Related:	17659

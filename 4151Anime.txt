@@ -2,11 +2,11 @@ ID:	4151
 Title:	Blade of the Immortal
 Title:	Mugen no Juunin
 Title:	無限の住人
-Tag:	Historical
 Tag:	Swordplay
-Tag:	Ninja
 Tag:	Seinen
+Tag:	Ninja
 Tag:	Samurai
+Tag:	Historical
 Related:	109616
 Related:	30658
 Related:	32644

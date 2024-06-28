@@ -1,11 +1,11 @@
 ID:	172242
-Title:	NIJIYON ANIMATION 2
 Title:	にじよん あにめーしょん2
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	NIJIYON ANIMATION 2
 Tag:	CGI
 Tag:	Chibi
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	93049
 Related:	125178

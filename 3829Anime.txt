@@ -1,15 +1,15 @@
 ID:	3829
-Title:	アンネの日記
-Title:	Anne no Nikki
 Title:	The Diary of Anne Frank
+Title:	Anne no Nikki
+Title:	アンネの日記
+Tag:	Female Protagonist
+Tag:	Military
+Tag:	War
 Tag:	Non-fiction
+Tag:	Foreign
 Tag:	Tragedy
 Tag:	Historical
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Military
 Tag:	Classic Literature
 Tag:	Coming of Age
-Tag:	Foreign
 Related:	12027
 Related:	4551

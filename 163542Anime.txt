@@ -1,21 +1,21 @@
 ID:	163542
-Title:	スパイ教室 2nd season
 Title:	Spy Classroom Season 2
+Title:	スパイ教室 2nd season
 Title:	Spy Kyoushitsu 2nd season
-Tag:	Guns
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Urban
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Espionage
-Tag:	Asexual
-Tag:	Achronological Order
-Tag:	Heterosexual
 Tag:	Adoption
+Tag:	Heterosexual
+Tag:	Asexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Female Harem
+Tag:	Espionage
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	119746
 Related:	85771
 Related:	85773

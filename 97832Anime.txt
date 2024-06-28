@@ -1,21 +1,21 @@
 ID:	97832
 Title:	citrus
 Title:	Citrus
-Tag:	Yuri
-Tag:	Teacher
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Inseki
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Nudity
-Tag:	Unrequited Love
-Tag:	Rape
 Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Gyaru
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Nudity
 Tag:	Bisexual
+Tag:	Unrequited Love
+Tag:	Family Life
+Tag:	Rape
+Tag:	School
+Tag:	Gyaru
+Tag:	Love Triangle
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Teacher
+Tag:	Inseki
 Related:	80145
 Related:	17838

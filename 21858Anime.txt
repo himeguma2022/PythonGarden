@@ -1,19 +1,19 @@
 ID:	21858
-Title:	リトルウィッチアカデミア (TV)
 Title:	Little Witch Academia (TV)
-Tag:	Witch
-Tag:	Primarily Female Cast
+Title:	リトルウィッチアカデミア (TV)
+Tag:	Primarily Teen Cast
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Episodic
+Tag:	Boarding School
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
 Tag:	Primarily Child Cast
 Tag:	Super Robot
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Boarding School
-Tag:	Episodic
-Tag:	Ojou-sama
-Tag:	Urban Fantasy
 Tag:	School
-Tag:	Magic
+Tag:	Ojou-sama
+Tag:	Witch
+Tag:	Primarily Female Cast
 Related:	19489
 Related:	33570
 Related:	21637

@@ -1,21 +1,21 @@
 ID:	10278
-Title:	The Idol Master
 Title:	アイドルマスター
 Title:	THE IDOLM@STER
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Athletics
-Tag:	Ensemble Cast
+Title:	The Idol Master
 Tag:	Acting
-Tag:	Idol
+Tag:	Work
+Tag:	Athletics
 Tag:	Tsundere
+Tag:	Twins
 Tag:	Animals
 Tag:	Dancing
-Tag:	Work
-Tag:	Twins
+Tag:	Cute Girls Doing Cute Things
 Tag:	Office Lady
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Tomboy
+Tag:	Primarily Female Cast
+Tag:	Idol
 Related:	44929
 Related:	98310
 Related:	110219

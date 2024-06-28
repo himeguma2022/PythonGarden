@@ -1,17 +1,17 @@
 ID:	107067
+Title:	Science Fell in Love, So I Tried to Prove It
 Title:	Rikei ga Koi ni Ochita no de Shoumei shitemita.
 Title:	理系が恋に落ちたので証明してみた。
-Title:	Science Fell in Love, So I Tried to Prove It
-Tag:	Video Games
-Tag:	Educational
+Tag:	Seinen
 Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
 Tag:	Episodic
 Tag:	Otaku Culture
-Tag:	College
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
 Tag:	School Club
+Tag:	Video Games
+Tag:	Educational
 Related:	87377
 Related:	125124
 Related:	28741

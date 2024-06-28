@@ -1,12 +1,12 @@
 ID:	116147
-Title:	One Room 3rd
-Title:	One Room サードシーズン
 Title:	One Room: Third Season
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	One Room サードシーズン
+Title:	One Room 3rd
 Tag:	Male Protagonist
+Tag:	Primarily Female Cast
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
 Tag:	Female Harem
 Tag:	POV
-Tag:	Heterosexual
 Related:	39625
 Related:	100133

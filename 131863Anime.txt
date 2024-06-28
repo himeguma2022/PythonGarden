@@ -1,18 +1,18 @@
 ID:	131863
-Title:	Liar Liar
 Title:	ライアー・ライアー
 Title:	Liar, Liar
-Tag:	Gambling
-Tag:	Primarily Teen Cast
+Title:	Liar Liar
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Chuunibyou
-Tag:	Shapeshifting
 Tag:	Femboy
+Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Shapeshifting
 Tag:	Maids
+Tag:	School
+Tag:	Gambling
+Tag:	Female Harem
 Related:	55272
 Related:	111265
 Related:	115906

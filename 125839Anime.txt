@@ -2,16 +2,16 @@ ID:	125839
 Title:	Backflip!!
 Title:	バクテン!!
 Title:	Bakuten!!
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Primarily Teen Cast
 Tag:	Athletics
-Tag:	School
-Tag:	Primarily Male Cast
 Tag:	Acrobatics
-Tag:	Musical Theater
+Tag:	Cute Boys Doing Cute Things
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Musical Theater
 Related:	136064
 Related:	50826
 Related:	127579

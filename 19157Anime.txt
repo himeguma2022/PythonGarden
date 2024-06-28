@@ -1,7 +1,7 @@
 ID:	19157
 Title:	Yo-kai Watch
-Title:	Youkai Watch
 Title:	妖怪ウォッチ
+Title:	Youkai Watch
 Tag:	Kids
 Tag:	Youkai
 Tag:	Dancing

@@ -1,13 +1,13 @@
 ID:	100526
-Title:	3D彼女 リアルガール
-Title:	Real Girl
 Title:	3D Kanojo: Real Girl
-Tag:	Shoujo
-Tag:	Love Triangle
+Title:	Real Girl
+Title:	3D彼女 リアルガール
 Tag:	Male Protagonist
-Tag:	Otaku Culture
-Tag:	School
 Tag:	Heterosexual
+Tag:	Otaku Culture
+Tag:	Shoujo
+Tag:	School
+Tag:	Love Triangle
 Related:	21497
 Related:	23938
 Related:	80767

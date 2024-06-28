@@ -1,37 +1,37 @@
 ID:	116589
-Title:	86－エイティシックス－
-Title:	86: Eighty Six
 Title:	86
 Title:	86 EIGHTY-SIX
-Tag:	Tragedy
-Tag:	Post-Apocalyptic
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	POV
-Tag:	Memory Manipulation
-Tag:	Class Struggle
-Tag:	Conspiracy
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
+Title:	86: Eighty Six
+Title:	86－エイティシックス－
 Tag:	Lost Civilization
-Tag:	Female Protagonist
+Tag:	Travel
+Tag:	Military
+Tag:	Robots
 Tag:	Ensemble Cast
 Tag:	Politics
-Tag:	Travel
-Tag:	Proxy Battle
-Tag:	Guns
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Unrequited Love
 Tag:	Survival
-Tag:	Necromancy
-Tag:	Nudity
 Tag:	War
-Tag:	Real Robot
-Tag:	Robots
-Tag:	Dystopian
+Tag:	Guns
 Tag:	CGI
+Tag:	Class Struggle
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Proxy Battle
+Tag:	Artificial Intelligence
+Tag:	Necromancy
+Tag:	Real Robot
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Ghost
+Tag:	Tragedy
 Tag:	Achronological Order
-Tag:	Military
+Tag:	POV
 Related:	131586
 Related:	101606
 Related:	164583

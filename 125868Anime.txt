@@ -1,16 +1,16 @@
 ID:	125868
 Title:	NIGHT HEAD 2041
-Tag:	Full CGI
-Tag:	Crime
-Tag:	Super Power
 Tag:	CGI
-Tag:	Delinquents
+Tag:	Super Power
 Tag:	Urban Fantasy
+Tag:	Religion
+Tag:	Crime
+Tag:	Full CGI
+Tag:	Cult
+Tag:	Police
 Tag:	Cyberpunk
 Tag:	Fugitive
-Tag:	Cult
-Tag:	Religion
-Tag:	Police
+Tag:	Delinquents
 Related:	131047
 Related:	60648
 Related:	49065

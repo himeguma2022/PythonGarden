@@ -1,9 +1,9 @@
 ID:	21039
-Title:	Your lie in April: Moments
 Title:	四月は君の嘘 MOMENTS
+Title:	Your lie in April: Moments
 Title:	Shigatsu wa Kimi no Uso: MOMENTS
 Tag:	Male Protagonist
-Tag:	Primarily Child Cast
 Tag:	Musical Theater
+Tag:	Primarily Child Cast
 Related:	20665
 Related:	9967

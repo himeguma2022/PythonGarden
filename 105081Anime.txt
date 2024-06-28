@@ -1,22 +1,22 @@
 ID:	105081
-Title:	女子高生の無駄づかい
 Title:	Joshikousei no Mudazukai
 Title:	Wasteful Days of High School Girls
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Slapstick
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Kuudere
+Title:	女子高生の無駄づかい
 Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Video Games
-Tag:	Otaku Culture
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Kuudere
 Tag:	Twins
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Video Games
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	97258
 Related:	26516

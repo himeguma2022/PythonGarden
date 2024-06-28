@@ -1,15 +1,15 @@
 ID:	104461
-Title:	Heya Camp△
-Title:	ROOM CAMP
 Title:	へやキャン△
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Food
-Tag:	Travel
+Title:	ROOM CAMP
+Title:	Heya Camp△
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Travel
+Tag:	Food
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
 Tag:	Outdoor
 Related:	37732
 Related:	114981

@@ -1,12 +1,12 @@
 ID:	715
 Title:	If I See You in My Dreams
-Title:	夢で逢えたら (1999)
 Title:	Yume de Aetara
-Tag:	Love Triangle
+Title:	夢で逢えたら (1999)
 Tag:	Male Protagonist
-Tag:	Nudity
 Tag:	Seinen
+Tag:	Nudity
 Tag:	Heterosexual
+Tag:	Love Triangle
 Related:	1352
 Related:	1353
 Related:	718

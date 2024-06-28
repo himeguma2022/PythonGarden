@@ -1,21 +1,21 @@
 ID:	16662
 Title:	風立ちぬ
-Title:	The Wind Rises
 Title:	Kaze Tachinu
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Drawing
-Tag:	Male Protagonist
-Tag:	Marriage
-Tag:	War
-Tag:	Biographical
-Tag:	Trains
+Title:	The Wind Rises
 Tag:	Time Skip
-Tag:	Heterosexual
+Tag:	Male Protagonist
 Tag:	Work
-Tag:	Aviation
-Tag:	Natural Disaster
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Natural Disaster
+Tag:	Biographical
+Tag:	Marriage
+Tag:	Trains
+Tag:	Tragedy
 Tag:	Foreign
+Tag:	Historical
+Tag:	War
+Tag:	Aviation
 Related:	8333
 Related:	76318

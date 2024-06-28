@@ -1,38 +1,38 @@
 ID:	146066
+Title:	Classroom of the Elite Season 3
 Title:	Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season
 Title:	ようこそ実力至上主義の教室へ 3rd Season
-Title:	Classroom of the Elite Season 3
-Tag:	Love Triangle
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Denpa
-Tag:	Fugitive
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Crime
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
 Tag:	Politics
-Tag:	Suicide
-Tag:	Seinen
-Tag:	Delinquents
-Tag:	Boarding School
-Tag:	Female Harem
-Tag:	Athletics
+Tag:	Ensemble Cast
+Tag:	Conspiracy
 Tag:	School
-Tag:	Survival
-Tag:	Coming of Age
-Tag:	School Club
 Tag:	Board Game
-Tag:	Revenge
-Tag:	Battle Royale
-Tag:	Philosophy
-Tag:	Anti-Hero
+Tag:	Bullying
 Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	School Club
+Tag:	Survival
+Tag:	Delinquents
+Tag:	Kuudere
+Tag:	Athletics
+Tag:	Boarding School
+Tag:	Battle Royale
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Fugitive
+Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Crime
 Tag:	Disability
+Tag:	Tsundere
+Tag:	Revenge
 Tag:	Rehabilitation
+Tag:	Dissociative Identities
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	70117
 Related:	70118
 Related:	70121

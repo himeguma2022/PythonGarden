@@ -1,24 +1,24 @@
 ID:	109298
-Title:	Eizouken ni wa Te wo Dasu na!
 Title:	Keep Your Hands Off Eizouken!
+Title:	Eizouken ni wa Te wo Dasu na!
 Title:	映像研には手を出すな！
-Tag:	Tomboy
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Surreal Comedy
-Tag:	Educational
-Tag:	Urban
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Tanned Skin
-Tag:	Meta
 Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Surreal Comedy
 Tag:	Otaku Culture
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	Tomboy
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	32306
 Related:	40411
 Related:	116923

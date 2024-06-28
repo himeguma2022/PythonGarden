@@ -1,16 +1,16 @@
 ID:	108941
-Title:	UMAYON
 Title:	Umayon
+Title:	UMAYON
 Title:	うまよん
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Detective
+Tag:	Kemonomimi
 Tag:	Athletics
 Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Episodic
+Tag:	Detective
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	42472
 Related:	77645

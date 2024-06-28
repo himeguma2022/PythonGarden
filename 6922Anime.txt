@@ -1,22 +1,22 @@
 ID:	6922
-Title:	Fate/stay night: Unlimited Blade Works (Movie)
 Title:	劇場版 Fate/stay night UNLIMITED BLADE WORKS
+Title:	Fate/stay night: Unlimited Blade Works (Movie)
 Title:	Fate/stay night Movie: UNLIMITED BLADE WORKS
-Tag:	Witch
-Tag:	Mythology
-Tag:	Super Power
-Tag:	Archery
-Tag:	Swordplay
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Superhero
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
+Tag:	Superhero
+Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Philosophy
 Tag:	Tsundere
 Tag:	Magic
+Tag:	Archery
+Tag:	Urban
+Tag:	Mythology
 Tag:	Time Manipulation
+Tag:	Witch
+Tag:	Philosophy
 Related:	5888
 Related:	131587
 Related:	91907

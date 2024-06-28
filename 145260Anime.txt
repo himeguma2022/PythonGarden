@@ -1,21 +1,21 @@
 ID:	145260
+Title:	Kuro no Shoukanshi
 Title:	黒の召喚士
 Title:	Black Summoner
-Title:	Kuro no Shoukanshi
-Tag:	Slavery
-Tag:	Reincarnation
-Tag:	Religion
-Tag:	Isekai
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	CGI
+Tag:	Religion
 Tag:	Elf
-Tag:	Afterlife
-Tag:	Gods
-Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Amnesia
 Tag:	Demons
+Tag:	Amnesia
+Tag:	Slavery
+Tag:	Magic
+Tag:	Memory Manipulation
+Tag:	Reincarnation
+Tag:	Female Harem
+Tag:	Gods
+Tag:	Isekai
+Tag:	Afterlife
 Related:	101810
 Related:	69107
 Related:	69108

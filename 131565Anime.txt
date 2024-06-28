@@ -1,20 +1,20 @@
 ID:	131565
 Title:	takt op.Destiny
 Title:	Takt Op. Destiny
-Tag:	Tragedy
-Tag:	Disability
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
+Tag:	Female Protagonist
+Tag:	Dystopian
 Tag:	Kuudere
-Tag:	Henshin
+Tag:	Disability
+Tag:	Adoption
 Tag:	Amnesia
 Tag:	Dinosaurs
-Tag:	Adoption
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Henshin
 Related:	151578
 Related:	88885
 Related:	167997

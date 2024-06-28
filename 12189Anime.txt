@@ -1,22 +1,22 @@
 ID:	12189
-Title:	氷菓
 Title:	Hyouka
-Tag:	Bullying
-Tag:	Primarily Teen Cast
+Title:	氷菓
 Tag:	Male Protagonist
-Tag:	Rural
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Episodic
+Tag:	Politics
+Tag:	Otaku Culture
+Tag:	Rural
+Tag:	School Club
+Tag:	School
+Tag:	Bullying
 Tag:	Cosplay
 Tag:	Detective
-Tag:	Otaku Culture
-Tag:	Shrine Maiden
-Tag:	Politics
-Tag:	School
 Tag:	Philosophy
+Tag:	Shrine Maiden
 Tag:	Classic Literature
-Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	School Club
 Related:	65513
 Related:	45611
 Related:	71629

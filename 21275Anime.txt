@@ -1,14 +1,14 @@
 ID:	21275
-Title:	コメット・ルシファー
 Title:	Comet Lucifer
-Tag:	Aliens
-Tag:	Angels
+Title:	コメット・ルシファー
 Tag:	Male Protagonist
+Tag:	Real Robot
 Tag:	Female Protagonist
 Tag:	Space
-Tag:	Cyberpunk
-Tag:	Real Robot
-Tag:	Steampunk
 Tag:	Robots
+Tag:	Aliens
+Tag:	Angels
+Tag:	Steampunk
+Tag:	Cyberpunk
 Related:	21491
 Related:	10774

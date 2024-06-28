@@ -1,21 +1,21 @@
 ID:	105914
-Title:	The Helpful Fox Senko-san
 Title:	Sewayaki Kitsune no Senko-san
 Title:	世話やきキツネの仙狐さん
-Tag:	Iyashikei
-Tag:	Video Games
-Tag:	Kemonomimi
-Tag:	Urban
+Title:	The Helpful Fox Senko-san
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Gods
-Tag:	Software Development
-Tag:	Youkai
 Tag:	Seinen
-Tag:	Monster Girl
-Tag:	Maids
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Food
 Tag:	Primarily Adult Cast
+Tag:	Iyashikei
+Tag:	Maids
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Software Development
+Tag:	Gods
+Tag:	Youkai
+Tag:	Video Games
+Tag:	Monster Girl
 Related:	100584
 Related:	27444

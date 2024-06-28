@@ -1,24 +1,24 @@
 ID:	150075
-Title:	この素晴らしい世界に爆焔を！
 Title:	KONOSUBA -An Explosion on This Wonderful World!
+Title:	この素晴らしい世界に爆焔を！
 Title:	Kono Subarashii Sekai ni Bakuen wo!
+Tag:	Religion
+Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Nudity
+Tag:	Parody
+Tag:	Travel
+Tag:	Tsundere
+Tag:	Unrequited Love
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
 Tag:	Witch
 Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	Rural
-Tag:	School
-Tag:	Parody
-Tag:	Nudity
-Tag:	Unrequited Love
-Tag:	Travel
-Tag:	Chuunibyou
-Tag:	Tsundere
-Tag:	Religion
-Tag:	Magic
-Tag:	Demons
+Tag:	Slapstick
 Related:	73739
 Related:	73741
 Related:	73744

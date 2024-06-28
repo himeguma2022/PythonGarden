@@ -1,12 +1,12 @@
 ID:	108354
 Title:	とつくにの少女
-Title:	Totsukuni no Shoujo
 Title:	The Girl From the Other Side: Siúil, a Rún
-Tag:	No Dialogue
-Tag:	Orphan
-Tag:	Female Protagonist
-Tag:	Family Life
+Title:	Totsukuni no Shoujo
 Tag:	Fairy Tale
+Tag:	Female Protagonist
+Tag:	No Dialogue
+Tag:	Family Life
+Tag:	Orphan
 Tag:	Rural
 Related:	86770
 Related:	53940

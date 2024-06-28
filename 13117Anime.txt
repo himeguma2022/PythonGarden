@@ -1,14 +1,14 @@
 ID:	13117
-Title:	劇場版 薄桜鬼 第一章 京都乱舞
 Title:	HAKUOKI: WILD DANCE OF TOKYO
 Title:	Hakuouki Movie 1: Kyoto Ranbu
-Tag:	Historical
+Title:	劇場版 薄桜鬼 第一章 京都乱舞
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Primarily Male Cast
 Tag:	Male Harem
 Tag:	Crossdressing
+Tag:	Primarily Male Cast
 Tag:	Samurai
+Tag:	Historical
 Related:	10161
 Related:	6895
 Related:	7796

@@ -1,19 +1,19 @@
 ID:	1418
-Title:	Lupin III: EPISODE:0 "First Contact"
-Title:	Lupin the 3rd Episode 0: The First Contact
 Title:	"Lupin III: EPISODE:0 ""First Contact"""
 Title:	ルパン三世ＥＰＩＳＯＤＥ：０（ゼロ） 『ファーストコンタクト』
-Tag:	Guns
-Tag:	Crime
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Lupin III: EPISODE:0 "First Contact"
+Title:	Lupin the 3rd Episode 0: The First Contact
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	Swordplay
 Tag:	Mafia
+Tag:	Crime
+Tag:	Primarily Adult Cast
 Tag:	Fugitive
+Tag:	Foreign
+Tag:	Primarily Male Cast
 Tag:	Samurai
 Tag:	Police
-Tag:	Primarily Adult Cast
-Tag:	Foreign
+Tag:	Shounen
+Tag:	Guns
 Related:	1412
 Related:	2319

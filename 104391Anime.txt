@@ -1,13 +1,13 @@
 ID:	104391
-Title:	推しが武道館いってくれたら死ぬ
-Title:	If My Favorite Pop Idol Made It to the Budokan, I Would Die
 Title:	Oshi ga Budoukan Ittekuretara Shinu
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
+Title:	If My Favorite Pop Idol Made It to the Budokan, I Would Die
+Title:	推しが武道館いってくれたら死ぬ
 Tag:	Seinen
-Tag:	Otaku Culture
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Otaku Culture
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	25251
 Related:	95347

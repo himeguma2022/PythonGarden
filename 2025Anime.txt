@@ -1,28 +1,28 @@
 ID:	2025
-Title:	DARKER THAN BLACK: Kuro no Keiyakusha
 Title:	Darker than Black
-Title:	Darker than Black: Kuro no Keiyakusha
 Title:	DARKER THAN BLACK -黒の契約者-
+Title:	DARKER THAN BLACK: Kuro no Keiyakusha
+Title:	Darker than Black: Kuro no Keiyakusha
 Tag:	Noir
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	Yakuza
-Tag:	Urban
+Tag:	Conspiracy
+Tag:	Memory Manipulation
+Tag:	Detective
+Tag:	Super Power
+Tag:	Time Manipulation
+Tag:	Episodic
+Tag:	Assassins
 Tag:	Kuudere
 Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Episodic
-Tag:	Time Manipulation
-Tag:	Terrorism
+Tag:	Triads
+Tag:	Police
+Tag:	Espionage
 Tag:	Urban Fantasy
 Tag:	Mafia
-Tag:	Espionage
-Tag:	Assassins
-Tag:	Police
-Tag:	Triads
-Tag:	Detective
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Anti-Hero
 Related:	31016
 Related:	10241

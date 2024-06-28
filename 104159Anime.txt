@@ -1,20 +1,20 @@
 ID:	104159
-Title:	Azur Lane
 Title:	アズールレーン
+Title:	Azur Lane
 Title:	AZUR LANE
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	War
 Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Kuudere
 Tag:	Military
 Tag:	Ships
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	War
 Related:	124545
 Related:	108547
 Related:	142340

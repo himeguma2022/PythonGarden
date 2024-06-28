@@ -2,12 +2,12 @@ ID:	104530
 Title:	お酒は夫婦になってから 第14話
 Title:	Osake wa Fuufu ni Natte kara Episode 14
 Title:	Love is Like a Cocktail Episode 14
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Marriage
 Tag:	Seinen
-Tag:	Heterosexual
+Tag:	Female Protagonist
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Marriage
 Related:	98657
 Related:	25391
 Related:	25389

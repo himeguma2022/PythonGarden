@@ -1,27 +1,27 @@
 ID:	120697
-Title:	Ijiranaide Nagatoro-san
 Title:	イジらないで、長瀞さん
-Title:	Ijiranaide, Nagatoro-san
+Title:	Ijiranaide Nagatoro-san
 Title:	DON'T TOY WITH ME, MISS NAGATORO
-Tag:	Slapstick
-Tag:	Tanned Skin
-Tag:	Tsundere
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Drawing
-Tag:	Kemonomimi
+Title:	Ijiranaide, Nagatoro-san
 Tag:	School
-Tag:	Nekomimi
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Male Protagonist
 Tag:	Heterosexual
 Tag:	School Club
-Tag:	Tomboy
+Tag:	Episodic
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Tsundere
+Tag:	Drawing
 Tag:	Gyaru
-Tag:	Yandere
+Tag:	Tomboy
 Related:	100664
 Related:	43843
 Related:	64324

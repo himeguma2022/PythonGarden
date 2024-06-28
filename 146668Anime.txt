@@ -1,23 +1,23 @@
 ID:	146668
-Title:	RWBY: Ice Queendom
 Title:	RWBY 氷雪帝国
 Title:	RWBY: Hyousetsu Teikoku
-Tag:	Guns
-Tag:	Primarily Female Cast
-Tag:	Super Power
-Tag:	Kemonomimi
+Title:	RWBY: Ice Queendom
 Tag:	CGI
+Tag:	Super Power
+Tag:	Fairy Tale
 Tag:	Swordplay
-Tag:	Terrorism
 Tag:	Female Protagonist
-Tag:	Motorcycles
-Tag:	Ojou-sama
+Tag:	Kemonomimi
+Tag:	Terrorism
+Tag:	Magic
+Tag:	Robots
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Fairy Tale
+Tag:	Motorcycles
+Tag:	Ojou-sama
 Tag:	Cyberpunk
-Tag:	Robots
-Tag:	Magic
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	86560
 Related:	146829
 Related:	101745

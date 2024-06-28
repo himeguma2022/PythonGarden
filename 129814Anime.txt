@@ -1,25 +1,25 @@
 ID:	129814
 Title:	BLUE REFLECTION RAY
-Title:	BLUE REFLECTION RAY/澪
 Title:	Blue Reflection Ray
-Tag:	Memory Manipulation
-Tag:	Tragedy
-Tag:	Henshin
-Tag:	Primarily Female Cast
+Title:	BLUE REFLECTION RAY/澪
 Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Time Manipulation
 Tag:	Swordplay
-Tag:	Orphan
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Torture
-Tag:	Cult
-Tag:	Suicide
-Tag:	Anti-Hero
-Tag:	Magic
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
 Tag:	Twins
+Tag:	Magic
+Tag:	Time Manipulation
+Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	School
+Tag:	Henshin
+Tag:	Cult
+Tag:	Orphan
+Tag:	Anti-Hero
+Tag:	Suicide
+Tag:	Torture
 Related:	58649
 Related:	158625
 Related:	135381

@@ -1,20 +1,20 @@
 ID:	2042
 Title:	Five Star Stories
 Title:	ファイブスター物語
-Tag:	Tragedy
-Tag:	Robots
-Tag:	Mythology
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Gods
-Tag:	Politics
-Tag:	Real Robot
-Tag:	Military
 Tag:	Age Gap
+Tag:	Real Robot
 Tag:	Space Opera
-Tag:	Crossdressing
-Tag:	Heterosexual
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Crossdressing
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	Gods
 Related:	7781
 Related:	49571
 Related:	31659

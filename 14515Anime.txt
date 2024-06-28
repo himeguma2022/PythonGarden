@@ -1,28 +1,28 @@
 ID:	14515
 Title:	Sasami-san@Ganbaranai
 Title:	ささみさん@がんばらない
-Tag:	Tragedy
-Tag:	Satire
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Denpa
-Tag:	Shrine Maiden
 Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Parody
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Mythology
-Tag:	LGBTQ+ Themes
 Tag:	Robots
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Hikikomori
-Tag:	Incest
-Tag:	Surreal Comedy
 Tag:	Alternate Universe
+Tag:	Surreal Comedy
+Tag:	Mythology
+Tag:	Coming of Age
+Tag:	Shrine Maiden
+Tag:	Satire
+Tag:	Incest
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Primarily Female Cast
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Hikikomori
+Tag:	Denpa
+Tag:	Tragedy
+Tag:	Gods
+Tag:	LGBTQ+ Themes
 Related:	7993
 Related:	39090
 Related:	69349

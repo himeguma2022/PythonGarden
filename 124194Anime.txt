@@ -2,43 +2,43 @@ ID:	124194
 Title:	フルーツバスケットThe Final
 Title:	Fruits Basket: The Final
 Title:	Fruits Basket The Final Season
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Ensemble Cast
 Tag:	Marriage
-Tag:	Gender Bending
-Tag:	Suicide
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Orphan
-Tag:	Shoujo
-Tag:	School
-Tag:	Urban Fantasy
 Tag:	Primarily Male Cast
+Tag:	Crossdressing
+Tag:	School
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Reincarnation
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Femboy
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Unrequited Love
+Tag:	Shapeshifting
+Tag:	School Club
+Tag:	Shoujo
 Tag:	Nekomimi
 Tag:	Age Gap
-Tag:	Animals
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
 Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	School Club
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Tsundere
 Tag:	Revenge
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Femboy
-Tag:	Time Skip
+Tag:	Animals
+Tag:	Found Family
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Philosophy
 Related:	136192
 Related:	73456
 Related:	111762

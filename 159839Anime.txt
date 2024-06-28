@@ -1,13 +1,13 @@
 ID:	159839
-Title:	NIJIYON ANIMATION Specials
-Title:	NIJIYON ANIMATION: Yu and the School Idol
 Title:	にじよん あにめーしょん
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	NIJIYON ANIMATION: Yu and the School Idol
+Title:	NIJIYON ANIMATION Specials
 Tag:	CGI
-Tag:	Female Harem
 Tag:	Chibi
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	154785
 Related:	83075

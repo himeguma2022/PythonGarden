@@ -1,14 +1,14 @@
 ID:	1813
-Title:	Genshiken OVA
 Title:	げんしけん OVA
-Tag:	Otaku Culture
-Tag:	Ensemble Cast
-Tag:	College
-Tag:	Parody
-Tag:	Meta
+Title:	Genshiken OVA
 Tag:	Seinen
-Tag:	Heterosexual
+Tag:	Parody
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
 Tag:	School Club
 Related:	2854
 Related:	2855

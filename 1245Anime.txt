@@ -1,13 +1,13 @@
 ID:	1245
-Title:	支配者の黄昏 TWILIGHT OF THE DARK MASTER
 Title:	Twilight of the Dark Master
+Title:	支配者の黄昏 TWILIGHT OF THE DARK MASTER
 Title:	Shihaisha no Tasogare: TWILIGHT OF THE DARK MASTER
-Tag:	Shoujo
-Tag:	Drugs
 Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	Nudity
-Tag:	Body Horror
+Tag:	Drugs
 Tag:	Demons
+Tag:	Nudity
+Tag:	Shoujo
+Tag:	Detective
+Tag:	Body Horror
 Related:	2073
 Related:	38900

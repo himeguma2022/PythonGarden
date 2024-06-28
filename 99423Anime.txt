@@ -1,57 +1,57 @@
 ID:	99423
+Title:	DARLING in the FRANXX
+Title:	ダーリン・イン・ザ・フランキス
 Title:	Darling in the FranXX
 Title:	Darling in the Franxx
-Title:	ダーリン・イン・ザ・フランキス
-Title:	DARLING in the FRANXX
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Super Robot
 Tag:	Clone
-Tag:	Love Triangle
-Tag:	Post-Apocalyptic
-Tag:	Space
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Netorare
-Tag:	Conspiracy
-Tag:	Kaiju
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Marriage
 Tag:	Body Horror
-Tag:	Travel
-Tag:	Politics
-Tag:	Monster Girl
-Tag:	Agriculture
-Tag:	Reincarnation
-Tag:	Drawing
-Tag:	Orphan
-Tag:	Medicine
-Tag:	Environmental
-Tag:	Football
-Tag:	Survival
-Tag:	Nudity
-Tag:	LGBTQ+ Themes
-Tag:	Robots
-Tag:	Virginity
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Dystopian
-Tag:	Fishing
-Tag:	Monster Boy
-Tag:	Military
-Tag:	Agender
-Tag:	Time Skip
-Tag:	Yandere
-Tag:	Pandemic
+Tag:	Lost Civilization
 Tag:	Demons
+Tag:	Travel
+Tag:	Military
+Tag:	Virginity
+Tag:	Environmental
+Tag:	Space
+Tag:	Robots
+Tag:	Politics
+Tag:	Marriage
+Tag:	Conspiracy
+Tag:	Memory Manipulation
+Tag:	Reincarnation
+Tag:	Orphan
+Tag:	Agender
+Tag:	Post-Apocalyptic
+Tag:	Yandere
+Tag:	Monster Girl
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Unrequited Love
+Tag:	Aliens
+Tag:	Survival
+Tag:	Aviation
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Gore
+Tag:	Super Robot
+Tag:	Football
+Tag:	Love Triangle
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Drawing
+Tag:	Pandemic
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Fishing
+Tag:	Netorare
+Tag:	Monster Boy
+Tag:	LGBTQ+ Themes
+Tag:	Kaiju
+Tag:	Medicine
 Related:	100937
 Related:	21932
 Related:	57923

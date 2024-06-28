@@ -1,29 +1,29 @@
 ID:	8795
 Title:	パンティ＆ストッキングwithガーターベルト
 Title:	Panty & Stocking with Garterbelt
-Tag:	Angels
-Tag:	Satire
-Tag:	Tanned Skin
-Tag:	Tokusatsu
-Tag:	Unrequited Love
-Tag:	Ghost
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Parody
-Tag:	Monster Girl
-Tag:	Guns
-Tag:	Swordplay
-Tag:	School
-Tag:	Zombie
-Tag:	Nudity
-Tag:	Aromantic
-Tag:	Henshin
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Surreal Comedy
-Tag:	CGI
-Tag:	Anti-Hero
 Tag:	Demons
+Tag:	Zombie
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Monster Girl
+Tag:	Henshin
+Tag:	Satire
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Aromantic
+Tag:	Episodic
+Tag:	Guns
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Chibi
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Ghost
+Tag:	Angels
+Tag:	Tokusatsu
+Tag:	Anti-Hero
 Related:	75360
 Related:	51848
 Related:	10739

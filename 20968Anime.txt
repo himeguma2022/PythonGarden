@@ -1,17 +1,17 @@
 ID:	20968
-Title:	The Anthem of the Heart
 Title:	Kokoro ga Sakebitagatterun da.
+Title:	The Anthem of the Heart
 Title:	心が叫びたがってるんだ。
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Coming of Age
+Tag:	Chuunibyou
 Tag:	Female Protagonist
 Tag:	Family Life
+Tag:	Heterosexual
 Tag:	Baseball
+Tag:	Rehabilitation
+Tag:	Tragedy
 Tag:	School
 Tag:	Musical Theater
-Tag:	Chuunibyou
-Tag:	Heterosexual
-Tag:	Rehabilitation
+Tag:	Love Triangle
+Tag:	Coming of Age
 Related:	45266
 Related:	86398

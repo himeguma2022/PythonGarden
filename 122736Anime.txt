@@ -1,6 +1,6 @@
 ID:	122736
+Title:	Empty Prayer
 Title:	祈りは空っぽ
 Title:	Inori wa Karappo
-Title:	Empty Prayer
-Tag:	Tragedy
 Tag:	Time Manipulation
+Tag:	Tragedy

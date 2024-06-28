@@ -1,13 +1,13 @@
 ID:	4437
-Title:	NARUTO: Shippuuden - Kizuna
-Title:	劇場版 NARUTO -ナルト- 疾風伝 絆
 Title:	Naruto Shippuden the Movie: Bonds
+Title:	劇場版 NARUTO -ナルト- 疾風伝 絆
+Title:	NARUTO: Shippuuden - Kizuna
 Tag:	Super Power
-Tag:	Shounen
-Tag:	Ninja
-Tag:	War
-Tag:	Steampunk
 Tag:	Ships
+Tag:	Ninja
+Tag:	Steampunk
+Tag:	Shounen
+Tag:	War
 Related:	56200
 Related:	4850
 Related:	132771

@@ -1,17 +1,17 @@
 ID:	20992
-Title:	ハイキュー!! セカンドシーズン
-Title:	Haikyuu!! 2nd Season
 Title:	HAIKYU!! 2nd Season
-Tag:	Tomboy
-Tag:	Primarily Teen Cast
-Tag:	Shounen
+Title:	Haikyuu!! 2nd Season
+Title:	ハイキュー!! セカンドシーズン
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Ensemble Cast
-Tag:	Volleyball
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Volleyball
+Tag:	Tomboy
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	11104
 Related:	21698
 Related:	34947

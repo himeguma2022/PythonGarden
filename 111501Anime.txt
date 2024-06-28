@@ -1,16 +1,16 @@
 ID:	111501
+Title:	Runway de Waratte
 Title:	ランウェイで笑って
 Title:	Smile Down the Runway
-Title:	Runway de Waratte
-Tag:	Primarily Teen Cast
-Tag:	Fashion
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Nudity
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Family Life
+Tag:	Fashion
+Tag:	School
+Tag:	Shounen
 Tag:	Coming of Age
 Related:	39779
 Related:	34565

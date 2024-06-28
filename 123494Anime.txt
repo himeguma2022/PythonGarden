@@ -2,13 +2,13 @@ ID:	123494
 Title:	Sayonara Watashi no Cramer
 Title:	さよなら私のクラマー
 Title:	Farewell, My Dear Cramer
-Tag:	Primarily Female Cast
-Tag:	Shounen
 Tag:	Female Protagonist
-Tag:	Football
 Tag:	Ensemble Cast
-Tag:	Ojou-sama
 Tag:	School Club
+Tag:	Football
+Tag:	Ojou-sama
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	46756
 Related:	123645
 Related:	46603

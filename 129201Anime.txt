@@ -2,35 +2,35 @@ ID:	129201
 Title:	サマータイムレンダ
 Title:	Summer Time Rendering
 Title:	Summer Time Render
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Dissociative Identities
-Tag:	Tanned Skin
-Tag:	Denpa
-Tag:	Unrequited Love
-Tag:	Gore
-Tag:	Religion
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
+Tag:	Alternate Universe
 Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Reincarnation
 Tag:	Mythology
+Tag:	Reincarnation
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Super Power
+Tag:	Time Loop
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Guns
+Tag:	Cosmic Horror
+Tag:	Gore
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Shounen
 Tag:	Coastal
 Tag:	Urban Fantasy
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Time Loop
-Tag:	Shapeshifting
-Tag:	Body Swapping
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Ghost
 Tag:	Amnesia
-Tag:	Alternate Universe
+Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Body Horror
+Tag:	Rural
 Related:	102989
 Related:	52405

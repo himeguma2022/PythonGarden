@@ -1,45 +1,45 @@
 ID:	20958
 Title:	Shingeki no Kyojin 2
-Title:	進撃の巨人２
 Title:	Attack on Titan Season 2
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Cult
-Tag:	Unrequited Love
-Tag:	Cannibalism
-Tag:	Gore
-Tag:	Class Struggle
-Tag:	Primarily Adult Cast
-Tag:	Kaiju
+Title:	進撃の巨人２
 Tag:	Yuri
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Military
 Tag:	Ensemble Cast
-Tag:	Monster Girl
-Tag:	Orphan
-Tag:	Swordplay
-Tag:	Survival
 Tag:	Primarily Male Cast
+Tag:	Cannibalism
+Tag:	Orphan
+Tag:	Post-Apocalyptic
+Tag:	Matriarchy
+Tag:	Monster Girl
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Incest
+Tag:	Unrequited Love
+Tag:	Shapeshifting
+Tag:	Survival
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Anti-Hero
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Shounen
 Tag:	Espionage
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
 Tag:	Nudity
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Dissociative Identities
+Tag:	Monster Boy
+Tag:	Kaiju
 Tag:	LGBTQ+ Themes
 Tag:	Rural
-Tag:	Coming of Age
-Tag:	Incest
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Matriarchy
-Tag:	CGI
-Tag:	Monster Boy
-Tag:	Shapeshifting
-Tag:	Military
-Tag:	Anti-Hero
 Related:	42625
 Related:	21444
 Related:	119113

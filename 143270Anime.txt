@@ -1,29 +1,29 @@
 ID:	143270
-Title:	Lycoris Recoil
 Title:	リコリス・リコイル
-Tag:	Boys' Love
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Conspiracy
+Title:	Lycoris Recoil
 Tag:	Yuri
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Restaurant
-Tag:	Guns
-Tag:	Orphan
-Tag:	Terrorism
 Tag:	Adoption
-Tag:	Espionage
-Tag:	Assassins
-Tag:	Bar
-Tag:	LGBTQ+ Themes
-Tag:	Police
-Tag:	Dystopian
+Tag:	Conspiracy
+Tag:	Orphan
+Tag:	Parenthood
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
+Tag:	Guns
 Tag:	CGI
 Tag:	Work
-Tag:	Parenthood
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Boys' Love
+Tag:	Police
+Tag:	Espionage
+Tag:	Bar
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Urban
+Tag:	LGBTQ+ Themes
+Tag:	Restaurant
 Related:	151808
 Related:	151809
 Related:	161410
@@ -31,10 +31,10 @@ Related:	81573
 Related:	157671
 Related:	155976
 Related:	78185
+Related:	155071
 Related:	158111
-Related:	81311
 Related:	75372
 Related:	75373
 Related:	84095
 Related:	79485
-Related:	155071
+Related:	81311

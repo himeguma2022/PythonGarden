@@ -1,21 +1,21 @@
 ID:	597
-Title:	猫の恩返し
 Title:	Neko no Ongaeshi
 Title:	The Cat Returns
-Tag:	Crossover
-Tag:	Shoujo
-Tag:	Kemonomimi
-Tag:	Isekai
-Tag:	Primarily Animal Cast
-Tag:	Female Protagonist
+Title:	猫の恩返し
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
 Tag:	Fairy Tale
 Tag:	Body Horror
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
 Tag:	Anthropomorphism
-Tag:	Nekomimi
-Tag:	Animals
+Tag:	Kemonomimi
+Tag:	Crossover
 Tag:	Heterosexual
+Tag:	Animals
+Tag:	Shoujo
+Tag:	Isekai
+Tag:	Nekomimi
+Tag:	Primarily Animal Cast
 Related:	585
 Related:	31372
 Related:	36833

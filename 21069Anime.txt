@@ -2,8 +2,8 @@ ID:	21069
 Title:	Aki no Kanade
 Title:	アキの奏で
 Tag:	Band
-Tag:	Female Protagonist
 Tag:	School Club
+Tag:	Female Protagonist
 Related:	10018
 Related:	10021
 Related:	10028

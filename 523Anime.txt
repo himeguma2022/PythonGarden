@@ -1,15 +1,15 @@
 ID:	523
+Title:	となりのトトロ
 Title:	My Neighbor Totoro
 Title:	Tonari no Totoro
-Title:	となりのトトロ
 Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
+Tag:	Urban Fantasy
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	Urban Fantasy
+Tag:	Primarily Child Cast
 Tag:	Gods
 Tag:	Youkai
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	2488
 Related:	145

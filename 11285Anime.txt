@@ -3,23 +3,23 @@ Title:	Black★Rock Shooter (TV)
 Title:	ブラック★ロックシューター (TV)
 Title:	Black Rock Shooter
 Title:	Black★Rock Shooter
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Reincarnation
+Tag:	CGI
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
 Tag:	Primarily Female Cast
-Tag:	Basketball
+Tag:	Nudity
 Tag:	Primarily Teen Cast
 Tag:	Crossover
-Tag:	CGI
 Tag:	Alternate Universe
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Nudity
-Tag:	Rehabilitation
-Tag:	LGBTQ+ Themes
 Tag:	Body Swapping
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Reincarnation
+Tag:	School
+Tag:	Basketball
+Tag:	LGBTQ+ Themes
 Tag:	Coming of Age
+Tag:	Guns
 Related:	56292
 Related:	7433
 Related:	63242

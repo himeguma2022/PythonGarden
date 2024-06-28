@@ -1,19 +1,19 @@
 ID:	112023
-Title:	The Legend of Hei
 Title:	罗小黑战记大电影
+Title:	The Legend of Hei
 Title:	Luo Xiaohei Zhan Ji (Movie)
-Tag:	Cultivation
-Tag:	Mopeds
+Tag:	Male Protagonist
+Tag:	Urban Fantasy
 Tag:	Kemonomimi
 Tag:	Terrorism
 Tag:	Environmental
-Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Nekomimi
-Tag:	Shapeshifting
-Tag:	Animals
 Tag:	Magic
+Tag:	Cultivation
+Tag:	Animals
+Tag:	Shapeshifting
+Tag:	Mopeds
 Tag:	Found Family
+Tag:	Nekomimi
 Related:	114976
 Related:	87834
 Related:	166475

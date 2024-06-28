@@ -1,25 +1,25 @@
 ID:	196
 Title:	おねがい☆ツインズ
-Title:	Please☆Twins!
 Title:	Onegai☆Twins
-Tag:	Teacher
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Orphan
+Title:	Please☆Twins!
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
 Tag:	Nudity
-Tag:	Software Development
-Tag:	Unrequited Love
-Tag:	LGBTQ+ Themes
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Heterosexual
+Tag:	Unrequited Love
 Tag:	Twins
+Tag:	Heterosexual
+Tag:	Software Development
+Tag:	Aliens
 Tag:	Rural
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Orphan
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Teacher
 Related:	55458
 Related:	195
 Related:	484

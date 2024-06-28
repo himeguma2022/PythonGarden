@@ -1,22 +1,22 @@
 ID:	15335
 Title:	Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
-Title:	Gintama: The Final Chapter - Be Forever Yorozuya
 Title:	劇場版 銀魂 完結篇 万事屋よ永遠なれ
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Isekai
-Tag:	Post-Apocalyptic
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Gintama: The Final Chapter - Be Forever Yorozuya
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Rotoscoping
-Tag:	Kuudere
 Tag:	Parody
-Tag:	Samurai
-Tag:	Time Manipulation
+Tag:	Isekai
+Tag:	Kuudere
 Tag:	Primarily Adult Cast
+Tag:	Shounen
 Tag:	Found Family
+Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Samurai
+Tag:	Historical
+Tag:	Post-Apocalyptic
+Tag:	Guns
 Related:	9922
 Related:	95458
 Related:	20996

@@ -1,17 +1,17 @@
 ID:	21319
 Title:	Ao no Kanata no Four Rhythm
-Title:	AOKANA: Four Rhythm Across the Blue
 Title:	蒼の彼方のフォーリズム
-Tag:	Primarily Female Cast
-Tag:	CGI
-Tag:	Coastal
+Title:	AOKANA: Four Rhythm Across the Blue
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Athletics
-Tag:	School
 Tag:	Kuudere
-Tag:	Ojou-sama
-Tag:	Aviation
+Tag:	Athletics
 Tag:	School Club
+Tag:	School
+Tag:	Ojou-sama
+Tag:	Primarily Female Cast
+Tag:	Aviation
+Tag:	Coastal
 Related:	51801
 Related:	96282

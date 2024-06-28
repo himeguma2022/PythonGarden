@@ -1,39 +1,39 @@
 ID:	1575
-Title:	Code Geass: Lelouch of the Rebellion
-Title:	コードギアス 反逆のルルーシュ
 Title:	Code Geass: Hangyaku no Lelouch
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Amnesia
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Class Struggle
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Title:	コードギアス 反逆のルルーシュ
+Title:	Code Geass: Lelouch of the Rebellion
+Tag:	Military
 Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Masturbation
-Tag:	Real Robot
-Tag:	War
-Tag:	Age Gap
+Tag:	Memory Manipulation
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Heterosexual
 Tag:	School Club
-Tag:	Revenge
-Tag:	Dystopian
+Tag:	Masturbation
+Tag:	War
 Tag:	CGI
-Tag:	Military
-Tag:	Philosophy
-Tag:	Anti-Hero
+Tag:	Age Gap
+Tag:	Swordplay
+Tag:	Class Struggle
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Super Robot
+Tag:	Female Harem
+Tag:	Real Robot
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Nudity
 Tag:	Disability
+Tag:	Terrorism
+Tag:	Amnesia
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	2561
 Related:	49661
 Related:	65547

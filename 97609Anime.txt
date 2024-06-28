@@ -1,15 +1,15 @@
 ID:	97609
 Title:	チーティングクラフト
 Title:	Cheating Craft
-Tag:	Teacher
 Tag:	Primarily Teen Cast
-Tag:	Battle Royale
-Tag:	Shounen
-Tag:	Martial Arts
-Tag:	Ojou-sama
-Tag:	School
 Tag:	Parody
+Tag:	Martial Arts
 Tag:	Tsundere
 Tag:	Magic
+Tag:	Battle Royale
+Tag:	School
+Tag:	Ojou-sama
+Tag:	Shounen
+Tag:	Teacher
 Related:	22886
 Related:	86727

@@ -1,18 +1,18 @@
 ID:	10030
 Title:	バクマン。2
 Title:	Bakuman. 2
-Tag:	Tragedy
+Tag:	Male Protagonist
+Tag:	Work
+Tag:	Writing
+Tag:	Heterosexual
 Tag:	Drawing
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	School
 Tag:	Love Triangle
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Meta
-Tag:	Heterosexual
-Tag:	Work
 Tag:	Coming of Age
-Tag:	Writing
 Related:	6947
 Related:	6948
 Related:	6949

@@ -1,26 +1,26 @@
 ID:	108430
+Title:	ギヴン
 Title:	Given
 Title:	given
-Title:	ギヴン
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Basketball
-Tag:	Urban
-Tag:	Band
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
 Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	School
+Tag:	Cute Boys Doing Cute Things
 Tag:	Primarily Male Cast
-Tag:	LGBTQ+ Themes
-Tag:	Rock Music
+Tag:	School
 Tag:	Coming of Age
-Tag:	Josei
-Tag:	CGI
+Tag:	Male Protagonist
 Tag:	Bisexual
+Tag:	Basketball
+Tag:	CGI
+Tag:	Josei
+Tag:	Rock Music
+Tag:	Boys' Love
+Tag:	Suicide
+Tag:	Primarily Teen Cast
+Tag:	Urban
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Band
+Tag:	LGBTQ+ Themes
 Related:	34818
 Related:	87347
 Related:	111734

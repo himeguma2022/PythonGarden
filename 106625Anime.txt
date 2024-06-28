@@ -1,18 +1,18 @@
 ID:	106625
-Title:	Haikyuu!! TO THE TOP
 Title:	HAIKYU!! TO THE TOP
+Title:	Haikyuu!! TO THE TOP
 Title:	ハイキュー!! TO THE TOP
-Tag:	Tomboy
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Volleyball
-Tag:	Primarily Male Cast
+Tag:	Primarily Teen Cast
 Tag:	Twins
-Tag:	Coming of Age
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Volleyball
+Tag:	Tomboy
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	113538
 Related:	34888
 Related:	28366

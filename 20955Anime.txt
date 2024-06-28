@@ -1,21 +1,21 @@
 ID:	20955
-Title:	Rokka -Braves of the Six Flowers-
 Title:	Rokka no Yuusha
 Title:	六花の勇者
-Tag:	Kemonomimi
+Title:	Rokka -Braves of the Six Flowers-
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Ensemble Cast
-Tag:	Detective
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Travel
 Tag:	Assassins
-Tag:	Magic
-Tag:	Monster Girl
 Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Travel
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Survival
+Tag:	Detective
+Tag:	Monster Girl
+Tag:	Fugitive
 Related:	10095
 Related:	106895
 Related:	31346

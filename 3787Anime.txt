@@ -1,13 +1,13 @@
 ID:	3787
 Title:	Maris the Chojo
-Title:	The Supergal
 Title:	ザ・超女
+Title:	The Supergal
 Tag:	Super Power
-Tag:	Aliens
 Tag:	Wrestling
 Tag:	Female Protagonist
-Tag:	Space
 Tag:	Nudity
+Tag:	Space
+Tag:	Aliens
 Related:	4538
 Related:	1293
 Related:	40810

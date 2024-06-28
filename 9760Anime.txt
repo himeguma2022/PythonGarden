@@ -2,16 +2,16 @@ ID:	9760
 Title:	Children who Chase Lost Voices
 Title:	星を追う子ども
 Title:	Hoshi wo Ou Kodomo
-Tag:	Guns
-Tag:	Mythology
-Tag:	Lost Civilization
-Tag:	Rural
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	Gods
+Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Lost Civilization
 Tag:	Travel
 Tag:	Magic
-Tag:	Demons
+Tag:	Mythology
+Tag:	Gods
+Tag:	Rural
+Tag:	Guns
 Related:	58319
 Related:	58755
 Related:	58317

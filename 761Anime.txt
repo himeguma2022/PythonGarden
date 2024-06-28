@@ -1,10 +1,10 @@
 ID:	761
-Title:	NARUTO -ナルト- 紅き四つ葉のクローバーを探せ
 Title:	NARUTO: Akaki Yotsuba no Clover wo Sagase
+Title:	NARUTO -ナルト- 紅き四つ葉のクローバーを探せ
+Tag:	Male Protagonist
 Tag:	Primarily Child Cast
+Tag:	Ninja
 Tag:	Orphan
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ninja
 Related:	20
 Related:	1389

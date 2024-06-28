@@ -1,20 +1,20 @@
 ID:	165
 Title:	RahXephon
 Title:	ラーゼフォン
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Military
-Tag:	Philosophy
 Tag:	Age Gap
-Tag:	Memory Manipulation
+Tag:	Female Protagonist
 Tag:	Amnesia
+Tag:	Military
+Tag:	Super Robot
 Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Mythology
+Tag:	Post-Apocalyptic
+Tag:	Memory Manipulation
+Tag:	Philosophy
+Tag:	Primarily Female Cast
+Tag:	War
 Tag:	Coming of Age
 Related:	30817
 Related:	34566

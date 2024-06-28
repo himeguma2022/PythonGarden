@@ -1,21 +1,21 @@
 ID:	108631
 Title:	Hataraku Saibou!!
-Title:	Cells at Work!!
 Title:	はたらく細胞!!
-Tag:	Educational
-Tag:	CGI
-Tag:	Slapstick
-Tag:	Medicine
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
+Title:	Cells at Work!!
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Demons
 Tag:	Anthropomorphism
 Tag:	Gore
-Tag:	Work
-Tag:	Demons
 Tag:	Primarily Adult Cast
+Tag:	Episodic
+Tag:	Ensemble Cast
+Tag:	Educational
+Tag:	Shounen
+Tag:	Medicine
+Tag:	Slapstick
 Related:	31561
 Related:	31562
 Related:	100977

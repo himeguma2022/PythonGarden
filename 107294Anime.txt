@@ -1,25 +1,25 @@
 ID:	107294
-Title:	邪神ちゃんドロップキック’（ダッシュ）
-Title:	Jashin-chan Dropkick’
 Title:	Dropkick on My Devil!! Dash
+Title:	Jashin-chan Dropkick’
+Title:	邪神ちゃんドロップキック’（ダッシュ）
+Tag:	Demons
+Tag:	Surreal Comedy
+Tag:	Mythology
 Tag:	Isekai
+Tag:	Monster Girl
+Tag:	Afterlife
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Primarily Female Cast
 Tag:	Slapstick
-Tag:	Mahjong
-Tag:	Angels
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Gore
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Afterlife
 Tag:	Seinen
-Tag:	Monster Girl
-Tag:	Meta
-Tag:	Mythology
 Tag:	Magic
+Tag:	Angels
+Tag:	Mahjong
 Tag:	Tomboy
-Tag:	Surreal Comedy
-Tag:	Demons
 Tag:	Idol
 Related:	124641
 Related:	74279

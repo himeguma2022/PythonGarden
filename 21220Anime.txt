@@ -1,18 +1,18 @@
 ID:	21220
 Title:	BORUTO -NARUTO THE MOVIE-
-Title:	Boruto: Naruto the Movie
 Title:	BORUTO: NARUTO THE MOVIE
-Tag:	Primarily Child Cast
-Tag:	Aliens
+Title:	Boruto: Naruto the Movie
 Tag:	Drugs
-Tag:	Shounen
-Tag:	Orphan
 Tag:	Martial Arts
 Tag:	Family Life
-Tag:	Episodic
 Tag:	Ninja
+Tag:	Primarily Child Cast
+Tag:	Aliens
 Tag:	Gods
 Tag:	Kaiju
+Tag:	Orphan
+Tag:	Episodic
+Tag:	Shounen
 Related:	95781
 Related:	21579
 Related:	97938

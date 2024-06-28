@@ -1,22 +1,22 @@
 ID:	132010
-Title:	Koi wa Sekai Seifuku no Ato de
-Title:	Love After World Domination
 Title:	恋は世界征服のあとで
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Shounen
+Title:	Love After World Domination
+Title:	Koi wa Sekai Seifuku no Ato de
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Superhero
 Tag:	Urban Fantasy
-Tag:	School
 Tag:	Parody
-Tag:	Tokusatsu
-Tag:	Villainess
+Tag:	Superhero
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Anthropomorphism
-Tag:	Animals
-Tag:	Henshin
 Tag:	Heterosexual
+Tag:	Animals
+Tag:	Villainess
+Tag:	School
+Tag:	Tokusatsu
+Tag:	Love Triangle
 Tag:	Gyaru
+Tag:	Shounen
+Tag:	Henshin
 Related:	55437
 Related:	111390

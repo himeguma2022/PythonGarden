@@ -1,10 +1,10 @@
 ID:	7436
-Title:	Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito
 Title:	ドラゴンクエスト ダイの大冒険 起ちあがれ!!アバンの使徒
-Tag:	Cultivation
+Title:	Dragon Quest: Dai no Daibouken Tachiagare!! Avan no Shito
 Tag:	Male Protagonist
+Tag:	Demons
 Tag:	Martial Arts
 Tag:	Magic
-Tag:	Demons
+Tag:	Cultivation
 Related:	81930
 Related:	2229

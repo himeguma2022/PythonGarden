@@ -1,13 +1,13 @@
 ID:	128740
-Title:	七つの大罪 光に呪われし者たち
-Title:	Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
 Title:	The Seven Deadly Sins: Cursed by Light
-Tag:	Shounen
+Title:	Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
+Title:	七つの大罪 光に呪われし者たち
 Tag:	Male Protagonist
 Tag:	Acting
-Tag:	Gods
-Tag:	Magic
 Tag:	Demons
+Tag:	Magic
+Tag:	Gods
+Tag:	Shounen
 Related:	141352
 Related:	72745
 Related:	51806

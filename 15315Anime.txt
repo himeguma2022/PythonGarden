@@ -1,20 +1,20 @@
 ID:	15315
-Title:	Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?
 Title:	問題児たちが異世界から来るそうですよ?
+Title:	Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?
 Title:	Problem Children Are Coming From Another World, Aren't They?
-Tag:	Gambling
-Tag:	Mythology
-Tag:	Super Power
-Tag:	Kemonomimi
-Tag:	Isekai
-Tag:	Delinquents
 Tag:	Male Protagonist
 Tag:	Fairy Tale
-Tag:	Vampire
-Tag:	Gods
-Tag:	Fairy
-Tag:	Maids
+Tag:	Super Power
 Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Vampire
+Tag:	Maids
+Tag:	Mythology
+Tag:	Fairy
+Tag:	Gambling
+Tag:	Gods
+Tag:	Isekai
+Tag:	Delinquents
 Related:	8115
 Related:	8116
 Related:	16444

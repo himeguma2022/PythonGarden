@@ -2,13 +2,13 @@ ID:	7695
 Title:	Pocket Monsters Diamond & Pearl: Genei no Hasha Zoroark
 Title:	ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク
 Title:	Pokémon: Zoroark—Master of Illusions
-Tag:	Kids
-Tag:	Tragedy
 Tag:	CGI
-Tag:	Environmental
+Tag:	Kids
 Tag:	Urban Fantasy
+Tag:	Environmental
 Tag:	Animals
 Tag:	Conspiracy
+Tag:	Tragedy
 Related:	6178
 Related:	6133
 Related:	74742

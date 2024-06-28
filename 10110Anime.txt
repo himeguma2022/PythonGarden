@@ -1,21 +1,21 @@
 ID:	10110
 Title:	Mayo Chiki!
 Title:	まよチキ!
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Wrestling
-Tag:	Butler
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Otaku Culture
-Tag:	School
-Tag:	Episodic
+Tag:	Wrestling
 Tag:	Nudity
-Tag:	Crossdressing
 Tag:	Tsundere
-Tag:	Yandere
 Tag:	Heterosexual
 Tag:	Meta
+Tag:	Otaku Culture
+Tag:	Crossdressing
+Tag:	Butler
+Tag:	School
+Tag:	Female Harem
+Tag:	Tomboy
+Tag:	Episodic
+Tag:	Yandere
+Tag:	Primarily Female Cast
 Related:	53192
 Related:	61270
 Related:	51860

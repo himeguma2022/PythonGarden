@@ -1,12 +1,12 @@
 ID:	1918
-Title:	魔法少女プリティサミー
-Title:	Mahou Shoujo Pretty Sammy
 Title:	Magical Girl Pretty Sammy
-Tag:	Aliens
-Tag:	Female Protagonist
+Title:	Mahou Shoujo Pretty Sammy
+Title:	魔法少女プリティサミー
 Tag:	Parody
-Tag:	Henshin
+Tag:	Female Protagonist
 Tag:	Magic
+Tag:	Aliens
+Tag:	Henshin
 Related:	579
 Related:	55338
 Related:	20465

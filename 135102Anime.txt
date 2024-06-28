@@ -1,14 +1,14 @@
 ID:	135102
-Title:	Kamitachi ni Hirowareta Otoko 2
-Title:	神達に拾われた男２
 Title:	By the Grace of the Gods 2
-Tag:	Iyashikei
-Tag:	Reincarnation
-Tag:	Isekai
-Tag:	Gods
-Tag:	Magic
+Title:	神達に拾われた男２
+Title:	Kamitachi ni Hirowareta Otoko 2
 Tag:	Work
 Tag:	Demons
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Reincarnation
+Tag:	Gods
+Tag:	Isekai
 Related:	101793
 Related:	101794
 Related:	82277

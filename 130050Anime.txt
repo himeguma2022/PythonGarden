@@ -1,19 +1,19 @@
 ID:	130050
 Title:	Summer Ghost
 Title:	サマーゴースト
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Ghost
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	Denpa
-Tag:	Afterlife
-Tag:	Suicide
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Ghost
 Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Found Family
+Tag:	Tragedy
+Tag:	Denpa
+Tag:	Bullying
+Tag:	Suicide
+Tag:	Coming of Age
+Tag:	Afterlife
 Related:	53433
 Related:	140118
 Related:	130046

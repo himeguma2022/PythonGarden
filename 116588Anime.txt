@@ -1,31 +1,31 @@
 ID:	116588
+Title:	"Sentouin, Hakenshimasu!"
+Title:	Sentouin, Hakenshimasu!
 Title:	Combatants Will Be Dispatched!
 Title:	戦闘員、派遣します！
-Title:	Sentouin, Hakenshimasu!
-Title:	"Sentouin, Hakenshimasu!"
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Tokusatsu
-Tag:	Cannibalism
-Tag:	Tsundere
-Tag:	Alternate Universe
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Parody
-Tag:	Cyborg
-Tag:	Monster Girl
-Tag:	Guns
-Tag:	Female Harem
-Tag:	War
-Tag:	Robots
-Tag:	Magic
-Tag:	Chimera
-Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Disability
 Tag:	Demons
+Tag:	Robots
+Tag:	Alternate Universe
+Tag:	Cannibalism
+Tag:	Isekai
+Tag:	Yandere
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Cyborg
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Guns
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Female Harem
+Tag:	Chimera
+Tag:	Disability
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Tokusatsu
+Tag:	Anti-Hero
 Related:	101808
 Related:	101809
 Related:	39989

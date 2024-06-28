@@ -1,17 +1,17 @@
 ID:	107625
-Title:	Words Bubble Up Like Soda Pop
-Title:	Cider no You ni Kotoba ga Wakiagaru
 Title:	サイダーのように言葉が湧き上がる
-Tag:	Primarily Teen Cast
-Tag:	Calligraphy
-Tag:	CGI
-Tag:	Delinquents
-Tag:	Female Protagonist
-Tag:	Rural
+Title:	Cider no You ni Kotoba ga Wakiagaru
+Title:	Words Bubble Up Like Soda Pop
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Heterosexual
+Tag:	Rural
+Tag:	Calligraphy
 Tag:	Philosophy
 Tag:	Classic Literature
-Tag:	Heterosexual
 Tag:	Coming of Age
+Tag:	Delinquents
 Related:	117235
 Related:	40804

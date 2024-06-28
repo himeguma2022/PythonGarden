@@ -1,20 +1,20 @@
 ID:	21187
-Title:	Young Black Jack
 Title:	ヤング ブラック・ジャック
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Medicine
+Title:	Young Black Jack
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Survival
-Tag:	College
-Tag:	War
-Tag:	Politics
-Tag:	Gore
 Tag:	Seinen
 Tag:	Disability
+Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	War
+Tag:	College
+Tag:	Politics
 Tag:	Foreign
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Historical
+Tag:	Episodic
+Tag:	Medicine
 Related:	26752
 Related:	101347
 Related:	2213

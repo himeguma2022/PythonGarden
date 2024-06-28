@@ -2,13 +2,13 @@ ID:	6380
 Title:	Birdy the Mighty Decode: The Cipher
 Title:	鉄腕バーディー DECODE -THE CIPHER-
 Title:	Tetsuwan Birdy DECODE: THE CIPHER
-Tag:	Aliens
-Tag:	Female Protagonist
-Tag:	Tokusatsu
 Tag:	Seinen
-Tag:	Henshin
+Tag:	Female Protagonist
 Tag:	Body Swapping
+Tag:	Aliens
+Tag:	Tokusatsu
 Tag:	Idol
+Tag:	Henshin
 Related:	5074
 Related:	5661
 Related:	3974

@@ -1,17 +1,17 @@
 ID:	21406
-Title:	Amanchu!
 Title:	あまんちゅ！
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Scuba Diving
+Title:	Amanchu!
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Coastal
+Tag:	Scuba Diving
 Tag:	Female Protagonist
+Tag:	Iyashikei
+Tag:	School Club
 Tag:	School
 Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
-Tag:	School Club
+Tag:	Coastal
 Related:	21505
 Related:	41061
 Related:	98536

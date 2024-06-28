@@ -1,36 +1,36 @@
 ID:	17074
 Title:	Monogatari Series Second Season
-Title:	Monogatari Series: Second Season
 Title:	〈物語〉シリーズ セカンドシーズン
-Tag:	Tragedy
-Tag:	Love Triangle
+Title:	Monogatari Series: Second Season
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Zombie
+Tag:	Youkai
+Tag:	Yandere
 Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Achronological Order
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Ghost
+Tag:	Tragedy
 Tag:	Dissociative Identities
 Tag:	Gods
-Tag:	Denpa
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Youkai
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Zombie
-Tag:	Vampire
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Tomboy
-Tag:	Achronological Order
-Tag:	Philosophy
 Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Alternate Universe
+Tag:	Philosophy
 Related:	8387
 Related:	8388
 Related:	11045

@@ -2,31 +2,31 @@ ID:	131518
 Title:	Dr. STONE: NEW WORLD
 Title:	Dr. STONE New World
 Title:	Dr.STONE NEW WORLD
-Tag:	Aliens
 Tag:	Spearplay
-Tag:	Post-Apocalyptic
-Tag:	Butler
-Tag:	Crossdressing
-Tag:	Asexual
-Tag:	Conspiracy
-Tag:	Swimming
-Tag:	Educational
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Food
 Tag:	Travel
-Tag:	Agriculture
-Tag:	Survival
+Tag:	Food
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Conspiracy
 Tag:	Primarily Male Cast
-Tag:	Espionage
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Aliens
+Tag:	Survival
 Tag:	War
-Tag:	Ships
-Tag:	Chibi
-Tag:	Found Family
 Tag:	CGI
+Tag:	Chibi
+Tag:	Ships
+Tag:	Shounen
+Tag:	Espionage
 Tag:	Amnesia
+Tag:	Asexual
+Tag:	Found Family
+Tag:	Butler
+Tag:	Educational
+Tag:	Swimming
 Related:	66532
 Related:	84942
 Related:	162670

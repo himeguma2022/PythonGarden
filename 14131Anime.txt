@@ -1,20 +1,20 @@
 ID:	14131
 Title:	Girls und Panzer
 Title:	ガールズ&パンツァー
-Tag:	Historical
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Volleyball
+Tag:	Primarily Teen Cast
 Tag:	Parody
-Tag:	Tanks
+Tag:	Female Protagonist
 Tag:	Military
 Tag:	Ships
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Tanks
+Tag:	Volleyball
+Tag:	Historical
+Tag:	Primarily Female Cast
 Related:	85763
 Related:	26759
 Related:	7944

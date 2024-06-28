@@ -1,11 +1,11 @@
 ID:	20989
-Title:	Wake Up, Girls! Seishun no Kage
 Title:	Wake Up, Girls！ 青春の影
+Title:	Wake Up, Girls! Seishun no Kage
 Title:	"Wake Up, Girls! Seishun no Kage"
-Tag:	Dancing
-Tag:	Primarily Female Cast
 Tag:	Musical Theater
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Dancing
 Related:	10081
 Related:	21107
 Related:	9862

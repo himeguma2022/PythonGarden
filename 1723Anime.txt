@@ -2,12 +2,12 @@ ID:	1723
 Title:	Clannad: The Motion Picture
 Title:	劇場版 クラナド
 Title:	Clannad Movie
-Tag:	Tragedy
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Kuudere
-Tag:	Acting
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Acting
+Tag:	Kuudere
+Tag:	Tragedy
+Tag:	School
 Related:	2759
 Related:	4181
 Related:	2758

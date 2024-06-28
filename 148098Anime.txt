@@ -2,17 +2,17 @@ ID:	148098
 Title:	A Galaxy Next Door
 Title:	おとなりに銀河
 Title:	Otonari ni Ginga
-Tag:	Iyashikei
-Tag:	Drawing
-Tag:	Aliens
-Tag:	Estranged Family
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Male Protagonist
-Tag:	Marriage
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Female Protagonist
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Iyashikei
+Tag:	Aliens
+Tag:	Marriage
+Tag:	Estranged Family
 Related:	72025
 Related:	116411

@@ -1,15 +1,15 @@
 ID:	187
+Title:	頭文字〈イニシャル〉D THIRD STAGE
 Title:	Initial D THIRD STAGE
 Title:	Initial D 3rd Stage
-Title:	頭文字〈イニシャル〉D THIRD STAGE
-Tag:	Seinen
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	CGI
+Tag:	Seinen
 Tag:	Cars
 Tag:	Heterosexual
-Tag:	Rural
 Tag:	Snowscape
+Tag:	Primarily Male Cast
+Tag:	Rural
 Related:	30375
 Related:	458
 Related:	459

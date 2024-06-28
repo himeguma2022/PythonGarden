@@ -1,11 +1,11 @@
 ID:	155089
-Title:	Ars no Kyojuu
-Title:	GIANT BEASTS OF ARS
 Title:	アルスの巨獣
-Tag:	Kemonomimi
+Title:	GIANT BEASTS OF ARS
+Title:	Ars no Kyojuu
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Politics
-Tag:	Fugitive
+Tag:	Kemonomimi
 Tag:	Magic
+Tag:	Politics
 Tag:	Kaiju
+Tag:	Fugitive

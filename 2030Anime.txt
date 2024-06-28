@@ -1,18 +1,18 @@
 ID:	2030
+Title:	エル・カザド
 Title:	El Cazador
 Title:	El Cazador de la Bruja
-Title:	エル・カザド
-Tag:	Guns
-Tag:	Yuri
-Tag:	Witch
-Tag:	Reincarnation
 Tag:	Super Power
 Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Bisexual
+Tag:	Travel
+Tag:	Primarily Adult Cast
 Tag:	Episodic
 Tag:	Fugitive
-Tag:	Travel
-Tag:	Bisexual
-Tag:	Primarily Adult Cast
 Tag:	Foreign
+Tag:	Reincarnation
+Tag:	Witch
+Tag:	Guns
 Related:	63881
 Related:	33716

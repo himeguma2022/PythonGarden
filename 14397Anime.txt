@@ -1,19 +1,19 @@
 ID:	14397
 Title:	ちはやふる 2
 Title:	Chihayafuru 2
-Tag:	Tomboy
-Tag:	Josei
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
 Tag:	CGI
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Karuta
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Athletics
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Josei
+Tag:	Ensemble Cast
+Tag:	Karuta
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Love Triangle
+Tag:	Coming of Age
 Related:	7978
 Related:	7979
 Related:	7980

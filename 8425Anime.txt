@@ -1,30 +1,30 @@
 ID:	8425
 Title:	GOSICK
 Title:	Gosick
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Trains
-Tag:	Tsundere
-Tag:	Royal Affairs
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Foreign
-Tag:	Guns
-Tag:	School
-Tag:	War
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	Tomboy
 Tag:	Alchemy
-Tag:	Detective
-Tag:	Rape
 Tag:	Military
+Tag:	Rape
+Tag:	Foreign
+Tag:	Trains
+Tag:	Conspiracy
+Tag:	School
+Tag:	Royal Affairs
+Tag:	Bullying
+Tag:	Detective
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	War
+Tag:	Guns
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Love Triangle
+Tag:	Historical
+Tag:	Crime
+Tag:	Tsundere
+Tag:	Tragedy
+Tag:	Tomboy
 Related:	36248
 Related:	31313
 Related:	6381

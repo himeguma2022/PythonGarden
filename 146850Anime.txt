@@ -1,37 +1,37 @@
 ID:	146850
 Title:	Farming Life in Another World
-Title:	Isekai Nonbiri Nouka
 Title:	異世界のんびり農家
+Title:	Isekai Nonbiri Nouka
+Tag:	Demons
+Tag:	Food
+Tag:	Iyashikei
+Tag:	Maids
+Tag:	Reincarnation
 Tag:	Isekai
-Tag:	Mahjong
+Tag:	Dragons
 Tag:	Shogi
-Tag:	Angels
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
 Tag:	Pregnant
-Tag:	Gods
+Tag:	Kemonomimi
+Tag:	Chibi
+Tag:	Feet
+Tag:	Kingdom Management
+Tag:	Horticulture
+Tag:	Female Harem
 Tag:	Elf
 Tag:	Tsundere
-Tag:	Horticulture
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Food
-Tag:	Polyamorous
-Tag:	Monster Girl
-Tag:	Agriculture
-Tag:	Iyashikei
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Female Harem
-Tag:	Vampire
 Tag:	Magic
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Kingdom Management
 Tag:	Found Family
-Tag:	Feet
+Tag:	Angels
+Tag:	Mahjong
+Tag:	Gods
 Tag:	Monster Boy
-Tag:	Maids
-Tag:	Demons
-Tag:	Dragons
+Tag:	Polyamorous
 Related:	100456
 Related:	100461
 Related:	71021

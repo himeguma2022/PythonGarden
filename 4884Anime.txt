@@ -1,17 +1,17 @@
 ID:	4884
-Title:	テイルズ オブ ジ アビス
 Title:	Tales of the Abyss
-Tag:	Tragedy
-Tag:	Clone
+Title:	テイルズ オブ ジ アビス
+Tag:	Time Skip
 Tag:	CGI
+Tag:	Clone
 Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Cult
-Tag:	Time Skip
-Tag:	Magic
 Tag:	Amnesia
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Cult
+Tag:	War
 Tag:	Aviation
 Related:	5030
 Related:	5031

@@ -1,34 +1,34 @@
 ID:	21685
-Title:	エロマンガ先生
-Title:	Eromanga Sensei
 Title:	Eromanga-sensei
-Tag:	Love Triangle
-Tag:	Unrequited Love
-Tag:	Tsundere
+Title:	Eromanga Sensei
+Title:	エロマンガ先生
+Tag:	Writing
 Tag:	Primarily Child Cast
-Tag:	Crossover
-Tag:	Primarily Teen Cast
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Parody
+Tag:	Otaku Culture
 Tag:	Video Games
-Tag:	Meta
-Tag:	Drawing
-Tag:	Inseki
-Tag:	Female Harem
-Tag:	Nudity
+Tag:	Male Protagonist
+Tag:	Unrequited Love
 Tag:	Heterosexual
+Tag:	Meta
+Tag:	Primarily Female Cast
+Tag:	Work
+Tag:	Parody
+Tag:	Female Protagonist
 Tag:	Hikikomori
 Tag:	Feet
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Inseki
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Crossover
+Tag:	Tsundere
+Tag:	Drawing
 Tag:	Philosophy
-Tag:	Otaku Culture
-Tag:	Work
-Tag:	Writing
 Related:	8769
 Related:	20458
 Related:	100523
-Related:	80635
+Related:	85471
 Related:	11757
 Related:	85166
 Related:	46095
@@ -38,4 +38,4 @@ Related:	42167
 Related:	80633
 Related:	11067
 Related:	46109
-Related:	85471
+Related:	80635

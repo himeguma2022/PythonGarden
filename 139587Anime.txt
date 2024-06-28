@@ -2,22 +2,22 @@ ID:	139587
 Title:	Tensei Shitara Ken Deshita
 Title:	転生したら剣でした
 Title:	Reincarnated as a Sword
-Tag:	Slavery
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Dungeon
-Tag:	Isekai
 Tag:	Swordplay
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Orphan
-Tag:	Food
-Tag:	Nekomimi
-Tag:	Goblin
-Tag:	Gore
-Tag:	Magic
 Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Goblin
+Tag:	Food
+Tag:	Gore
+Tag:	Slavery
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
 Tag:	Found Family
+Tag:	Reincarnation
+Tag:	Dungeon
+Tag:	Orphan
+Tag:	Isekai
+Tag:	Nekomimi
 Related:	63521
 Related:	63522
 Related:	159042

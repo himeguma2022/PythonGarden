@@ -1,17 +1,17 @@
 ID:	491
-Title:	それゆけ!外道乙女隊
 Title:	Akahori Gedou Hour Rabuge
+Title:	それゆけ!外道乙女隊
+Tag:	Real Robot
+Tag:	Seinen
+Tag:	Parody
+Tag:	Episodic
+Tag:	Magic
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Tokusatsu
 Tag:	Witch
 Tag:	Primarily Female Cast
 Tag:	Slapstick
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Tokusatsu
-Tag:	Parody
-Tag:	Real Robot
-Tag:	Seinen
 Tag:	Henshin
-Tag:	Magic
-Tag:	Meta
 Related:	293
 Related:	97943

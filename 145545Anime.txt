@@ -1,31 +1,31 @@
 ID:	145545
 Title:	Classroom of the Elite Season 2
-Title:	ようこそ実力至上主義の教室へ 2nd Season
 Title:	Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season
-Tag:	Love Triangle
-Tag:	Martial Arts
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Tsundere
-Tag:	Asexual
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
+Title:	ようこそ実力至上主義の教室へ 2nd Season
+Tag:	Rotoscoping
 Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	School
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	School Club
+Tag:	Delinquents
+Tag:	Kuudere
+Tag:	Athletics
+Tag:	Battle Royale
+Tag:	Love Triangle
+Tag:	Fugitive
 Tag:	Torture
 Tag:	Seinen
-Tag:	Delinquents
-Tag:	Athletics
-Tag:	School
-Tag:	Coming of Age
-Tag:	School Club
+Tag:	Primarily Teen Cast
+Tag:	Martial Arts
+Tag:	Tsundere
 Tag:	Revenge
-Tag:	Battle Royale
-Tag:	Rotoscoping
-Tag:	Philosophy
+Tag:	Asexual
 Tag:	Anti-Hero
-Tag:	Yandere
+Tag:	Philosophy
 Related:	98659
 Related:	70120
 Related:	146066

@@ -1,15 +1,15 @@
 ID:	117765
 Title:	BanG Dream! ぽっぴん'どりーむ!
 Title:	BanG Dream! Poppin' Dream!
-Tag:	Language Barrier
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
 Tag:	Female Protagonist
 Tag:	Travel
-Tag:	Rock Music
+Tag:	Language Barrier
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
 Tag:	Foreign
+Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
 Related:	101634
 Related:	163571
 Related:	89388

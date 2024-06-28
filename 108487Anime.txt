@@ -1,17 +1,17 @@
 ID:	108487
-Title:	Fragtime
 Title:	フラグタイム
-Tag:	Yuri
-Tag:	Bullying
-Tag:	Primarily Female Cast
+Title:	Fragtime
 Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	LGBTQ+ Themes
+Tag:	Female Protagonist
+Tag:	Yuri
+Tag:	Primarily Teen Cast
 Tag:	Time Manipulation
 Tag:	Rehabilitation
+Tag:	School
+Tag:	Bullying
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	85402
 Related:	31311

@@ -1,46 +1,46 @@
 ID:	530
 Title:	Sailor Moon
-Title:	美少女戦士セーラームーン
 Title:	Bishoujo Senshi Sailor Moon
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Boys' Love
-Tag:	Aliens
-Tag:	Space
-Tag:	Tokusatsu
-Tag:	Shrine Maiden
-Tag:	Unrequited Love
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
+Title:	美少女戦士セーラームーン
 Tag:	Fairy Tale
-Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Suicide
-Tag:	Monster Girl
-Tag:	Time Manipulation
-Tag:	Reincarnation
+Tag:	Lost Civilization
+Tag:	Demons
+Tag:	Space
+Tag:	Ensemble Cast
 Tag:	Mythology
-Tag:	Shoujo
+Tag:	Reincarnation
 Tag:	School
-Tag:	Urban Fantasy
+Tag:	Monster Girl
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Shrine Maiden
+Tag:	Super Power
+Tag:	Space Opera
+Tag:	Superhero
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Shoujo
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	War
 Tag:	Age Gap
-Tag:	Space Opera
-Tag:	Animals
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	LGBTQ+ Themes
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
 Tag:	Makeup
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Superhero
+Tag:	Boys' Love
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Amnesia
-Tag:	Demons
+Tag:	Animals
+Tag:	Magic
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	1121
 Related:	740
 Related:	30092

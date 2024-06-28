@@ -1,9 +1,9 @@
 ID:	98978
-Title:	Yami Shibai 5
-Title:	闇芝居 5
 Title:	Theatre of Darkness: Yamishibai 5
-Tag:	Episodic
+Title:	闇芝居 5
+Title:	Yami Shibai 5
 Tag:	Ghost
+Tag:	Episodic
 Tag:	Anthology
 Related:	19225
 Related:	97890

@@ -1,22 +1,22 @@
 ID:	98035
 Title:	Fate/Apocrypha
-Tag:	Tomboy
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Archery
-Tag:	Battle Royale
-Tag:	Bondage
+Tag:	Femboy
 Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	Femdom
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Vampire
 Tag:	Gender Bending
-Tag:	Femboy
+Tag:	Vampire
 Tag:	Magic
-Tag:	Death Game
+Tag:	Femdom
+Tag:	Archery
+Tag:	Battle Royale
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	Bondage
+Tag:	Ensemble Cast
+Tag:	Tomboy
 Tag:	Foreign
+Tag:	Death Game
+Tag:	War
 Related:	356
 Related:	6922
 Related:	49714

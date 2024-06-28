@@ -1,18 +1,18 @@
 ID:	132532
 Title:	であいもん
-Title:	Deaimon: Recipe for Happiness
 Title:	Deaimon
-Tag:	Iyashikei
-Tag:	Love Triangle
+Title:	Deaimon: Recipe for Happiness
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Food
-Tag:	Crossdressing
-Tag:	Tsundere
 Tag:	Seinen
 Tag:	Work
+Tag:	Food
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Tsundere
+Tag:	Iyashikei
 Tag:	Found Family
+Tag:	Crossdressing
+Tag:	Love Triangle
+Tag:	Episodic
 Related:	105142
 Related:	55927

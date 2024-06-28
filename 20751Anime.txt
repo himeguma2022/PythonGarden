@@ -1,21 +1,21 @@
 ID:	20751
-Title:	蟲師 続章 2
 Title:	MUSHI-SHI The Next Passage 2
 Title:	Mushishi Zoku Shou 2
-Tag:	Historical
-Tag:	Mythology
+Title:	蟲師 続章 2
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Rural
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Denpa
-Tag:	Travel
-Tag:	Youkai
-Tag:	Philosophy
 Tag:	Seinen
-Tag:	Time Manipulation
+Tag:	Urban Fantasy
 Tag:	Demons
+Tag:	Travel
+Tag:	Environmental
+Tag:	Time Manipulation
+Tag:	Mythology
+Tag:	Youkai
+Tag:	Historical
+Tag:	Episodic
+Tag:	Denpa
+Tag:	Philosophy
+Tag:	Rural
 Related:	9378
 Related:	9381
 Related:	20752

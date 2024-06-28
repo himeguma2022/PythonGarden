@@ -1,14 +1,14 @@
 ID:	19291
-Title:	Pocket Monsters XY
 Title:	Pokémon the Series: XY
 Title:	ポケットモンスターXY
+Title:	Pocket Monsters XY
 Tag:	Kids
-Tag:	Primarily Child Cast
 Tag:	Super Robot
-Tag:	Slapstick
-Tag:	Female Harem
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Female Harem
 Tag:	Yandere
+Tag:	Slapstick
 Tag:	Outdoor
 Related:	83726
 Related:	105616

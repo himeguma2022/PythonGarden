@@ -1,20 +1,20 @@
 ID:	6772
 Title:	ブレイク ブレイド 覚醒ノ刻
-Title:	Broken Blade
 Title:	Break Blade 1: Kakusei no Toki
-Tag:	Guns
+Title:	Broken Blade
+Tag:	Male Protagonist
 Tag:	CGI
-Tag:	Shounen
+Tag:	Real Robot
 Tag:	Swordplay
 Tag:	Lost Civilization
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Real Robot
+Tag:	Primarily Adult Cast
 Tag:	Military
 Tag:	Magic
-Tag:	Primarily Adult Cast
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
+Tag:	Shounen
+Tag:	War
+Tag:	Guns
 Related:	8514
 Related:	5827
 Related:	5828

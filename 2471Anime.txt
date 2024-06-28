@@ -1,15 +1,15 @@
 ID:	2471
-Title:	Doraemon (1979)
 Title:	ドラえもん
+Title:	Doraemon (1979)
 Title:	Doraemon
 Tag:	Kids
-Tag:	Bullying
 Tag:	Primarily Child Cast
-Tag:	Baseball
-Tag:	Episodic
-Tag:	School
 Tag:	Robots
+Tag:	Baseball
 Tag:	Time Manipulation
+Tag:	School
+Tag:	Episodic
+Tag:	Bullying
 Related:	3584
 Related:	3585
 Related:	3586

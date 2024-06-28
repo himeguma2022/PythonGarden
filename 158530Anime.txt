@@ -1,20 +1,20 @@
 ID:	158530
+Title:	AIの遺電子
 Title:	AI no Idenshi
 Title:	The Gene of AI
-Title:	AIの遺電子
-Tag:	Transgender
-Tag:	Shounen
-Tag:	Urban
-Tag:	Adoption
-Tag:	Medicine
-Tag:	Episodic
-Tag:	Artificial Intelligence
-Tag:	Cyberpunk
 Tag:	Anthropomorphism
-Tag:	Cyborg
-Tag:	Philosophy
-Tag:	Agender
-Tag:	Memory Manipulation
+Tag:	Shounen
+Tag:	Adoption
 Tag:	Primarily Adult Cast
+Tag:	Transgender
+Tag:	Cyborg
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Memory Manipulation
+Tag:	Agender
+Tag:	Episodic
+Tag:	Cyberpunk
+Tag:	Philosophy
+Tag:	Medicine
 Related:	81825
 Related:	109527

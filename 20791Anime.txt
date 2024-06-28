@@ -1,37 +1,37 @@
 ID:	20791
 Title:	Fate/stay night[Heaven's Feel] Ⅰ.presage flower
 Title:	Fate/stay night [Heaven's Feel] I. presage flower
-Tag:	Super Power
 Tag:	Spearplay
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Religion
-Tag:	Witch
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Food
-Tag:	Cosmic Horror
-Tag:	Mythology
-Tag:	Orphan
-Tag:	Swordplay
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Necromancy
-Tag:	Zombie
-Tag:	War
-Tag:	Assassins
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Found Family
-Tag:	School Club
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Superhero
 Tag:	Demons
 Tag:	Adoption
+Tag:	Food
+Tag:	Zombie
+Tag:	Mythology
+Tag:	School
+Tag:	Orphan
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Witch
+Tag:	War
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Cosmic Horror
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Battle Royale
+Tag:	Necromancy
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Found Family
+Tag:	Urban
 Related:	9472
 Related:	91912
 Related:	6922

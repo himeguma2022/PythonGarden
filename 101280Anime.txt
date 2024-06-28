@@ -1,39 +1,39 @@
 ID:	101280
 Title:	転生したらスライムだった件
-Title:	Tensei shitara Slime Datta Ken
 Title:	Tensei Shitara Slime Datta Ken
+Title:	Tensei shitara Slime Datta Ken
 Title:	That Time I Got Reincarnated as a Slime
-Tag:	Super Power
 Tag:	Clone
-Tag:	Isekai
-Tag:	Elf
-Tag:	Cannibalism
-Tag:	Gore
-Tag:	Alternate Universe
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Politics
-Tag:	Travel
-Tag:	Fairy
-Tag:	Monster Girl
-Tag:	Reincarnation
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Acting
-Tag:	Henshin
-Tag:	Magic
-Tag:	Kingdom Management
-Tag:	Found Family
-Tag:	CGI
-Tag:	Monster Boy
-Tag:	Shapeshifting
-Tag:	Goblin
-Tag:	Agender
 Tag:	Demons
+Tag:	Travel
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Reincarnation
+Tag:	Cannibalism
+Tag:	Agender
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Shapeshifting
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Gore
+Tag:	Kingdom Management
+Tag:	Fairy
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Acting
+Tag:	Elf
+Tag:	Economics
+Tag:	Gender Bending
+Tag:	Goblin
+Tag:	Magic
+Tag:	Found Family
+Tag:	Monster Boy
 Related:	116741
 Related:	67082
 Related:	161802

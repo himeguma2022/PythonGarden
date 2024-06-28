@@ -1,26 +1,26 @@
 ID:	114124
+Title:	Moriarty the Patriot
 Title:	憂国のモリアーティ
 Title:	Yuukoku no Moriarty
-Title:	Moriarty the Patriot
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Gore
-Tag:	Class Struggle
-Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
 Tag:	Politics
 Tag:	Foreign
-Tag:	Guns
+Tag:	Conspiracy
 Tag:	Primarily Male Cast
-Tag:	Mafia
-Tag:	Ships
-Tag:	Revenge
 Tag:	Detective
+Tag:	Male Protagonist
+Tag:	Episodic
+Tag:	Guns
+Tag:	Class Struggle
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Historical
+Tag:	Boys' Love
+Tag:	Shounen
+Tag:	Mafia
+Tag:	Crime
+Tag:	Revenge
+Tag:	Tragedy
 Tag:	Anti-Hero
 Related:	98544
 Related:	37505

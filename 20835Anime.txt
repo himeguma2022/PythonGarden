@@ -1,12 +1,12 @@
 ID:	20835
-Title:	"ONE PIECE ""3D2Y"": Ace no shi wo Koete! Luffy Nakama to no Chikai"
-Title:	One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends
-Title:	ONE PIECE "3D2Y": Ace no shi wo Koete! Luffy Nakama to no Chikai
 Title:	ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い
-Tag:	Super Power
-Tag:	Shounen
+Title:	ONE PIECE "3D2Y": Ace no shi wo Koete! Luffy Nakama to no Chikai
+Title:	One Piece 3D2Y: Overcome Ace’s Death! Luffy’s Vow to his Friends
+Title:	"ONE PIECE ""3D2Y"": Ace no shi wo Koete! Luffy Nakama to no Chikai"
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Pirates
 Tag:	Anachronism
+Tag:	Shounen
 Related:	21
 Related:	9583

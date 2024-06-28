@@ -1,16 +1,16 @@
 ID:	940
-Title:	Inukami!
 Title:	いぬかみっ!
-Tag:	Mythology
-Tag:	Super Power
-Tag:	Slapstick
+Title:	Inukami!
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Magic
+Tag:	Shapeshifting
+Tag:	Otaku Culture
+Tag:	Crossdressing
+Tag:	Mythology
 Tag:	Female Harem
 Tag:	Youkai
-Tag:	Shapeshifting
-Tag:	Crossdressing
-Tag:	Magic
-Tag:	Otaku Culture
+Tag:	Slapstick
 Related:	1666
 Related:	1667
 Related:	6628

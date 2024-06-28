@@ -1,8 +1,8 @@
 ID:	145893
 Title:	Oz.
-Tag:	Male Protagonist
-Tag:	Tragedy
 Tag:	Travel
+Tag:	Tragedy
+Tag:	Male Protagonist
 Tag:	Rural
 Related:	113717
 Related:	69903

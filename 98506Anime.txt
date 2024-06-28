@@ -1,25 +1,25 @@
 ID:	98506
-Title:	このはな綺譚
 Title:	KONOHANA KITAN
+Title:	このはな綺譚
 Title:	Konohana Kitan
-Tag:	Iyashikei
-Tag:	Yuri
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
 Tag:	Inn
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Gods
-Tag:	Afterlife
-Tag:	Youkai
-Tag:	Crossdressing
-Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Seinen
+Tag:	Yuri
+Tag:	Kemonomimi
+Tag:	Female Protagonist
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	Time Manipulation
+Tag:	Crossdressing
+Tag:	Mythology
+Tag:	Gods
+Tag:	Youkai
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
+Tag:	Afterlife
 Related:	72912
 Related:	96105
 Related:	18642

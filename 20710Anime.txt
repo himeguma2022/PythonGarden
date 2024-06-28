@@ -1,16 +1,16 @@
 ID:	20710
+Title:	Denki-Gai no Honya-san
 Title:	デンキ街の本屋さん
 Title:	DENKI-GAI
-Title:	Denki-Gai no Honya-san
-Tag:	Drawing
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Otaku Culture
-Tag:	Ensemble Cast
-Tag:	Zombie
-Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Seinen
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Urban
+Tag:	Zombie
+Tag:	Love Triangle
 Related:	9281
 Related:	72289

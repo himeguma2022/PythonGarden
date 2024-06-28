@@ -1,22 +1,22 @@
 ID:	20954
-Title:	聲の形
 Title:	A Silent Voice
 Title:	Koe no Katachi
-Tag:	Language Barrier
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Disability
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Urban
+Title:	聲の形
+Tag:	Time Skip
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
+Tag:	Disability
+Tag:	Heterosexual
+Tag:	Language Barrier
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Rehabilitation
 Tag:	School
 Tag:	Denpa
-Tag:	Rehabilitation
+Tag:	Bullying
+Tag:	Shounen
 Tag:	Suicide
-Tag:	Time Skip
-Tag:	Heterosexual
 Tag:	Coming of Age
 Related:	25770
 Related:	29731

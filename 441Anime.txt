@@ -1,26 +1,26 @@
 ID:	441
-Title:	Revolutionary Girl Utena: The Adolescence of Utena
 Title:	Shoujo Kakumei Utena: Adolescence Mokushiroku
 Title:	少女革命ウテナ アドゥレセンス黙示録
-Tag:	Kuudere
-Tag:	Cars
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
+Title:	Revolutionary Girl Utena: The Adolescence of Utena
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	Boarding School
-Tag:	School
-Tag:	Nudity
-Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Tomboy
+Tag:	Yuri
 Tag:	Rape
-Tag:	Philosophy
+Tag:	School
+Tag:	Coming of Age
 Tag:	Bisexual
+Tag:	Cars
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Boarding School
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Magic
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	952
 Related:	30931
 Related:	26272

@@ -1,8 +1,8 @@
 ID:	110693
-Title:	Poputepipikku Kinen
 Title:	ポプテピ記念
-Tag:	Female Protagonist
+Title:	Poputepipikku Kinen
 Tag:	Surreal Comedy
+Tag:	Female Protagonist
 Tag:	Advertisement
 Related:	98549
 Related:	33925

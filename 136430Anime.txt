@@ -1,35 +1,35 @@
 ID:	136430
-Title:	Vinland Saga Season 2
 Title:	VINLAND SAGA SEASON 2
+Title:	Vinland Saga Season 2
 Title:	ヴィンランド・サガ SEASON2
-Tag:	Slavery
-Tag:	Historical
-Tag:	Tragedy
+Tag:	Lost Civilization
+Tag:	Rotoscoping
+Tag:	Travel
+Tag:	Politics
+Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Mythology
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Agriculture
+Tag:	Heterosexual
+Tag:	Vikings
+Tag:	War
+Tag:	Swordplay
 Tag:	Pregnant
 Tag:	Gore
-Tag:	Religion
 Tag:	Primarily Adult Cast
-Tag:	Wrestling
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Politics
-Tag:	Travel
+Tag:	Historical
 Tag:	Seinen
-Tag:	Foreign
-Tag:	Agriculture
-Tag:	Mythology
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Coming of Age
-Tag:	Rotoscoping
-Tag:	Vikings
-Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Yandere
+Tag:	Wrestling
+Tag:	Slavery
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Philosophy
+Tag:	Rural
 Related:	165056
 Related:	161923
 Related:	101348

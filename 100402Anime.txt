@@ -1,19 +1,19 @@
 ID:	100402
-Title:	ツルネ ―風舞高校弓道部―
 Title:	Tsurune: Kazemai Koukou Kyuudou-bu
 Title:	Tsurune
-Tag:	Archery
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Coming of Age
+Title:	ツルネ ―風舞高校弓道部―
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Martial Arts
-Tag:	School
-Tag:	Primarily Male Cast
 Tag:	Tsundere
 Tag:	Twins
+Tag:	Cute Boys Doing Cute Things
+Tag:	Archery
 Tag:	Rehabilitation
 Tag:	School Club
+Tag:	School
+Tag:	Primarily Male Cast
+Tag:	Coming of Age
 Related:	29376
 Related:	23876
 Related:	77605

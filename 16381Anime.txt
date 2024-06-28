@@ -2,10 +2,10 @@ ID:	16381
 Title:	Santa Company
 Title:	サンタ・カンパニー
 Tag:	Kids
-Tag:	Female Protagonist
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Female Protagonist
 Tag:	Snowscape
+Tag:	Coming of Age
 Related:	129123
 Related:	113124
 Related:	50244

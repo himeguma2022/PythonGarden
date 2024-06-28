@@ -1,29 +1,29 @@
 ID:	107693
-Title:	魔入りました！入間くん
 Title:	Welcome to Demon School! Iruma-kun
+Title:	魔入りました！入間くん
 Title:	Mairimashita! Iruma-kun
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Butler
-Tag:	Crossdressing
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Monster Girl
-Tag:	Succubus
-Tag:	Kemonomimi
-Tag:	School
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Musical Theater
-Tag:	School Club
-Tag:	Found Family
-Tag:	Tomboy
-Tag:	Monster Boy
 Tag:	Demons
 Tag:	Adoption
+Tag:	Crossdressing
+Tag:	School
+Tag:	Isekai
+Tag:	Monster Girl
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Nekomimi
+Tag:	Kemonomimi
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Succubus
+Tag:	Magic
+Tag:	Found Family
+Tag:	Butler
+Tag:	Musical Theater
+Tag:	Tomboy
+Tag:	Monster Boy
 Tag:	Idol
 Related:	29617
 Related:	39786

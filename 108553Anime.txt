@@ -1,20 +1,20 @@
 ID:	108553
-Title:	My Hero Academia: Heroes Rising
-Title:	Boku no Hero Academia THE MOVIE: Heroes:Rising
 Title:	僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング
-Tag:	Cultivation
+Title:	Boku no Hero Academia THE MOVIE: Heroes:Rising
+Title:	My Hero Academia: Heroes Rising
+Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	CGI
-Tag:	Shounen
-Tag:	Terrorism
-Tag:	Alternate Universe
-Tag:	Male Protagonist
-Tag:	Chimera
 Tag:	Superhero
-Tag:	School
+Tag:	Terrorism
+Tag:	Cultivation
+Tag:	Alternate Universe
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Chimera
 Tag:	Anti-Hero
+Tag:	Shounen
 Tag:	Rural
 Related:	49985
 Related:	126661

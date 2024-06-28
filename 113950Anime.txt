@@ -1,25 +1,25 @@
 ID:	113950
 Title:	SSSS.DYNAZENON
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Tokusatsu
-Tag:	Denpa
-Tag:	Kaiju
-Tag:	Bullying
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Rehabilitation
-Tag:	Suicide
-Tag:	Reincarnation
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Hikikomori
-Tag:	CGI
-Tag:	Superhero
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Heterosexual
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Hikikomori
+Tag:	Super Robot
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	Kaiju
 Related:	99424
 Related:	65477
 Related:	155948

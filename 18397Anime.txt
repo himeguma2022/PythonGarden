@@ -1,23 +1,23 @@
 ID:	18397
-Title:	進撃の巨人 OVA
 Title:	Shingeki no Kyojin OVA
+Title:	進撃の巨人 OVA
 Title:	Attack on Titan OVA
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Archery
-Tag:	CGI
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Super Power
 Tag:	Swordplay
-Tag:	Rural
 Tag:	Female Protagonist
+Tag:	Gore
 Tag:	Food
 Tag:	Military
+Tag:	Archery
+Tag:	Tragedy
 Tag:	Steampunk
-Tag:	Gore
-Tag:	Coming of Age
 Tag:	Kaiju
+Tag:	Shounen
+Tag:	Coming of Age
+Tag:	Rural
+Tag:	Guns
 Related:	33840
 Related:	31497
 Related:	16498

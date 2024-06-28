@@ -1,25 +1,25 @@
 ID:	109979
-Title:	The Boy and the Heron
-Title:	君たちはどう生きるか
 Title:	Kimitachi wa Dou Ikiru ka
-Tag:	Historical
-Tag:	Tragedy
+Title:	君たちはどう生きるか
+Title:	The Boy and the Heron
+Tag:	Fairy Tale
+Tag:	Adoption
 Tag:	Archery
 Tag:	Isekai
-Tag:	Anthropomorphism
 Tag:	Bullying
-Tag:	Male Protagonist
-Tag:	Fairy Tale
-Tag:	Time Manipulation
-Tag:	Autobiographical
-Tag:	Age Regression
-Tag:	Urban Fantasy
-Tag:	War
-Tag:	Animals
 Tag:	Coming of Age
-Tag:	Rural
+Tag:	Male Protagonist
 Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	War
+Tag:	Age Regression
+Tag:	Historical
+Tag:	Urban Fantasy
+Tag:	Anthropomorphism
+Tag:	Animals
+Tag:	Autobiographical
+Tag:	Tragedy
 Tag:	Philosophy
-Tag:	Adoption
+Tag:	Rural
 Related:	91817
 Related:	108431

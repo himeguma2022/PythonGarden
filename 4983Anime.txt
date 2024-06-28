@@ -1,23 +1,23 @@
 ID:	4983
-Title:	Hells
 Title:	ヘルズ
-Tag:	Bullying
-Tag:	Witch
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Werewolf
-Tag:	Isekai
-Tag:	Delinquents
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Volleyball
-Tag:	Gods
-Tag:	Afterlife
-Tag:	Zombie
-Tag:	Male Harem
-Tag:	Nudity
-Tag:	Seinen
+Title:	Hells
 Tag:	Religion
+Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Demons
+Tag:	Nudity
+Tag:	Afterlife
+Tag:	Male Harem
+Tag:	Werewolf
+Tag:	Mythology
+Tag:	Zombie
+Tag:	School
+Tag:	Gods
+Tag:	Volleyball
+Tag:	Isekai
+Tag:	Witch
+Tag:	Bullying
+Tag:	Reincarnation
+Tag:	Delinquents
 Related:	31853
 Related:	5070

@@ -1,19 +1,19 @@
 ID:	114087
-Title:	ワールドトリガー 2ndシーズン
 Title:	World Trigger 2nd Season
-Tag:	Guns
-Tag:	Aliens
-Tag:	Battle Royale
+Title:	ワールドトリガー 2ndシーズン
+Tag:	Male Protagonist
+Tag:	Real Robot
 Tag:	Primarily Teen Cast
+Tag:	Swordplay
+Tag:	Augmented Reality
+Tag:	Military
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Battle Royale
+Tag:	Aliens
 Tag:	Isekai
 Tag:	Shounen
-Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Real Robot
-Tag:	Military
-Tag:	Augmented Reality
+Tag:	Guns
 Related:	37479
 Related:	127400
 Related:	37481

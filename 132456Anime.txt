@@ -1,25 +1,25 @@
 ID:	132456
-Title:	ジャヒー様はくじけない！
 Title:	Jahy-sama wa Kujikenai!
+Title:	ジャヒー様はくじけない！
 Title:	The Great Jahy Will Not Be Defeated!
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Tanned Skin
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Wrestling
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Masochism
-Tag:	Monster Girl
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Henshin
-Tag:	Magic
-Tag:	Surreal Comedy
-Tag:	Work
 Tag:	Demons
+Tag:	Surreal Comedy
+Tag:	Isekai
+Tag:	Monster Girl
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Wrestling
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Masochism
+Tag:	Magic
 Related:	55795
 Related:	100207

@@ -1,22 +1,22 @@
 ID:	20725
+Title:	Kuroko's Basketball 3
 Title:	Kuroko no Basket 3rd SEASON
 Title:	黒子のバスケ 3rd SEASON
-Title:	Kuroko's Basketball 3
-Tag:	Tomboy
-Tag:	Tragedy
-Tag:	Basketball
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Shounen
-Tag:	Dissociative Identities
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
 Tag:	Tanned Skin
 Tag:	Disability
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	School Club
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Basketball
+Tag:	Shounen
 Related:	10304
 Related:	21377
 Related:	30921

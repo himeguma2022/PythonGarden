@@ -1,16 +1,16 @@
 ID:	2196
-Title:	Genmu Senki Leda
 Title:	幻夢戦記レダ
 Title:	Leda: The Fantastic Adventure of Yohko
-Tag:	Henshin
-Tag:	Primarily Female Cast
-Tag:	Super Robot
-Tag:	Isekai
-Tag:	Swordplay
-Tag:	Lost Civilization
-Tag:	Female Protagonist
+Title:	Genmu Senki Leda
 Tag:	Real Robot
+Tag:	Lost Civilization
+Tag:	Swordplay
+Tag:	Female Protagonist
 Tag:	Anthropomorphism
+Tag:	Super Robot
+Tag:	Magic
 Tag:	Animals
 Tag:	Memory Manipulation
-Tag:	Magic
+Tag:	Isekai
+Tag:	Primarily Female Cast
+Tag:	Henshin

@@ -1,21 +1,21 @@
 ID:	17549
 Title:	のんのんびより
 Title:	Non Non Biyori
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
+Tag:	Seinen
 Tag:	Female Protagonist
-Tag:	Rural
-Tag:	Episodic
+Tag:	Agriculture
+Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Kuudere
+Tag:	Tomboy
+Tag:	Episodic
 Tag:	Achronological Order
-Tag:	Seinen
+Tag:	Primarily Female Cast
+Tag:	Rural
 Tag:	Coming of Age
-Tag:	Agriculture
 Related:	47552
 Related:	31016
 Related:	31017

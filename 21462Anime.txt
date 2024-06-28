@@ -1,35 +1,35 @@
 ID:	21462
-Title:	Bishoujo Senshi Sailor Moon: Crystal - Death Busters-hen
-Title:	美少女戦士セーラームーン Crystal「デス・バスターズ編」
 Title:	Sailor Moon Crystal Season 3
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Space
-Tag:	Tokusatsu
-Tag:	Yuri
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
+Title:	美少女戦士セーラームーン Crystal「デス・バスターズ編」
+Title:	Bishoujo Senshi Sailor Moon: Crystal - Death Busters-hen
 Tag:	Fairy Tale
 Tag:	Body Horror
-Tag:	Cyborg
-Tag:	Cosmic Horror
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Philosophy
-Tag:	Amnesia
-Tag:	Bisexual
 Tag:	Demons
+Tag:	Yuri
 Tag:	Adoption
+Tag:	Space
+Tag:	Mythology
+Tag:	Reincarnation
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Cyborg
+Tag:	Aliens
+Tag:	Shoujo
+Tag:	Primarily Female Cast
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Amnesia
+Tag:	Magic
+Tag:	Found Family
+Tag:	Tokusatsu
+Tag:	Dissociative Identities
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	10720
 Related:	103713
 Related:	30092

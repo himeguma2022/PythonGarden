@@ -1,27 +1,27 @@
 ID:	142598
+Title:	Reign of the Seven Spellblades
 Title:	Nanatsu no Maken ga Shihai Suru
 Title:	七つの魔剣が支配する
-Title:	Reign of the Seven Spellblades
-Tag:	Tragedy
-Tag:	Elf
-Tag:	Gore
-Tag:	Asexual
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Gender Bending
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Animals
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Revenge
 Tag:	Alchemy
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Swordplay
 Tag:	Anti-Hero
+Tag:	Gore
+Tag:	Female Harem
+Tag:	Torture
+Tag:	Primarily Teen Cast
+Tag:	Elf
+Tag:	Gender Bending
+Tag:	Revenge
+Tag:	Animals
+Tag:	Asexual
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	LGBTQ+ Themes
 Related:	66167
 Related:	169322
 Related:	107135

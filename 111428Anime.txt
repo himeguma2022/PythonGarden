@@ -1,31 +1,31 @@
 ID:	111428
+Title:	魔王城でおやすみ
 Title:	Sleepy Princess in the Demon Castle
 Title:	Maou-jou de Oyasumi
-Title:	魔王城でおやすみ
+Tag:	Fairy Tale
+Tag:	Demons
+Tag:	Iyashikei
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Ojou-sama
+Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Cute Girls Doing Cute Things
+Tag:	Villainess
+Tag:	Episodic
 Tag:	Slapstick
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Primarily Adult Cast
-Tag:	Prison
-Tag:	Cute Girls Doing Cute Things
 Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Fairy Tale
-Tag:	Parody
-Tag:	Villainess
-Tag:	Monster Girl
-Tag:	Iyashikei
-Tag:	Mythology
+Tag:	Prison
 Tag:	Succubus
-Tag:	Swordplay
 Tag:	Animals
 Tag:	Magic
 Tag:	Dungeon
 Tag:	Monster Boy
-Tag:	Ojou-sama
-Tag:	Demons
-Tag:	Dragons
 Related:	128392
 Related:	34525
 Related:	51462

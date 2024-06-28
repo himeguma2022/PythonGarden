@@ -2,21 +2,21 @@ ID:	124641
 Title:	Jashin-chan Dropkick X
 Title:	邪神ちゃんドロップキックX
 Title:	Dropkick on My Devil!!! X
-Tag:	Primarily Female Cast
-Tag:	Educational
-Tag:	Isekai
+Tag:	Satire
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Parody
+Tag:	Gore
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
 Tag:	Slapstick
 Tag:	Angels
-Tag:	Satire
-Tag:	Female Protagonist
-Tag:	Cute Girls Doing Cute Things
-Tag:	Parody
 Tag:	Youkai
-Tag:	Gore
-Tag:	Seinen
+Tag:	Isekai
+Tag:	Educational
+Tag:	Primarily Female Cast
 Tag:	Monster Girl
-Tag:	Demons
-Tag:	Meta
 Related:	154081
 Related:	74279
 Related:	164551

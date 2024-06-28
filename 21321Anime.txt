@@ -1,15 +1,15 @@
 ID:	21321
 Title:	Shounen Maid
-Title:	Shonen Maid
 Title:	少年メイド
-Tag:	Ghost
-Tag:	Shoujo
-Tag:	Cute Boys Doing Cute Things
-Tag:	Fashion
+Title:	Shonen Maid
 Tag:	Male Protagonist
+Tag:	Ghost
 Tag:	Family Life
-Tag:	Crossdressing
 Tag:	Maids
+Tag:	Cute Boys Doing Cute Things
+Tag:	Crossdressing
+Tag:	Fashion
+Tag:	Shoujo
 Tag:	Idol
 Related:	47257
 Related:	87538

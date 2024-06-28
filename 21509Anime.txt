@@ -1,22 +1,22 @@
 ID:	21509
-Title:	Danganronpa 3: The End of Hope’s Peak High School - Future Arc
 Title:	ダンガンロンパ３ –The End of 希望ヶ峰学園– 未来編
+Title:	Danganronpa 3: The End of Hope’s Peak High School - Future Arc
 Title:	Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen
-Tag:	Tragedy
-Tag:	Dystopian
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Post-Apocalyptic
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Detective
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Dystopian
 Tag:	LGBTQ+ Themes
-Tag:	Suicide
-Tag:	Robots
 Tag:	Gore
-Tag:	Death Game
 Tag:	Primarily Adult Cast
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Battle Royale
+Tag:	Tragedy
+Tag:	Death Game
+Tag:	Detective
+Tag:	Post-Apocalyptic
+Tag:	Suicide
 Related:	117632
 Related:	39039
 Related:	117539

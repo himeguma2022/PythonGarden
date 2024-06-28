@@ -1,20 +1,20 @@
 ID:	731
-Title:	インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM
 Title:	Interstella 5555: THE 5TORY OF THE 5ECRET 5TAR 5YSTEM
+Title:	インターステラ5555：THE 5TORY OF THE 5ECRET 5TAR 5YSTEM
 Title:	Interstella 5555: The 5tory of the 5ecret 5tar 5ystem
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Aliens
-Tag:	No Dialogue
-Tag:	Elderly Protagonist
-Tag:	Fashion
-Tag:	Band
-Tag:	Space
-Tag:	Primarily Male Cast
-Tag:	Cyberpunk
 Tag:	Space Opera
+Tag:	Crime
+Tag:	No Dialogue
 Tag:	Cars
-Tag:	Memory Manipulation
-Tag:	Dancing
-Tag:	Amnesia
+Tag:	Space
 Tag:	Primarily Adult Cast
+Tag:	Amnesia
+Tag:	Elderly Protagonist
+Tag:	Dancing
+Tag:	Fashion
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Band
+Tag:	Cyberpunk

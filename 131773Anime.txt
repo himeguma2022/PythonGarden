@@ -2,22 +2,22 @@ ID:	131773
 Title:	Wonder Egg Priority: Tokubetsu-hen
 Title:	WONDER EGG PRIORITY: My Priority
 Title:	ワンダーエッグ・プライオリティ 特別編
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Isekai
-Tag:	Urban
-Tag:	Alternate Universe
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Afterlife
-Tag:	Body Horror
-Tag:	Suicide
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Gore
-Tag:	Coming of Age
+Tag:	Alternate Universe
+Tag:	Artificial Intelligence
+Tag:	Urban
+Tag:	Tragedy
+Tag:	School
+Tag:	Suicide
+Tag:	Isekai
+Tag:	Bullying
+Tag:	Body Horror
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coming of Age
+Tag:	Afterlife
 Related:	124845
 Related:	55183

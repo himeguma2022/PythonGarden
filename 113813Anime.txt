@@ -1,27 +1,27 @@
 ID:	113813
-Title:	Rent-a-Girlfriend
-Title:	Kanojo Okarishimasu
 Title:	彼女、お借りします
+Title:	Rent-a-Girlfriend
 Title:	Kanojo, Okarishimasu
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	College
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Primarily Female Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Fake Relationship
-Tag:	Female Harem
-Tag:	Acting
-Tag:	Masturbation
-Tag:	Heterosexual
-Tag:	Feet
+Title:	Kanojo Okarishimasu
 Tag:	Surreal Comedy
-Tag:	Anti-Hero
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Masturbation
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Fake Relationship
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Feet
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Acting
+Tag:	Tsundere
+Tag:	Anti-Hero
 Related:	67076
 Related:	85029
 Related:	53191

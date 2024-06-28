@@ -1,15 +1,15 @@
 ID:	3287
-Title:	天空断罪スケルターヘブン
 Title:	Tenkuu Danzai Skelter Heaven
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Aliens
-Tag:	CGI
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Unrequited Love
-Tag:	Cosmic Horror
-Tag:	Philosophy
+Title:	天空断罪スケルターヘブン
 Tag:	Time Skip
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Unrequited Love
+Tag:	Artificial Intelligence
+Tag:	Aliens
+Tag:	Surreal Comedy
+Tag:	Philosophy
+Tag:	Primarily Female Cast
 Tag:	Coming of Age

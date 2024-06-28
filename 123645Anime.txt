@@ -1,13 +1,13 @@
 ID:	123645
-Title:	映画 さよなら私のクラマー ファーストタッチ
-Title:	Farewell, My Dear Cramer: First Touch
 Title:	Sayonara Watashi no Cramer: First Touch
-Tag:	Shounen
+Title:	Farewell, My Dear Cramer: First Touch
+Title:	映画 さよなら私のクラマー ファーストタッチ
 Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Football
-Tag:	Primarily Male Cast
 Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Shounen
 Related:	46753
 Related:	46755
 Related:	56491

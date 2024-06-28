@@ -1,19 +1,19 @@
 ID:	609
-Title:	Saishuu Heiki Kanojo: Another Love Song
-Title:	Saikano: Another Love Song
 Title:	最終兵器彼女Another Love Song
-Tag:	Guns
-Tag:	Tragedy
+Title:	Saikano: Another Love Song
+Title:	Saishuu Heiki Kanojo: Another Love Song
+Tag:	Seinen
 Tag:	Female Protagonist
-Tag:	Kuudere
-Tag:	War
-Tag:	Primarily Male Cast
-Tag:	Cyborg
 Tag:	Nudity
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
 Tag:	Military
 Tag:	Ships
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	Cyborg
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	War
+Tag:	Guns
 Related:	529
 Related:	1242

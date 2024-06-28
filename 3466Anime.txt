@@ -1,13 +1,13 @@
 ID:	3466
-Title:	Kino no Tabi: the Beautiful World - Tou no Kuni: Free Lance
 Title:	キノの旅 the Beautiful World 塔の国 -Free Lance-
-Tag:	Motorcycles
-Tag:	Urban
+Title:	Kino no Tabi: the Beautiful World - Tou no Kuni: Free Lance
 Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Philosophy
-Tag:	Agender
 Tag:	Foreign
+Tag:	Urban
+Tag:	Motorcycles
+Tag:	Agender
+Tag:	Philosophy
 Related:	53235
 Related:	4333
 Related:	486

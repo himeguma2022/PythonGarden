@@ -1,5 +1,5 @@
 ID:	119825
-Title:	セロひきのゴーシュ
 Title:	Cello Hiki no Gauche
-Tag:	Puppetry
+Title:	セロひきのゴーシュ
 Tag:	Animals
+Tag:	Puppetry

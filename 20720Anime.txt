@@ -1,15 +1,15 @@
 ID:	20720
-Title:	オレん家のフロ事情
 Title:	Orenchi no Furo Jijo
 Title:	Orenchi no Furo Jijou
-Tag:	Boys' Love
-Tag:	Mermaid
-Tag:	Shoujo
-Tag:	Cute Boys Doing Cute Things
+Title:	オレん家のフロ事情
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Primarily Male Cast
-Tag:	Chibi
+Tag:	Mermaid
 Tag:	Incest
+Tag:	Chibi
+Tag:	Cute Boys Doing Cute Things
+Tag:	Shoujo
+Tag:	Primarily Male Cast
+Tag:	Boys' Love
+Tag:	Episodic
 Related:	9321
 Related:	81475

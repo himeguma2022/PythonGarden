@@ -1,13 +1,13 @@
 ID:	20728
-Title:	Nisekoi OVA
 Title:	ニセコイ OVA
-Tag:	Fake Relationship
-Tag:	Shounen
+Title:	Nisekoi OVA
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
+Tag:	Fake Relationship
 Tag:	Kuudere
 Tag:	Tsundere
+Tag:	School
+Tag:	Female Harem
+Tag:	Shounen
 Tag:	Henshin
 Related:	9344
 Related:	18897

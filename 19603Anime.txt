@@ -1,34 +1,34 @@
 ID:	19603
-Title:	Fate/stay night: Unlimited Blade Works
 Title:	Fate/stay night [Unlimited Blade Works]
-Tag:	Super Power
+Title:	Fate/stay night: Unlimited Blade Works
+Tag:	Adoption
 Tag:	Archery
-Tag:	Urban
+Tag:	Skeleton
+Tag:	Mythology
+Tag:	School
+Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Witch
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Female Protagonist
 Tag:	Kuudere
+Tag:	Battle Royale
+Tag:	Urban Fantasy
 Tag:	Tanned Skin
 Tag:	Tsundere
-Tag:	Death Game
-Tag:	Bullying
-Tag:	Witch
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Skeleton
-Tag:	Time Manipulation
-Tag:	Mythology
-Tag:	Swordplay
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Assassins
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Tomboy
 Tag:	Revenge
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Superhero
-Tag:	Philosophy
+Tag:	Magic
+Tag:	Urban
 Tag:	Samurai
-Tag:	Adoption
+Tag:	Tomboy
+Tag:	Death Game
+Tag:	Philosophy
 Related:	9474
 Related:	131587
 Related:	6922

@@ -1,16 +1,16 @@
 ID:	12815
-Title:	しろくまカフェ
 Title:	Polar Bear's Café
+Title:	しろくまカフェ
 Title:	Shirokuma Cafe
+Tag:	Male Protagonist
+Tag:	Work
+Tag:	Anthropomorphism
+Tag:	Heterosexual
+Tag:	Animals
 Tag:	Iyashikei
 Tag:	Josei
 Tag:	Cute Boys Doing Cute Things
-Tag:	Primarily Animal Cast
-Tag:	Male Protagonist
 Tag:	Episodic
-Tag:	Anthropomorphism
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Work
+Tag:	Primarily Animal Cast
 Related:	7755
 Related:	65695

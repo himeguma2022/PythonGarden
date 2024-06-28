@@ -1,22 +1,22 @@
 ID:	20593
 Title:	Hanamonogatari
 Title:	花物語
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Basketball
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Gender Bending
 Tag:	Body Horror
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Primarily Female Cast
+Tag:	Primarily Teen Cast
+Tag:	Ghost
+Tag:	Gender Bending
 Tag:	Achronological Order
+Tag:	Meta
+Tag:	School
+Tag:	Tomboy
+Tag:	Basketball
+Tag:	LGBTQ+ Themes
 Tag:	Philosophy
 Tag:	Suicide
-Tag:	LGBTQ+ Themes
 Tag:	Coming of Age
-Tag:	Meta
 Related:	67368
 Related:	143721
 Related:	21812

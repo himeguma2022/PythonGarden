@@ -1,12 +1,12 @@
 ID:	7661
-Title:	Giant Killing
 Title:	GIANT KILLING
+Title:	Giant Killing
 Tag:	Male Protagonist
-Tag:	Football
-Tag:	Primarily Male Cast
-Tag:	Achronological Order
 Tag:	Seinen
 Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Achronological Order
 Related:	43897
 Related:	6121

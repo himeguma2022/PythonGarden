@@ -1,24 +1,24 @@
 ID:	20657
+Title:	冴えない彼女の育てかた
 Title:	Saekano: How to Raise a Boring Girlfriend
 Title:	Saenai Heroine no Sodatekata
-Title:	冴えない彼女の育てかた
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	School Club
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Otaku Culture
-Tag:	School
-Tag:	Kuudere
-Tag:	Ensemble Cast
-Tag:	Software Development
 Tag:	Nudity
-Tag:	Meta
-Tag:	Tsundere
-Tag:	Video Games
-Tag:	Heterosexual
+Tag:	Kuudere
 Tag:	Writing
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Meta
+Tag:	Software Development
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Video Games
+Tag:	Primarily Female Cast
 Related:	10217
 Related:	9196
 Related:	79567

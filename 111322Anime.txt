@@ -1,21 +1,21 @@
 ID:	111322
-Title:	Tate no Yuusha no Nariagari Season 3
-Title:	The Rising of the Shield Hero Season 3
 Title:	盾の勇者の成り上がり Season 3
-Tag:	Slavery
-Tag:	Archery
-Tag:	Kemonomimi
-Tag:	Isekai
+Title:	The Rising of the Shield Hero Season 3
+Title:	Tate no Yuusha no Nariagari Season 3
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Airsoft
+Tag:	Kemonomimi
 Tag:	Martial Arts
-Tag:	Female Harem
-Tag:	Male Protagonist
 Tag:	Travel
-Tag:	Anti-Hero
+Tag:	Slavery
 Tag:	Magic
+Tag:	Archery
 Tag:	Dragons
+Tag:	Airsoft
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Anti-Hero
 Related:	85442
 Related:	85743
 Related:	38867

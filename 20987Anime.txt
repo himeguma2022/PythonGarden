@@ -1,18 +1,18 @@
 ID:	20987
-Title:	干物妹！うまるちゃん
 Title:	Himouto! Umaru-chan
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Food
-Tag:	Chibi
-Tag:	Parody
+Title:	干物妹！うまるちゃん
 Tag:	Seinen
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Family Life
+Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	Otaku Culture
+Tag:	Urban
+Tag:	School
+Tag:	Primarily Female Cast
 Related:	9856
 Related:	18723
 Related:	80133

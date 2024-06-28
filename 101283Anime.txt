@@ -2,26 +2,26 @@ ID:	101283
 Title:	Boogiepop wa Warawanai
 Title:	ブギーポップは笑わない
 Title:	Boogiepop and Others
-Tag:	Super Power
-Tag:	Archery
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Denpa
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Kaiju
-Tag:	Crime
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Suicide
 Tag:	Drugs
-Tag:	Urban Fantasy
-Tag:	Achronological Order
-Tag:	Philosophy
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Conspiracy
 Tag:	Agender
-Tag:	Body Swapping
+Tag:	Super Power
 Tag:	Bisexual
+Tag:	Aliens
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Philosophy
+Tag:	Urban Fantasy
+Tag:	Crime
+Tag:	Body Swapping
+Tag:	Dissociative Identities
+Tag:	Kaiju
+Tag:	Achronological Order
 Related:	30691
 Related:	107402
 Related:	38893

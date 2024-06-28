@@ -1,16 +1,16 @@
 ID:	21698
 Title:	Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
-Title:	HAIKYU!! 3rd Season
 Title:	ハイキュー!! 烏野高校 VS 白鳥沢学園高校
-Tag:	Primarily Teen Cast
-Tag:	Shounen
+Title:	HAIKYU!! 3rd Season
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Ensemble Cast
-Tag:	Volleyball
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Volleyball
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	20992
 Related:	11105
 Related:	19074

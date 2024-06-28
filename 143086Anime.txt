@@ -1,25 +1,25 @@
 ID:	143086
 Title:	Pop Team Epic Season 2
-Title:	Poputepipikku 2
 Title:	ポプテピピック 2
-Tag:	Guns
-Tag:	Surreal Comedy
-Tag:	Super Robot
-Tag:	Battle Royale
-Tag:	Crossover
-Tag:	CGI
-Tag:	Slapstick
+Title:	Poputepipikku 2
 Tag:	Satire
-Tag:	Space
+Tag:	CGI
+Tag:	Seinen
 Tag:	Parody
-Tag:	Tokusatsu
 Tag:	Cosmic Horror
 Tag:	Goblin
-Tag:	Seinen
-Tag:	Henshin
-Tag:	Time Manipulation
+Tag:	Crossover
+Tag:	Space
+Tag:	Super Robot
 Tag:	Alternate Universe
 Tag:	Meta
+Tag:	Battle Royale
+Tag:	Surreal Comedy
+Tag:	Time Manipulation
+Tag:	Tokusatsu
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Henshin
 Related:	78921
 Related:	70830
 Related:	66768

@@ -1,24 +1,24 @@
 ID:	7054
+Title:	Maid-Sama!
 Title:	会長はメイド様!
 Title:	Kaichou wa Maid-sama!
-Title:	Maid-Sama!
-Tag:	Shoujo
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Otaku Culture
-Tag:	School
-Tag:	Kuudere
-Tag:	Chibi
-Tag:	Crossdressing
-Tag:	Restaurant
 Tag:	Femboy
-Tag:	Tsundere
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Chibi
+Tag:	Heterosexual
 Tag:	Maids
+Tag:	Otaku Culture
+Tag:	Crossdressing
+Tag:	Shoujo
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Episodic
+Tag:	Restaurant
 Related:	9366
 Related:	32921
 Related:	10298

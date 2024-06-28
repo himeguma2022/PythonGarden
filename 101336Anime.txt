@@ -1,17 +1,17 @@
 ID:	101336
-Title:	からくりサーカス
 Title:	Karakuri Circus
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	CGI
-Tag:	Shounen
+Title:	からくりサーカス
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Circus
 Tag:	Martial Arts
-Tag:	Trains
 Tag:	Robots
-Tag:	Memory Manipulation
-Tag:	Conspiracy
 Tag:	Foreign
+Tag:	Trains
+Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Love Triangle
+Tag:	Shounen
 Related:	22417
 Related:	30868

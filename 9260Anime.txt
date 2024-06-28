@@ -1,20 +1,20 @@
 ID:	9260
-Title:	Kizumonogatari Part 1: Tekketsu
 Title:	傷物語〈Ⅰ鉄血篇〉
+Title:	Kizumonogatari Part 1: Tekketsu
 Title:	Kizumonogatari I: Tekketsu-hen
-Tag:	CGI
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Age Regression
+Tag:	CGI
+Tag:	Body Horror
 Tag:	Urban Fantasy
 Tag:	Rotoscoping
 Tag:	Nudity
-Tag:	Body Horror
-Tag:	Vampire
-Tag:	Suicide
 Tag:	Gore
+Tag:	Vampire
+Tag:	Urban
+Tag:	Suicide
 Tag:	Yandere
 Tag:	Coming of Age
+Tag:	Age Regression
 Related:	10588
 Related:	143701
 Related:	67324

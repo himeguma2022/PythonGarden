@@ -1,26 +1,26 @@
 ID:	21672
-Title:	戦姫絶唱シンフォギア AXZ
 Title:	Senki Zesshou Symphogear AXZ
+Title:	戦姫絶唱シンフォギア AXZ
 Title:	Symphogear AXZ
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
-Tag:	Tanks
-Tag:	Gods
-Tag:	Cult
+Tag:	Drugs
+Tag:	Alchemy
 Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Transgender
-Tag:	Female Protagonist
 Tag:	Ensemble Cast
 Tag:	Mythology
 Tag:	Orphan
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	LGBTQ+ Themes
 Tag:	Henshin
-Tag:	Alchemy
+Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Female Protagonist
 Tag:	Motorcycles
+Tag:	Tanks
+Tag:	Transgender
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Gods
+Tag:	LGBTQ+ Themes
 Tag:	Philosophy
 Tag:	Idol
 Related:	21673

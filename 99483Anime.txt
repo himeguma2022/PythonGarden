@@ -1,23 +1,23 @@
 ID:	99483
 Title:	博多豚骨ラーメンズ
 Title:	Hakata Tonkotsu Ramens
-Tag:	Guns
-Tag:	Crime
-Tag:	Revenge
-Tag:	Swordplay
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Baseball
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Detective
-Tag:	Primarily Male Cast
-Tag:	Assassins
-Tag:	LGBTQ+ Themes
 Tag:	Femboy
-Tag:	Crossdressing
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Crime
+Tag:	LGBTQ+ Themes
 Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	Revenge
+Tag:	Baseball
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Episodic
+Tag:	Detective
+Tag:	Guns
 Related:	101287
 Related:	42130
 Related:	42134

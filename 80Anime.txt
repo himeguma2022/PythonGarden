@@ -1,27 +1,27 @@
 ID:	80
 Title:	Mobile Suit Gundam
-Title:	機動戦士ガンダム
 Title:	Kidou Senshi Gundam
-Tag:	Tragedy
-Tag:	Super Power
+Title:	機動戦士ガンダム
 Tag:	Desert
-Tag:	Love Triangle
-Tag:	Space
-Tag:	Conspiracy
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
 Tag:	Travel
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Environmental
-Tag:	War
-Tag:	Real Robot
-Tag:	Space Opera
-Tag:	Coming of Age
-Tag:	Revenge
 Tag:	Military
+Tag:	Environmental
+Tag:	Space
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Space Opera
+Tag:	Time Manipulation
+Tag:	War
+Tag:	Guns
+Tag:	Love Triangle
+Tag:	Real Robot
+Tag:	Primarily Teen Cast
+Tag:	Revenge
+Tag:	Tragedy
 Tag:	Anti-Hero
 Related:	71170
 Related:	147460

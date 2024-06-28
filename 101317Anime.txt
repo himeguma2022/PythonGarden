@@ -1,14 +1,14 @@
 ID:	101317
 Title:	BLACKFOX
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	Super Power
+Tag:	Time Skip
 Tag:	CGI
+Tag:	Super Power
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Artificial Intelligence
-Tag:	Ninja
+Tag:	Revenge
 Tag:	Animals
-Tag:	Time Skip
+Tag:	Ninja
 Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Tragedy
+Tag:	Primarily Female Cast

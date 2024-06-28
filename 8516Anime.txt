@@ -1,24 +1,24 @@
 ID:	8516
+Title:	バカとテストと召喚獣 にっ！
 Title:	Baka to Test to Shoukanjuu Ni!
 Title:	Baka and Test - Summon the Beasts 2
-Title:	バカとテストと召喚獣 にっ！
-Tag:	Bullying
-Tag:	Super Power
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
+Tag:	Femboy
+Tag:	Super Power
+Tag:	Primarily Teen Cast
+Tag:	Parody
 Tag:	Kuudere
 Tag:	Gender Bending
-Tag:	Parody
-Tag:	Femboy
 Tag:	Tsundere
-Tag:	Yandere
 Tag:	Chibi
 Tag:	Twins
 Tag:	Meta
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Yandere
 Related:	43872
 Related:	9471
 Related:	9286

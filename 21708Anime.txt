@@ -1,26 +1,26 @@
 ID:	21708
-Title:	Occultic;Nine -オカルティック・ナイン-
 Title:	Occultic;Nine
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Denpa
-Tag:	Cult
-Tag:	Religion
-Tag:	Conspiracy
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Afterlife
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Bar
-Tag:	Heterosexual
-Tag:	Detective
-Tag:	Achronological Order
-Tag:	Philosophy
+Title:	Occultic;Nine -オカルティック・ナイン-
 Tag:	Otaku Culture
+Tag:	Conspiracy
+Tag:	Detective
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Bar
+Tag:	Philosophy
+Tag:	Ghost
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Dissociative Identities
+Tag:	Achronological Order
 Related:	87067
 Related:	11118
 Related:	4975

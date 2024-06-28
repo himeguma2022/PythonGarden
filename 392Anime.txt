@@ -1,27 +1,27 @@
 ID:	392
 Title:	Yuu☆Yuu☆Hakusho
-Title:	Yu Yu Hakusho: Ghostfiles
 Title:	幽☆遊☆白書
-Tag:	Super Power
-Tag:	Dissociative Identities
-Tag:	Martial Arts
-Tag:	Tsundere
-Tag:	Ghost
-Tag:	Transgender
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Afterlife
-Tag:	Youkai
-Tag:	Delinquents
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Tomboy
-Tag:	Cultivation
-Tag:	Philosophy
+Title:	Yu Yu Hakusho: Ghostfiles
 Tag:	Demons
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Youkai
+Tag:	Coming of Age
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Delinquents
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Martial Arts
+Tag:	Ghost
+Tag:	Tsundere
+Tag:	Transgender
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Philosophy
 Related:	30213
 Related:	30053
 Related:	12455

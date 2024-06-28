@@ -1,33 +1,33 @@
 ID:	131646
+Title:	ヴァニタスの手記
 Title:	Vanitas no Carte
 Title:	The Case Study of Vanitas
-Title:	ヴァニタスの手記
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Tanned Skin
-Tag:	Anachronism
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Religion
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Foreign
 Tag:	Drugs
-Tag:	Primarily Male Cast
-Tag:	Vampire
-Tag:	Assassins
-Tag:	LGBTQ+ Themes
-Tag:	Steampunk
-Tag:	Henshin
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Surreal Comedy
-Tag:	Anti-Hero
 Tag:	Adoption
+Tag:	Foreign
+Tag:	Surreal Comedy
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Anachronism
+Tag:	Assassins
+Tag:	Anti-Hero
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Steampunk
+Tag:	Historical
+Tag:	Boys' Love
+Tag:	Shounen
+Tag:	Tanned Skin
+Tag:	Tsundere
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
 Related:	86568
 Related:	58316
 Related:	55027

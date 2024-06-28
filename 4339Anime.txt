@@ -1,9 +1,9 @@
 ID:	4339
-Title:	あしたへアタック！
 Title:	Ashita e Attack!
-Tag:	Primarily Female Cast
+Title:	あしたへアタック！
 Tag:	Female Protagonist
+Tag:	School Club
 Tag:	School
 Tag:	Volleyball
 Tag:	Ojou-sama
-Tag:	School Club
+Tag:	Primarily Female Cast

@@ -1,19 +1,19 @@
 ID:	97917
-Title:	Yoru wa Mijikashi Arukeyo Otome
 Title:	夜は短し歩けよ乙女
 Title:	The Night is Short, Walk on Girl
-Tag:	Surreal Comedy
+Title:	Yoru wa Mijikashi Arukeyo Otome
 Tag:	Female Protagonist
-Tag:	College
-Tag:	Musical Theater
-Tag:	Bar
-Tag:	Philosophy
-Tag:	LGBTQ+ Themes
-Tag:	Trains
-Tag:	Crossdressing
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Crossdressing
+Tag:	Trains
+Tag:	Surreal Comedy
+Tag:	Musical Theater
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
+Tag:	Bar
+Tag:	Coming of Age
 Related:	7785
 Related:	90092
 Related:	19246

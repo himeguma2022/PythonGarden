@@ -2,25 +2,25 @@ ID:	131520
 Title:	The Quintessential Quintuplets Movie
 Title:	映画 五等分の花嫁
 Title:	Go-toubun no Hanayome Movie
-Tag:	Teacher
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Ensemble Cast
 Tag:	Marriage
-Tag:	Female Harem
 Tag:	School
-Tag:	Heterosexual
-Tag:	Twins
 Tag:	Coming of Age
-Tag:	Achronological Order
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Teacher
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Urban
+Tag:	Achronological Order
 Related:	100230
 Related:	177191
 Related:	90512

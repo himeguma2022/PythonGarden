@@ -1,23 +1,23 @@
 ID:	101227
-Title:	"Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!"
-Title:	Didn't I Say to Make My Abilities Average in the Next Life?!
 Title:	私、能力は平均値でって言ったよね！
 Title:	Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
-Tag:	Reincarnation
-Tag:	Primarily Female Cast
-Tag:	Revenge
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Parody
-Tag:	Afterlife
+Title:	Didn't I Say to Make My Abilities Average in the Next Life?!
+Title:	"Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!"
 Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Lost Civilization
 Tag:	Tsundere
+Tag:	Revenge
 Tag:	Magic
-Tag:	Otaku Culture
+Tag:	Cute Girls Doing Cute Things
 Tag:	Meta
+Tag:	Otaku Culture
+Tag:	Reincarnation
+Tag:	Isekai
+Tag:	Primarily Female Cast
+Tag:	Afterlife
 Related:	147552
 Related:	36071
 Related:	22289

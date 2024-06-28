@@ -1,27 +1,27 @@
 ID:	15809
-Title:	はたらく魔王さま!
-Title:	The Devil is a Part-Timer!
 Title:	Hataraku Maou-sama!
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Fugitive
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Parody
-Tag:	Restaurant
-Tag:	Mythology
-Tag:	Urban Fantasy
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Hikikomori
-Tag:	Language Barrier
-Tag:	Anti-Hero
-Tag:	Work
+Title:	The Devil is a Part-Timer!
+Title:	はたらく魔王さま!
 Tag:	Demons
+Tag:	Food
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Isekai
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Work
+Tag:	Parody
+Tag:	Primarily Adult Cast
+Tag:	Language Barrier
+Tag:	Hikikomori
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Fugitive
+Tag:	Urban Fantasy
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Anti-Hero
+Tag:	Restaurant
 Related:	130592
 Related:	66723
 Related:	47271

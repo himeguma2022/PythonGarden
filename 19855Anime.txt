@@ -1,11 +1,11 @@
 ID:	19855
 Title:	Nobunagun
 Title:	ノブナガン
-Tag:	Guns
-Tag:	Aliens
 Tag:	Super Power
-Tag:	Shounen
 Tag:	Female Protagonist
 Tag:	Military
+Tag:	Aliens
+Tag:	Shounen
+Tag:	Guns
 Related:	8796
 Related:	81415

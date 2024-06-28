@@ -1,35 +1,35 @@
 ID:	99420
-Title:	Girls' Last Tour
 Title:	Shoujo Shuumatsu Ryokou
+Title:	Girls' Last Tour
 Title:	少女終末旅行
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
+Tag:	Lost Civilization
+Tag:	Travel
+Tag:	Military
+Tag:	Environmental
+Tag:	Robots
+Tag:	Iyashikei
 Tag:	Post-Apocalyptic
-Tag:	Artificial Intelligence
+Tag:	Snowscape
+Tag:	Cute Girls Doing Cute Things
+Tag:	Aliens
+Tag:	Survival
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	Guns
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Photography
+Tag:	Female Protagonist
 Tag:	Kuudere
+Tag:	Chibi
+Tag:	Artificial Intelligence
 Tag:	Tanks
 Tag:	Denpa
-Tag:	Snowscape
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Travel
-Tag:	Cosmic Horror
 Tag:	Seinen
-Tag:	Guns
-Tag:	Iyashikei
-Tag:	Environmental
-Tag:	Survival
-Tag:	War
-Tag:	Robots
-Tag:	Chibi
-Tag:	CGI
-Tag:	Military
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Philosophy
-Tag:	Photography
 Related:	85412
 Related:	163661
 Related:	100180

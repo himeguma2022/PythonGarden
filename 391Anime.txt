@@ -1,13 +1,13 @@
 ID:	391
-Title:	テイルズ オブ ファンタジア THE ANIMATION
 Title:	Tales of Phantasia: THE ANIMATION
+Title:	テイルズ オブ ファンタジア THE ANIMATION
 Title:	Tales of Phantasia
-Tag:	Archery
 Tag:	Swordplay
-Tag:	War
-Tag:	Magic
-Tag:	Time Manipulation
 Tag:	Demons
+Tag:	Magic
+Tag:	Archery
+Tag:	Time Manipulation
+Tag:	War
 Related:	134728
 Related:	33666
 Related:	57892

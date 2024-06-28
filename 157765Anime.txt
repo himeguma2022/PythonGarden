@@ -1,16 +1,16 @@
 ID:	157765
-Title:	World Dai Star
 Title:	ワールドダイスター
+Title:	World Dai Star
 Title:	Stella of the Theater: World Dai Star
-Tag:	Primarily Female Cast
 Tag:	Super Power
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
 Tag:	Acting
+Tag:	Female Protagonist
 Tag:	Chuunibyou
 Tag:	Tsundere
-Tag:	Ojou-sama
+Tag:	Dissociative Identities
 Tag:	Musical Theater
+Tag:	Ojou-sama
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	91241
 Related:	170690

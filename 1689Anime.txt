@@ -1,20 +1,20 @@
 ID:	1689
+Title:	Byousoku 5 Centimeter
 Title:	5 Centimeters per Second
 Title:	秒速５センチメートル
-Title:	Byousoku 5 Centimeter
-Tag:	Tragedy
-Tag:	Archery
-Tag:	Surfing
-Tag:	Mopeds
-Tag:	Love Triangle
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Unrequited Love
 Tag:	Travel
-Tag:	Trains
-Tag:	Time Skip
+Tag:	Unrequited Love
 Tag:	Heterosexual
+Tag:	Surfing
+Tag:	Archery
+Tag:	Trains
+Tag:	Mopeds
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
 Tag:	Coming of Age
 Related:	37380
 Related:	53419

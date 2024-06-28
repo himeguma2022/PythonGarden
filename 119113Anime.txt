@@ -1,25 +1,25 @@
 ID:	119113
-Title:	進撃の巨人 〜クロニクル〜
 Title:	Shingeki no Kyojin: Chronicle
 Title:	Attack on Titan ~Chronicle~
-Tag:	Memory Manipulation
-Tag:	Tragedy
-Tag:	Henshin
-Tag:	Super Power
+Title:	進撃の巨人 〜クロニクル〜
 Tag:	Time Skip
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Shounen
-Tag:	Survival
+Tag:	Super Power
 Tag:	Kuudere
-Tag:	Espionage
-Tag:	Politics
-Tag:	Military
 Tag:	Gore
-Tag:	Steampunk
-Tag:	Anti-Hero
+Tag:	Shounen
+Tag:	Military
+Tag:	Politics
+Tag:	Memory Manipulation
 Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Steampunk
+Tag:	Survival
 Tag:	Kaiju
+Tag:	Espionage
+Tag:	Anti-Hero
+Tag:	Post-Apocalyptic
+Tag:	Henshin
 Related:	42624
 Related:	42626
 Related:	104578

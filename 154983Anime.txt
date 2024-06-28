@@ -1,20 +1,20 @@
 ID:	154983
-Title:	アグレッシブ烈子 シーズン5
 Title:	Aggretsuko: Season 5
 Title:	Aggressive Retsuko Season 5
-Tag:	Flash
-Tag:	Video Games
-Tag:	Metal Music
+Title:	アグレッシブ烈子 シーズン5
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Idol
+Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Animals
+Tag:	Politics
 Tag:	Office Lady
 Tag:	Urban
-Tag:	Primarily Animal Cast
-Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Anthropomorphism
-Tag:	Animals
+Tag:	Metal Music
 Tag:	Homeless
-Tag:	Chibi
-Tag:	Primarily Adult Cast
-Tag:	Idol
+Tag:	Video Games
+Tag:	Primarily Animal Cast
+Tag:	Flash
 Related:	127619
 Related:	78101

@@ -1,22 +1,22 @@
 ID:	108092
+Title:	Asteroid in Love
 Title:	Koisuru Asteroid
 Title:	恋する小惑星〈アステロイド〉
-Title:	Asteroid in Love
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Coming of Age
-Tag:	Slapstick
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Astronomy
-Tag:	LGBTQ+ Themes
-Tag:	Tsundere
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
 Tag:	Outdoor
+Tag:	Astronomy
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	School Club
+Tag:	School
+Tag:	Educational
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Coming of Age
 Related:	114424
 Related:	108091
 Related:	30373

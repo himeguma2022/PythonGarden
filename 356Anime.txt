@@ -1,22 +1,22 @@
 ID:	356
 Title:	Fate/stay night
-Tag:	Witch
-Tag:	Mythology
-Tag:	Super Power
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Urban
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Superhero
-Tag:	Urban Fantasy
-Tag:	Kuudere
-Tag:	School
+Tag:	CGI
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Assassins
-Tag:	Tsundere
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Urban Fantasy
+Tag:	Superhero
+Tag:	Kuudere
 Tag:	Death Game
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Battle Royale
+Tag:	Urban
+Tag:	Mythology
+Tag:	School
+Tag:	Witch
 Related:	10753
 Related:	92418
 Related:	91914

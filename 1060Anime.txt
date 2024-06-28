@@ -1,17 +1,17 @@
 ID:	1060
 Title:	Oruchuban Ebichu
 Title:	おるちゅばんエビちゅ
-Tag:	Surreal Comedy
-Tag:	Office Lady
-Tag:	Slapstick
-Tag:	Mahjong
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Nudity
-Tag:	Anthropomorphism
-Tag:	Animals
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Nudity
 Tag:	Primarily Adult Cast
+Tag:	Animals
+Tag:	Office Lady
+Tag:	Surreal Comedy
+Tag:	Mahjong
+Tag:	Episodic
+Tag:	Slapstick
 Related:	1861
 Related:	6571
 Related:	6075

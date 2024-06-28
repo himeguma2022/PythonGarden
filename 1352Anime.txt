@@ -1,20 +1,20 @@
 ID:	1352
-Title:	サイバーシティ OEDO 808
 Title:	Cyber City Oedo 808
 Title:	Cyber City OEDO 808
-Tag:	Guns
-Tag:	Crime
-Tag:	Super Power
+Title:	サイバーシティ OEDO 808
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	Space
-Tag:	Cyberpunk
-Tag:	Body Horror
-Tag:	Cyborg
-Tag:	Vampire
-Tag:	Espionage
-Tag:	Police
 Tag:	Death Game
+Tag:	Super Power
+Tag:	Urban Fantasy
+Tag:	Body Horror
+Tag:	Crime
 Tag:	Primarily Adult Cast
+Tag:	Space
+Tag:	Episodic
+Tag:	Vampire
+Tag:	Cyborg
+Tag:	Cyberpunk
+Tag:	Police
+Tag:	Detective
+Tag:	Espionage
+Tag:	Guns

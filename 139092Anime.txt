@@ -1,27 +1,27 @@
 ID:	139092
-Title:	Welcome to Demon School! Iruma-kun Season 3
 Title:	魔入りました！入間くん 第3シリーズ
+Title:	Welcome to Demon School! Iruma-kun Season 3
 Title:	Mairimashita! Iruma-kun 3
-Tag:	Archery
-Tag:	Isekai
-Tag:	Butler
-Tag:	Crossdressing
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Video Games
-Tag:	Monster Girl
-Tag:	Succubus
-Tag:	School
-Tag:	Magic
-Tag:	School Club
-Tag:	Found Family
-Tag:	Cultivation
-Tag:	Monster Boy
 Tag:	Demons
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Crossdressing
+Tag:	School
+Tag:	Isekai
+Tag:	Video Games
+Tag:	Bullying
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Cultivation
+Tag:	School Club
+Tag:	Shounen
+Tag:	Torture
+Tag:	Primarily Teen Cast
+Tag:	Succubus
+Tag:	Magic
+Tag:	Found Family
+Tag:	Butler
+Tag:	Monster Boy
 Tag:	Idol
 Related:	116338
 Related:	99324

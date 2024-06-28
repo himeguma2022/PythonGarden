@@ -1,32 +1,32 @@
 ID:	8525
-Title:	神のみぞ知るセカイ
-Title:	Kami nomi zo Shiru Sekai
 Title:	The World God Only Knows
-Tag:	Butler
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Tsundere
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Video Games
-Tag:	Meta
-Tag:	Female Harem
-Tag:	Athletics
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Heterosexual
-Tag:	Hikikomori
-Tag:	Surreal Comedy
-Tag:	Firefighters
-Tag:	Otaku Culture
-Tag:	Ojou-sama
-Tag:	Amnesia
+Title:	Kami nomi zo Shiru Sekai
+Title:	神のみぞ知るセカイ
 Tag:	Demons
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Video Games
+Tag:	Ojou-sama
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Episodic
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Athletics
+Tag:	Hikikomori
+Tag:	Female Harem
+Tag:	Firefighters
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Ghost
+Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Butler
+Tag:	Gods
 Tag:	Idol
 Related:	10080
 Related:	9675

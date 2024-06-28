@@ -1,16 +1,16 @@
 ID:	113932
 Title:	薄明の翼
-Title:	Pokémon: Twilight Wings
 Title:	Hakumei no Tsubasa
+Title:	Pokémon: Twilight Wings
 Tag:	Kids
-Tag:	Episodic
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Animals
 Tag:	Work
-Tag:	Aviation
+Tag:	Animals
+Tag:	Ensemble Cast
+Tag:	Episodic
 Tag:	Dragons
-Related:	112153
-Related:	37270
+Tag:	Aviation
 Related:	125308
+Related:	112153
 Related:	48444
+Related:	37270

@@ -1,13 +1,13 @@
 ID:	100745
 Title:	Captain Tsubasa (2018)
 Title:	キャプテン翼
-Tag:	Primarily Child Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Football
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
+Tag:	Primarily Child Cast
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	2116
 Related:	1674
 Related:	85292

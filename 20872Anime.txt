@@ -1,19 +1,19 @@
 ID:	20872
 Title:	Plastic Memories
 Title:	プラスティックメモリーズ
-Tag:	Tragedy
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Amnesia
-Tag:	Tsundere
-Tag:	Robots
-Tag:	Memory Manipulation
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Tsundere
+Tag:	Amnesia
+Tag:	Heterosexual
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	Female Harem
+Tag:	Slapstick
 Tag:	Coming of Age
 Related:	29771
 Related:	122492

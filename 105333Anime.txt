@@ -2,23 +2,23 @@ ID:	105333
 Title:	Dr. Stone
 Title:	Dr. STONE
 Title:	Dr.STONE
-Tag:	Tomboy
-Tag:	Primarily Teen Cast
-Tag:	Spearplay
-Tag:	Shounen
-Tag:	Post-Apocalyptic
-Tag:	Educational
-Tag:	Environmental
-Tag:	Lost Civilization
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Survival
-Tag:	Primarily Male Cast
-Tag:	Espionage
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Spearplay
+Tag:	Lost Civilization
+Tag:	Primarily Teen Cast
+Tag:	Environmental
 Tag:	Asexual
 Tag:	Kingdom Management
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Primarily Male Cast
+Tag:	Post-Apocalyptic
+Tag:	Survival
+Tag:	Tomboy
+Tag:	Espionage
+Tag:	Educational
+Tag:	Shounen
 Related:	98416
 Related:	113936
 Related:	37250

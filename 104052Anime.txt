@@ -1,22 +1,22 @@
 ID:	104052
-Title:	星合の空
-Title:	Hoshiai no Sora
 Title:	Stars Align
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Child Cast
-Tag:	Boys' Love
-Tag:	Primarily Teen Cast
-Tag:	Twins
+Title:	Hoshiai no Sora
+Title:	星合の空
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	LGBTQ+ Themes
-Tag:	Crossdressing
-Tag:	Tennis
-Tag:	Coming of Age
+Tag:	Primarily Teen Cast
 Tag:	Adoption
+Tag:	Tennis
+Tag:	Family Life
+Tag:	Revenge
+Tag:	Twins
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Tragedy
 Tag:	School Club
+Tag:	School
+Tag:	Primarily Male Cast
+Tag:	Bullying
+Tag:	Boys' Love
+Tag:	LGBTQ+ Themes
+Tag:	Coming of Age

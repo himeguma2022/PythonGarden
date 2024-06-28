@@ -1,24 +1,24 @@
 ID:	103301
-Title:	ENDRO!
 Title:	えんどろ〜！
+Title:	ENDRO!
 Title:	Endro~!
-Tag:	Iyashikei
+Tag:	Card Battle
+Tag:	Parody
 Tag:	Yuri
-Tag:	Teacher
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
+Tag:	Demons
 Tag:	Female Protagonist
+Tag:	Elf
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Memory Manipulation
+Tag:	Time Manipulation
+Tag:	School
 Tag:	Ojou-sama
 Tag:	Episodic
-Tag:	School
-Tag:	Elf
-Tag:	Parody
-Tag:	Card Battle
-Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Time Manipulation
-Tag:	Demons
 Tag:	Dragons
+Tag:	Primarily Female Cast
+Tag:	Teacher
 Related:	108603
 Related:	31542

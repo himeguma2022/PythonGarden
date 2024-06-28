@@ -1,8 +1,8 @@
 ID:	20659
-Title:	"Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru."
 Title:	Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru.
-Title:	Waiting in the Summer OVA
 Title:	あの夏を待っている 僕達は高校最後の夏を過ごしながら、あの夏を待っている。
+Title:	Waiting in the Summer OVA
+Title:	"Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteru."
 Tag:	Ensemble Cast
 Related:	11433
 Related:	28874

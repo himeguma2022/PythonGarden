@@ -1,4 +1,4 @@
 ID:	103454
 Title:	GHOST
-Tag:	No Dialogue
 Tag:	Ghost
+Tag:	No Dialogue

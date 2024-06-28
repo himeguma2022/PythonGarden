@@ -1,25 +1,25 @@
 ID:	135136
-Title:	Vanitas no Carte Part 2
 Title:	The Case Study of Vanitas Part 2
 Title:	ヴァニタスの手記 2クール
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Butler
+Title:	Vanitas no Carte Part 2
+Tag:	Foreign
 Tag:	Crossdressing
+Tag:	Detective
+Tag:	Male Protagonist
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Assassins
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Foreign
-Tag:	Vampire
-Tag:	Assassins
 Tag:	Steampunk
-Tag:	Heterosexual
+Tag:	Historical
+Tag:	Boys' Love
+Tag:	Shounen
+Tag:	Suicide
 Tag:	Revenge
-Tag:	Detective
+Tag:	Tragedy
+Tag:	Butler
 Tag:	Anti-Hero
 Related:	86568
 Related:	58313

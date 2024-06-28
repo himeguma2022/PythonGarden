@@ -1,14 +1,14 @@
 ID:	10456
+Title:	Kyoukaisenjou no Horizon
 Title:	Horizon in the Middle of Nowhere
 Title:	境界線上のホライゾン
-Title:	Kyoukaisenjou no Horizon
-Tag:	Historical
-Tag:	Super Robot
 Tag:	Dystopian
-Tag:	Female Harem
-Tag:	Ensemble Cast
 Tag:	Kuudere
+Tag:	Super Robot
 Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Female Harem
+Tag:	Historical
 Tag:	Anachronism
 Related:	54464
 Related:	72449

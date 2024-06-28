@@ -1,30 +1,30 @@
 ID:	146676
 Title:	Renai Flops
-Title:	LOVE FLOPS
 Title:	恋愛フロップス
-Tag:	Teacher
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Artificial Intelligence
-Tag:	Crossdressing
+Title:	LOVE FLOPS
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	Yandere
+Tag:	Virtual World
 Tag:	Male Protagonist
 Tag:	Family Life
-Tag:	Parody
-Tag:	Cyborg
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Assassins
-Tag:	Age Gap
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Cyborg
+Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	Age Gap
+Tag:	Assassins
+Tag:	Parody
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Teacher
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Magic
 Tag:	Found Family
+Tag:	Tragedy
 Tag:	Tomboy
-Tag:	Surreal Comedy
-Tag:	Virtual World
-Tag:	Yandere
 Related:	74464
 Related:	150751

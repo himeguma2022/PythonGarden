@@ -1,19 +1,19 @@
 ID:	2685
-Title:	ツバサ TOKYO REVELATIONS
-Title:	Tsubasa: Tokyo Revelations
 Title:	Tsubasa: TOKYO REVELATIONS
-Tag:	Tragedy
-Tag:	Dystopian
+Title:	Tsubasa: Tokyo Revelations
+Title:	ツバサ TOKYO REVELATIONS
 Tag:	Clone
+Tag:	Body Horror
+Tag:	Dystopian
 Tag:	Crossover
-Tag:	Isekai
+Tag:	Vampire
+Tag:	Twins
+Tag:	Tragedy
 Tag:	Post-Apocalyptic
 Tag:	Dissociative Identities
-Tag:	Shounen
-Tag:	Body Horror
-Tag:	Vampire
 Tag:	Cannibalism
-Tag:	Twins
+Tag:	Isekai
+Tag:	Shounen
 Related:	969
 Related:	4938
 Related:	30009

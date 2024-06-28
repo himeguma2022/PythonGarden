@@ -2,23 +2,23 @@ ID:	101167
 Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II
 Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon? II
 Title:	ダンジョンに出会いを求めるのは間違っているだろうかⅡ
-Tag:	Tomboy
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Kemonomimi
-Tag:	Dungeon
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Kuudere
+Tag:	Primarily Teen Cast
 Tag:	Tanned Skin
-Tag:	Elf
-Tag:	Villainess
-Tag:	Gods
+Tag:	Swordplay
 Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Elf
 Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Villainess
+Tag:	Female Harem
+Tag:	Dungeon
+Tag:	Tomboy
+Tag:	Gods
+Tag:	Primarily Female Cast
 Related:	35232
 Related:	35235
 Related:	43910

@@ -1,40 +1,40 @@
 ID:	97940
-Title:	ブラッククローバー
 Title:	Black Clover
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Dissociative Identities
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Cult
-Tag:	Tsundere
-Tag:	Class Struggle
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Shounen
-Tag:	Male Protagonist
+Title:	ブラッククローバー
 Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Food
+Tag:	Demons
 Tag:	Travel
-Tag:	Nun
-Tag:	Suicide
+Tag:	Adoption
+Tag:	Food
+Tag:	Ensemble Cast
+Tag:	Conspiracy
 Tag:	Reincarnation
 Tag:	Orphan
-Tag:	Swordplay
-Tag:	Age Regression
-Tag:	Espionage
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Found Family
-Tag:	Tomboy
-Tag:	Cultivation
-Tag:	Revenge
-Tag:	Dungeon
+Tag:	Bullying
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Nun
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Kuudere
+Tag:	Love Triangle
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Elf
 Tag:	Disability
-Tag:	Demons
-Tag:	Adoption
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Magic
+Tag:	Found Family
+Tag:	Cult
+Tag:	Dungeon
+Tag:	Tomboy
+Tag:	Dissociative Identities
+Tag:	Age Regression
 Related:	131680
 Related:	78147
 Related:	87528

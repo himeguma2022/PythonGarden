@@ -1,33 +1,33 @@
 ID:	162985
-Title:	Metallic Rouge
 Title:	メタリックルージュ
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
+Title:	Metallic Rouge
 Tag:	Spearplay
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Martial Arts
-Tag:	Artificial Intelligence
+Tag:	Drugs
 Tag:	Space
-Tag:	Tanned Skin
-Tag:	Fugitive
-Tag:	Tokusatsu
+Tag:	Robots
 Tag:	Memory Manipulation
-Tag:	Class Struggle
 Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Female Protagonist
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Aliens
 Tag:	Cyberpunk
 Tag:	Guns
-Tag:	Drugs
-Tag:	Espionage
-Tag:	Assassins
-Tag:	Robots
-Tag:	Henshin
-Tag:	Tomboy
-Tag:	Dystopian
 Tag:	CGI
+Tag:	Class Struggle
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Primarily Adult Cast
+Tag:	Super Robot
+Tag:	Artificial Intelligence
+Tag:	Espionage
+Tag:	Fugitive
+Tag:	Tanned Skin
+Tag:	Crime
+Tag:	Martial Arts
+Tag:	Urban
+Tag:	Tokusatsu
+Tag:	Dissociative Identities
+Tag:	Tomboy
 Related:	94360
 Related:	173933

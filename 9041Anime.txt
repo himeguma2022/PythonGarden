@@ -1,22 +1,22 @@
 ID:	9041
-Title:	IS: Infinite Stratos
 Title:	IS〈インフィニット・ストラトス〉
+Title:	IS: Infinite Stratos
 Title:	Infinite Stratos
-Tag:	Primarily Female Cast
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Nudity
+Tag:	CGI
 Tag:	Real Robot
-Tag:	Crossdressing
+Tag:	Nudity
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Robots
-Tag:	Henshin
 Tag:	Heterosexual
-Tag:	Aviation
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Crossdressing
 Tag:	School Club
+Tag:	Female Harem
+Tag:	Primarily Female Cast
+Tag:	Aviation
+Tag:	Henshin
 Related:	6568
 Related:	6569
 Related:	10794

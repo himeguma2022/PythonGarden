@@ -1,27 +1,27 @@
 ID:	132474
-Title:	Skeleton Knight in Another World
-Title:	"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
 Title:	骸骨騎士様、只今異世界へお出掛け中
+Title:	Skeleton Knight in Another World
 Title:	Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu
-Tag:	Slavery
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Elf
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Male Protagonist
-Tag:	Politics
-Tag:	Skeleton
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Ninja
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	CGI
+Title:	"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
 Tag:	Demons
+Tag:	Politics
+Tag:	Conspiracy
+Tag:	Skeleton
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Male Protagonist
+Tag:	Nekomimi
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Gore
+Tag:	Elf
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Slavery
+Tag:	Magic
+Tag:	Ninja
 Related:	55827
 Related:	98900
 Related:	55828

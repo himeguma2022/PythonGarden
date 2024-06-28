@@ -2,15 +2,15 @@ ID:	10209
 Title:	これはゾンビですか? OVA
 Title:	Kore wa Zombie desu ka? OVA
 Title:	Is this a Zombie? OVA
-Tag:	Primarily Female Cast
-Tag:	Karuta
-Tag:	Female Harem
-Tag:	Ninja
-Tag:	Kuudere
 Tag:	Urban Fantasy
+Tag:	Kuudere
 Tag:	Vampire
-Tag:	Zombie
 Tag:	Magic
+Tag:	Ninja
+Tag:	Karuta
+Tag:	Zombie
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Tag:	Monster Girl
 Related:	7046
 Related:	10790

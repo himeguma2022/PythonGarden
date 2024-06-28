@@ -1,23 +1,23 @@
 ID:	97938
-Title:	BORUTO: NARUTO NEXT GENERATIONS
-Title:	BORUTO-ボルト- NARUTO NEXT GENERATIONS
 Title:	Boruto: Naruto Next Generations
+Title:	BORUTO-ボルト- NARUTO NEXT GENERATIONS
+Title:	BORUTO: NARUTO NEXT GENERATIONS
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Swordplay
+Tag:	Martial Arts
+Tag:	Adoption
+Tag:	Ninja
 Tag:	Primarily Child Cast
 Tag:	Time Manipulation
 Tag:	Aliens
-Tag:	Shounen
-Tag:	Swordplay
-Tag:	Dissociative Identities
-Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Episodic
 Tag:	School
-Tag:	Ninja
+Tag:	Dissociative Identities
 Tag:	Gods
+Tag:	Episodic
 Tag:	Anachronism
+Tag:	Shounen
 Tag:	Dinosaurs
-Tag:	Adoption
 Related:	121093
 Related:	87175
 Related:	87178

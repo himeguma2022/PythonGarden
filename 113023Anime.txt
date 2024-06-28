@@ -1,21 +1,21 @@
 ID:	113023
 Title:	少女☆歌劇 レヴュースタァライト ロンド・ロンド・ロンド
 Title:	Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo
-Tag:	Primarily Female Cast
-Tag:	Battle Royale
+Tag:	Fairy Tale
+Tag:	Acting
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Acting
-Tag:	Fairy Tale
 Tag:	Dancing
+Tag:	Meta
+Tag:	Battle Royale
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	School
+Tag:	Musical Theater
+Tag:	Yandere
+Tag:	Primarily Female Cast
 Tag:	Idol
 Tag:	Henshin
-Tag:	Yandere
-Tag:	Time Manipulation
-Tag:	Musical Theater
-Tag:	Meta
 Related:	113024
 Related:	98658
 Related:	36275

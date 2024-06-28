@@ -1,25 +1,25 @@
 ID:	11633
-Title:	ブラッドラッド
 Title:	Blood Lad
-Tag:	Love Triangle
+Title:	ブラッドラッド
+Tag:	Demons
+Tag:	Otaku Culture
+Tag:	Zombie
+Tag:	Skeleton
 Tag:	Isekai
+Tag:	Dragons
+Tag:	Afterlife
+Tag:	Male Protagonist
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Delinquents
+Tag:	Parody
 Tag:	Kuudere
-Tag:	Boxing
+Tag:	Love Triangle
+Tag:	Seinen
+Tag:	Nudity
 Tag:	Ghost
 Tag:	Werewolf
-Tag:	Male Protagonist
-Tag:	Parody
-Tag:	Afterlife
-Tag:	Skeleton
-Tag:	Seinen
-Tag:	Delinquents
-Tag:	Zombie
-Tag:	Vampire
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Otaku Culture
-Tag:	Demons
-Tag:	Dragons
+Tag:	Boxing
 Related:	7489
 Related:	21478
 Related:	18441

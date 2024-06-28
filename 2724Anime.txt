@@ -1,11 +1,11 @@
 ID:	2724
-Title:	DAICONⅢ オープニングアニメ
 Title:	DAICON III Opening Animation
-Tag:	No Dialogue
-Tag:	Crossover
-Tag:	Female Protagonist
-Tag:	Parody
+Title:	DAICONⅢ オープニングアニメ
 Tag:	Time Skip
+Tag:	Female Protagonist
+Tag:	No Dialogue
+Tag:	Parody
+Tag:	Crossover
 Tag:	Otaku Culture
 Tag:	Kaiju
 Related:	30248

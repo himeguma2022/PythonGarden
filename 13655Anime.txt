@@ -1,23 +1,23 @@
 ID:	13655
 Title:	リトルバスターズ!
 Title:	Little Busters!
-Tag:	Tragedy
-Tag:	School Club
-Tag:	Cute Girls Doing Cute Things
-Tag:	Orphan
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Baseball
-Tag:	Ensemble Cast
 Tag:	Urban Fantasy
 Tag:	Kuudere
-Tag:	School
-Tag:	Crossdressing
-Tag:	Memory Manipulation
-Tag:	Found Family
 Tag:	Twins
-Tag:	Coming of Age
+Tag:	Cute Girls Doing Cute Things
+Tag:	Baseball
 Tag:	Foreign
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Orphan
+Tag:	School Club
+Tag:	Found Family
+Tag:	Slapstick
+Tag:	Coming of Age
 Related:	7868
 Related:	30951
 Related:	55912

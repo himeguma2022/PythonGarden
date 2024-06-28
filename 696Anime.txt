@@ -1,18 +1,18 @@
 ID:	696
+Title:	天地無用！
 Title:	Tenchi Muyou!
 Title:	Tenchi Muyo! Tenchi Universe
-Title:	天地無用！
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	Female Harem
 Tag:	Space
-Tag:	Fugitive
+Tag:	Aliens
 Tag:	Gyaru
-Tag:	Henshin
+Tag:	Female Harem
+Tag:	Love Triangle
 Tag:	Ojou-sama
 Tag:	Police
+Tag:	Primarily Female Cast
+Tag:	Fugitive
+Tag:	Henshin
 Related:	48329
 Related:	65227
 Related:	1101

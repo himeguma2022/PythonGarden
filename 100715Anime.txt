@@ -1,20 +1,20 @@
 ID:	100715
+Title:	Magical Girl Ore
 Title:	魔法少女 俺
 Title:	Mahou Shoujo Ore
-Title:	Magical Girl Ore
-Tag:	Yakuza
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	Gender Bending
 Tag:	Parody
-Tag:	LGBTQ+ Themes
-Tag:	Crossdressing
-Tag:	Fairy
-Tag:	Henshin
-Tag:	Magic
+Tag:	Female Protagonist
 Tag:	Gore
+Tag:	Gender Bending
+Tag:	Magic
 Tag:	Meta
+Tag:	Slapstick
+Tag:	Crossdressing
+Tag:	Yakuza
+Tag:	Fairy
+Tag:	LGBTQ+ Themes
 Tag:	Idol
+Tag:	Henshin
 Related:	21643
 Related:	86899

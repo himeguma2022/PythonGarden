@@ -1,13 +1,13 @@
 ID:	1284
-Title:	Jewel BEM Hunter Lime
-Title:	宝魔ハンターライム
 Title:	Houma Hunter Lime
-Tag:	Transgender
+Title:	宝魔ハンターライム
+Title:	Jewel BEM Hunter Lime
 Tag:	Primarily Teen Cast
-Tag:	Isekai
-Tag:	Urban
 Tag:	Elf
 Tag:	Anthropomorphism
-Tag:	Henshin
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Transgender
+Tag:	Magic
+Tag:	Urban
+Tag:	Isekai
+Tag:	Henshin

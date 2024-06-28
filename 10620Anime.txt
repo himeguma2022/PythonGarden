@@ -1,47 +1,47 @@
 ID:	10620
-Title:	未来日記
-Title:	Mirai Nikki
 Title:	The Future Diary
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Boys' Love
+Title:	Mirai Nikki
+Title:	未来日記
 Tag:	Clone
-Tag:	Urban
-Tag:	Tanned Skin
-Tag:	Gods
-Tag:	Cult
+Tag:	Adoption
+Tag:	Rape
+Tag:	Alternate Universe
+Tag:	Psychosexual
+Tag:	Stop Motion
+Tag:	Orphan
+Tag:	Yandere
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Survival
+Tag:	Guns
+Tag:	CGI
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Anti-Hero
 Tag:	Gore
+Tag:	Battle Royale
+Tag:	Boys' Love
+Tag:	Police
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Crime
+Tag:	Nudity
+Tag:	Disability
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Gods
 Tag:	Netorare
 Tag:	Death Game
-Tag:	Crime
-Tag:	Stop Motion
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Guns
-Tag:	Orphan
-Tag:	Terrorism
-Tag:	Survival
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Age Gap
 Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Psychosexual
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Rape
-Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Disability
-Tag:	Bisexual
-Tag:	Alternate Universe
-Tag:	Adoption
 Related:	7226
 Related:	8460
 Related:	12503

@@ -1,30 +1,30 @@
 ID:	137281
 Title:	阿波連さんははかれない
 Title:	Aharen-san wa Hakarenai
-Tag:	Teacher
-Tag:	Basketball
-Tag:	Slapstick
-Tag:	Shogi
-Tag:	Baseball
-Tag:	Kuudere
 Tag:	Crossdressing
-Tag:	Table Tennis
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Parody
-Tag:	Meta
-Tag:	School
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Outdoor
 Tag:	Surreal Comedy
-Tag:	Fishing
+Tag:	School
+Tag:	Shogi
+Tag:	Outdoor
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Basketball
+Tag:	Episodic
+Tag:	Slapstick
 Tag:	CGI
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Baseball
+Tag:	Table Tennis
+Tag:	Shounen
+Tag:	Teacher
+Tag:	Primarily Teen Cast
+Tag:	Animals
+Tag:	Fishing
 Related:	147728
 Related:	60603
 Related:	75109

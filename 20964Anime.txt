@@ -1,25 +1,25 @@
 ID:	20964
+Title:	パンチライン
 Title:	Punch Line
 Title:	PUNCH LINE
-Title:	パンチライン
-Tag:	Tragedy
-Tag:	Super Power
+Tag:	Military
+Tag:	Robots
+Tag:	Alternate Universe
 Tag:	Bullying
+Tag:	Afterlife
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Bisexual
+Tag:	Time Loop
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Time Manipulation
 Tag:	Primarily Female Cast
+Tag:	Urban Fantasy
+Tag:	Gender Bending
 Tag:	Ghost
 Tag:	Transgender
-Tag:	Cute Girls Doing Cute Things
-Tag:	Gender Bending
-Tag:	Afterlife
-Tag:	Time Manipulation
-Tag:	Urban Fantasy
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Time Loop
-Tag:	Superhero
-Tag:	Military
 Tag:	Body Swapping
-Tag:	Bisexual
-Tag:	Alternate Universe
+Tag:	Tragedy
 Related:	39313
 Related:	86407

@@ -1,14 +1,14 @@
 ID:	98310
-Title:	THE IDOLM@STER Side M
 Title:	アイドルマスター SideM
+Title:	THE IDOLM@STER Side M
 Title:	The Idolm@ster SideM
-Tag:	Cute Boys Doing Cute Things
 Tag:	Male Protagonist
+Tag:	Work
+Tag:	Dancing
 Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
 Tag:	Primarily Male Cast
 Tag:	LGBTQ+ Themes
-Tag:	Dancing
-Tag:	Work
 Tag:	Idol
 Related:	22594
 Related:	10278

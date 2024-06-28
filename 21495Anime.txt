@@ -1,17 +1,17 @@
 ID:	21495
-Title:	Tanaka-kun is Always Listless
 Title:	田中くんはいつもけだるげ
 Title:	Tanaka-kun wa Itsumo Kedaruge
-Tag:	Iyashikei
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Shounen
+Title:	Tanaka-kun is Always Listless
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
 Tag:	Tsundere
+Tag:	Iyashikei
+Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	School
+Tag:	Episodic
+Tag:	Shounen
 Related:	11238
 Related:	21800
 Related:	85898

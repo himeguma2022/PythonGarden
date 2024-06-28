@@ -1,24 +1,24 @@
 ID:	114555
-Title:	All Saints Street
-Title:	万圣街
 Title:	Wan Sheng Jie
-Tag:	Kemonomimi
-Tag:	Cute Boys Doing Cute Things
-Tag:	Werewolf
-Tag:	Urban
-Tag:	Angels
+Title:	万圣街
+Title:	All Saints Street
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
 Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
+Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Primarily Adult Cast
 Tag:	Vampire
 Tag:	Shapeshifting
-Tag:	LGBTQ+ Themes
-Tag:	Video Games
-Tag:	Demons
-Tag:	Primarily Adult Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Urban
+Tag:	Primarily Male Cast
+Tag:	Angels
+Tag:	Werewolf
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Video Games
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
 Related:	122497
 Related:	71398
 Related:	45770

@@ -1,27 +1,27 @@
 ID:	1210
-Title:	Welcome to the N-H-K
 Title:	N・H・Kにようこそ！
+Title:	Welcome to the N-H-K
 Title:	NHK ni Youkoso!
-Tag:	Tragedy
-Tag:	Disability
-Tag:	Denpa
-Tag:	Software Development
-Tag:	Trains
-Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Male Protagonist
 Tag:	Politics
-Tag:	Suicide
-Tag:	Video Games
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Hikikomori
 Tag:	Psychosexual
-Tag:	Philosophy
-Tag:	Yandere
 Tag:	Otaku Culture
+Tag:	Trains
+Tag:	Conspiracy
+Tag:	Video Games
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Primarily Adult Cast
+Tag:	Hikikomori
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Nudity
+Tag:	Disability
+Tag:	Software Development
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Philosophy
 Related:	40793
 Related:	35249
 Related:	2036

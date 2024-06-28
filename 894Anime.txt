@@ -1,14 +1,14 @@
 ID:	894
 Title:	Dragon Ball Z: Dead Zone
-Title:	Dragon Ball Z: Ora no Gohan wo Kaese!!
 Title:	ドラゴンボールZ オラの悟飯をかえせッ!!
-Tag:	Aliens
-Tag:	Super Power
-Tag:	Shounen
+Title:	Dragon Ball Z: Ora no Gohan wo Kaese!!
 Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Gods
+Tag:	Super Power
 Tag:	Demons
+Tag:	Martial Arts
+Tag:	Aliens
+Tag:	Gods
+Tag:	Shounen
 Related:	138864
 Related:	62003
 Related:	1588

@@ -1,35 +1,35 @@
 ID:	249
 Title:	犬夜叉
-Title:	InuYasha
 Title:	Inuyasha
-Tag:	Historical
-Tag:	Archery
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Shrine Maiden
-Tag:	Tsundere
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Body Horror
-Tag:	Travel
-Tag:	Youkai
-Tag:	Monster Girl
-Tag:	Time Manipulation
-Tag:	Reincarnation
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Age Gap
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Revenge
-Tag:	Monster Boy
-Tag:	Shapeshifting
+Title:	InuYasha
 Tag:	Demons
+Tag:	Travel
+Tag:	Archery
+Tag:	Reincarnation
+Tag:	Youkai
+Tag:	Isekai
+Tag:	Monster Girl
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Episodic
+Tag:	Age Gap
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Love Triangle
+Tag:	Historical
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Magic
+Tag:	Monster Boy
+Tag:	Body Horror
+Tag:	Rural
 Related:	449
 Related:	450
 Related:	451

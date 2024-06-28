@@ -1,23 +1,23 @@
 ID:	124756
-Title:	ゴールデンカムイ 第二期 OVA
-Title:	MONSTER
 Title:	Golden Kamuy 2nd Season OVA
-Tag:	Guns
+Title:	MONSTER
+Title:	ゴールデンカムイ 第二期 OVA
 Tag:	Seinen
-Tag:	Historical
 Tag:	Crime
-Tag:	Archery
-Tag:	Survival
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Fugitive
-Tag:	Military
 Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Military
 Tag:	Animals
+Tag:	Fugitive
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Primarily Male Cast
+Tag:	Survival
+Tag:	Historical
 Tag:	Anti-Hero
 Tag:	Zoophilia
 Tag:	Rural
-Tag:	Primarily Adult Cast
+Tag:	Guns
 Related:	102977
 Related:	86559
 Related:	47926

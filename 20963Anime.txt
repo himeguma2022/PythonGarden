@@ -1,19 +1,19 @@
 ID:	20963
+Title:	Beyond the Boundary -I'LL BE HERE-: Future
 Title:	劇場版 境界の彼方 I'LL BE HERE 未来篇
 Title:	Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
-Title:	Beyond the Boundary -I'LL BE HERE-: Future
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	Magic
-Tag:	Amnesia
 Tag:	Demons
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
+Tag:	Amnesia
+Tag:	Magic
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	Tragedy
 Related:	20768
 Related:	9827
 Related:	9828

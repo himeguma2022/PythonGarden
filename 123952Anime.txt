@@ -1,11 +1,11 @@
 ID:	123952
 Title:	Dazzling White Town
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Motorcycles
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
+Tag:	Cute Girls Doing Cute Things
+Tag:	Motorcycles
+Tag:	Primarily Female Cast
 Tag:	Virtual World
 Tag:	Idol
 Related:	21584

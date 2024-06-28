@@ -1,24 +1,24 @@
 ID:	129963
 Title:	『ホロライブ・オルタナティブ』 ティザーPVs
 Title:	HOLOLIVE ALTERNATIVE Teaser PVs
-Tag:	Witch
-Tag:	Succubus
-Tag:	No Dialogue
-Tag:	Kemonomimi
-Tag:	Primarily Female Cast
 Tag:	Swordplay
 Tag:	VTuber
+Tag:	No Dialogue
+Tag:	Kemonomimi
+Tag:	Demons
+Tag:	Elf
+Tag:	Succubus
+Tag:	Advertisement
+Tag:	Magic
+Tag:	Robots
+Tag:	Maids
 Tag:	Alternate Universe
 Tag:	Pirates
-Tag:	Elf
-Tag:	Shrine Maiden
-Tag:	Idol
-Tag:	Robots
-Tag:	Magic
-Tag:	Maids
-Tag:	Demons
-Tag:	Advertisement
+Tag:	Witch
 Tag:	Dragons
+Tag:	Primarily Female Cast
+Tag:	Idol
+Tag:	Shrine Maiden
 Related:	53337
 Related:	53346
 Related:	118123

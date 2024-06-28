@@ -1,20 +1,20 @@
 ID:	124675
+Title:	Osananajimi ga Zettai ni Makenai Love Come
 Title:	Osamake: Romcom Where The Childhood Friend Won't Lose
 Title:	幼なじみが絶対に負けないラブコメ
-Title:	Osananajimi ga Zettai ni Makenai Love Come
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	School Club
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Acting
 Tag:	Amnesia
+Tag:	Heterosexual
+Tag:	Revenge
 Tag:	Crossdressing
 Tag:	Memory Manipulation
-Tag:	Heterosexual
+Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Tomboy
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	47783
 Related:	110461

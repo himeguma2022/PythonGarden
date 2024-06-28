@@ -1,18 +1,18 @@
 ID:	11771
-Title:	Kuroko no Basket
 Title:	黒子のバスケ
+Title:	Kuroko no Basket
 Title:	Kuroko's Basketball
-Tag:	Tomboy
-Tag:	Basketball
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
 Tag:	Tanned Skin
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Tomboy
+Tag:	Basketball
+Tag:	Shounen
 Related:	81924
 Related:	7527
 Related:	7528

@@ -1,13 +1,13 @@
 ID:	20512
-Title:	Wake Up, Girls! The Movie
-Title:	Wake Up, Girls! 七人のアイドル
-Title:	"Wake Up, Girls! Shichinin no Idol"
 Title:	Wake Up, Girls! Shichinin no Idol
-Tag:	Primarily Female Cast
+Title:	"Wake Up, Girls! Shichinin no Idol"
+Title:	Wake Up, Girls! 七人のアイドル
+Title:	Wake Up, Girls! The Movie
 Tag:	Cute Girls Doing Cute Things
-Tag:	Ensemble Cast
 Tag:	Dancing
+Tag:	Ensemble Cast
 Tag:	Musical Theater
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	8803
 Related:	91591

@@ -1,35 +1,35 @@
 ID:	99699
-Title:	ゴールデンカムイ
 Title:	Golden Kamuy
-Tag:	Historical
+Title:	ゴールデンカムイ
+Tag:	Food
+Tag:	Military
+Tag:	Ensemble Cast
 Tag:	Archery
+Tag:	Primarily Male Cast
+Tag:	Outdoor
+Tag:	Male Protagonist
 Tag:	Oiran
-Tag:	Gore
 Tag:	Snowscape
+Tag:	Survival
+Tag:	Episodic
+Tag:	War
+Tag:	Guns
+Tag:	CGI
+Tag:	Assassins
+Tag:	Anti-Hero
+Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Historical
+Tag:	Torture
+Tag:	Seinen
 Tag:	Crime
+Tag:	Gender Bending
 Tag:	Transgender
 Tag:	Educational
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Torture
-Tag:	Body Horror
-Tag:	Gender Bending
-Tag:	Seinen
-Tag:	Guns
-Tag:	Medicine
-Tag:	Survival
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Assassins
 Tag:	LGBTQ+ Themes
-Tag:	Twins
-Tag:	Outdoor
-Tag:	CGI
-Tag:	Military
-Tag:	Anti-Hero
+Tag:	Body Horror
+Tag:	Medicine
 Related:	102977
 Related:	23012
 Related:	101830

@@ -1,25 +1,25 @@
 ID:	14513
 Title:	Magi: The Labyrinth of Magic
-Title:	マギ The labyrinth of magic
 Title:	Magi: The labyrinth of magic
-Tag:	Tragedy
-Tag:	Slavery
-Tag:	Desert
-Tag:	Dungeon
-Tag:	Shounen
-Tag:	Swordplay
+Title:	マギ The labyrinth of magic
 Tag:	Male Protagonist
-Tag:	Economics
-Tag:	Primarily Male Cast
+Tag:	Swordplay
 Tag:	Tanned Skin
-Tag:	Politics
-Tag:	War
-Tag:	Travel
+Tag:	Economics
 Tag:	Nudity
+Tag:	Desert
+Tag:	Travel
+Tag:	Slavery
 Tag:	Magic
-Tag:	Royal Affairs
+Tag:	Politics
 Tag:	Kingdom Management
 Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Tragedy
+Tag:	Royal Affairs
+Tag:	Dungeon
+Tag:	Shounen
+Tag:	War
 Related:	20609
 Related:	18115
 Related:	10573

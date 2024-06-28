@@ -1,31 +1,31 @@
 ID:	7785
-Title:	四畳半神話大系
-Title:	Yojouhan Shinwa Taikei
 Title:	The Tatami Galaxy
-Tag:	Satire
-Tag:	College
-Tag:	Gods
-Tag:	Cult
-Tag:	Cycling
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Proxy Battle
-Tag:	Mythology
-Tag:	Cowboys
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	School Club
-Tag:	Surreal Comedy
-Tag:	Time Loop
-Tag:	Achronological Order
-Tag:	Philosophy
+Title:	Yojouhan Shinwa Taikei
+Title:	四畳半神話大系
 Tag:	Tennis
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Mythology
+Tag:	Cycling
+Tag:	Coming of Age
+Tag:	Satire
+Tag:	Male Protagonist
+Tag:	Time Loop
+Tag:	Heterosexual
+Tag:	Achronological Order
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Cowboys
+Tag:	Episodic
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Proxy Battle
+Tag:	Cult
+Tag:	Gods
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	78603
 Related:	19244
 Related:	6166

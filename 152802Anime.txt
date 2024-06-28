@@ -1,31 +1,31 @@
 ID:	152802
-Title:	ダークギャザリング
 Title:	Dark Gathering
-Tag:	Tragedy
-Tag:	Oiran
-Tag:	College
-Tag:	Gods
-Tag:	Denpa
+Title:	ダークギャザリング
+Tag:	Rape
 Tag:	Cannibalism
-Tag:	Gore
-Tag:	Cars
-Tag:	Body Swapping
-Tag:	Ghost
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Yandere
 Tag:	Afterlife
-Tag:	Body Horror
+Tag:	Male Protagonist
+Tag:	Oiran
+Tag:	Incest
+Tag:	Cars
+Tag:	Heterosexual
+Tag:	Episodic
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	College
+Tag:	Hikikomori
+Tag:	Necromancy
+Tag:	Denpa
+Tag:	Shounen
 Tag:	Suicide
 Tag:	Urban Fantasy
-Tag:	Necromancy
-Tag:	Heterosexual
-Tag:	Hikikomori
-Tag:	Incest
+Tag:	Ghost
 Tag:	Revenge
-Tag:	Rape
-Tag:	Yandere
+Tag:	Body Swapping
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Body Horror
 Related:	109608
 Related:	76219

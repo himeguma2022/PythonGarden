@@ -1,11 +1,11 @@
 ID:	8995
+Title:	Tales of Symphonia: The Animation - The United World Arc
 Title:	Tales of Symphonia THE ANIMATION: Sekai Tougou-hen
 Title:	テイルズ オブ シンフォニア THE ANIMATION 世界統合編
-Title:	Tales of Symphonia: The Animation - The United World Arc
-Tag:	Swordplay
-Tag:	Magic
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Elf
+Tag:	Magic
 Related:	5306
 Related:	6555
 Related:	6556

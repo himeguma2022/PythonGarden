@@ -1,39 +1,39 @@
 ID:	1735
 Title:	NARUTO -ナルト- 疾風伝
-Title:	Naruto: Shippuden
 Title:	NARUTO: Shippuuden
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Time Skip
-Tag:	Slapstick
-Tag:	Martial Arts
-Tag:	Gods
-Tag:	Fugitive
-Tag:	Unrequited Love
-Tag:	Anachronism
-Tag:	Conspiracy
-Tag:	Kaiju
-Tag:	Shounen
-Tag:	Estranged Family
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Politics
+Title:	Naruto: Shippuden
 Tag:	Travel
-Tag:	Orphan
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Necromancy
-Tag:	Ninja
-Tag:	Nudity
-Tag:	War
-Tag:	Coming of Age
-Tag:	Cultivation
-Tag:	Revenge
-Tag:	Superhero
-Tag:	Shapeshifting
 Tag:	Military
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	Orphan
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Unrequited Love
+Tag:	Cultivation
+Tag:	Shapeshifting
+Tag:	Aliens
+Tag:	Anachronism
+Tag:	War
+Tag:	Slapstick
+Tag:	Swordplay
+Tag:	Necromancy
+Tag:	Shounen
+Tag:	Fugitive
+Tag:	Estranged Family
+Tag:	Nudity
+Tag:	Terrorism
+Tag:	Gender Bending
+Tag:	Martial Arts
+Tag:	Revenge
+Tag:	Ninja
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Kaiju
 Tag:	Anti-Hero
 Related:	97938
 Related:	20

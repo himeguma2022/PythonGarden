@@ -2,18 +2,18 @@ ID:	156067
 Title:	Tondemo Skill de Isekai Hourou Meshi
 Title:	Campfire Cooking in Another World with my Absurd Skill
 Title:	とんでもスキルで異世界放浪メシ
-Tag:	Iyashikei
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Economics
-Tag:	Food
-Tag:	Gods
-Tag:	Travel
-Tag:	Goblin
-Tag:	Animals
-Tag:	Magic
-Tag:	Found Family
 Tag:	Work
+Tag:	Economics
+Tag:	Goblin
+Tag:	Food
+Tag:	Travel
+Tag:	Magic
+Tag:	Animals
+Tag:	Iyashikei
+Tag:	Found Family
+Tag:	Gods
+Tag:	Isekai
 Tag:	Dragons
 Related:	99049
 Related:	98608

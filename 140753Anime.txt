@@ -1,13 +1,13 @@
 ID:	140753
-Title:	SHINE POST
 Title:	SHINEPOST
 Title:	シャインポスト
-Tag:	Primarily Female Cast
+Title:	SHINE POST
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
 Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
 Tag:	Dancing
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	68256
 Related:	169825

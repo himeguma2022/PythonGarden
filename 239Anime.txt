@@ -1,33 +1,33 @@
 ID:	239
-Title:	Gankutsuou
-Title:	Gankutsuou: The Count of Monte Cristo
 Title:	巌窟王
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Space
-Tag:	Tanned Skin
-Tag:	Anachronism
-Tag:	Crossdressing
-Tag:	Transgender
-Tag:	Male Protagonist
-Tag:	Foreign
-Tag:	Urban Fantasy
-Tag:	Vampire
-Tag:	Space Opera
-Tag:	LGBTQ+ Themes
-Tag:	Classic Literature
-Tag:	Heterosexual
-Tag:	Incest
-Tag:	Revenge
-Tag:	CGI
-Tag:	Rape
+Title:	Gankutsuou: The Count of Monte Cristo
+Title:	Gankutsuou
 Tag:	Military
-Tag:	Anti-Hero
+Tag:	Space
+Tag:	Rape
+Tag:	Foreign
+Tag:	Crossdressing
+Tag:	Male Protagonist
+Tag:	Space Opera
+Tag:	Incest
 Tag:	Bisexual
+Tag:	Vampire
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	Anachronism
+Tag:	Classic Literature
+Tag:	CGI
+Tag:	Anti-Hero
+Tag:	Love Triangle
+Tag:	Boys' Love
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Revenge
+Tag:	Transgender
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	LGBTQ+ Themes
 Related:	32923
 Related:	88653
 Related:	32925

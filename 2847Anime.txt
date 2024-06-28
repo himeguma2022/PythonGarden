@@ -2,12 +2,12 @@ ID:	2847
 Title:	ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ
 Title:	Pocket Monsters Diamond & Pearl: Dialga VS Palkia VS Darkrai
 Title:	Pokémon: The Rise of Darkrai
-Tag:	Kids
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Kids
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Tragedy
 Tag:	Dragons
 Related:	39175
 Related:	39177

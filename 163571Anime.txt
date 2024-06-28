@@ -1,17 +1,17 @@
 ID:	163571
 Title:	BanG Dream! It's MyGO!!!!!
-Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	POV
+Tag:	Primarily Female Cast
 Tag:	Disability
-Tag:	Rock Music
+Tag:	Full CGI
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Tragedy
+Tag:	School
+Tag:	Rock Music
+Tag:	Band
+Tag:	POV
 Related:	85793
 Related:	85795
 Related:	117765

@@ -1,24 +1,24 @@
 ID:	7311
 Title:	涼宮ハルヒの消失
-Title:	Suzumiya Haruhi no Shoushitsu
 Title:	The Disappearance of Haruhi Suzumiya
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Primarily Teen Cast
+Title:	Suzumiya Haruhi no Shoushitsu
 Tag:	Male Protagonist
-Tag:	Alternate Universe
+Tag:	Primarily Teen Cast
 Tag:	Urban Fantasy
-Tag:	School
 Tag:	Kuudere
-Tag:	Gods
 Tag:	Unrequited Love
-Tag:	Philosophy
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Time Manipulation
-Tag:	Coming of Age
 Tag:	Snowscape
+Tag:	Tsundere
+Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Aliens
 Tag:	School Club
+Tag:	Tragedy
+Tag:	School
+Tag:	Memory Manipulation
+Tag:	Gods
+Tag:	Philosophy
+Tag:	Coming of Age
 Related:	35621
 Related:	54279
 Related:	6024

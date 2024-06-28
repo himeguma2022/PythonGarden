@@ -1,23 +1,23 @@
 ID:	142684
-Title:	GRIDMAN UNIVERSE
 Title:	グリッドマン ユニバース
-Tag:	Henshin
-Tag:	Super Robot
+Title:	GRIDMAN UNIVERSE
 Tag:	Primarily Teen Cast
 Tag:	Crossover
-Tag:	Urban
-Tag:	Alternate Universe
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Tokusatsu
 Tag:	Amnesia
-Tag:	Denpa
-Tag:	Gods
-Tag:	Meta
-Tag:	Memory Manipulation
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Super Robot
+Tag:	Alternate Universe
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Memory Manipulation
+Tag:	Tokusatsu
+Tag:	School
 Tag:	Kaiju
+Tag:	Gods
+Tag:	Denpa
+Tag:	Coming of Age
+Tag:	Henshin
 Related:	66253
 Related:	166765
 Related:	158991

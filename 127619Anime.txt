@@ -1,19 +1,19 @@
 ID:	127619
 Title:	Aggretsuko: Season 4
-Title:	Aggressive Retsuko Season 4
 Title:	アグレッシブ烈子 シーズン4
-Tag:	Flash
-Tag:	Metal Music
+Title:	Aggressive Retsuko Season 4
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Primarily Adult Cast
+Tag:	Chibi
+Tag:	Animals
 Tag:	Office Lady
 Tag:	Urban
-Tag:	Primarily Animal Cast
-Tag:	Female Protagonist
+Tag:	Metal Music
 Tag:	Espionage
-Tag:	Anthropomorphism
-Tag:	Animals
-Tag:	Chibi
-Tag:	Work
-Tag:	Primarily Adult Cast
+Tag:	Primarily Animal Cast
+Tag:	Flash
 Related:	110857
 Related:	50850
 Related:	78102

@@ -1,6 +1,6 @@
 ID:	99841
-Title:	ばくおん!!の小部屋
 Title:	Bakuon!! no Kobeya
+Title:	ばくおん!!の小部屋
 Tag:	Seinen
 Related:	20696
 Related:	61337

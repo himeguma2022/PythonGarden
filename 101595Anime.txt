@@ -1,16 +1,16 @@
 ID:	101595
 Title:	プリンセス・プリンシパル Crown Handler 第1章
-Title:	Princess Principal: Crown Handler - Chapter 1
 Title:	Princess Principal: ~Crown Handler~ 1
-Tag:	Guns
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Kuudere
-Tag:	Espionage
+Title:	Princess Principal: Crown Handler - Chapter 1
 Tag:	Assassins
-Tag:	Steampunk
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
 Tag:	Foreign
+Tag:	Steampunk
+Tag:	Espionage
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	22688
 Related:	58503
 Related:	98505

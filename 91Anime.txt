@@ -1,7 +1,7 @@
 ID:	91
-Title:	新機動戦記ガンダムW Endless Waltz
 Title:	Shin Kidou Senki Gundam Wing: Endless Waltz
 Title:	Mobile Suit Gundam Wing: Endless Waltz
+Title:	新機動戦記ガンダムW Endless Waltz
 Tag:	Military
 Tag:	Space
 Related:	31936

@@ -1,22 +1,22 @@
 ID:	100401
 Title:	ピアノの森 (TV)
-Title:	Piano no Mori (TV)
 Title:	Forest of Piano
-Tag:	Bullying
-Tag:	Teacher
-Tag:	Outdoor
-Tag:	Educational
-Tag:	CGI
-Tag:	Urban
-Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Bar
-Tag:	Philosophy
-Tag:	Classical Music
-Tag:	Seinen
+Title:	Piano no Mori (TV)
 Tag:	Time Skip
-Tag:	Coming of Age
+Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Classical Music
+Tag:	Outdoor
 Tag:	Foreign
+Tag:	Urban
+Tag:	Primarily Male Cast
+Tag:	Educational
+Tag:	Bullying
+Tag:	Philosophy
+Tag:	Bar
+Tag:	Teacher
+Tag:	Coming of Age
 Related:	2594
 Related:	103049
 Related:	24183

@@ -1,23 +1,23 @@
 ID:	98505
-Title:	プリンセス・プリンシパル
 Title:	Princess Principal
-Tag:	Guns
-Tag:	Yuri
-Tag:	Historical
-Tag:	Primarily Female Cast
+Title:	プリンセス・プリンシパル
 Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Kuudere
-Tag:	Espionage
 Tag:	Assassins
-Tag:	Achronological Order
-Tag:	Trains
-Tag:	Steampunk
-Tag:	Anti-Hero
+Tag:	Yuri
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Female Protagonist
 Tag:	Foreign
+Tag:	Trains
+Tag:	School
+Tag:	Steampunk
+Tag:	Espionage
+Tag:	Historical
+Tag:	Episodic
+Tag:	Anti-Hero
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	22689
 Related:	113223
 Related:	100519

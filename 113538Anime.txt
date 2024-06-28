@@ -1,18 +1,18 @@
 ID:	113538
-Title:	ハイキュー!! TO THE TOP 2
 Title:	Haikyuu!! TO THE TOP 2
 Title:	HAIKYU‼ TO THE TOP Part 2
-Tag:	Tomboy
+Title:	ハイキュー!! TO THE TOP 2
+Tag:	Male Protagonist
 Tag:	Primarily Teen Cast
 Tag:	Shounen
-Tag:	Male Protagonist
+Tag:	Twins
 Tag:	Ensemble Cast
+Tag:	School Club
 Tag:	Primarily Male Cast
 Tag:	Volleyball
+Tag:	Tomboy
 Tag:	Philosophy
-Tag:	Twins
 Tag:	Coming of Age
-Tag:	School Club
 Related:	106625
 Related:	36933
 Related:	76885

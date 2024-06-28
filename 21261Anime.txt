@@ -1,23 +1,23 @@
 ID:	21261
-Title:	Mr. Osomatsu
 Title:	おそ松さん
 Title:	Osomatsu-san
-Tag:	Surreal Comedy
-Tag:	Cute Boys Doing Cute Things
-Tag:	Slapstick
-Tag:	Male Protagonist
+Title:	Mr. Osomatsu
 Tag:	Satire
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Primarily Male Cast
-Tag:	Parody
-Tag:	Nekomimi
 Tag:	Femboy
-Tag:	Hikikomori
-Tag:	Otaku Culture
-Tag:	Twins
+Tag:	Male Protagonist
+Tag:	Parody
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Twins
+Tag:	Hikikomori
+Tag:	Episodic
 Tag:	Meta
+Tag:	Cute Boys Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	Otaku Culture
+Tag:	Primarily Male Cast
+Tag:	Nekomimi
+Tag:	Slapstick
 Related:	98565
 Related:	21510
 Related:	135177

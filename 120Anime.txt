@@ -1,23 +1,23 @@
 ID:	120
-Title:	フルーツバスケット
 Title:	Fruits Basket
-Tag:	Tragedy
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Family Life
+Title:	フルーツバスケット
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Kuudere
-Tag:	Male Harem
-Tag:	Philosophy
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Badminton
-Tag:	Animals
+Tag:	Kuudere
+Tag:	Family Life
 Tag:	Heterosexual
+Tag:	Male Harem
+Tag:	Animals
 Tag:	Found Family
+Tag:	Shoujo
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	School
+Tag:	Reincarnation
+Tag:	Love Triangle
+Tag:	Philosophy
 Related:	26712
 Related:	310
 Related:	30102

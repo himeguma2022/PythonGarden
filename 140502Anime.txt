@@ -3,11 +3,11 @@ Title:	Ryman's Club
 Title:	Salaryman's Club
 Title:	リーマンズクラブ
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Office
+Tag:	Work
 Tag:	Badminton
 Tag:	Disability
-Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Office
+Tag:	Primarily Male Cast
 Related:	170024
 Related:	90647

@@ -1,23 +1,23 @@
 ID:	8557
-Title:	Squid Girl
 Title:	侵略!イカ娘
+Title:	Squid Girl
 Title:	Shinryaku! Ika Musume
+Tag:	Chuunibyou
+Tag:	Work
+Tag:	Tanned Skin
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Found Family
+Tag:	Slapstick
 Tag:	Tomboy
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
 Tag:	Primarily Female Cast
 Tag:	Monster Girl
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
 Tag:	Coastal
-Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Tanned Skin
-Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Chibi
-Tag:	Work
-Tag:	Found Family
 Related:	9888
 Related:	10849
 Related:	6437

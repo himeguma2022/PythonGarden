@@ -1,18 +1,18 @@
 ID:	20503
 Title:	ウィッチクラフトワークス
 Title:	Witch Craft Works
-Tag:	Witch
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	School Club
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Seinen
+Tag:	Incest
 Tag:	Kuudere
 Tag:	Amnesia
-Tag:	Seinen
-Tag:	Magic
 Tag:	Heterosexual
-Tag:	Incest
+Tag:	Magic
+Tag:	Surreal Comedy
+Tag:	School Club
+Tag:	School
+Tag:	Witch
+Tag:	Primarily Female Cast
 Related:	49896
 Related:	9034
 Related:	23766

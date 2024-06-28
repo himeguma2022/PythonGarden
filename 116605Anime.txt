@@ -1,28 +1,28 @@
 ID:	116605
-Title:	デート・ア・ライブIV
 Title:	Date A Live IV
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Artificial Intelligence
+Title:	デート・ア・ライブIV
+Tag:	Fairy Tale
 Tag:	Space
-Tag:	Kuudere
 Tag:	Memory Manipulation
+Tag:	School
+Tag:	Yandere
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Time Manipulation
 Tag:	Witch
 Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Fairy Tale
-Tag:	Parody
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Female Harem
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Heterosexual
 Tag:	CGI
-Tag:	Yandere
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Urban Fantasy
+Tag:	Ghost
+Tag:	Tragedy
 Tag:	Idol
 Related:	40003
 Related:	67523

@@ -1,24 +1,24 @@
 ID:	125426
 Title:	The Way of the Househusband
-Title:	極主夫道
 Title:	Gokushufudou
-Tag:	Guns
+Title:	極主夫道
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Parody
 Tag:	Crime
-Tag:	Flash
+Tag:	Gangs
+Tag:	Mafia
+Tag:	Food
+Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Urban
 Tag:	Yakuza
 Tag:	Educational
-Tag:	Slapstick
-Tag:	Male Protagonist
-Tag:	Urban
-Tag:	Gangs
-Tag:	Episodic
-Tag:	Family Life
-Tag:	Food
-Tag:	Mafia
-Tag:	Parody
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	Flash
+Tag:	Guns
 Related:	55576
 Related:	101233
 Related:	48631

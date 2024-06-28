@@ -1,7 +1,7 @@
 ID:	20730
-Title:	テイルズ オブ ゼスティリア ～導師の夜明け～
-Title:	Tales of Zestiria: Doushi no Yoake
 Title:	Tales of Zestiria: Dawn of the Shepherd
+Title:	Tales of Zestiria: Doushi no Yoake
+Title:	テイルズ オブ ゼスティリア ～導師の夜明け～
 Tag:	Magic
 Related:	38856
 Related:	93663

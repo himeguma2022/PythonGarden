@@ -1,17 +1,17 @@
 ID:	2942
+Title:	Sketchbook: full color's
 Title:	スケッチブック 〜full color's〜
 Title:	Sketchbook ~full color's~
-Title:	Sketchbook: full color's
-Tag:	Iyashikei
-Tag:	Drawing
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Meta
-Tag:	Seinen
 Tag:	Photography
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Meta
+Tag:	Surreal Comedy
 Tag:	School Club
+Tag:	School
 Related:	8839
 Related:	34576
 Related:	41264

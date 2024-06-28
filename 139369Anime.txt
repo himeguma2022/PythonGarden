@@ -2,13 +2,13 @@ ID:	139369
 Title:	Shinmai Renkinjutsushi no Tenpo Keiei
 Title:	Management of a Novice Alchemist
 Title:	新米錬金術師の店舗経営
-Tag:	Primarily Female Cast
-Tag:	Alchemy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Economics
-Tag:	Magic
 Tag:	Work
+Tag:	Alchemy
+Tag:	Economics
+Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	139489
 Related:	63299

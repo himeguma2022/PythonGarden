@@ -1,24 +1,24 @@
 ID:	7791
-Title:	けいおん!!
 Title:	K-ON!!
 Title:	K-ON! Season 2
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Food
-Tag:	Tanned Skin
-Tag:	Tsundere
+Title:	けいおん!!
 Tag:	Seinen
-Tag:	Rock Music
-Tag:	Coming of Age
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Episodic
+Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	9734
 Related:	5680
 Related:	9617

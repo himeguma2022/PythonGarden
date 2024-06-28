@@ -1,17 +1,17 @@
 ID:	6129
+Title:	うみものがたり　～あなたがいてくれたコト～
 Title:	Umi Monogatari: Anata ga Ite Kureta Koto
 Title:	Umi Monogatari
-Title:	うみものがたり　～あなたがいてくれたコト～
-Tag:	Primarily Female Cast
-Tag:	Mermaid
-Tag:	Shounen
-Tag:	Coastal
 Tag:	Female Protagonist
 Tag:	Kuudere
+Tag:	Bisexual
+Tag:	Magic
 Tag:	Animals
 Tag:	Henshin
-Tag:	Magic
-Tag:	Bisexual
+Tag:	Mermaid
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Coastal
 Related:	10306
 Related:	49283
 Related:	6883

@@ -1,26 +1,26 @@
 ID:	666
-Title:	ジョジョの奇妙な冒険
 Title:	JoJo no Kimyou na Bouken
+Title:	ジョジョの奇妙な冒険
 Title:	JoJo's Bizarre Adventure
-Tag:	Gambling
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Tanned Skin
-Tag:	Gore
-Tag:	Cars
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Body Horror
 Tag:	Travel
-Tag:	Time Manipulation
 Tag:	Foreign
-Tag:	Urban Fantasy
 Tag:	Primarily Male Cast
-Tag:	Nudity
-Tag:	Vampire
-Tag:	LGBTQ+ Themes
-Tag:	Motorcycles
 Tag:	Poker
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Vampire
+Tag:	Cars
+Tag:	Time Manipulation
+Tag:	Gore
+Tag:	Motorcycles
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Tragedy
+Tag:	Gambling
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	8964
 Related:	9516
 Related:	1303

@@ -2,20 +2,20 @@ ID:	100112
 Title:	Kenja no Mago
 Title:	Wise Man’s Grandchild
 Title:	賢者の孫
-Tag:	Reincarnation
-Tag:	School Club
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Alternate Universe
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Gods
 Tag:	Demons
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	Adoption
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	School Club
+Tag:	Reincarnation
+Tag:	School
+Tag:	Gods
+Tag:	Isekai
+Tag:	Coming of Age
 Related:	21096
 Related:	31113
 Related:	86762

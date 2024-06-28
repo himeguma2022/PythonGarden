@@ -1,15 +1,15 @@
 ID:	21197
-Title:	Bakuon!!
 Title:	ばくおん!!
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Motorcycles
-Tag:	Butler
-Tag:	Female Protagonist
-Tag:	School
+Title:	Bakuon!!
 Tag:	Seinen
-Tag:	Ojou-sama
+Tag:	Female Protagonist
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	Butler
+Tag:	School
+Tag:	Motorcycles
+Tag:	Ojou-sama
+Tag:	Primarily Female Cast
 Related:	99841
 Related:	21441
 Related:	10253

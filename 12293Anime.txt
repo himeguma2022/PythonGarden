@@ -1,19 +1,19 @@
 ID:	12293
-Title:	Campione!
-Title:	Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
 Title:	カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Swordplay
-Tag:	Urban
+Title:	Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
+Title:	Campione!
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	School
 Tag:	Kuudere
-Tag:	Gods
 Tag:	Magic
 Tag:	Foreign
+Tag:	Urban
+Tag:	Mythology
+Tag:	School
+Tag:	Gods
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Related:	7659
 Related:	62735
 Related:	81373

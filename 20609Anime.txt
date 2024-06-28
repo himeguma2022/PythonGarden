@@ -1,14 +1,14 @@
 ID:	20609
-Title:	Magi: Sinbad no Bouken OVA
 Title:	Magi: Adventure of Sinbad (OVA)
 Title:	マギ シンドバッドの冒険 OVA
-Tag:	Dungeon
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Magi: Sinbad no Bouken OVA
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	Swordplay
 Tag:	Travel
 Tag:	Magic
+Tag:	Primarily Male Cast
+Tag:	Dungeon
+Tag:	Shounen
 Related:	78025
 Related:	14513
 Related:	21394

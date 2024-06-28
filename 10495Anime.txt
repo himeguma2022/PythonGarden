@@ -1,24 +1,24 @@
 ID:	10495
 Title:	Yuru Yuri
-Title:	ゆるゆり
 Title:	YuruYuri
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
+Title:	ゆるゆり
 Tag:	Primarily Teen Cast
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
-Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
+Tag:	Yuri
 Tag:	Kuudere
-Tag:	LGBTQ+ Themes
 Tag:	Tsundere
-Tag:	Meta
 Tag:	Twins
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Primarily Child Cast
+Tag:	Surreal Comedy
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	7168
 Related:	7169
 Related:	12665

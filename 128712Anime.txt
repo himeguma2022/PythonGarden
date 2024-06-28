@@ -1,32 +1,32 @@
 ID:	128712
 Title:	Tantei wa mou, Shindeiru.
 Title:	The Detective Is Already Dead
-Title:	探偵はもう、死んでいる。
 Title:	"Tantei wa mou, Shindeiru."
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Dissociative Identities
-Tag:	Artificial Intelligence
-Tag:	Crime
-Tag:	Prison
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Guns
-Tag:	Terrorism
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Age Gap
+Title:	探偵はもう、死んでいる。
 Tag:	Robots
-Tag:	Heterosexual
-Tag:	Police
-Tag:	VTuber
 Tag:	Detective
-Tag:	Achronological Order
-Tag:	Body Swapping
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	VTuber
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	Guns
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Super Robot
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Police
+Tag:	Prison
+Tag:	Urban Fantasy
+Tag:	Crime
+Tag:	Terrorism
 Tag:	Amnesia
+Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Achronological Order
 Tag:	Idol
 Related:	152677
 Related:	119752

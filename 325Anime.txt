@@ -1,17 +1,17 @@
 ID:	325
-Title:	Peach Girl: Super Pop Love Hurricane
-Title:	ピーチガール
 Title:	Peach Girl
-Tag:	Swimming
-Tag:	Bullying
-Tag:	Revenge
-Tag:	Shoujo
-Tag:	Love Triangle
-Tag:	Fashion
-Tag:	Female Protagonist
-Tag:	School
+Title:	ピーチガール
+Title:	Peach Girl: Super Pop Love Hurricane
 Tag:	Tanned Skin
-Tag:	Gyaru
+Tag:	Female Protagonist
 Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Fashion
+Tag:	Shoujo
+Tag:	Gyaru
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Swimming
 Related:	30475
 Related:	764

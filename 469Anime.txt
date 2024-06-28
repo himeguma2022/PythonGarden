@@ -1,13 +1,13 @@
 ID:	469
 Title:	Karin
-Title:	Karin: Chibi Vampire
 Title:	かりん
-Tag:	Shounen
+Title:	Karin: Chibi Vampire
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Kuudere
 Tag:	Vampire
-Tag:	Memory Manipulation
 Tag:	Heterosexual
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Shounen
 Related:	30387
 Related:	991

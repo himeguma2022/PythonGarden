@@ -1,8 +1,8 @@
 ID:	869
-Title:	スレイヤーズRETURN
 Title:	Slayers RETURN
-Tag:	Magic
+Title:	スレイヤーズRETURN
 Tag:	Female Protagonist
+Tag:	Magic
 Related:	868
 Related:	28040
 Related:	28041

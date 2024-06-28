@@ -1,27 +1,27 @@
 ID:	136192
+Title:	Fruits Basket: Prelude
 Title:	Fruits Basket -prelude-
 Title:	Fruits Basket: prelude
-Title:	Fruits Basket: Prelude
 Title:	フルーツバスケット -prelude-
-Tag:	Teacher
-Tag:	Tragedy
-Tag:	Slapstick
-Tag:	Denpa
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Marriage
-Tag:	Afterlife
-Tag:	Suicide
-Tag:	Shoujo
-Tag:	Delinquents
 Tag:	School
-Tag:	Age Gap
-Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	School Club
-Tag:	Achronological Order
+Tag:	Afterlife
 Tag:	Time Skip
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Shoujo
+Tag:	Slapstick
+Tag:	Delinquents
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Denpa
+Tag:	Suicide
+Tag:	Teacher
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Achronological Order
 Related:	124194
 Related:	59433
 Related:	73455

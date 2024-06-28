@@ -2,28 +2,28 @@ ID:	21340
 Title:	Mahou Shoujo Ikusei Keikaku
 Title:	魔法少女育成計画
 Title:	Magical Girl Raising Project
-Tag:	Tragedy
+Tag:	Yuri
 Tag:	Isekai
-Tag:	Angels
+Tag:	Henshin
+Tag:	Nun
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Female Protagonist
 Tag:	Kuudere
 Tag:	Gore
-Tag:	Death Game
-Tag:	Yuri
-Tag:	Crime
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Transgender
-Tag:	Female Protagonist
-Tag:	Gender Bending
-Tag:	Nun
-Tag:	Suicide
-Tag:	Guns
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
 Tag:	Twins
 Tag:	Battle Royale
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Crime
+Tag:	Gender Bending
+Tag:	Transgender
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Death Game
+Tag:	LGBTQ+ Themes
 Related:	160803
 Related:	91588
 Related:	99815

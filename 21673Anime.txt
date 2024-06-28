@@ -1,29 +1,29 @@
 ID:	21673
-Title:	Symphogear XV
 Title:	戦姫絶唱シンフォギアXV
 Title:	Senki Zesshou Symphogear XV
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
-Tag:	Tanned Skin
-Tag:	Gods
-Tag:	Gore
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Cyborg
-Tag:	Monster Girl
-Tag:	Guns
-Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Orphan
+Title:	Symphogear XV
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	Ninja
+Tag:	Lost Civilization
+Tag:	Yuri
+Tag:	Ensemble Cast
+Tag:	Mythology
+Tag:	Orphan
+Tag:	Monster Girl
 Tag:	Henshin
+Tag:	Cyborg
+Tag:	Aliens
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Gore
 Tag:	Motorcycles
+Tag:	Tanned Skin
+Tag:	Ninja
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Gods
 Tag:	Philosophy
 Tag:	Idol
 Related:	113348

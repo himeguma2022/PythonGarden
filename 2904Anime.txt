@@ -1,36 +1,36 @@
 ID:	2904
 Title:	コードギアス 反逆のルルーシュ R2
-Title:	Code Geass: Hangyaku no Lelouch R2
 Title:	Code Geass: Lelouch of the Rebellion R2
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Time Skip
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Class Struggle
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Title:	Code Geass: Hangyaku no Lelouch R2
+Tag:	Military
 Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Female Harem
+Tag:	Memory Manipulation
 Tag:	School
+Tag:	Yandere
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	War
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Super Robot
+Tag:	Female Harem
+Tag:	Fugitive
+Tag:	Real Robot
 Tag:	Urban Fantasy
 Tag:	Nudity
-Tag:	War
-Tag:	Assassins
-Tag:	Real Robot
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Military
-Tag:	Philosophy
-Tag:	Anti-Hero
-Tag:	Yandere
+Tag:	Terrorism
 Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	112900
 Related:	12685
 Related:	8728

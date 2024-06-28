@@ -1,18 +1,18 @@
 ID:	13261
 Title:	Inazuma Eleven GO: Chrono Stone
 Title:	イナズマイレブンGO クロノ・ストーン
-Tag:	Kids
-Tag:	Historical
-Tag:	Super Power
-Tag:	Time Manipulation
-Tag:	Cute Girls Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Football
-Tag:	Primarily Male Cast
-Tag:	Robots
-Tag:	Henshin
+Tag:	Super Power
+Tag:	Kids
 Tag:	Dinosaurs
+Tag:	Robots
+Tag:	Cute Girls Doing Cute Things
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Historical
+Tag:	Henshin
 Related:	15785
 Related:	7818
 Related:	10507

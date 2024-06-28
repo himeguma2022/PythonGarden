@@ -1,17 +1,17 @@
 ID:	1141
-Title:	Palme no Ki
 Title:	A Tree of Palme
+Title:	Palme no Ki
 Title:	パルムの樹
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Primarily Child Cast
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Environmental
-Tag:	Artificial Intelligence
+Tag:	CGI
 Tag:	Fairy Tale
 Tag:	Body Horror
+Tag:	Lost Civilization
+Tag:	Environmental
+Tag:	Robots
+Tag:	Primarily Child Cast
+Tag:	Artificial Intelligence
+Tag:	Mythology
+Tag:	Tragedy
 Tag:	Philosophy
 Tag:	Classic Literature
-Tag:	Robots

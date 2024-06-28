@@ -1,18 +1,18 @@
 ID:	21262
 Title:	Owarimonogatari
 Title:	終物語
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
 Tag:	Urban Fantasy
-Tag:	Detective
+Tag:	Primarily Teen Cast
+Tag:	Primarily Female Cast
 Tag:	Vampire
 Tag:	Achronological Order
+Tag:	Tsundere
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Detective
 Tag:	Philosophy
 Tag:	Suicide
-Tag:	Tsundere
 Tag:	Coming of Age
 Related:	143747
 Related:	67432

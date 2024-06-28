@@ -1,21 +1,21 @@
 ID:	98861
-Title:	全职高手
 Title:	The King's Avatar
+Title:	全职高手
 Title:	Quanzhi Gaoshou
-Tag:	Teacher
-Tag:	E-Sports
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Virtual World
+Tag:	Work
+Tag:	Goblin
 Tag:	Athletics
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	E-Sports
+Tag:	Magic
 Tag:	Ensemble Cast
 Tag:	Primarily Male Cast
-Tag:	Goblin
-Tag:	Virtual World
 Tag:	Video Games
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Work
-Tag:	Primarily Adult Cast
+Tag:	Teacher
 Related:	31938
 Related:	101410
 Related:	29061

@@ -1,10 +1,10 @@
 ID:	100502
-Title:	Blood Lad: Kanketsu Kinen
 Title:	ブラッドラッド 完結記念PV
-Tag:	Ghost
-Tag:	Kuudere
-Tag:	Vampire
+Title:	Blood Lad: Kanketsu Kinen
 Tag:	Demons
+Tag:	Kuudere
+Tag:	Ghost
+Tag:	Vampire
 Tag:	Advertisement
 Related:	21480
 Related:	11633

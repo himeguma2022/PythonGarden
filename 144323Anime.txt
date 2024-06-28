@@ -1,22 +1,22 @@
 ID:	144323
+Title:	Lucifer and the Biscuit Hammer
 Title:	Hoshi no Samidare
 Title:	惑星のさみだれ
-Title:	Lucifer and the Biscuit Hammer
-Tag:	Seinen
-Tag:	Cultivation
-Tag:	Super Power
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Seinen
+Tag:	Urban Fantasy
 Tag:	Female Protagonist
 Tag:	Martial Arts
-Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	College
-Tag:	Philosophy
-Tag:	Animals
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Time Manipulation
-Tag:	Coming of Age
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Magic
+Tag:	Animals
+Tag:	Cultivation
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	Philosophy
+Tag:	Coming of Age
 Related:	40552
 Related:	68003

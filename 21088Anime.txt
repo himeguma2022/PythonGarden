@@ -1,19 +1,19 @@
 ID:	21088
 Title:	ゆるゆり さん☆はい！
-Title:	YuruYuri Season 3
 Title:	Yuru Yuri San☆Hai!
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
+Title:	YuruYuri Season 3
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
+Tag:	Yuri
 Tag:	Kuudere
-Tag:	LGBTQ+ Themes
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Child Cast
 Tag:	School Club
+Tag:	School
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	102090
 Related:	10282
 Related:	97235

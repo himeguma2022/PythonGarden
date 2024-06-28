@@ -1,17 +1,17 @@
 ID:	451
 Title:	Inuyasha: Tenka Hadou no Ken
-Title:	InuYasha the Movie 3: Swords of an Honorable Ruler
 Title:	犬夜叉 天下覇道の剣
-Tag:	Historical
-Tag:	Kemonomimi
-Tag:	Isekai
-Tag:	Shounen
+Title:	InuYasha the Movie 3: Swords of an Honorable Ruler
 Tag:	Swordplay
-Tag:	Monster Boy
-Tag:	Kuudere
-Tag:	Youkai
-Tag:	Shapeshifting
-Tag:	Heterosexual
+Tag:	Isekai
 Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Youkai
+Tag:	Historical
+Tag:	Monster Boy
+Tag:	Shounen
 Related:	969
 Related:	249

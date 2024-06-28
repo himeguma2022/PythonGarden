@@ -1,22 +1,22 @@
 ID:	155908
-Title:	Yuru Camp△ SEASON 3
-Title:	Laid-Back Camp Season 3
 Title:	ゆるキャン△ SEASON３
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Mopeds
-Tag:	Primarily Teen Cast
+Title:	Laid-Back Camp Season 3
+Title:	Yuru Camp△ SEASON 3
 Tag:	CGI
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Motorcycles
-Tag:	Ensemble Cast
-Tag:	Food
 Tag:	Seinen
-Tag:	Time Manipulation
-Tag:	Outdoor
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Food
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	Mopeds
+Tag:	Time Manipulation
+Tag:	Motorcycles
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Outdoor
 Related:	97255
 Related:	104459
 Related:	177007

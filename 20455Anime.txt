@@ -1,13 +1,13 @@
 ID:	20455
-Title:	そにアニ -SUPER SONICO THE ANIMATION-
-Title:	SoniAni: Super Sonico The Animation
 Title:	SoniAni: SUPER SONICO THE ANIMATION
+Title:	SoniAni: Super Sonico The Animation
+Title:	そにアニ -SUPER SONICO THE ANIMATION-
 Title:	Soni-Ani: SUPER SONICO THE ANIMATION
 Tag:	CGI
-Tag:	Band
 Tag:	Female Protagonist
 Tag:	Episodic
 Tag:	Zombie
+Tag:	Band
 Tag:	Idol
 Related:	119873
 Related:	44626

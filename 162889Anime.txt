@@ -1,13 +1,13 @@
 ID:	162889
-Title:	アイドルマスター シャイニーカラーズ
 Title:	The iDOLM@STER: Shiny Colors
 Title:	THE iDOLM@STER SHINY COLORS
-Tag:	Iyashikei
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	アイドルマスター シャイニーカラーズ
 Tag:	Work
+Tag:	Full CGI
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	Musical Theater
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	10278
 Related:	89929

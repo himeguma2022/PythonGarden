@@ -1,21 +1,21 @@
 ID:	121176
+Title:	本好きの下剋上 司書になるためには手段を選んでいられません 第3期
 Title:	Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season
 Title:	Ascendance of a Bookworm Season 3
-Title:	本好きの下剋上 司書になるためには手段を選んでいられません 第3期
-Tag:	Historical
-Tag:	Reincarnation
-Tag:	Religion
-Tag:	Shoujo
-Tag:	Orphan
-Tag:	Isekai
-Tag:	Female Protagonist
-Tag:	Economics
-Tag:	Gods
-Tag:	Politics
 Tag:	Time Skip
-Tag:	Magic
-Tag:	Work
+Tag:	Religion
 Tag:	Class Struggle
+Tag:	Work
+Tag:	Isekai
+Tag:	Economics
+Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Politics
+Tag:	Shoujo
+Tag:	Reincarnation
+Tag:	Gods
+Tag:	Orphan
+Tag:	Historical
 Related:	171110
 Related:	92172
 Related:	110800

@@ -1,27 +1,27 @@
 ID:	3784
-Title:	Evangelion: 2.0 You Can (Not) Advance
-Title:	Evangelion Shin Movie: Ha
 Title:	ヱヴァンゲリヲン新劇場版:破
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Post-Apocalyptic
-Tag:	Kuudere
-Tag:	Denpa
-Tag:	Tsundere
-Tag:	Kaiju
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Cosmic Horror
-Tag:	Meta
-Tag:	Mythology
-Tag:	Nudity
-Tag:	Real Robot
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Tomboy
-Tag:	CGI
+Title:	Evangelion Shin Movie: Ha
+Title:	Evangelion: 2.0 You Can (Not) Advance
 Tag:	Military
+Tag:	Mythology
+Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Aliens
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Kuudere
+Tag:	Super Robot
+Tag:	Denpa
+Tag:	Real Robot
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Tomboy
+Tag:	Kaiju
 Related:	2759
 Related:	3785
 Related:	100330

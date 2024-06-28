@@ -1,25 +1,25 @@
 ID:	12445
-Title:	Tasogare Otome x Amnesia
 Title:	Dusk Maiden of Amnesia
+Title:	Tasogare Otome x Amnesia
 Title:	黄昏乙女×アムネジア
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Pandemic
-Tag:	Ghost
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Episodic
 Tag:	Nudity
-Tag:	Denpa
+Tag:	Ghost
 Tag:	Amnesia
 Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Pandemic
 Tag:	School Club
+Tag:	Tragedy
+Tag:	School
+Tag:	Dissociative Identities
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Episodic
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	7681
 Related:	7682
 Related:	45805

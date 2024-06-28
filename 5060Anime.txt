@@ -1,20 +1,20 @@
 ID:	5060
-Title:	Hetalia Axis Powers
 Title:	ヘタリア Axis Powers
-Tag:	Historical
-Tag:	Cute Boys Doing Cute Things
-Tag:	Educational
-Tag:	Slapstick
+Title:	Hetalia Axis Powers
 Tag:	Male Protagonist
-Tag:	Economics
-Tag:	Primarily Male Cast
 Tag:	Parody
-Tag:	Politics
-Tag:	Anachronism
+Tag:	Economics
 Tag:	Anthropomorphism
-Tag:	Astronomy
 Tag:	Chibi
+Tag:	Astronomy
+Tag:	Politics
 Tag:	Maids
+Tag:	Cute Boys Doing Cute Things
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Educational
+Tag:	Anachronism
+Tag:	Slapstick
 Related:	5120
 Related:	5121
 Related:	5122

@@ -1,15 +1,15 @@
 ID:	106169
-Title:	PERSONA5 the Animation: Dark Sun...
 Title:	PERSONA5 the Animation: Dark Sun…
-Tag:	Mythology
-Tag:	Drawing
+Title:	PERSONA5 the Animation: Dark Sun...
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Revenge
+Tag:	Drawing
 Tag:	Urban
-Tag:	Male Protagonist
+Tag:	Mythology
 Tag:	School
-Tag:	Henshin
 Tag:	Coming of Age
+Tag:	Henshin
 Related:	32393
 Related:	109418
 Related:	99693

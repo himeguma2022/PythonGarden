@@ -1,15 +1,15 @@
 ID:	21771
-Title:	planetarian: Hoshi no Hito
-Title:	planetarian～星の人～
 Title:	Planetarian: Storyteller of the Stars
-Tag:	Tragedy
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
+Title:	planetarian～星の人～
+Title:	planetarian: Hoshi no Hito
+Tag:	Time Skip
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
+Tag:	Dystopian
 Tag:	Astronomy
 Tag:	Robots
-Tag:	Time Skip
+Tag:	Artificial Intelligence
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
 Related:	21732
 Related:	74789
 Related:	18982

@@ -2,25 +2,25 @@ ID:	20935
 Title:	Arslan Senki (TV)
 Title:	The Heroic Legend of Arslan
 Title:	アルスラーン戦記 (TV)
-Tag:	Slavery
-Tag:	Historical
 Tag:	Spearplay
-Tag:	Crossdressing
-Tag:	Royal Affairs
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	Military
 Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Foreign
-Tag:	Orphan
-Tag:	Swordplay
+Tag:	Crossdressing
 Tag:	Primarily Male Cast
+Tag:	Royal Affairs
+Tag:	Orphan
+Tag:	Male Protagonist
 Tag:	War
+Tag:	Swordplay
+Tag:	Primarily Adult Cast
+Tag:	Historical
+Tag:	Shounen
+Tag:	Slavery
 Tag:	Magic
 Tag:	Found Family
 Tag:	Tomboy
-Tag:	Military
 Related:	1762
 Related:	21317
 Related:	107141

@@ -1,8 +1,8 @@
 ID:	16261
 Title:	ありさ☆Good Luck
 Title:	Arisa☆Good Luck
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	Parody
-Tag:	Henshin
+Tag:	Female Protagonist
 Tag:	Magic
+Tag:	Slapstick
+Tag:	Henshin

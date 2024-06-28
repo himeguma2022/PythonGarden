@@ -1,11 +1,11 @@
 ID:	20962
-Title:	ヘタリア The World Twinkle
 Title:	Hetalia: The World Twinkle
-Tag:	Historical
-Tag:	Cute Boys Doing Cute Things
-Tag:	Educational
-Tag:	Primarily Male Cast
+Title:	ヘタリア The World Twinkle
 Tag:	Parody
+Tag:	Cute Boys Doing Cute Things
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Educational
 Related:	99883
 Related:	26900
 Related:	23930

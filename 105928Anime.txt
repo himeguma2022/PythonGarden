@@ -1,10 +1,10 @@
 ID:	105928
 Title:	RobiHachi
-Tag:	Aliens
+Tag:	Primarily Adult Cast
+Tag:	Space
 Tag:	Super Robot
+Tag:	Aliens
+Tag:	Primarily Male Cast
 Tag:	Boys' Love
 Tag:	Episodic
-Tag:	Space
-Tag:	Primarily Male Cast
 Tag:	Fugitive
-Tag:	Primarily Adult Cast

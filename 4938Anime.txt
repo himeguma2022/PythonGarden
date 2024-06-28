@@ -1,13 +1,13 @@
 ID:	4938
-Title:	Tsubasa: Spring Thunder Chronicles
 Title:	Tsubasa: Shunraiki
 Title:	ツバサ 春雷記
-Tag:	Tragedy
+Title:	Tsubasa: Spring Thunder Chronicles
 Tag:	Clone
 Tag:	Crossover
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Isekai
 Tag:	Shounen
-Tag:	Magic
 Related:	5056
 Related:	5057
 Related:	4918

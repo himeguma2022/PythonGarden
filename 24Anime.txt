@@ -3,17 +3,17 @@ Title:	スクールランブル
 Title:	School Rumble
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	Delinquents
-Tag:	Butler
-Tag:	Episodic
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Kuudere
 Tag:	Parody
+Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Butler
+Tag:	School
+Tag:	Love Triangle
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Delinquents
 Related:	517
 Related:	78
 Related:	846

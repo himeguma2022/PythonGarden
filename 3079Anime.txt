@@ -1,24 +1,24 @@
 ID:	3079
+Title:	蒼き流星SPTレイズナー
 Title:	Blue Comet SPT Layzner
 Title:	Aoki Ryuusei SPT Layzner
-Title:	蒼き流星SPTレイズナー
-Tag:	Aliens
-Tag:	Dystopian
-Tag:	Love Triangle
-Tag:	Motorcycles
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Space
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Espionage
-Tag:	Real Robot
-Tag:	Cyborg
-Tag:	Military
-Tag:	Fugitive
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Real Robot
+Tag:	Lost Civilization
+Tag:	Dystopian
+Tag:	Military
+Tag:	Space
 Tag:	Heterosexual
-Tag:	Aviation
+Tag:	Cyborg
+Tag:	Aliens
 Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Motorcycles
+Tag:	Love Triangle
+Tag:	Espionage
+Tag:	War
+Tag:	Aviation
+Tag:	Fugitive
 Related:	4115
 Related:	5755

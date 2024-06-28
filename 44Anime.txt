@@ -1,18 +1,18 @@
 ID:	44
-Title:	るろうに剣心―明治剣客浪漫譚―追憶編
-Title:	Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
 Title:	Samurai X: Trust and Betrayal
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Revenge
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen
+Title:	るろうに剣心―明治剣客浪漫譚―追憶編
 Tag:	Male Protagonist
-Tag:	Samurai
-Tag:	Philosophy
+Tag:	Swordplay
 Tag:	Gore
-Tag:	Heterosexual
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Shounen
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Samurai
+Tag:	Historical
+Tag:	Philosophy
 Related:	30022
 Related:	45
 Related:	102

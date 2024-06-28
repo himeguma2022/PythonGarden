@@ -1,26 +1,26 @@
 ID:	1935
 Title:	Megazone 23
 Title:	メガゾーン23
-Tag:	Urban
-Tag:	Artificial Intelligence
+Tag:	Military
 Tag:	Space
-Tag:	Fugitive
-Tag:	Gore
-Tag:	Primarily Adult Cast
 Tag:	Conspiracy
 Tag:	Male Protagonist
+Tag:	Heterosexual
 Tag:	Cyberpunk
+Tag:	War
 Tag:	Guns
 Tag:	Delinquents
+Tag:	Dystopian
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Artificial Intelligence
+Tag:	Motorcycles
+Tag:	Police
+Tag:	Fugitive
+Tag:	Real Robot
 Tag:	Acting
 Tag:	Nudity
-Tag:	War
-Tag:	Real Robot
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Dystopian
-Tag:	Motorcycles
-Tag:	Military
+Tag:	Urban
 Tag:	Idol
 Related:	23753
 Related:	52716

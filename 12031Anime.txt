@@ -1,18 +1,18 @@
 ID:	12031
 Title:	キングダム
 Title:	Kingdom
-Tag:	Historical
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Politics
-Tag:	Military
 Tag:	Seinen
-Tag:	Ancient China
-Tag:	Coming of Age
+Tag:	Military
+Tag:	Politics
 Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Ancient China
+Tag:	Historical
+Tag:	War
+Tag:	Coming of Age
 Related:	7603
 Related:	7604
 Related:	17389

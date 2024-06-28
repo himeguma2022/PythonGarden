@@ -1,28 +1,28 @@
 ID:	158928
-Title:	SPY x FAMILY CODE: White
 Title:	SPY×FAMILY CODE: White
-Tag:	Super Power
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Trains
-Tag:	Primarily Adult Cast
-Tag:	Snowscape
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Cyborg
-Tag:	Foreign
-Tag:	Guns
-Tag:	Espionage
-Tag:	Assassins
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Found Family
+Title:	SPY x FAMILY CODE: White
 Tag:	Military
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Trains
 Tag:	Parenthood
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Snowscape
+Tag:	Heterosexual
+Tag:	Family Life
+Tag:	Cyborg
+Tag:	Guns
+Tag:	Assassins
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Martial Arts
+Tag:	Animals
+Tag:	Found Family
+Tag:	Urban
 Related:	97328
 Related:	177098
 Related:	97324

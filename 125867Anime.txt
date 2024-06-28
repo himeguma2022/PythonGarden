@@ -1,14 +1,14 @@
 ID:	125867
-Title:	セスタス -The Roman Fighter-
 Title:	CESTVS -The Roman Fighter-
+Title:	セスタス -The Roman Fighter-
 Title:	Cestvs: The Roman Fighter
-Tag:	Full CGI
-Tag:	Historical
-Tag:	Slavery
 Tag:	CGI
-Tag:	Primarily Male Cast
 Tag:	Seinen
-Tag:	Boxing
+Tag:	Slavery
+Tag:	Full CGI
 Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Boxing
+Tag:	Historical
 Related:	47233
 Related:	49063

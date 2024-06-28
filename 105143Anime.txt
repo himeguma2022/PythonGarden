@@ -1,16 +1,16 @@
 ID:	105143
-Title:	ONE PIECE STAMPEDE
 Title:	One Piece: Stampede
-Tag:	Super Power
-Tag:	Shounen
+Title:	ONE PIECE STAMPEDE
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Tag:	Super Power
 Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Ensemble Cast
 Tag:	Pirates
 Tag:	Skeleton
-Tag:	Ships
-Tag:	Primarily Adult Cast
 Tag:	Kaiju
+Tag:	Shounen
 Related:	128292
 Related:	51374
 Related:	21

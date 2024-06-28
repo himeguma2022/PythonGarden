@@ -1,25 +1,25 @@
 ID:	116006
-Title:	The God of High School
 Title:	THE GOD OF HIGH SCHOOL ゴッド・オブ・ハイスクール
 Title:	THE GOD OF HIGH SCHOOL
-Tag:	Super Power
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Gods
-Tag:	Cult
-Tag:	Primarily Teen Cast
-Tag:	Calligraphy
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Foreign
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Urban Fantasy
-Tag:	Battle Royale
-Tag:	CGI
+Title:	The God of High School
 Tag:	Rotoscoping
 Tag:	Adoption
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Battle Royale
+Tag:	Calligraphy
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Terrorism
+Tag:	Martial Arts
+Tag:	Urban
+Tag:	Cult
+Tag:	Gods
 Related:	85141
 Related:	39527

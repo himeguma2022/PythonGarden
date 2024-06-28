@@ -2,30 +2,30 @@ ID:	158927
 Title:	SPY×FAMILY Season 2
 Title:	Spy x Family Season 2
 Title:	SPY x FAMILY Season 2
-Tag:	Super Power
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Shounen
+Tag:	Adoption
+Tag:	Surfing
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Office Lady
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Parenthood
 Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Super Power
 Tag:	Family Life
 Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Foreign
 Tag:	Guns
-Tag:	Adoption
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Espionage
 Tag:	Assassins
+Tag:	Female Protagonist
 Tag:	Ships
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Martial Arts
 Tag:	Animals
 Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Surfing
-Tag:	Office Lady
-Tag:	Parenthood
+Tag:	Urban
 Related:	97323
 Related:	108556
 Related:	158928

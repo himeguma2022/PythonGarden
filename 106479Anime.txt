@@ -2,28 +2,28 @@ ID:	106479
 Title:	痛いのは嫌なので防御力に極振りしたいと思います。
 Title:	Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.
 Title:	BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
-Tag:	Swimming
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Parody
-Tag:	Video Games
-Tag:	Monster Girl
-Tag:	Swordplay
-Tag:	Steampunk
 Tag:	Robots
-Tag:	Animals
+Tag:	Video Games
+Tag:	Virtual World
+Tag:	Monster Girl
 Tag:	Henshin
-Tag:	Magic
+Tag:	Femboy
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Female Protagonist
 Tag:	Twins
 Tag:	Battle Royale
-Tag:	Fishing
-Tag:	CGI
-Tag:	Virtual World
-Tag:	Femboy
+Tag:	Steampunk
+Tag:	Primarily Teen Cast
+Tag:	Animals
+Tag:	Magic
 Tag:	Samurai
+Tag:	Fishing
+Tag:	Swimming
 Related:	116867
 Related:	38408
 Related:	103852

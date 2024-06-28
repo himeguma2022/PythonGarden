@@ -1,6 +1,6 @@
 ID:	102621
-Title:	メカクシティデイズ
 Title:	Mekakucity Days
+Title:	メカクシティデイズ
 Related:	48673
 Related:	20541
 Related:	69625

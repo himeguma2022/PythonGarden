@@ -1,11 +1,11 @@
 ID:	20490
 Title:	ストレンジ・プラス
 Title:	Strange+
-Tag:	Josei
-Tag:	Slapstick
-Tag:	Detective
 Tag:	Parody
+Tag:	Josei
 Tag:	Crossdressing
+Tag:	Detective
+Tag:	Slapstick
 Related:	85152
 Related:	20706
 Related:	8772

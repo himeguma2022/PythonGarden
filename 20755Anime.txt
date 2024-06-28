@@ -1,26 +1,26 @@
 ID:	20755
-Title:	Assassination Classroom
 Title:	暗殺教室
 Title:	Ansatsu Kyoushitsu
-Tag:	Teacher
-Tag:	Tragedy
+Title:	Assassination Classroom
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	Femboy
 Tag:	Super Power
+Tag:	School Club
+Tag:	Episodic
+Tag:	Guns
+Tag:	Assassins
 Tag:	Baseball
 Tag:	Artificial Intelligence
-Tag:	Bullying
-Tag:	Crime
-Tag:	Primarily Teen Cast
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
 Tag:	Suicide
-Tag:	Guns
-Tag:	School
-Tag:	Assassins
-Tag:	School Club
+Tag:	Teacher
+Tag:	Primarily Teen Cast
+Tag:	Crime
 Tag:	Found Family
-Tag:	Femboy
+Tag:	Tragedy
 Tag:	Anti-Hero
 Related:	97985
 Related:	10203

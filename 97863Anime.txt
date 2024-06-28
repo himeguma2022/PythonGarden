@@ -1,18 +1,18 @@
 ID:	97863
+Title:	はじめてのギャル
 Title:	Hajimete no Gal
 Title:	My First Girlfriend is a Gal
-Title:	はじめてのギャル
-Tag:	Love Triangle
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Tanned Skin
 Tag:	Parody
-Tag:	Tsundere
-Tag:	Gyaru
-Tag:	Heterosexual
 Tag:	Bisexual
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Gyaru
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	School
+Tag:	Shounen
 Related:	17888
 Related:	87315
 Related:	98878

@@ -1,21 +1,21 @@
 ID:	15785
-Title:	Inazuma Eleven GO vs Danball Senki W
 Title:	劇場版 イナズマイレブンGO vs ダンボール戦機W
-Tag:	Kids
-Tag:	Tragedy
-Tag:	Revenge
+Title:	Inazuma Eleven GO vs Danball Senki W
 Tag:	Super Power
+Tag:	Kids
 Tag:	Crossover
-Tag:	Primarily Child Cast
+Tag:	Revenge
+Tag:	Robots
 Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
+Tag:	Primarily Child Cast
+Tag:	Time Manipulation
+Tag:	Tragedy
 Tag:	Post-Apocalyptic
 Tag:	Dissociative Identities
-Tag:	Age Regression
 Tag:	Football
+Tag:	Isekai
+Tag:	Age Regression
 Tag:	War
-Tag:	Robots
-Tag:	Time Manipulation
 Related:	37360
 Related:	12651
 Related:	13261

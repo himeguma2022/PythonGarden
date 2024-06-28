@@ -1,5 +1,5 @@
 ID:	9824
-Title:	Jigokudou Reikai Tsuushin
 Title:	地獄堂霊界通信
+Title:	Jigokudou Reikai Tsuushin
 Related:	69233
 Related:	45739

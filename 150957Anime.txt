@@ -1,31 +1,31 @@
 ID:	150957
-Title:	Edomae Elf
-Title:	Otaku Elf
 Title:	江戸前エルフ
-Tag:	Historical
-Tag:	Archery
-Tag:	Fashion
-Tag:	Slapstick
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Elf
-Tag:	Shrine Maiden
-Tag:	Religion
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Educational
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	Otaku Elf
+Title:	Edomae Elf
 Tag:	Food
 Tag:	Iyashikei
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Hikikomori
 Tag:	Otaku Culture
+Tag:	Archery
+Tag:	Fashion
+Tag:	School
+Tag:	Isekai
+Tag:	Shrine Maiden
+Tag:	Religion
+Tag:	Cute Girls Doing Cute Things
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Hikikomori
+Tag:	Historical
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Elf
 Tag:	Rehabilitation
+Tag:	Educational
 Related:	110049
 Related:	86131
 Related:	164193

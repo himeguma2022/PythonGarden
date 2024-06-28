@@ -1,19 +1,19 @@
 ID:	104580
-Title:	The Disastrous Life of Saiki K. Season 3
 Title:	Saiki Kusuo no Ψ-nan: Kanketsu-hen
 Title:	斉木楠雄のΨ難 完結編
-Tag:	Super Power
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
-Tag:	Shounen
+Title:	The Disastrous Life of Saiki K. Season 3
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Kuudere
+Tag:	Super Power
+Tag:	Primarily Teen Cast
 Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Gyaru
+Tag:	Kuudere
 Tag:	Asexual
 Tag:	Time Manipulation
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Gyaru
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
 Tag:	Coming of Age
 Related:	25416
 Related:	25418

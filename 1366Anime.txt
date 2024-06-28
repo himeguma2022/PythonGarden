@@ -1,15 +1,15 @@
 ID:	1366
-Title:	Meitantei Conan: Meikyuu no Crossroad
 Title:	名探偵コナン 迷宮の十字路(クロスロード)
 Title:	Case Closed: Crossroad in the Ancient Capital
+Title:	Meitantei Conan: Meikyuu no Crossroad
+Tag:	Male Protagonist
+Tag:	Swordplay
+Tag:	Tanned Skin
 Tag:	Crime
 Tag:	Shounen
-Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Detective
-Tag:	Tanned Skin
 Tag:	Samurai
 Tag:	Police
+Tag:	Detective
+Tag:	Age Regression
 Related:	235
 Related:	2221

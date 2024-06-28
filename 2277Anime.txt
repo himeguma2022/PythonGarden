@@ -1,12 +1,12 @@
 ID:	2277
-Title:	Mahou Yuugi: Tobidasu!! Hanamaru Daibouken
-Title:	魔法遊戯: 飛び出す!!ハナマル大冒険
 Title:	Magical Play
-Tag:	Surreal Comedy
+Title:	魔法遊戯: 飛び出す!!ハナマル大冒険
+Title:	Mahou Yuugi: Tobidasu!! Hanamaru Daibouken
 Tag:	CGI
-Tag:	Parody
 Tag:	Tanned Skin
-Tag:	Villainess
+Tag:	Parody
 Tag:	Magic
+Tag:	Surreal Comedy
+Tag:	Villainess
 Related:	3402
 Related:	2278

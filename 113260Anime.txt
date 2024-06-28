@@ -1,29 +1,29 @@
 ID:	113260
 Title:	天官赐福
-Title:	Tian Guan Ci Fu
 Title:	Heaven Official's Blessing
+Title:	Tian Guan Ci Fu
+Tag:	Lost Civilization
+Tag:	Demons
+Tag:	Travel
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Wuxia
+Tag:	Bullying
+Tag:	Male Protagonist
+Tag:	Cultivation
+Tag:	Shapeshifting
+Tag:	War
+Tag:	Swordplay
 Tag:	Historical
-Tag:	Tragedy
 Tag:	Boys' Love
+Tag:	Gender Bending
+Tag:	Ghost
+Tag:	Revenge
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Mahjong
 Tag:	Gods
-Tag:	Crossdressing
-Tag:	Bullying
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Gender Bending
-Tag:	Travel
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Wuxia
-Tag:	Magic
 Tag:	Rural
-Tag:	Cultivation
-Tag:	Revenge
-Tag:	Shapeshifting
-Tag:	Demons
 Related:	112275
 Related:	126356
 Related:	36531

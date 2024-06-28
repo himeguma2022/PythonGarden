@@ -1,25 +1,25 @@
 ID:	100240
-Title:	Tokyo Ghoul:re
 Title:	東京喰種-トーキョーグール-:re
-Tag:	Tragedy
-Tag:	Bondage
-Tag:	Dissociative Identities
-Tag:	Martial Arts
-Tag:	Unrequited Love
+Title:	Tokyo Ghoul:re
 Tag:	Crossdressing
+Tag:	Detective
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Transgender
-Tag:	Male Protagonist
-Tag:	Body Horror
-Tag:	Seinen
-Tag:	Urban Fantasy
-Tag:	Heterosexual
-Tag:	Police
 Tag:	Hikikomori
-Tag:	Detective
-Tag:	Femdom
+Tag:	Bondage
+Tag:	Police
+Tag:	Urban Fantasy
+Tag:	Seinen
+Tag:	Martial Arts
 Tag:	Amnesia
+Tag:	Transgender
+Tag:	Femdom
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Body Horror
 Related:	23461
 Related:	21254
 Related:	85611

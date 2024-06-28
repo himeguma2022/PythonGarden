@@ -1,22 +1,22 @@
 ID:	20031
 Title:	D-Frag!
 Title:	ディーふらぐ!
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Slapstick
-Tag:	Delinquents
 Tag:	Satire
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Parody
 Tag:	Chuunibyou
-Tag:	Meta
-Tag:	Tsundere
 Tag:	Seinen
-Tag:	Yandere
+Tag:	Parody
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
 Tag:	Chibi
+Tag:	Meta
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Delinquents
 Related:	8890
 Related:	44721
 Related:	9634

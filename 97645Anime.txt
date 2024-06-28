@@ -1,13 +1,13 @@
 ID:	97645
-Title:	テイルズ オブ ゼスティリア ザ クロス 2
 Title:	Tales of Zestiria the Cross 2
 Title:	Tales of Zestiria the X Season 2
-Tag:	Swordplay
+Title:	テイルズ オブ ゼスティリア ザ クロス 2
 Tag:	CGI
-Tag:	War
-Tag:	Gods
+Tag:	Swordplay
 Tag:	Magic
+Tag:	Gods
 Tag:	Dragons
+Tag:	War
 Related:	17631
 Related:	21221
 Related:	38854

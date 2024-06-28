@@ -1,19 +1,19 @@
 ID:	106319
+Title:	八男って、それはないでしょう！
+Title:	"Hachi-nan tte, Sore wa Nai deshou!"
 Title:	The 8th Son? Are You Kidding Me?
 Title:	Hachi-nan tte, Sore wa Nai deshou!
-Title:	"Hachi-nan tte, Sore wa Nai deshou!"
-Title:	八男って、それはないでしょう！
-Tag:	Reincarnation
-Tag:	Spearplay
-Tag:	Isekai
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Spearplay
 Tag:	Martial Arts
-Tag:	Female Harem
-Tag:	Politics
 Tag:	Magic
 Tag:	Kingdom Management
+Tag:	Politics
 Tag:	Conspiracy
+Tag:	Reincarnation
+Tag:	Female Harem
+Tag:	Isekai
 Tag:	Dragons
 Related:	96344
 Related:	40659

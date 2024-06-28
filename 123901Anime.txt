@@ -1,9 +1,9 @@
 ID:	123901
 Title:	"Kanojo Okarishimasu"
-Title:	彼女、お借りします ぷち
 Title:	Kanojo, Okarishimasu Petit
-Tag:	Chibi
+Title:	彼女、お借りします ぷち
 Tag:	Episodic
+Tag:	Chibi
 Related:	123464
 Related:	77641
 Related:	47276

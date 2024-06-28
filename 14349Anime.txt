@@ -1,16 +1,16 @@
 ID:	14349
 Title:	Little Witch Academia
 Title:	リトルウィッチアカデミア
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Ojou-sama
 Tag:	Urban Fantasy
-Tag:	School
+Tag:	Female Protagonist
 Tag:	Gore
 Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
+Tag:	Ojou-sama
+Tag:	Witch
 Tag:	Dragons
+Tag:	Primarily Female Cast
 Related:	19489
 Related:	21858
 Related:	8835

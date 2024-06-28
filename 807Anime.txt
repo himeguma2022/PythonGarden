@@ -1,11 +1,11 @@
 ID:	807
-Title:	Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom
 Title:	Tsubasa Chronicle: Tori Kago no Kuni no Himegimi
+Title:	Tsubasa Reservoir Chronicle the Movie: The Princess in the Birdcage Kingdom
 Title:	ツバサ・クロニクル 鳥カゴの国の姫君
-Tag:	Isekai
+Tag:	Shounen
 Tag:	Magic
 Tag:	Alternate Universe
-Tag:	Shounen
+Tag:	Isekai
 Related:	177
 Related:	1434
 Related:	1435

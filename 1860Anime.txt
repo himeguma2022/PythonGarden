@@ -1,9 +1,9 @@
 ID:	1860
-Title:	Tokyo Majin Gakuen Kenpucho: Tou
 Title:	Tokyo Majin
 Title:	東京魔人學園剣風帖　龖（トウ）
-Tag:	Super Power
+Title:	Tokyo Majin Gakuen Kenpucho: Tou
 Tag:	Episodic
+Tag:	Super Power
 Tag:	School
 Tag:	Demons
 Related:	72644

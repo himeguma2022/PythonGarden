@@ -1,11 +1,11 @@
 ID:	11889
-Title:	The Idolm@ster: 765 Pro to Iu Monogatari
 Title:	アイドルマスター 765プロという物語
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Dancing
+Title:	The Idolm@ster: 765 Pro to Iu Monogatari
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Dancing
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	14835
 Related:	7564

@@ -1,19 +1,19 @@
 ID:	212
+Title:	Project A-ko
 Title:	Project A-Ko
 Title:	プロジェクトA子
-Title:	Project A-ko
-Tag:	Revenge
-Tag:	Primarily Female Cast
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Aliens
-Tag:	Delinquents
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Parody
 Tag:	Nudity
-Tag:	Ojou-sama
+Tag:	Revenge
 Tag:	Meta
+Tag:	Aliens
+Tag:	School
+Tag:	Ojou-sama
+Tag:	Primarily Female Cast
+Tag:	Delinquents
 Related:	512
 Related:	1296
 Related:	1295

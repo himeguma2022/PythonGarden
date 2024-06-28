@@ -1,30 +1,30 @@
 ID:	106893
 Title:	コップクラフト
 Title:	Cop Craft
-Tag:	Noir
-Tag:	Aliens
-Tag:	Isekai
-Tag:	Cars
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Politics
-Tag:	Gangs
-Tag:	Foreign
-Tag:	Guns
 Tag:	Drugs
-Tag:	Swordplay
+Tag:	Demons
+Tag:	Noir
+Tag:	Politics
+Tag:	Foreign
+Tag:	Isekai
+Tag:	Detective
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Vampire
+Tag:	Cars
+Tag:	Aliens
 Tag:	Survival
+Tag:	Episodic
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Language Barrier
+Tag:	Police
 Tag:	Urban Fantasy
 Tag:	Mafia
-Tag:	Vampire
-Tag:	Henshin
+Tag:	Crime
 Tag:	Magic
-Tag:	Police
-Tag:	Language Barrier
-Tag:	Detective
 Tag:	Body Swapping
-Tag:	Demons
 Related:	53958
 Related:	28591

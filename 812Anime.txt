@@ -1,17 +1,17 @@
 ID:	812
 Title:	Arjuna
-Title:	Chikyuu Shoujo Arjuna
 Title:	地球少女アルジュナ
-Tag:	Reincarnation
-Tag:	Archery
-Tag:	Eco-Horror
-Tag:	Educational
+Title:	Chikyuu Shoujo Arjuna
 Tag:	CGI
-Tag:	Motorcycles
-Tag:	Love Triangle
-Tag:	Environmental
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
-Tag:	Gods
+Tag:	Female Protagonist
+Tag:	Environmental
 Tag:	Magic
+Tag:	Eco-Horror
+Tag:	Archery
+Tag:	Reincarnation
+Tag:	Motorcycles
+Tag:	Gods
+Tag:	Love Triangle
+Tag:	Educational
 Tag:	Rural

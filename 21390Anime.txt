@@ -1,18 +1,18 @@
 ID:	21390
-Title:	The Asterisk War 2
-Title:	学戦都市アスタリスク 2
-Title:	Gakusen Toshi Asterisk 2nd Season
 Title:	Gakusen Toshi Asterisk 2
-Tag:	Primarily Teen Cast
-Tag:	CGI
+Title:	学戦都市アスタリスク 2
+Title:	The Asterisk War 2
+Title:	Gakusen Toshi Asterisk 2nd Season
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
+Tag:	CGI
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Robots
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Magic
+Tag:	Robots
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
 Related:	78369
 Related:	10567
 Related:	10568

@@ -1,14 +1,14 @@
 ID:	2018
-Title:	Laughing Target
-Title:	笑う標的
 Title:	Warau Hyouteki
-Tag:	Archery
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	School
+Title:	笑う標的
+Title:	Laughing Target
+Tag:	Demons
 Tag:	Rape
 Tag:	Yandere
-Tag:	Demons
+Tag:	Archery
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Shounen
 Related:	3113
 Related:	40810

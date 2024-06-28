@@ -1,16 +1,16 @@
 ID:	109125
+Title:	Omoi, Omoware, Furi, Furare
 Title:	"Omoi, Omoware, Furi, Furare"
 Title:	思い、思われ、ふり、ふられ
-Title:	Omoi, Omoware, Furi, Furare
 Tag:	Primarily Teen Cast
-Tag:	Shoujo
-Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	Cosplay
 Tag:	Rotoscoping
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Shoujo
+Tag:	School
+Tag:	Love Triangle
+Tag:	Cosplay
 Tag:	Coming of Age
 Related:	32091
 Related:	86219

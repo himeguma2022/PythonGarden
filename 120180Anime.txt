@@ -1,9 +1,9 @@
 ID:	120180
 Title:	忍者コレクション
 Title:	Ninja Collection
-Tag:	Denpa
 Tag:	Ghost
 Tag:	Episodic
 Tag:	Ninja
+Tag:	Denpa
 Related:	43464
 Related:	19383

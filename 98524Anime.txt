@@ -1,18 +1,18 @@
 ID:	98524
-Title:	ガヴリールドロップアウト
 Title:	Gabriel Dropout Specials
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
-Tag:	Angels
-Tag:	Urban
-Tag:	Shounen
+Title:	ガヴリールドロップアウト
+Tag:	Chuunibyou
 Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Isekai
+Tag:	Disability
+Tag:	Hikikomori
+Tag:	Cute Girls Doing Cute Things
+Tag:	Urban
+Tag:	Angels
 Tag:	School
 Tag:	Gods
-Tag:	Chuunibyou
 Tag:	Video Games
-Tag:	Disability
-Tag:	Demons
-Tag:	Hikikomori
+Tag:	Shounen
 Related:	18669
 Related:	21878

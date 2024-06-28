@@ -1,27 +1,27 @@
 ID:	3701
-Title:	カイバ
 Title:	Kaiba
-Tag:	Tragedy
-Tag:	Aliens
+Title:	カイバ
 Tag:	Clone
-Tag:	Post-Apocalyptic
+Tag:	Body Horror
+Tag:	Drugs
 Tag:	Space
-Tag:	Fugitive
-Tag:	Denpa
+Tag:	Primarily Child Cast
+Tag:	Psychosexual
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Crime
-Tag:	Primarily Child Cast
+Tag:	Post-Apocalyptic
+Tag:	Heterosexual
+Tag:	Aliens
 Tag:	Episodic
 Tag:	Cyberpunk
-Tag:	Body Horror
 Tag:	Cosmic Horror
-Tag:	Gender Bending
-Tag:	Drugs
-Tag:	Terrorism
-Tag:	Heterosexual
-Tag:	Psychosexual
 Tag:	Dystopian
-Tag:	Philosophy
-Tag:	Body Swapping
+Tag:	Denpa
+Tag:	Fugitive
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Gender Bending
 Tag:	Amnesia
+Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Philosophy

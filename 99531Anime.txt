@@ -1,15 +1,15 @@
 ID:	99531
-Title:	デビルズライン
 Title:	Devils' Line
+Title:	デビルズライン
 Tag:	Male Protagonist
+Tag:	Seinen
 Tag:	Female Protagonist
-Tag:	Espionage
+Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
 Tag:	Vampire
 Tag:	Masturbation
-Tag:	Nudity
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	Espionage
 Related:	86648
 Related:	20297
 Related:	102832

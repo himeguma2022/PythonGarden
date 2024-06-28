@@ -1,12 +1,12 @@
 ID:	154785
 Title:	NIJIYON ANIMATION
 Title:	にじよん あにめーしょん
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Female Harem
 Tag:	Chibi
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	83076
 Related:	77924

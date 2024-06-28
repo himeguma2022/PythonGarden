@@ -1,10 +1,10 @@
 ID:	99662
-Title:	엘소드 엘의 여인
 Title:	Elsword: El-e Yeoin
+Title:	엘소드 엘의 여인
 Tag:	Swordplay
-Tag:	Martial Arts
 Tag:	Elf
-Tag:	Magic
 Tag:	Demons
+Tag:	Martial Arts
+Tag:	Magic
 Related:	20455
 Related:	99663

@@ -1,20 +1,20 @@
 ID:	101759
 Title:	The Promised Neverland
-Title:	約束のネバーランド
 Title:	Yakusoku no Neverland
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	Dystopian
-Tag:	Orphan
-Tag:	Shounen
+Title:	約束のネバーランド
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Survival
-Tag:	Ensemble Cast
 Tag:	Tanned Skin
 Tag:	Demons
-Tag:	Coming of Age
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Orphan
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	22920
 Related:	87423
 Related:	31640

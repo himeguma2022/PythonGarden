@@ -1,18 +1,18 @@
 ID:	293
 Title:	Di Gi Charat
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Kemonomimi
-Tag:	Aliens
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Kuudere
-Tag:	Nekomimi
-Tag:	Chibi
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Chibi
 Tag:	American Football
+Tag:	Cute Girls Doing Cute Things
+Tag:	Aliens
+Tag:	Surreal Comedy
 Tag:	Kaiju
+Tag:	Episodic
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
 Related:	97410
 Related:	85640
 Related:	97932

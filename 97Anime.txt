@@ -1,18 +1,18 @@
 ID:	97
 Title:	ラストエグザイル
 Title:	Last Exile
-Tag:	CGI
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Lost Civilization
 Tag:	Female Protagonist
+Tag:	Heterosexual
 Tag:	Ensemble Cast
-Tag:	War
+Tag:	Conspiracy
 Tag:	Cult
 Tag:	Steampunk
-Tag:	Heterosexual
+Tag:	Post-Apocalyptic
+Tag:	War
 Tag:	Aviation
-Tag:	Conspiracy
 Related:	10336
 Related:	30515
 Related:	60207

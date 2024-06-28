@@ -2,36 +2,36 @@ ID:	9756
 Title:	Puella Magi Madoka Magica
 Title:	Mahou Shoujo Madoka☆Magica
 Title:	魔法少女まどか☆マギカ
-Tag:	Tragedy
-Tag:	Aliens
 Tag:	Spearplay
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Gods
-Tag:	Anthropomorphism
-Tag:	Witch
 Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
 Tag:	Ensemble Cast
-Tag:	Cosmic Horror
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Survival
+Tag:	Alternate Universe
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
 Tag:	Coming of Age
-Tag:	Tomboy
+Tag:	Henshin
 Tag:	Time Loop
 Tag:	Achronological Order
-Tag:	Philosophy
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Survival
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
 Tag:	Anti-Hero
-Tag:	Alternate Universe
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Anthropomorphism
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	94976
 Related:	22147
 Related:	57861

@@ -1,17 +1,17 @@
 ID:	122148
-Title:	Let's Make a Mug Too
-Title:	Yakunara Mug Cup Mo
 Title:	やくならマグカップも
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
+Title:	Yakunara Mug Cup Mo
+Title:	Let's Make a Mug Too
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Food
-Tag:	Rural
+Tag:	Family Life
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Rural
 Related:	132897
 Related:	135939
 Related:	178125

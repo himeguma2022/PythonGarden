@@ -1,32 +1,32 @@
 ID:	158704
-Title:	I'm in Love with the Villainess
 Title:	Watashi no Oshi wa Akuyaku Reijou.
 Title:	私の推しは悪役令嬢。
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Royal Affairs
-Tag:	Class Struggle
+Title:	I'm in Love with the Villainess
 Tag:	Yuri
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
 Tag:	Politics
-Tag:	Villainess
-Tag:	Video Games
 Tag:	Maids
 Tag:	Foreign
+Tag:	Crossdressing
 Tag:	Reincarnation
-Tag:	Boarding School
 Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Incest
+Tag:	Royal Affairs
+Tag:	Isekai
+Tag:	Video Games
+Tag:	Bullying
 Tag:	Ojou-sama
+Tag:	Incest
 Tag:	Bisexual
+Tag:	Villainess
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Class Struggle
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Love Triangle
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Magic
+Tag:	LGBTQ+ Themes
 Related:	168257
 Related:	81983
 Related:	89156

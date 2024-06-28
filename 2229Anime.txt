@@ -1,17 +1,16 @@
 ID:	2229
-Title:	ドラゴンクエスト ダイの大冒険
 Title:	Dragon Quest: Dai no Daibouken
-Tag:	Cultivation
-Tag:	Shounen
-Tag:	Swordplay
+Title:	ドラゴンクエスト ダイの大冒険
 Tag:	Male Protagonist
+Tag:	Swordplay
+Tag:	Demons
 Tag:	Martial Arts
 Tag:	Magic
-Tag:	Demons
+Tag:	Cultivation
+Tag:	Shounen
 Related:	107905
-Related:	3352
-Related:	7491
 Related:	2819
+Related:	7491
 Related:	7364
 Related:	3353
 Related:	81929
@@ -20,7 +19,8 @@ Related:	7436
 Related:	81965
 Related:	37486
 Related:	7435
-Related:	114099
 Related:	83799
+Related:	114099
 Related:	30871
+Related:	3352
 Related:	39193

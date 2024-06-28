@@ -1,12 +1,12 @@
 ID:	113595
-Title:	planetarian: Snow Globe
 Title:	planetarian ～雪圏球（スノーグローブ）
-Tag:	Lost Civilization
-Tag:	Artificial Intelligence
-Tag:	Astronomy
+Title:	planetarian: Snow Globe
 Tag:	Age Gap
-Tag:	Robots
 Tag:	Work
+Tag:	Lost Civilization
+Tag:	Astronomy
+Tag:	Robots
+Tag:	Artificial Intelligence
 Related:	66096
 Related:	21771
 Related:	21732

@@ -1,7 +1,7 @@
 ID:	131866
+Title:	天地創造デザイン部 特別編
 Title:	Tenchi Souzou Design-bu: Tokubetsu-hen
 Title:	Heaven's Design Team: Idea 13
-Title:	天地創造デザイン部 特別編
 Tag:	Chibi
 Tag:	Animals
 Related:	117696

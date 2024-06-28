@@ -1,12 +1,12 @@
 ID:	98239
-Title:	Warau Salesman New
 Title:	笑ゥせぇるすまんNew
 Title:	The Laughing Salesman
+Title:	Warau Salesman New
 Tag:	Male Protagonist
-Tag:	Episodic
 Tag:	Seinen
-Tag:	Anti-Hero
 Tag:	Work
+Tag:	Episodic
+Tag:	Anti-Hero
 Related:	3077
 Related:	18395
 Related:	18397

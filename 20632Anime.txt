@@ -1,21 +1,21 @@
 ID:	20632
 Title:	アルドノア・ゼロ
-Title:	Aldnoah.Zero
 Title:	ALDNOAH.ZERO
-Tag:	Guns
-Tag:	Revenge
-Tag:	Love Triangle
-Tag:	CGI
-Tag:	Post-Apocalyptic
+Title:	Aldnoah.Zero
 Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	War
-Tag:	Politics
+Tag:	CGI
 Tag:	Real Robot
-Tag:	Torture
-Tag:	Military
 Tag:	Space Opera
+Tag:	Lost Civilization
+Tag:	Military
+Tag:	Revenge
+Tag:	Politics
 Tag:	Conspiracy
+Tag:	Love Triangle
+Tag:	Post-Apocalyptic
+Tag:	War
+Tag:	Guns
+Tag:	Torture
 Related:	9623
 Related:	33244
 Related:	20853

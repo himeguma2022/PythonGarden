@@ -1,17 +1,17 @@
 ID:	100523
-Title:	Eromanga Sensei OVA
 Title:	エロマンガ先生 OVA
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	Eromanga Sensei OVA
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Baseball
-Tag:	Female Harem
 Tag:	Parody
+Tag:	Female Protagonist
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Baseball
+Tag:	Primarily Child Cast
+Tag:	Female Harem
 Tag:	Musical Theater
+Tag:	Primarily Female Cast
 Related:	21492
 Related:	21685
 Related:	85166

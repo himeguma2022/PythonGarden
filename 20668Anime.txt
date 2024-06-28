@@ -1,24 +1,24 @@
 ID:	20668
-Title:	月刊少女野崎くん
-Title:	Monthly Girls' Nozaki-kun
 Title:	Gekkan Shoujo Nozaki-kun
-Tag:	Tomboy
-Tag:	Drawing
+Title:	Monthly Girls' Nozaki-kun
+Title:	月刊少女野崎くん
+Tag:	Work
 Tag:	Primarily Teen Cast
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Gender Bending
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Drawing
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	School Club
+Tag:	School
+Tag:	Tomboy
 Tag:	Educational
 Tag:	Shounen
 Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	Otaku Culture
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Gender Bending
-Tag:	Parody
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Work
-Tag:	School Club
 Related:	9185
 Related:	59211
 Related:	9665

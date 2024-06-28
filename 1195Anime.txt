@@ -1,27 +1,27 @@
 ID:	1195
-Title:	ゼロの使い魔
-Title:	Zero no Tsukaima
 Title:	The Familiar of Zero
-Tag:	Slavery
+Title:	Zero no Tsukaima
+Title:	ゼロの使い魔
+Tag:	Maids
+Tag:	School
 Tag:	Isekai
-Tag:	Slapstick
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Tsundere
+Tag:	Ojou-sama
+Tag:	Dragons
 Tag:	Bullying
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	School
-Tag:	War
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	War
 Tag:	Aviation
+Tag:	Slapstick
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
 Tag:	Language Barrier
-Tag:	Ojou-sama
-Tag:	Maids
-Tag:	Dragons
+Tag:	Female Harem
+Tag:	Tanned Skin
+Tag:	Tsundere
+Tag:	Slavery
+Tag:	Magic
 Related:	1840
 Related:	35450
 Related:	2020

@@ -2,11 +2,11 @@ ID:	130183
 Title:	Boku no Hero Academia: Training of the Dead
 Title:	僕のヒーローアカデミア トレーニング・オブ・ザ・デッド
 Tag:	Super Power
-Tag:	Shounen
-Tag:	Urban
-Tag:	Ensemble Cast
 Tag:	Superhero
-Tag:	School
+Tag:	Ensemble Cast
+Tag:	Urban
 Tag:	Zombie
+Tag:	School
+Tag:	Shounen
 Related:	21856
 Related:	53590

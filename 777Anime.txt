@@ -1,37 +1,37 @@
 ID:	777
-Title:	HELLSING OVA
 Title:	Hellsing Ultimate
-Tag:	Noir
-Tag:	Time Skip
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Butler
-Tag:	Cannibalism
-Tag:	Gore
-Tag:	Religion
-Tag:	Primarily Adult Cast
-Tag:	Werewolf
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Title:	HELLSING OVA
 Tag:	Body Horror
-Tag:	Seinen
-Tag:	Monster Girl
-Tag:	Foreign
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Age Regression
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Nudity
-Tag:	Vampire
-Tag:	War
-Tag:	Nekomimi
-Tag:	Tomboy
-Tag:	CGI
-Tag:	Rape
 Tag:	Military
-Tag:	Anti-Hero
+Tag:	Noir
+Tag:	Rape
+Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Cannibalism
+Tag:	Monster Girl
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Religion
 Tag:	Bisexual
+Tag:	Vampire
+Tag:	Nekomimi
+Tag:	War
+Tag:	Slapstick
+Tag:	Guns
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Urban Fantasy
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Urban
+Tag:	Werewolf
+Tag:	Butler
+Tag:	Tomboy
+Tag:	Anti-Hero
+Tag:	Age Regression
 Related:	1409
 Related:	11077
 Related:	270

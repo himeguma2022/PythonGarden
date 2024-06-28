@@ -1,19 +1,19 @@
 ID:	97682
 Title:	Grimoire of Zero
-Title:	ゼロから始める魔法の書
 Title:	Zero kara Hajimeru Mahou no Sho
-Tag:	Witch
-Tag:	Revenge
-Tag:	Kemonomimi
+Title:	ゼロから始める魔法の書
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	War
+Tag:	Demons
+Tag:	Kemonomimi
 Tag:	Anthropomorphism
 Tag:	Tsundere
-Tag:	Animals
+Tag:	Revenge
 Tag:	Magic
-Tag:	Demons
+Tag:	Animals
 Tag:	Conspiracy
+Tag:	Witch
+Tag:	War
 Related:	51755
 Related:	71405
 Related:	93620

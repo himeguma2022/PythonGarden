@@ -1,15 +1,15 @@
 ID:	100744
 Title:	Pocket Monsters: Minna no Monogatari
-Title:	Pokémon the Movie: The Power of Us
 Title:	劇場版ポケットモンスター みんなの物語
-Tag:	Kids
-Tag:	Tragedy
+Title:	Pokémon the Movie: The Power of Us
 Tag:	Male Protagonist
+Tag:	Kids
 Tag:	Environmental
-Tag:	Ensemble Cast
-Tag:	Gyaru
-Tag:	Alternate Universe
 Tag:	Animals
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Gyaru
 Related:	120633
 Related:	97634
 Related:	88548

@@ -2,21 +2,21 @@ ID:	110459
 Title:	Ling Cage
 Title:	灵笼
 Title:	Ling Long
-Tag:	Guns
-Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Slavery
-Tag:	Bullying
-Tag:	Dystopian
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
 Tag:	Lost Civilization
-Tag:	Environmental
-Tag:	Cult
-Tag:	Military
-Tag:	Aviation
+Tag:	Dystopian
 Tag:	Primarily Adult Cast
+Tag:	Environmental
+Tag:	Slavery
+Tag:	Military
+Tag:	Full CGI
+Tag:	Tragedy
+Tag:	Cult
 Tag:	Kaiju
+Tag:	Bullying
+Tag:	Post-Apocalyptic
+Tag:	Aviation
+Tag:	Guns
 Related:	50192
 Related:	72202
 Related:	126832

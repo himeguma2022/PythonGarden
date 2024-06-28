@@ -1,11 +1,11 @@
 ID:	21729
 Title:	Kingsglaive Final Fantasy XV
 Title:	Kingsglaive: Final Fantasy XV
-Tag:	Full CGI
-Tag:	Tragedy
 Tag:	Female Protagonist
-Tag:	War
+Tag:	Full CGI
 Tag:	Magic
+Tag:	Tragedy
+Tag:	War
 Related:	21728
 Related:	55201
 Related:	107624

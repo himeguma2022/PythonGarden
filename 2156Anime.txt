@@ -1,14 +1,14 @@
 ID:	2156
-Title:	爆丸バトルブローラーズ
 Title:	Bakugan Battle Brawlers
-Tag:	Kids
-Tag:	Primarily Child Cast
+Title:	爆丸バトルブローラーズ
 Tag:	CGI
-Tag:	Isekai
+Tag:	Card Battle
+Tag:	Kids
+Tag:	Proxy Battle
+Tag:	Primarily Child Cast
 Tag:	Dissociative Identities
 Tag:	Kaiju
-Tag:	Card Battle
-Tag:	Proxy Battle
+Tag:	Isekai
 Tag:	Dragons
 Related:	177166
 Related:	108852

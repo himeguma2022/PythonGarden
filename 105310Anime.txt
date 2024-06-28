@@ -1,35 +1,35 @@
 ID:	105310
-Title:	炎炎ノ消防隊
-Title:	Enen no Shouboutai
 Title:	Fire Force
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Slapstick
-Tag:	Post-Apocalyptic
-Tag:	Tanned Skin
-Tag:	Cult
-Tag:	Religion
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Bullying
-Tag:	Shounen
-Tag:	Male Protagonist
+Title:	Enen no Shouboutai
+Title:	炎炎ノ消防隊
 Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Nun
-Tag:	Masochism
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Chuunibyou
-Tag:	Dystopian
-Tag:	Firefighters
 Tag:	Demons
+Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	Bullying
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Super Power
+Tag:	Chuunibyou
+Tag:	Time Manipulation
+Tag:	Nun
+Tag:	Nekomimi
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Dystopian
+Tag:	Kemonomimi
+Tag:	Primarily Adult Cast
+Tag:	Female Harem
+Tag:	Firefighters
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Masochism
+Tag:	Tragedy
+Tag:	Cult
 Related:	67074
 Related:	38243
 Related:	34789

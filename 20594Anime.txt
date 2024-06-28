@@ -1,25 +1,25 @@
 ID:	20594
 Title:	ソードアート・オンライン II
 Title:	Sword Art Online II
-Tag:	Tragedy
-Tag:	Kuudere
-Tag:	Unrequited Love
 Tag:	Crossdressing
-Tag:	Death Game
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Video Games
+Tag:	Bullying
+Tag:	Virtual World
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Primarily Female Cast
 Tag:	Guns
 Tag:	Swordplay
-Tag:	Female Harem
 Tag:	Assassins
-Tag:	Tomboy
+Tag:	Female Protagonist
+Tag:	Kuudere
 Tag:	Battle Royale
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	Death Game
 Tag:	Philosophy
-Tag:	Virtual World
 Related:	57484
 Related:	44304
 Related:	51989

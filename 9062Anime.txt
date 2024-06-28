@@ -1,17 +1,17 @@
 ID:	9062
-Title:	エンジェルビーツ 特別篇
 Title:	Angel Beats! Specials
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Battle Royale
-Tag:	Slapstick
+Title:	エンジェルビーツ 特別篇
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Kuudere
-Tag:	Afterlife
 Tag:	Gore
+Tag:	Ensemble Cast
+Tag:	Battle Royale
+Tag:	Tragedy
+Tag:	School
+Tag:	Survival
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Afterlife
 Related:	170530
 Related:	6547
 Related:	6574

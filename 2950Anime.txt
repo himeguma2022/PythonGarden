@@ -1,17 +1,17 @@
 ID:	2950
-Title:	どうぶつの森
 Title:	Doubutsu no Mori
-Tag:	Kids
-Tag:	Aliens
-Tag:	Video Games
-Tag:	Fashion
+Title:	どうぶつの森
 Tag:	CGI
-Tag:	Primarily Animal Cast
-Tag:	Environmental
-Tag:	Rural
+Tag:	Kids
 Tag:	Female Protagonist
 Tag:	Anthropomorphism
+Tag:	Environmental
 Tag:	Animals
+Tag:	Fashion
+Tag:	Aliens
+Tag:	Video Games
+Tag:	Primarily Animal Cast
+Tag:	Rural
 Tag:	Coming of Age
 Related:	48315
 Related:	26548

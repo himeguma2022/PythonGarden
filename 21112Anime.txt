@@ -1,12 +1,12 @@
 ID:	21112
-Title:	クラスルーム☆クライシス
 Title:	Classroom☆Crisis
+Title:	クラスルーム☆クライシス
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	School
-Tag:	Space
 Tag:	Kuudere
+Tag:	Space
 Tag:	Politics
+Tag:	School
+Tag:	Love Triangle
 Tag:	Anti-Hero
 Related:	21383
 Related:	86357

@@ -1,17 +1,17 @@
 ID:	136436
-Title:	小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）
-Title:	Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)
 Title:	Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi (Attend wa Dragon desu)
+Title:	Miss Kobayashi’s Dragon Maid S: Japanese Hospitality (The Attendant Is a Dragon)
+Title:	小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）
+Tag:	Seinen
 Tag:	Yuri
-Tag:	Swimming
 Tag:	Cute Girls Doing Cute Things
+Tag:	Maids
+Tag:	Dragons
 Tag:	Isekai
 Tag:	LGBTQ+ Themes
 Tag:	Virtual World
-Tag:	Seinen
 Tag:	Monster Girl
-Tag:	Maids
-Tag:	Dragons
+Tag:	Swimming
 Related:	71984
 Related:	107717
 Related:	59727

@@ -1,14 +1,14 @@
 ID:	146975
-Title:	THE IDOLM@STER CINDERELLA GIRLS U149
 Title:	THE iDOLM@STER Cinderella Girls: U149
 Title:	アイドルマスター シンデレラガールズ U149
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Ensemble Cast
+Title:	THE IDOLM@STER CINDERELLA GIRLS U149
 Tag:	Acting
-Tag:	Dancing
 Tag:	Work
+Tag:	Cute Girls Doing Cute Things
+Tag:	Dancing
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	71202
 Related:	166532

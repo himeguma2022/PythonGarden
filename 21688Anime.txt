@@ -1,20 +1,20 @@
 ID:	21688
 Title:	The Ancient Magus' Bride: Those Awaiting a Star
-Title:	Mahoutsukai no Yome: Hoshi Matsu Hito
 Title:	魔法使いの嫁 星待つひと
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Primarily Child Cast
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Monster Boy
-Tag:	Urban Fantasy
-Tag:	Skeleton
+Title:	Mahoutsukai no Yome: Hoshi Matsu Hito
 Tag:	Age Gap
-Tag:	Magic
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
 Tag:	Heterosexual
-Tag:	Time Manipulation
+Tag:	Magic
+Tag:	Primarily Child Cast
 Tag:	Foreign
+Tag:	Time Manipulation
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	Skeleton
+Tag:	Monster Boy
+Tag:	Shounen
 Related:	11073
 Related:	18530
 Related:	98436

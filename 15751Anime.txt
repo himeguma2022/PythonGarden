@@ -1,15 +1,15 @@
 ID:	15751
+Title:	戦勇.
 Title:	Senyuu
 Title:	Senyuu.
-Title:	戦勇.
-Tag:	Surreal Comedy
-Tag:	Shounen
-Tag:	Delinquents
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
 Tag:	Parody
 Tag:	Demons
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Shounen
+Tag:	Delinquents
 Related:	117896
 Related:	48585
 Related:	17391

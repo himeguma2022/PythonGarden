@@ -1,21 +1,21 @@
 ID:	1530
 Title:	Kanon (2006)
 Title:	カノン (2006)
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Ghost
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Family Life
-Tag:	Female Harem
-Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Kuudere
-Tag:	Amnesia
-Tag:	Suicide
+Tag:	Ghost
 Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Family Life
 Tag:	Snowscape
+Tag:	Heterosexual
+Tag:	Amnesia
+Tag:	Tragedy
+Tag:	School
+Tag:	Female Harem
+Tag:	Age Regression
+Tag:	Suicide
+Tag:	Coming of Age
 Related:	55946
 Related:	31822
 Related:	143150

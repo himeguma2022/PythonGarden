@@ -1,15 +1,15 @@
 ID:	108714
-Title:	ACCA: 13-Territory Inspection Dept. - Regards
-Title:	ACCA: 13-ku Kansatsu-ka - Regards
 Title:	ACCA13区監察課 Regards
-Tag:	Primarily Adult Cast
-Tag:	Ensemble Cast
-Tag:	Detective
-Tag:	Espionage
-Tag:	Politics
+Title:	ACCA: 13-ku Kansatsu-ka - Regards
+Title:	ACCA: 13-Territory Inspection Dept. - Regards
 Tag:	Seinen
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Primarily Adult Cast
+Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Conspiracy
+Tag:	Detective
+Tag:	Espionage
+Tag:	Coming of Age
 Related:	39988
 Related:	21823

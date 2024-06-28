@@ -1,18 +1,18 @@
 ID:	20542
-Title:	Kamigami no Asobi
 Title:	神々の悪戯 ~Ludere deorum~
+Title:	Kamigami no Asobi
 Title:	Kamigami no Asobi: Ludere deorum
-Tag:	Historical
-Tag:	Isekai
 Tag:	Female Protagonist
-Tag:	School
+Tag:	Isekai
 Tag:	Kuudere
-Tag:	Primarily Male Cast
-Tag:	Gods
-Tag:	Male Harem
-Tag:	Suicide
 Tag:	Tsundere
-Tag:	Yandere
 Tag:	Heterosexual
+Tag:	Male Harem
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Gods
+Tag:	Historical
+Tag:	Yandere
+Tag:	Suicide
 Related:	66659
 Related:	87523

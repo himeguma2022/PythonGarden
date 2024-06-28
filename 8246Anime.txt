@@ -1,12 +1,12 @@
 ID:	8246
 Title:	劇場版 NARUTO -ナルト- 疾風伝 ザ・ロストタワー
-Title:	NARUTO: Shippuuden - The Lost Tower
 Title:	Naruto Shippuden the Movie: The Lost Tower
-Tag:	Super Power
-Tag:	Shounen
+Title:	NARUTO: Shippuuden - The Lost Tower
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Ninja
 Tag:	Time Manipulation
+Tag:	Shounen
 Related:	10659
 Related:	132773
 Related:	1735

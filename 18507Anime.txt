@@ -1,14 +1,14 @@
 ID:	18507
 Title:	Free!
 Title:	Free! -Iwatobi Swim Club-
-Tag:	Swimming
+Tag:	Male Protagonist
 Tag:	Primarily Teen Cast
 Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	Swimming
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Coming of Age
 Related:	9153
 Related:	9155
 Related:	9093

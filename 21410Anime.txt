@@ -1,20 +1,20 @@
 ID:	21410
-Title:	Alderamin on the Sky
 Title:	ねじ巻き精霊戦記 天鏡のアルデラミン
+Title:	Alderamin on the Sky
 Title:	Nejimaki Seirei Senki: Tenkyou no Alderamin
-Tag:	Guns
-Tag:	Tragedy
+Tag:	Male Protagonist
 Tag:	Primarily Teen Cast
 Tag:	Swordplay
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	War
-Tag:	Politics
-Tag:	Military
-Tag:	Philosophy
 Tag:	Gore
-Tag:	Ojou-sama
+Tag:	Military
+Tag:	Politics
 Tag:	Foreign
+Tag:	Tragedy
+Tag:	Female Harem
+Tag:	Ojou-sama
+Tag:	Philosophy
+Tag:	War
+Tag:	Guns
 Related:	55514
 Related:	11115
 Related:	85885

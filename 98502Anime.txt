@@ -1,16 +1,16 @@
 ID:	98502
+Title:	Miss Kobayashi's Dragon Something
 Title:	Kobayashi-san Chi no ○○ Dragon
 Title:	小林さんちの○○ドラゴン
-Title:	Miss Kobayashi's Dragon Something
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
-Tag:	Female Protagonist
 Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Chibi
-Tag:	Monster Girl
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Primarily Female Cast
+Tag:	Monster Girl
 Related:	21776
 Related:	18650
 Related:	37717

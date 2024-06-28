@@ -1,25 +1,25 @@
 ID:	144451
-Title:	スターズこれくしょん！
-Title:	stars*collection
 Title:	stars*collection!
-Tag:	Slapstick
-Tag:	Anachronism
-Tag:	Full CGI
-Tag:	Cute Boys Doing Cute Things
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Parody
-Tag:	Meta
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Primarily Male Cast
-Tag:	Mafia
-Tag:	Robots
-Tag:	Surreal Comedy
-Tag:	VTuber
-Tag:	Dancing
+Title:	stars*collection
+Title:	スターズこれくしょん！
 Tag:	Demons
+Tag:	Food
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	Primarily Male Cast
+Tag:	VTuber
+Tag:	Meta
+Tag:	Episodic
+Tag:	Anachronism
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Parody
+Tag:	Kemonomimi
+Tag:	Full CGI
+Tag:	Mafia
+Tag:	Dancing
 Tag:	Idol
 Related:	118123
 Related:	68140

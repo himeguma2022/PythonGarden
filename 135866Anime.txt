@@ -1,15 +1,15 @@
 ID:	135866
+Title:	Saga of Tanya the Evil: Operation Desert Pasta
 Title:	Youjo Senki: Sabaku no Pasta Daisakusen
 Title:	幼女戦記 砂漠のパスタ大作戦
-Title:	Saga of Tanya the Evil: Operation Desert Pasta
-Tag:	Guns
-Tag:	Isekai
 Tag:	CGI
 Tag:	Female Protagonist
 Tag:	Food
-Tag:	War
 Tag:	Military
 Tag:	Magic
+Tag:	Isekai
+Tag:	War
+Tag:	Guns
 Related:	59161
 Related:	21613
 Related:	59142

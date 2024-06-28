@@ -1,6 +1,6 @@
 ID:	17843
-Title:	Inferno Cop: Fact Files
 Title:	インフェルノコップ ファクトファイル
+Title:	Inferno Cop: Fact Files
 Tag:	Police
 Tag:	Surreal Comedy
 Tag:	Skeleton

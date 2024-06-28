@@ -1,23 +1,23 @@
 ID:	10012
-Title:	Carnival Phantasm
 Title:	カーニバル・ファンタズム
-Tag:	Slavery
-Tag:	Mythology
-Tag:	Surreal Comedy
-Tag:	Crossover
-Tag:	Succubus
-Tag:	Slapstick
-Tag:	Age Regression
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Kuudere
+Title:	Carnival Phantasm
 Tag:	Parody
+Tag:	Kuudere
+Tag:	Crossover
+Tag:	Slavery
 Tag:	Vampire
-Tag:	Bar
-Tag:	Nekomimi
+Tag:	Succubus
 Tag:	Magic
-Tag:	Maids
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Mythology
+Tag:	Maids
+Tag:	Female Harem
+Tag:	Nekomimi
+Tag:	Age Regression
+Tag:	Bar
+Tag:	Slapstick
 Related:	6922
 Related:	6930
 Related:	6931

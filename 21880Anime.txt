@@ -1,12 +1,12 @@
 ID:	21880
 Title:	ONE PIECE FILM GOLD 〜episode 0〜 711ver.
 Title:	ONE PIECE FILM: GOLD - episode 0 711ver.
-Tag:	Super Power
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Ensemble Cast
 Tag:	Pirates
 Tag:	Anachronism
+Tag:	Shounen
 Related:	21831
 Related:	11432
 Related:	11434

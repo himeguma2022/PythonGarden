@@ -2,13 +2,13 @@ ID:	119056
 Title:	賢者の弟子を名乗る賢者
 Title:	Kenja no Deshi wo Nanoru Kenja
 Title:	She Professed Herself Pupil of the Wise Man
-Tag:	Dungeon
-Tag:	Isekai
 Tag:	CGI
 Tag:	Female Protagonist
 Tag:	Gender Bending
-Tag:	Virtual World
 Tag:	Magic
+Tag:	Dungeon
+Tag:	Isekai
+Tag:	Virtual World
 Related:	97529
 Related:	42547
 Related:	91885

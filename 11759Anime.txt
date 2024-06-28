@@ -1,24 +1,24 @@
 ID:	11759
 Title:	アクセル・ワールド
 Title:	Accel World
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Motorcycles
 Tag:	Male Protagonist
+Tag:	Video Games
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	School
+Tag:	Isekai
+Tag:	Augmented Reality
 Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	School
 Tag:	Tokusatsu
+Tag:	Love Triangle
+Tag:	Netorare
+Tag:	Motorcycles
+Tag:	Bullying
 Tag:	Philosophy
 Tag:	Virtual World
-Tag:	Video Games
 Tag:	Henshin
-Tag:	Augmented Reality
-Tag:	Heterosexual
-Tag:	Netorare
-Tag:	Time Manipulation
 Related:	7520
 Related:	7521
 Related:	8801

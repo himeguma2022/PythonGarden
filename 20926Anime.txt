@@ -1,11 +1,11 @@
 ID:	20926
-Title:	Riddle Story of Devil Special
 Title:	悪魔のリドル 13話
+Title:	Riddle Story of Devil Special
 Title:	Akuma no Riddle Special
+Tag:	Parody
 Tag:	Yuri
+Tag:	Kuudere
 Tag:	Battle Royale
 Tag:	School
-Tag:	Kuudere
-Tag:	Parody
 Related:	19429
 Related:	9759

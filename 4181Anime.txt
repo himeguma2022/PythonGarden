@@ -1,29 +1,29 @@
 ID:	4181
+Title:	ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
 Title:	Clannad: After Story
 Title:	CLANNAD: After Story
-Title:	ＣＬＡＮＮＡＤ ~After Story~ クラナド アフターストーリー
-Tag:	Tragedy
-Tag:	Slapstick
-Tag:	Baseball
-Tag:	Trains
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Marriage
-Tag:	Afterlife
-Tag:	Rehabilitation
-Tag:	Time Manipulation
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	School Club
-Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Work
 Tag:	Alternate Universe
+Tag:	Marriage
+Tag:	Trains
+Tag:	School
+Tag:	Coming of Age
+Tag:	Afterlife
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Baseball
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Philosophy
 Related:	4744
 Related:	4745
 Related:	143150

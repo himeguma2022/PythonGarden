@@ -1,36 +1,36 @@
 ID:	10721
-Title:	輪るピングドラム
-Title:	Mawaru Penguindrum
 Title:	Penguindrum
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Satire
-Tag:	Denpa
-Tag:	Cult
+Title:	Mawaru Penguindrum
+Title:	輪るピングドラム
+Tag:	Fairy Tale
+Tag:	Rape
+Tag:	Ensemble Cast
 Tag:	Trains
 Tag:	Memory Manipulation
-Tag:	Crime
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Fairy Tale
-Tag:	Parody
-Tag:	Meta
-Tag:	Inseki
-Tag:	Terrorism
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Incest
 Tag:	Surreal Comedy
-Tag:	Rape
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Satire
+Tag:	Incest
+Tag:	Family Life
+Tag:	Heterosexual
 Tag:	Achronological Order
+Tag:	Meta
+Tag:	Age Gap
+Tag:	Parody
+Tag:	Twins
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Inseki
+Tag:	Primarily Teen Cast
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Ghost
+Tag:	Magic
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Cult
+Tag:	LGBTQ+ Themes
 Tag:	Philosophy
 Related:	88512
 Related:	55616

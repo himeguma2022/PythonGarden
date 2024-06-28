@@ -1,38 +1,38 @@
 ID:	957
 Title:	The Story of Saiunkoku
-Title:	Saiunkoku Monogatari
 Title:	彩雲国物語
-Tag:	Historical
-Tag:	Urban
-Tag:	Dissociative Identities
-Tag:	Unrequited Love
+Title:	Saiunkoku Monogatari
+Tag:	Travel
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Marriage
+Tag:	Primarily Male Cast
+Tag:	Mythology
 Tag:	Royal Affairs
-Tag:	Primarily Adult Cast
 Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Bisexual
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Unrequited Love
+Tag:	Male Harem
+Tag:	Shoujo
+Tag:	War
+Tag:	Swordplay
+Tag:	Work
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Arranged Marriage
+Tag:	Primarily Adult Cast
+Tag:	Historical
 Tag:	Crime
 Tag:	Ghost
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Marriage
-Tag:	Politics
-Tag:	Travel
-Tag:	Male Harem
-Tag:	Foreign
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Assassins
-Tag:	Arranged Marriage
-Tag:	Heterosexual
-Tag:	Ancient China
-Tag:	Coming of Age
 Tag:	Found Family
+Tag:	Urban
+Tag:	Ancient China
+Tag:	Dissociative Identities
 Tag:	Philosophy
-Tag:	Work
-Tag:	Bisexual
 Related:	31490
 Related:	43495
 Related:	1687

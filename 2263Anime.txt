@@ -2,13 +2,13 @@ ID:	2263
 Title:	Sonic the Hedgehog: The Movie
 Title:	Sonic the Hedgehog
 Title:	ソニック・ザ・ヘッジホッグ
-Tag:	Clone
-Tag:	Primarily Animal Cast
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	Clone
 Tag:	Anthropomorphism
 Tag:	Animals
 Tag:	Robots
+Tag:	Primarily Male Cast
+Tag:	Primarily Animal Cast
 Tag:	Aviation
 Related:	58912
 Related:	1816

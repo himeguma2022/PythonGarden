@@ -2,27 +2,27 @@ ID:	127721
 Title:	IDOLiSH7: Third BEAT!
 Title:	アイドリッシュセブン Third BEAT!
 Title:	IDOLiSH7 Third BEAT!
-Tag:	Tragedy
-Tag:	Urban
-Tag:	Band
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Office Lady
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Work
 Tag:	Kuudere
 Tag:	Primarily Adult Cast
-Tag:	Conspiracy
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Acting
-Tag:	Primarily Male Cast
 Tag:	Twins
-Tag:	Coming of Age
-Tag:	Found Family
 Tag:	Language Barrier
+Tag:	Acting
+Tag:	Ghost
 Tag:	Revenge
-Tag:	Time Skip
 Tag:	Dancing
-Tag:	Otaku Culture
-Tag:	Work
-Tag:	Office Lady
+Tag:	Found Family
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Band
 Tag:	Idol
 Related:	150848
 Related:	155841

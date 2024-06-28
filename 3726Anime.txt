@@ -1,10 +1,10 @@
 ID:	3726
+Title:	Karasu Tengu Kabuto: Ougon no Me no Kemono
 Title:	Kabuto the Golden Eye Monster
 Title:	鴉天狗カブト 黄金の目のケモノ
-Title:	Karasu Tengu Kabuto: Ougon no Me no Kemono
+Tag:	Male Protagonist
 Tag:	Swordplay
 Tag:	Nudity
-Tag:	Male Protagonist
 Tag:	Historical
 Related:	4489
 Related:	2243

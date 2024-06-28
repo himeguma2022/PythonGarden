@@ -1,13 +1,13 @@
 ID:	6023
+Title:	Haruka Nogizaka's Secret: Purezza
 Title:	Nogizaka Haruka no Himitsu: Purezza
 Title:	乃木坂春香の秘密ぴゃあれっつぁ
-Title:	Haruka Nogizaka's Secret: Purezza
-Tag:	School
-Tag:	Otaku Culture
-Tag:	Kuudere
 Tag:	Parody
+Tag:	Kuudere
 Tag:	Heterosexual
 Tag:	Maids
+Tag:	Otaku Culture
+Tag:	School
 Related:	10928
 Related:	5514
 Related:	5515

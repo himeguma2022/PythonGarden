@@ -1,26 +1,26 @@
 ID:	108617
-Title:	ソマリと森の神様
 Title:	Somali to Mori no Kamisama
 Title:	Somali and the Forest Spirit
-Tag:	Slavery
-Tag:	Elf
-Tag:	Witch
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Title:	ソマリと森の神様
 Tag:	Lost Civilization
-Tag:	Family Life
-Tag:	Travel
-Tag:	Youkai
-Tag:	Seinen
-Tag:	Iyashikei
-Tag:	Elderly Protagonist
-Tag:	Orphan
-Tag:	Survival
-Tag:	Parenthood
-Tag:	Found Family
-Tag:	CGI
-Tag:	Disability
 Tag:	Demons
+Tag:	Travel
 Tag:	Adoption
+Tag:	Elderly Protagonist
+Tag:	Iyashikei
+Tag:	Orphan
+Tag:	Parenthood
+Tag:	Youkai
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Survival
+Tag:	Witch
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Seinen
+Tag:	Elf
+Tag:	Disability
+Tag:	Slavery
+Tag:	Found Family
 Related:	86788
 Related:	31543

@@ -1,20 +1,20 @@
 ID:	21377
+Title:	劇場版 黒子のバスケ Last Game
 Title:	Kuroko's Basketball: Last Game
 Title:	Kuroko no Basket: Last Game
-Title:	劇場版 黒子のバスケ Last Game
-Tag:	Tomboy
-Tag:	Basketball
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Dissociative Identities
-Tag:	Athletics
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Kuudere
 Tag:	Tanned Skin
+Tag:	Kuudere
+Tag:	Athletics
+Tag:	Ensemble Cast
 Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Dissociative Identities
+Tag:	Tomboy
+Tag:	Basketball
+Tag:	Shounen
 Related:	41600
 Related:	85604
 Related:	83851

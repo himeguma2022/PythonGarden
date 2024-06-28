@@ -1,26 +1,26 @@
 ID:	101921
-Title:	Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
 Title:	Kaguya-sama: Love is War
-Title:	かぐや様は告らせたい～天才たちの恋愛頭脳戦～
+Title:	Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen
 Title:	Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
-Tag:	Primarily Teen Cast
-Tag:	Kemonomimi
-Tag:	Slapstick
+Title:	かぐや様は告らせたい～天才たちの恋愛頭脳戦～
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
 Tag:	Rotoscoping
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Nekomimi
-Tag:	Philosophy
-Tag:	Tsundere
+Tag:	Primarily Teen Cast
 Tag:	Seinen
-Tag:	Meta
-Tag:	Ojou-sama
+Tag:	Kemonomimi
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Nekomimi
+Tag:	Meta
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Ojou-sama
+Tag:	Episodic
+Tag:	Philosophy
+Tag:	Slapstick
 Related:	23104
 Related:	35864
 Related:	86635

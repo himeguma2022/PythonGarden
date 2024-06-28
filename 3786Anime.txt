@@ -2,36 +2,36 @@ ID:	3786
 Title:	Evangelion: 3.0+1.0 Thrice Upon a Time
 Title:	シン・エヴァンゲリオン劇場版:||
 Title:	Shin Evangelion Movie:||
-Tag:	Super Robot
 Tag:	Clone
-Tag:	Spearplay
-Tag:	Post-Apocalyptic
-Tag:	Space
-Tag:	Gods
-Tag:	Denpa
-Tag:	Gore
-Tag:	Kaiju
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
 Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Rehabilitation
-Tag:	Video Games
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Guns
-Tag:	Agriculture
-Tag:	Survival
-Tag:	Nudity
-Tag:	Space Opera
-Tag:	Ships
+Tag:	Spearplay
+Tag:	Space
 Tag:	Robots
-Tag:	Coming of Age
-Tag:	Tomboy
-Tag:	CGI
-Tag:	Philosophy
-Tag:	Time Skip
 Tag:	Alternate Universe
+Tag:	Video Games
+Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Space Opera
+Tag:	Agriculture
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Survival
+Tag:	Guns
+Tag:	CGI
+Tag:	Cosmic Horror
+Tag:	Gore
+Tag:	Ships
+Tag:	Super Robot
+Tag:	Denpa
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Rehabilitation
+Tag:	Gods
+Tag:	Tomboy
+Tag:	Kaiju
+Tag:	Philosophy
 Related:	155399
 Related:	3785
 Related:	78451

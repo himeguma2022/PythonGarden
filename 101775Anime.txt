@@ -1,11 +1,11 @@
 ID:	101775
 Title:	あの日の彼女たち
 Title:	Ano Hi no Kanojotachi
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	121888
 Related:	104611

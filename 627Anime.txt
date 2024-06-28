@@ -1,16 +1,16 @@
 ID:	627
-Title:	メジャー (第1シリーズ)
 Title:	Major S1
-Tag:	Language Barrier
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Baseball
-Tag:	School
-Tag:	Primarily Male Cast
+Title:	メジャー (第1シリーズ)
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Language Barrier
+Tag:	Baseball
+Tag:	Primarily Child Cast
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Bullying
+Tag:	Shounen
 Tag:	Coming of Age
 Related:	558
 Related:	40978

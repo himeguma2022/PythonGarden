@@ -1,19 +1,19 @@
 ID:	21584
 Title:	ラブライブ！サンシャイン!!
 Title:	Love Live! Sunshine!!
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	School Club
 Tag:	CGI
-Tag:	Coastal
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
 Tag:	Dancing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	School Club
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Rural
 Tag:	Idol
+Tag:	Coastal
 Related:	61186
 Related:	130307
 Related:	60681

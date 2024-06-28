@@ -1,22 +1,22 @@
 ID:	1878
-Title:	風の少女エミリー
 Title:	Kaze no Shoujo Emily
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Bullying
+Title:	風の少女エミリー
+Tag:	Writing
 Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Foreign
 Tag:	School
-Tag:	Classic Literature
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Rural
-Tag:	Tomboy
-Tag:	Time Skip
 Tag:	Ojou-sama
-Tag:	Writing
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	Classic Literature
+Tag:	Female Protagonist
+Tag:	Love Triangle
+Tag:	Historical
+Tag:	Animals
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	Rural

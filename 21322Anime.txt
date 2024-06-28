@@ -2,18 +2,18 @@ ID:	21322
 Title:	マナリアフレンズ
 Title:	Manaria Friends
 Title:	Mysteria Friends
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
 Tag:	Acting
-Tag:	Gods
-Tag:	Magic
-Tag:	Monster Girl
+Tag:	Female Protagonist
+Tag:	Yuri
 Tag:	Demons
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
+Tag:	Gods
+Tag:	Episodic
 Tag:	Dragons
+Tag:	Primarily Female Cast
+Tag:	Monster Girl
 Related:	19586
 Related:	20590
 Related:	51254

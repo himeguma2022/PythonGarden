@@ -1,26 +1,26 @@
 ID:	1087
 Title:	きまぐれオレンジ☆ロード
 Title:	Kimagure Orange☆Road
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Martial Arts
-Tag:	Kuudere
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Time Manipulation
-Tag:	Delinquents
 Tag:	School
-Tag:	Magic
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Family Life
 Tag:	Heterosexual
-Tag:	Twins
-Tag:	Tomboy
+Tag:	Time Manipulation
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Delinquents
 Tag:	Photography
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Martial Arts
+Tag:	Magic
 Tag:	Body Swapping
+Tag:	Urban
+Tag:	Tomboy
 Related:	1888
 Related:	1889
 Related:	1890

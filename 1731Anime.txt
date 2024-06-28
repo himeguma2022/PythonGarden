@@ -1,14 +1,14 @@
 ID:	1731
-Title:	Tales of Symphonia THE ANIMATION: Sylvarant-hen
-Title:	Tales of Symphonia: The Animation - Sylvarant Arc
 Title:	テイルズオブシンフォニア THE ANIMATION シルヴァラント編
-Tag:	Slavery
-Tag:	Swordplay
-Tag:	Angels
+Title:	Tales of Symphonia: The Animation - Sylvarant Arc
+Title:	Tales of Symphonia THE ANIMATION: Sylvarant-hen
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Elf
-Tag:	Cult
+Tag:	Slavery
 Tag:	Magic
+Tag:	Angels
+Tag:	Cult
 Related:	33664
 Related:	2767
 Related:	2769

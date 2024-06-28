@@ -1,26 +1,26 @@
 ID:	125206
+Title:	Tsuki ga Michibiku Isekai Douchuu
 Title:	TSUKIMICHI -Moonlit Fantasy-
 Title:	月が導く異世界道中
-Title:	Tsuki ga Michibiku Isekai Douchuu
-Tag:	Tragedy
+Tag:	Alchemy
 Tag:	Archery
-Tag:	Isekai
-Tag:	Gods
-Tag:	Elf
-Tag:	Anthropomorphism
 Tag:	Memory Manipulation
-Tag:	Male Protagonist
+Tag:	Isekai
+Tag:	Dragons
 Tag:	Monster Girl
+Tag:	Male Protagonist
 Tag:	Meta
 Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Magic
 Tag:	Language Barrier
+Tag:	Female Harem
+Tag:	Elf
+Tag:	Anthropomorphism
+Tag:	Economics
 Tag:	Revenge
-Tag:	Alchemy
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Samurai
-Tag:	Dragons
+Tag:	Gods
 Related:	48291
 Related:	48293
 Related:	63476

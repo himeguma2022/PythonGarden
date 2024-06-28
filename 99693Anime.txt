@@ -1,27 +1,27 @@
 ID:	99693
 Title:	PERSONA5 the Animation
-Tag:	Memory Manipulation
-Tag:	Crime
-Tag:	Mythology
-Tag:	Super Power
-Tag:	Delinquents
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Crime
 Tag:	Alternate Universe
+Tag:	Rehabilitation
+Tag:	Mythology
+Tag:	Memory Manipulation
+Tag:	Henshin
 Tag:	School
 Tag:	Achronological Order
-Tag:	Henshin
-Tag:	Rehabilitation
+Tag:	Delinquents
 Related:	3366
 Related:	14407
 Related:	20488
 Related:	35751
-Related:	67231
 Related:	50225
+Related:	106169
 Related:	98652
 Related:	21432
-Related:	106169
+Related:	50233
 Related:	27738
 Related:	50235
 Related:	10588
 Related:	143581
-Related:	50233
+Related:	67231

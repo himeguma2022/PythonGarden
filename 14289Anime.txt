@@ -1,14 +1,14 @@
 ID:	14289
-Title:	好きっていいなよ。
-Title:	Sukitte Ii na yo.
 Title:	Say "I love you".
-Tag:	Bullying
+Title:	Sukitte Ii na yo.
+Title:	好きっていいなよ。
 Tag:	Primarily Teen Cast
-Tag:	Shoujo
-Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
 Related:	17409
 Related:	16868
 Related:	41767

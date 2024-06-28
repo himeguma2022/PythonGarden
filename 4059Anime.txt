@@ -1,11 +1,11 @@
 ID:	4059
-Title:	ＣＬＡＮＮＡＤ もうひとつの世界 智代編
 Title:	Clannad: Another World, Tomoyo Chapter
 Title:	"CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen"
 Title:	CLANNAD: Mou Hitotsu no Sekai, Tomoyo-hen
+Title:	ＣＬＡＮＮＡＤ もうひとつの世界 智代編
 Tag:	Coming of Age
-Tag:	Alternate Universe
 Tag:	School
+Tag:	Alternate Universe
 Related:	38627
 Related:	78348
 Related:	6351

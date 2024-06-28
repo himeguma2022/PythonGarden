@@ -1,19 +1,19 @@
 ID:	1604
-Title:	家庭教師ヒットマンREBORN!
 Title:	REBORN!
 Title:	Katekyou Hitman REBORN!
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Slapstick
-Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Urban Fantasy
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Mafia
+Title:	家庭教師ヒットマンREBORN!
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Urban Fantasy
+Tag:	Mafia
 Tag:	Heterosexual
 Tag:	Time Manipulation
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Shounen
+Tag:	Slapstick
+Tag:	Age Regression
 Related:	143393
 Related:	30047
 Related:	67087

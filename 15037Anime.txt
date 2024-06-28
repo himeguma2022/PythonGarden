@@ -1,22 +1,22 @@
 ID:	15037
-Title:	Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou
 Title:	コープスパーティー Tortured Souls -暴虐された魂の呪叫-
 Title:	Corpse Party
-Tag:	Tragedy
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Isekai
+Title:	Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Skeleton
-Tag:	Suicide
+Tag:	Ghost
 Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	Memory Manipulation
+Tag:	Tragedy
+Tag:	Skeleton
+Tag:	School
+Tag:	Isekai
+Tag:	Body Horror
+Tag:	Suicide
 Related:	8070
 Related:	49094
 Related:	13807

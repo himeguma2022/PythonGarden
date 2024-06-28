@@ -1,39 +1,39 @@
 ID:	99147
-Title:	Shingeki no Kyojin 3
-Title:	Attack on Titan Season 3
 Title:	Shingeki no Kyojin Season 3
+Title:	Shingeki no Kyojin 3
 Title:	進撃の巨人３
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Class Struggle
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Kaiju
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Torture
-Tag:	Politics
-Tag:	Guns
-Tag:	Swordplay
-Tag:	Survival
-Tag:	Primarily Male Cast
-Tag:	Coming of Age
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Matriarchy
-Tag:	CGI
-Tag:	Monster Boy
-Tag:	Shapeshifting
+Title:	Attack on Titan Season 3
 Tag:	Military
-Tag:	Anti-Hero
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Crossdressing
 Tag:	Yandere
+Tag:	Matriarchy
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Shapeshifting
+Tag:	Survival
+Tag:	Guns
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Shounen
+Tag:	Fugitive
+Tag:	Torture
+Tag:	Crime
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Monster Boy
+Tag:	Kaiju
+Tag:	Anti-Hero
 Related:	31873
 Related:	25410
 Related:	42627

@@ -1,21 +1,21 @@
 ID:	101344
+Title:	Made in Abyss: Hourou Suru Tasogare
 Title:	メイドインアビス 放浪する黄昏
 Title:	Made in Abyss: Wandering Twilight
-Title:	Made in Abyss: Hourou Suru Tasogare
-Tag:	Tragedy
-Tag:	Primarily Child Cast
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Female Protagonist
-Tag:	Survival
-Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Travel
-Tag:	Gore
-Tag:	Robots
-Tag:	Chibi
-Tag:	Monster Girl
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Travel
+Tag:	Environmental
+Tag:	Chibi
+Tag:	Robots
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Body Horror
+Tag:	Monster Girl
 Related:	97986
 Related:	100643
 Related:	31532

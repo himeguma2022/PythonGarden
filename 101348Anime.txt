@@ -1,40 +1,40 @@
 ID:	101348
-Title:	Vinland Saga
-Title:	VINLAND SAGA
 Title:	ヴィンランド・サガ
-Tag:	Slavery
-Tag:	Historical
-Tag:	Archery
-Tag:	Tragedy
+Title:	VINLAND SAGA
+Title:	Vinland Saga
 Tag:	Spearplay
-Tag:	Time Skip
-Tag:	Cult
-Tag:	Gore
-Tag:	Religion
-Tag:	Snowscape
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
+Tag:	Military
 Tag:	Politics
-Tag:	Seinen
 Tag:	Foreign
+Tag:	Archery
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
 Tag:	Mythology
 Tag:	Orphan
-Tag:	Swordplay
-Tag:	Survival
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Ships
-Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	Language Barrier
-Tag:	Revenge
-Tag:	CGI
-Tag:	Pirates
-Tag:	Military
-Tag:	Philosophy
-Tag:	Anti-Hero
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Snowscape
+Tag:	Heterosexual
 Tag:	Vikings
+Tag:	Pirates
+Tag:	Survival
+Tag:	War
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Language Barrier
+Tag:	Ships
+Tag:	Historical
+Tag:	Seinen
+Tag:	Slavery
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	59722
 Related:	22443
 Related:	70157

@@ -1,19 +1,19 @@
 ID:	114340
 Title:	くまクマ熊ベアー
 Title:	Kuma Kuma Kuma Bear
-Tag:	Iyashikei
-Tag:	Augmented Reality
-Tag:	Primarily Female Cast
-Tag:	Video Games
-Tag:	Primarily Child Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
 Tag:	Female Protagonist
+Tag:	Isekai
+Tag:	Augmented Reality
 Tag:	Food
-Tag:	Virtual World
-Tag:	Animals
-Tag:	Henshin
 Tag:	Magic
+Tag:	Animals
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Video Games
+Tag:	Primarily Female Cast
+Tag:	Virtual World
+Tag:	Henshin
 Related:	124896
 Related:	101449
 Related:	97929

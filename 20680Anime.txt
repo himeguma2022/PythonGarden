@@ -1,20 +1,20 @@
 ID:	20680
-Title:	Macross Δ
 Title:	マクロスΔ
-Tag:	Love Triangle
-Tag:	CGI
+Title:	Macross Δ
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Space
-Tag:	War
+Tag:	CGI
 Tag:	Real Robot
-Tag:	Military
 Tag:	Space Opera
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Heterosexual
+Tag:	Female Protagonist
 Tag:	Snowscape
+Tag:	Space
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Love Triangle
+Tag:	LGBTQ+ Themes
+Tag:	War
 Tag:	Idol
+Tag:	Henshin
 Related:	97952
 Related:	65381
 Related:	101126

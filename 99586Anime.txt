@@ -1,15 +1,15 @@
 ID:	99586
-Title:	Harukana Receive
 Title:	はるかなレシーブ
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Coastal
-Tag:	Female Protagonist
-Tag:	Volleyball
+Title:	Harukana Receive
 Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Twins
-Tag:	Outdoor
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	Volleyball
+Tag:	Primarily Female Cast
+Tag:	Outdoor
+Tag:	Coastal
 Related:	117395
 Related:	40909
 Related:	22486

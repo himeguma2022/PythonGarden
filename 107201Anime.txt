@@ -1,28 +1,28 @@
 ID:	107201
 Title:	Kyokou Suiri
-Title:	In/Spectre
 Title:	虚構推理
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Gore
-Tag:	Primarily Adult Cast
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Body Horror
+Title:	In/Spectre
+Tag:	Writing
 Tag:	Youkai
-Tag:	Idol
-Tag:	Meta
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Police
-Tag:	CGI
 Tag:	Detective
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	CGI
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Love Triangle
+Tag:	Police
+Tag:	Urban Fantasy
+Tag:	Nudity
 Tag:	Disability
-Tag:	Writing
+Tag:	Ghost
+Tag:	Body Horror
+Tag:	Idol
 Related:	67072
 Related:	126529
 Related:	122238

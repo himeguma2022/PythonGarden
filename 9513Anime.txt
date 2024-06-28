@@ -1,20 +1,20 @@
 ID:	9513
 Title:	Beelzebub
 Title:	べるぜバブ
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	LGBTQ+ Themes
+Tag:	Demons
+Tag:	Family Life
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Mahjong
+Tag:	School
+Tag:	Parenthood
+Tag:	Volleyball
+Tag:	Anti-Hero
 Tag:	Shounen
 Tag:	Delinquents
-Tag:	Mahjong
-Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Volleyball
-Tag:	LGBTQ+ Themes
-Tag:	Crossdressing
-Tag:	Anti-Hero
-Tag:	Demons
-Tag:	Parenthood
 Related:	9120
 Related:	40010
 Related:	9835

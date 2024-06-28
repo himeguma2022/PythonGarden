@@ -1,14 +1,14 @@
 ID:	112353
-Title:	波よ聞いてくれ
 Title:	Nami yo Kiitekure
+Title:	波よ聞いてくれ
 Title:	Wave, Listen to Me!
-Tag:	Educational
 Tag:	CGI
-Tag:	Urban
+Tag:	Work
+Tag:	Seinen
 Tag:	Female Protagonist
 Tag:	Food
-Tag:	Seinen
-Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Urban
+Tag:	Educational
 Related:	35477
 Related:	87206

@@ -1,7 +1,7 @@
 ID:	1854
 Title:	ロックマン星に願いを
-Title:	Mega Man: Upon a Star
 Title:	Rockman Hoshi ni Negai wo
+Title:	Mega Man: Upon a Star
 Tag:	Educational
 Related:	63200
 Related:	1835

@@ -1,20 +1,20 @@
 ID:	665
+Title:	JoJo no Kimyou na Bouken (2000)
 Title:	ジョジョの奇妙な冒険 (2000)
 Title:	JoJo's Bizarre Adventure (2000)
-Title:	JoJo no Kimyou na Bouken (2000)
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Shounen
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Zombie
-Tag:	Vampire
-Tag:	Travel
 Tag:	Gore
 Tag:	Cars
+Tag:	Travel
+Tag:	Vampire
+Tag:	Revenge
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Zombie
+Tag:	Primarily Male Cast
+Tag:	Shounen
 Related:	20474
 Related:	9514
 Related:	9515

@@ -1,20 +1,20 @@
 ID:	101432
-Title:	Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou
-Title:	ヴァイオレット・エヴァーガーデン きっと"愛"を知る日が来るのだろう
-Title:	Violet Evergarden: Special
 Title:	"Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou"
-Tag:	Tragedy
-Tag:	Writing
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Military
-Tag:	Steampunk
-Tag:	Disability
+Title:	Violet Evergarden: Special
+Title:	ヴァイオレット・エヴァーガーデン きっと"愛"を知る日が来るのだろう
+Title:	Violet Evergarden: Kitto "Ai" wo Shiru Hi ga Kuru no Darou
 Tag:	Work
-Tag:	Rehabilitation
+Tag:	Female Protagonist
+Tag:	Lost Civilization
+Tag:	Disability
+Tag:	Writing
 Tag:	Primarily Adult Cast
+Tag:	Military
 Tag:	Foreign
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Steampunk
+Tag:	War
 Related:	25840
 Related:	97298
 Related:	21827

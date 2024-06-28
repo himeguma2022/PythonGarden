@@ -1,15 +1,15 @@
 ID:	141212
-Title:	Tonikaku Kawaii: Seifuku
 Title:	トニカクカワイイ ～制服～
+Title:	Tonikaku Kawaii: Seifuku
 Title:	TONIKAWA: Over The Moon For You ~Uniform~
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Family Life
-Tag:	Otaku Culture
-Tag:	Cosplay
 Tag:	Kuudere
-Tag:	Marriage
+Tag:	Family Life
 Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Otaku Culture
+Tag:	Marriage
+Tag:	Cosplay
+Tag:	Shounen
 Related:	81253
 Related:	81254
 Related:	64839

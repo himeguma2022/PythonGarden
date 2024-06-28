@@ -1,23 +1,23 @@
 ID:	20876
-Title:	Nisekoi:
 Title:	ニセコイ：
-Tag:	Fake Relationship
-Tag:	Primarily Female Cast
-Tag:	Yakuza
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Slapstick
+Title:	Nisekoi:
 Tag:	Male Protagonist
+Tag:	Fake Relationship
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	School
-Tag:	Episodic
-Tag:	Kuudere
 Tag:	Mafia
-Tag:	Tsundere
 Tag:	Arranged Marriage
+Tag:	Kuudere
+Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Yakuza
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	85825
 Related:	91685
 Related:	10278

@@ -1,15 +1,15 @@
 ID:	1836
-Title:	シャッフル！メモリーズ
 Title:	Shuffle! Memories
-Tag:	Primarily Female Cast
-Tag:	Dissociative Identities
+Title:	シャッフル！メモリーズ
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Yandere
 Tag:	Magic
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Female Harem
+Tag:	Yandere
+Tag:	Primarily Female Cast
 Related:	9316
 Related:	9317
 Related:	31788

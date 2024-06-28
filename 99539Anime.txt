@@ -1,25 +1,25 @@
 ID:	99539
-Title:	七つの大罪 戒めの復活
 Title:	The Seven Deadly Sins: Revival of the Commandments
 Title:	Nanatsu no Taizai: Imashime no Fukkatsu
-Tag:	Cultivation
-Tag:	Reincarnation
+Title:	七つの大罪 戒めの復活
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Lost Civilization
+Tag:	Demons
+Tag:	Nudity
+Tag:	Martial Arts
+Tag:	Heterosexual
+Tag:	Magic
+Tag:	Cultivation
+Tag:	Ensemble Cast
+Tag:	Fairy
+Tag:	Reincarnation
+Tag:	Dissociative Identities
+Tag:	Gods
 Tag:	Love Triangle
 Tag:	Isekai
 Tag:	Shounen
-Tag:	Dissociative Identities
-Tag:	Lost Civilization
-Tag:	Martial Arts
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Gods
-Tag:	Nudity
 Tag:	Bar
-Tag:	Fairy
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Demons
 Related:	108928
 Related:	25026
 Related:	41827

@@ -1,28 +1,28 @@
 ID:	237
-Title:	Koukyoushihen Eureka Seven
 Title:	交響詩篇エウレカセブン
+Title:	Koukyoushihen Eureka Seven
 Title:	Eureka Seven
-Tag:	Aliens
-Tag:	Super Robot
 Tag:	Clone
-Tag:	Kuudere
-Tag:	Bullying
-Tag:	Ensemble Cast
-Tag:	Politics
-Tag:	Guns
-Tag:	Terrorism
-Tag:	Environmental
-Tag:	Football
-Tag:	War
-Tag:	Ships
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Coming of Age
-Tag:	Found Family
 Tag:	Surfing
+Tag:	Environmental
 Tag:	Military
-Tag:	Philosophy
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	War
+Tag:	Aviation
+Tag:	Guns
+Tag:	Kuudere
+Tag:	Ships
+Tag:	Super Robot
+Tag:	Football
+Tag:	Terrorism
+Tag:	Found Family
 Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	38498
 Related:	13731
 Related:	98469

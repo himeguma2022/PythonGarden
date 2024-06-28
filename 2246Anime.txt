@@ -1,26 +1,26 @@
 ID:	2246
 Title:	Mononoke
 Title:	モノノ怪
-Tag:	Historical
-Tag:	Cult
-Tag:	Trains
-Tag:	Gore
-Tag:	Primarily Adult Cast
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Body Horror
+Tag:	Demons
 Tag:	Travel
+Tag:	Trains
 Tag:	Youkai
-Tag:	Cosmic Horror
-Tag:	Seinen
-Tag:	LGBTQ+ Themes
-Tag:	Incest
 Tag:	Anthology
 Tag:	Detective
-Tag:	Philosophy
 Tag:	Time Skip
-Tag:	Demons
+Tag:	Male Protagonist
+Tag:	Incest
+Tag:	Episodic
+Tag:	Cosmic Horror
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Historical
+Tag:	Philosophy
+Tag:	Seinen
+Tag:	Ghost
+Tag:	Cult
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	94624
 Related:	33000
 Related:	3368

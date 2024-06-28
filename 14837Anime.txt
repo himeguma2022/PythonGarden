@@ -1,19 +1,19 @@
 ID:	14837
-Title:	Dragon Ball Z: Kami to Kami
 Title:	Dragon Ball Z: Battle of Gods
 Title:	ドラゴンボールZ: 神と神
-Tag:	Super Power
-Tag:	Aliens
-Tag:	CGI
-Tag:	Shounen
+Title:	Dragon Ball Z: Kami to Kami
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Martial Arts
+Tag:	CGI
+Tag:	Super Power
 Tag:	Urban Fantasy
+Tag:	Martial Arts
+Tag:	Primarily Adult Cast
+Tag:	Aliens
 Tag:	Primarily Male Cast
 Tag:	Gods
+Tag:	Shounen
+Tag:	Age Regression
 Tag:	Henshin
-Tag:	Primarily Adult Cast
 Related:	24741
 Related:	20778
 Related:	86508

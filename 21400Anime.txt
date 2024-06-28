@@ -1,23 +1,23 @@
 ID:	21400
-Title:	Kizumonogatari III: Reiketsu-hen
-Title:	傷物語〈Ⅲ冷血篇〉
 Title:	Kizumonogatari Part 3: Reiketsu
-Tag:	Tragedy
-Tag:	CGI
+Title:	傷物語〈Ⅲ冷血篇〉
+Title:	Kizumonogatari III: Reiketsu-hen
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Survival
+Tag:	CGI
+Tag:	Body Horror
 Tag:	Urban Fantasy
 Tag:	Rotoscoping
 Tag:	Nudity
-Tag:	Body Horror
-Tag:	Vampire
-Tag:	Suicide
 Tag:	Gore
+Tag:	Vampire
+Tag:	Psychosexual
+Tag:	Tragedy
+Tag:	Survival
 Tag:	Anti-Hero
 Tag:	Yandere
+Tag:	Suicide
 Tag:	Monster Girl
-Tag:	Psychosexual
+Tag:	Age Regression
 Related:	10593
 Related:	67330
 Related:	15689

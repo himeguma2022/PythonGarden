@@ -1,14 +1,14 @@
 ID:	1133
-Title:	Tenchi Muyo! GXP
 Title:	Tenchi Muyou! GXP
 Title:	天地無用! GXP
-Tag:	Primarily Female Cast
-Tag:	Aliens
+Title:	Tenchi Muyo! GXP
 Tag:	Male Protagonist
-Tag:	Female Harem
 Tag:	Space
+Tag:	Aliens
+Tag:	Female Harem
 Tag:	Polyamorous
 Tag:	Police
+Tag:	Primarily Female Cast
 Related:	992
 Related:	82083
 Related:	87207

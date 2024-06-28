@@ -1,19 +1,19 @@
 ID:	141534
-Title:	Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer
 Title:	Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 - Eris no Goblin Toubatsu
+Title:	Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer
 Title:	無職転生 ～異世界行ったら本気だす～ 第2クール エリスのゴブリン討伐
-Tag:	Isekai
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
+Tag:	Religion
+Tag:	Swordplay
 Tag:	Assassins
+Tag:	Isekai
+Tag:	Female Protagonist
 Tag:	Goblin
 Tag:	Tsundere
 Tag:	Gore
-Tag:	Religion
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Magic
+Tag:	Female Harem
 Tag:	Polyamorous
 Related:	65126
 Related:	65127

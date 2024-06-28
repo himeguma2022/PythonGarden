@@ -1,18 +1,18 @@
 ID:	566
-Title:	Tetsuwan Birdy
-Title:	Birdy the Mighty
 Title:	鉄腕バーディー
+Title:	Birdy the Mighty
+Title:	Tetsuwan Birdy
 Tag:	Super Power
-Tag:	Aliens
-Tag:	Shounen
-Tag:	Urban
 Tag:	Female Protagonist
-Tag:	Tokusatsu
-Tag:	Gender Bending
 Tag:	Nudity
+Tag:	Gender Bending
 Tag:	Shapeshifting
-Tag:	Henshin
 Tag:	Body Swapping
+Tag:	Aliens
+Tag:	Urban
+Tag:	Tokusatsu
+Tag:	Shounen
+Tag:	Henshin
 Related:	3974
 Related:	1193
 Related:	1194

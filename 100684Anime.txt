@@ -1,16 +1,16 @@
 ID:	100684
 Title:	ネト充のススメ OVA
-Title:	Recovery of an MMO Junkie OVA
 Title:	Net-juu no Susume OVA
-Tag:	Josei
-Tag:	Primarily Adult Cast
+Title:	Recovery of an MMO Junkie OVA
 Tag:	Male Protagonist
-Tag:	Female Protagonist
 Tag:	Parody
-Tag:	Virtual World
-Tag:	Video Games
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
 Tag:	Heterosexual
 Tag:	Hikikomori
+Tag:	Josei
+Tag:	Video Games
+Tag:	Virtual World
 Related:	24696
 Related:	21611
 Related:	99726

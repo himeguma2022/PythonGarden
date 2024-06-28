@@ -1,21 +1,21 @@
 ID:	100483
-Title:	ゆらぎ荘の幽奈さん
 Title:	Yuuna and the Haunted Hot Springs
 Title:	Yuragi-sou no Yuuna-san
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Kemonomimi
-Tag:	Shounen
+Title:	ゆらぎ荘の幽奈さん
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
 Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Ghost
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	School
+Tag:	Female Harem
 Tag:	Youkai
 Tag:	Nekomimi
-Tag:	Shapeshifting
-Tag:	Henshin
-Tag:	Heterosexual
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Rural
+Tag:	Henshin
 Related:	21465
 Related:	101581
 Related:	22677

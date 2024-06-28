@@ -1,25 +1,25 @@
 ID:	6
 Title:	TRIGUN
 Title:	Trigun
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Desert
-Tag:	Slapstick
-Tag:	Post-Apocalyptic
-Tag:	Space
-Tag:	Fugitive
-Tag:	Religion
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
 Tag:	Body Horror
+Tag:	Desert
 Tag:	Travel
-Tag:	Guns
-Tag:	Steampunk
-Tag:	Twins
+Tag:	Space
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Religion
 Tag:	Incest
+Tag:	Aliens
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Primarily Adult Cast
+Tag:	Twins
+Tag:	Steampunk
+Tag:	Shounen
+Tag:	Fugitive
+Tag:	Crime
+Tag:	Tragedy
 Tag:	Philosophy
 Related:	151040
 Related:	83590

@@ -1,17 +1,17 @@
 ID:	20159
-Title:	Pocket Monsters: THE ORIGIN
 Title:	Pokémon Origins
+Title:	Pocket Monsters: THE ORIGIN
 Title:	ポケットモンスター THE ORIGIN
-Tag:	Kids
-Tag:	Surfing
-Tag:	Fishing
 Tag:	Male Protagonist
+Tag:	Kids
+Tag:	Travel
+Tag:	Surfing
+Tag:	Proxy Battle
+Tag:	Animals
 Tag:	Primarily Male Cast
 Tag:	Tokusatsu
-Tag:	Travel
-Tag:	Animals
-Tag:	Henshin
-Tag:	Proxy Battle
+Tag:	Fishing
 Tag:	Dragons
+Tag:	Henshin
 Related:	10974
 Related:	527

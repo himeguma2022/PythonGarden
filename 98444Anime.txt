@@ -1,24 +1,24 @@
 ID:	98444
 Title:	Yuru Camp△
-Title:	ゆるキャン△
 Title:	Laid-Back Camp
-Tag:	Iyashikei
+Title:	ゆるキャン△
 Tag:	Seinen
-Tag:	Primarily Female Cast
-Tag:	Mopeds
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Rural
-Tag:	Episodic
-Tag:	Food
 Tag:	Kuudere
 Tag:	Travel
+Tag:	Food
+Tag:	Episodic
 Tag:	Animals
-Tag:	Cycling
-Tag:	Outdoor
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	School Club
+Tag:	Mopeds
+Tag:	Cycling
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Outdoor
 Related:	37731
 Related:	114981
 Related:	50855

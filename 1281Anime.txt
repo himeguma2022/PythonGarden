@@ -2,21 +2,21 @@ ID:	1281
 Title:	Ghost Stories
 Title:	Gakkou no Kaidan
 Title:	学校の怪談
-Tag:	Primarily Child Cast
-Tag:	Ghost
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Tanned Skin
-Tag:	Afterlife
-Tag:	Youkai
-Tag:	Parody
-Tag:	Skeleton
-Tag:	Animals
 Tag:	Demons
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Ghost
+Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Skeleton
+Tag:	School
+Tag:	Youkai
+Tag:	Episodic
+Tag:	Afterlife
 Related:	20888
 Related:	102000
 Related:	23190

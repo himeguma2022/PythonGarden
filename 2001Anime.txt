@@ -1,38 +1,38 @@
 ID:	2001
-Title:	天元突破グレンラガン
-Title:	Tengen Toppa Gurren Lagann
 Title:	Gurren Lagann
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Super Robot
+Title:	Tengen Toppa Gurren Lagann
+Title:	天元突破グレンラガン
 Tag:	Desert
-Tag:	Love Triangle
-Tag:	Post-Apocalyptic
-Tag:	Space
-Tag:	Anthropomorphism
-Tag:	Class Struggle
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Politics
 Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Suicide
-Tag:	Guns
-Tag:	Swordplay
-Tag:	Nudity
-Tag:	War
-Tag:	Space Opera
-Tag:	Animals
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Outdoor
-Tag:	Found Family
-Tag:	Dystopian
-Tag:	CGI
 Tag:	Military
-Tag:	Time Skip
+Tag:	Space
 Tag:	Alternate Universe
+Tag:	Politics
+Tag:	Post-Apocalyptic
+Tag:	Outdoor
+Tag:	Henshin
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Coming of Age
+Tag:	Space Opera
+Tag:	Heterosexual
+Tag:	Aliens
+Tag:	War
+Tag:	Guns
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Swordplay
+Tag:	Cosmic Horror
+Tag:	Dystopian
+Tag:	Primarily Adult Cast
+Tag:	Super Robot
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Animals
+Tag:	Found Family
+Tag:	Tragedy
 Related:	54659
 Related:	4107
 Related:	59792

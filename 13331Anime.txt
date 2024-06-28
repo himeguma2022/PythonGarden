@@ -1,31 +1,31 @@
 ID:	13331
-Title:	ヨルムンガンド PERFECT ORDER
 Title:	Jormungand: Perfect Order
 Title:	Jormungand: PERFECT ORDER
-Tag:	Urban
-Tag:	Tanned Skin
-Tag:	Unrequited Love
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Politics
+Title:	ヨルムンガンド PERFECT ORDER
 Tag:	Travel
-Tag:	Seinen
-Tag:	Foreign
-Tag:	Guns
-Tag:	Orphan
-Tag:	Terrorism
-Tag:	Nudity
-Tag:	Mafia
-Tag:	Assassins
-Tag:	War
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Tomboy
 Tag:	Military
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Orphan
+Tag:	Male Protagonist
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	War
+Tag:	Guns
+Tag:	Age Gap
+Tag:	Assassins
+Tag:	Female Protagonist
 Tag:	Anti-Hero
+Tag:	Primarily Adult Cast
+Tag:	Seinen
+Tag:	Mafia
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
 Related:	34611
 Related:	7827
 Related:	7829

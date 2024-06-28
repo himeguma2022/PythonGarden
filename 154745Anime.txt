@@ -3,22 +3,22 @@ Title:	Kanojo, Okarishimasu 3rd Season
 Title:	Rent-a-Girlfriend Season 3
 Title:	"Kanojo, Okarishimasu 3rd Season"
 Title:	彼女、お借りします 第3期
+Tag:	Male Protagonist
+Tag:	Acting
 Tag:	Fake Relationship
-Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Athletics
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Tsundere
+Tag:	Unrequited Love
+Tag:	Heterosexual
 Tag:	Surreal Comedy
+Tag:	Female Harem
 Tag:	Love Triangle
 Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Slapstick
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Athletics
-Tag:	College
-Tag:	Acting
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
 Related:	99943
 Related:	90409
 Related:	90251

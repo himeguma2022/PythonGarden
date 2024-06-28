@@ -1,23 +1,23 @@
 ID:	21517
-Title:	Renai Boukun
-Title:	Love Tyrant
 Title:	恋愛暴君
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	Angels
-Tag:	Swordplay
+Title:	Love Tyrant
+Title:	Renai Boukun
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Gods
+Tag:	Swordplay
 Tag:	Parody
-Tag:	Villainess
-Tag:	Sadism
 Tag:	Tsundere
-Tag:	Henshin
+Tag:	Sadism
 Tag:	Yandere
+Tag:	Surreal Comedy
+Tag:	Villainess
+Tag:	School
 Tag:	Samurai
+Tag:	Love Triangle
+Tag:	Gods
+Tag:	Angels
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Henshin
 Related:	10820
 Related:	71949

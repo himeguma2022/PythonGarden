@@ -1,34 +1,34 @@
 ID:	143277
-Title:	Urusei Yatsura (2022)
 Title:	うる星やつら (2022)
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Shrine Maiden
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Parody
-Tag:	Youkai
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Tomboy
-Tag:	Surreal Comedy
-Tag:	Shapeshifting
-Tag:	Yandere
+Title:	Urusei Yatsura (2022)
 Tag:	Tennis
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Youkai
+Tag:	Yandere
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Unrequited Love
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Shapeshifting
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Animals
+Tag:	Tomboy
 Related:	30304
 Related:	78630
 Related:	1293

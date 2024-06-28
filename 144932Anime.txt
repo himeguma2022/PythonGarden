@@ -1,18 +1,18 @@
 ID:	144932
 Title:	EDENS ZERO Season 2
-Title:	EDENS ZERO 第2期
 Title:	EDENS ZERO 2nd Season
+Title:	EDENS ZERO 第2期
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Space
-Tag:	Pirates
-Tag:	Robots
-Tag:	Time Manipulation
 Tag:	Primarily Adult Cast
+Tag:	Space
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	Pirates
+Tag:	Shounen
 Related:	119683
 Related:	101860
 Related:	68725

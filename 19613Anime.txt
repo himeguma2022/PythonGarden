@@ -1,11 +1,11 @@
 ID:	19613
-Title:	頭文字〈イニシャル〉D Final Stage
 Title:	Initial D Final Stage
-Tag:	CGI
+Title:	頭文字〈イニシャル〉D Final Stage
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Cars
+Tag:	CGI
 Tag:	Seinen
+Tag:	Cars
+Tag:	Primarily Male Cast
 Tag:	Rural
 Related:	10340
 Related:	30375

@@ -2,10 +2,10 @@ ID:	100569
 Title:	カリギュラ
 Title:	Caligula
 Tag:	Artificial Intelligence
-Tag:	Virtual World
-Tag:	Philosophy
-Tag:	Henshin
 Tag:	Musical Theater
+Tag:	Philosophy
+Tag:	Virtual World
 Tag:	Idol
+Tag:	Henshin
 Related:	85923
 Related:	163765

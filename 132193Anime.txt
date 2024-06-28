@@ -2,20 +2,20 @@ ID:	132193
 Title:	Gokushufudou Part 2
 Title:	極主夫道 パート2
 Title:	The Way of the Househusband Part 2
-Tag:	Flash
-Tag:	Yakuza
-Tag:	Educational
+Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Parody
+Tag:	Gangs
+Tag:	Food
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Episodic
 Tag:	Slapstick
 Tag:	Urban
-Tag:	Male Protagonist
-Tag:	Gangs
-Tag:	Episodic
-Tag:	Food
+Tag:	Yakuza
 Tag:	Volleyball
-Tag:	Parody
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	Educational
+Tag:	Flash
 Related:	154982
 Related:	101233
 Related:	125426

@@ -1,46 +1,46 @@
 ID:	13125
+Title:	新世界より
 Title:	From the New World
 Title:	Shinsekai yori
-Title:	新世界より
-Tag:	Slavery
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Boys' Love
-Tag:	Love Triangle
-Tag:	Time Skip
-Tag:	Post-Apocalyptic
-Tag:	Fugitive
-Tag:	Anthropomorphism
-Tag:	Cult
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Religion
-Tag:	Class Struggle
-Tag:	Conspiracy
-Tag:	Yuri
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Torture
 Tag:	Body Horror
-Tag:	Cosmic Horror
+Tag:	Lost Civilization
+Tag:	Yuri
 Tag:	Environmental
-Tag:	Survival
+Tag:	Rape
+Tag:	Memory Manipulation
+Tag:	Conspiracy
 Tag:	School
+Tag:	Post-Apocalyptic
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Religion
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Survival
 Tag:	War
-Tag:	LGBTQ+ Themes
+Tag:	Aviation
+Tag:	Class Struggle
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Anti-Hero
+Tag:	Dystopian
+Tag:	Gore
+Tag:	Love Triangle
+Tag:	Boys' Love
+Tag:	Chimera
+Tag:	Fugitive
+Tag:	Torture
+Tag:	Anthropomorphism
+Tag:	Amnesia
+Tag:	Slavery
+Tag:	Revenge
 Tag:	Animals
 Tag:	Magic
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Rural
-Tag:	Coming of Age
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Chimera
-Tag:	Rape
+Tag:	Tragedy
+Tag:	Cult
+Tag:	LGBTQ+ Themes
 Tag:	Philosophy
-Tag:	Anti-Hero
-Tag:	Amnesia
-Tag:	Bisexual
+Tag:	Rural
 Related:	27104
 Related:	71575

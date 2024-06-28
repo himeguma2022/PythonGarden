@@ -1,18 +1,18 @@
 ID:	1816
-Title:	ソニックX
 Title:	Sonic X
-Tag:	Kids
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Butler
-Tag:	Urban
-Tag:	Lost Civilization
+Title:	ソニックX
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Kids
+Tag:	Lost Civilization
 Tag:	Anthropomorphism
 Tag:	Animals
 Tag:	Robots
 Tag:	Maids
 Tag:	Alternate Universe
+Tag:	Urban
+Tag:	Butler
+Tag:	Isekai
 Related:	52736
 Related:	52737
 Related:	129610

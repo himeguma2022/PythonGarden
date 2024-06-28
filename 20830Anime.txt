@@ -1,16 +1,16 @@
 ID:	20830
-Title:	Hi☆sCoool! Seha Girls
-Title:	Hi☆sCoool! SeHa Girl
 Title:	Hi☆sCoool! セハガール
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Crossover
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
+Title:	Hi☆sCoool! SeHa Girl
+Title:	Hi☆sCoool! Seha Girls
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Parody
+Tag:	Isekai
+Tag:	Crossover
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
 Tag:	Video Games
+Tag:	Primarily Female Cast
 Related:	90288
 Related:	45950
 Related:	43620

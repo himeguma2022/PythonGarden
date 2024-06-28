@@ -1,22 +1,22 @@
 ID:	100183
 Title:	ソードアート・オンライン オルタナティブ ガンゲイル・オンライン
 Title:	Sword Art Online Alternative: Gun Gale Online
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Video Games
-Tag:	Battle Royale
 Tag:	CGI
-Tag:	Age Regression
+Tag:	Age Gap
 Tag:	Female Protagonist
 Tag:	Bisexual
-Tag:	Military
-Tag:	Age Gap
-Tag:	Virtual World
-Tag:	Yandere
-Tag:	Death Game
 Tag:	Primarily Adult Cast
+Tag:	Age Regression
+Tag:	Military
+Tag:	Battle Royale
+Tag:	Tomboy
+Tag:	Video Games
+Tag:	Death Game
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	Virtual World
 Tag:	Idol
+Tag:	Guns
 Related:	167141
 Related:	77554
 Related:	20594

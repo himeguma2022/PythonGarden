@@ -1,20 +1,20 @@
 ID:	21861
-Title:	青の祓魔師 京都不浄王篇
-Title:	Blue Exorcist: Kyoto Saga
 Title:	Ao no Exorcist: Kyoto Fujouou-hen
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Blue Exorcist: Kyoto Saga
+Title:	青の祓魔師 京都不浄王篇
 Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Urban Fantasy
+Tag:	Demons
+Tag:	Travel
+Tag:	Adoption
+Tag:	Shounen
+Tag:	Twins
+Tag:	School Club
+Tag:	Tragedy
 Tag:	School
 Tag:	Body Horror
-Tag:	Travel
-Tag:	Twins
-Tag:	Demons
-Tag:	Adoption
-Tag:	School Club
 Related:	82208
 Related:	11393
 Related:	11395

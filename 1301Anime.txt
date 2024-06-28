@@ -1,17 +1,17 @@
 ID:	1301
+Title:	銀河鉄道999
 Title:	Galaxy Express 999 (Movie)
 Title:	Ginga Tetsudou 999 (Movie)
-Title:	銀河鉄道999
-Tag:	Guns
-Tag:	Revenge
-Tag:	Orphan
 Tag:	Male Protagonist
-Tag:	Space
-Tag:	Pirates
-Tag:	Trains
-Tag:	Space Opera
 Tag:	Age Gap
+Tag:	Space Opera
+Tag:	Space
+Tag:	Revenge
 Tag:	Robots
+Tag:	Trains
+Tag:	Pirates
+Tag:	Orphan
+Tag:	Guns
 Related:	1377
 Related:	2019
 Related:	1000

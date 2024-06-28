@@ -1,29 +1,29 @@
 ID:	100298
+Title:	メガロボクス
 Title:	Megalobox
 Title:	Megalo Box
-Title:	メガロボクス
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Yakuza
-Tag:	Drugs
-Tag:	Motorcycles
-Tag:	Delinquents
-Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Athletics
-Tag:	Artificial Intelligence
-Tag:	Primarily Male Cast
-Tag:	Tanned Skin
-Tag:	Cyberpunk
 Tag:	Time Skip
-Tag:	Boxing
+Tag:	Male Protagonist
+Tag:	Drugs
+Tag:	Tanned Skin
+Tag:	Dystopian
+Tag:	Martial Arts
 Tag:	Disability
+Tag:	Athletics
 Tag:	Primarily Adult Cast
+Tag:	Revenge
+Tag:	Artificial Intelligence
+Tag:	Yakuza
+Tag:	Primarily Male Cast
+Tag:	Motorcycles
+Tag:	Boxing
+Tag:	Cyberpunk
+Tag:	Delinquents
 Related:	2402
 Related:	102309
 Related:	56230
-Related:	31303
 Related:	37222
+Related:	31303
 Related:	105354
 Related:	113359
 Related:	36656

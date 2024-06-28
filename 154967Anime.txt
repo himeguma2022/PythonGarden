@@ -1,22 +1,22 @@
 ID:	154967
 Title:	Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
-Title:	青春ブタ野郎はおでかけシスターの夢を見ない
 Title:	Rascal Does Not Dream of a Sister Venturing Out
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Coming of Age
-Tag:	CGI
+Title:	青春ブタ野郎はおでかけシスターの夢を見ない
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Urban Fantasy
-Tag:	School
+Tag:	CGI
 Tag:	Acting
-Tag:	Trains
-Tag:	Tsundere
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Family Life
 Tag:	Heterosexual
+Tag:	Tsundere
+Tag:	Trains
 Tag:	Rehabilitation
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Coming of Age
 Related:	161474
 Related:	104157
 Related:	145165

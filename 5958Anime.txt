@@ -1,29 +1,29 @@
 ID:	5958
-Title:	そらのおとしもの
-Title:	Sora no Otoshimono
 Title:	Heaven's Lost Property
-Tag:	Aliens
+Title:	Sora no Otoshimono
+Title:	そらのおとしもの
+Tag:	Robots
 Tag:	Yakuza
-Tag:	Angels
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Shrine Maiden
 Tag:	Memory Manipulation
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Gender Bending
-Tag:	Female Harem
+Tag:	Surreal Comedy
 Tag:	School
+Tag:	Outdoor
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Aliens
+Tag:	Kuudere
+Tag:	Chibi
+Tag:	Feet
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Shounen
 Tag:	Mafia
 Tag:	Nudity
-Tag:	Robots
-Tag:	Chibi
-Tag:	Heterosexual
-Tag:	Outdoor
+Tag:	Gender Bending
+Tag:	Angels
 Tag:	Rural
-Tag:	School Club
-Tag:	Feet
-Tag:	Surreal Comedy
 Related:	38144
 Related:	95876
 Related:	65253

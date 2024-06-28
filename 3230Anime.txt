@@ -1,16 +1,16 @@
 ID:	3230
-Title:	Druaga no Tou: the Aegis of URUK
 Title:	ドルアーガの塔 〜the Aegis of URUK〜
+Title:	Druaga no Tou: the Aegis of URUK
 Title:	Tower of Druaga: The Aegis of Uruk
-Tag:	Basketball
-Tag:	Succubus
-Tag:	Dungeon
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Detective
+Tag:	Swordplay
+Tag:	Succubus
 Tag:	Magic
 Tag:	Asexual
+Tag:	Dungeon
+Tag:	Basketball
+Tag:	Detective
+Tag:	Age Regression
 Tag:	Idol
 Related:	4726
 Related:	4798

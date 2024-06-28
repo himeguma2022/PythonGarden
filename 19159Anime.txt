@@ -2,11 +2,11 @@ ID:	19159
 Title:	Genshiken Second Generation OVA
 Title:	げんしけん 二代目の六
 Title:	Genshiken Nidaime no Roku
-Tag:	Otaku Culture
-Tag:	Parody
 Tag:	Seinen
-Tag:	Heterosexual
+Tag:	Parody
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Otaku Culture
 Related:	18465
 Related:	10730
 Related:	2508

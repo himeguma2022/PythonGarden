@@ -1,15 +1,15 @@
 ID:	20654
 Title:	Hello!! Kiniro Mosaic
-Title:	ハロー!!きんいろモザイク
 Title:	Hello!! KINMOZA!
+Title:	ハロー!!きんいろモザイク
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
+Tag:	School
 Tag:	Tomboy
 Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Tsundere
-Tag:	Seinen
 Related:	40098
 Related:	56036
 Related:	9166

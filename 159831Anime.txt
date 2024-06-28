@@ -1,31 +1,31 @@
 ID:	159831
-Title:	Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
 Title:	Zom 100: Zombie ni Naru Made ni Shitai 100 no Koto
-Title:	ゾン100～ゾンビになるまでにしたい100のこと～
 Title:	Zom 100: Bucket List of the Dead
-Tag:	Tragedy
-Tag:	Urban
-Tag:	Slapstick
+Title:	Zom 100: Zombie ni Naru made ni Shitai 100 no Koto
+Title:	ゾン100～ゾンビになるまでにしたい100のこと～
+Tag:	Travel
+Tag:	Zombie
+Tag:	Surreal Comedy
+Tag:	Achromatic
 Tag:	Post-Apocalyptic
-Tag:	Tsundere
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Survival
+Tag:	Slapstick
+Tag:	Work
 Tag:	Gore
 Tag:	Primarily Adult Cast
 Tag:	Rugby
-Tag:	Male Protagonist
-Tag:	Body Horror
-Tag:	Travel
+Tag:	Motorcycles
 Tag:	Suicide
 Tag:	Seinen
-Tag:	Survival
-Tag:	Zombie
 Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Cultivation
-Tag:	Achromatic
-Tag:	Surreal Comedy
-Tag:	Motorcycles
-Tag:	Work
+Tag:	Tsundere
+Tag:	Urban
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Body Horror
+Tag:	Rural
 Related:	83073
 Related:	104660

@@ -1,13 +1,13 @@
 ID:	5337
-Title:	爆丸バトルブローラーズ  New Vestroia
 Title:	Bakugan Battle Brawlers: New Vestroia
 Title:	Bakugan: New Vestroia
-Tag:	Kids
-Tag:	Isekai
+Title:	爆丸バトルブローラーズ  New Vestroia
 Tag:	CGI
-Tag:	Kaiju
 Tag:	Card Battle
+Tag:	Kids
 Tag:	Proxy Battle
+Tag:	Kaiju
+Tag:	Isekai
 Tag:	Dragons
 Related:	5264
 Related:	2156

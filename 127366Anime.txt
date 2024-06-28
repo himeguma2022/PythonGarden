@@ -1,24 +1,24 @@
 ID:	127366
-Title:	100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season
 Title:	100万の命の上に俺は立っている 第2シーズン
+Title:	100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season
 Title:	I'm Standing on a Million Lives Season 2
-Tag:	Memory Manipulation
 Tag:	Time Skip
-Tag:	Isekai
+Tag:	Male Protagonist
+Tag:	Body Horror
+Tag:	Anti-Hero
+Tag:	Unrequited Love
 Tag:	Shounen
 Tag:	Alternate Universe
-Tag:	Male Protagonist
+Tag:	Memory Manipulation
+Tag:	Dragons
 Tag:	Female Harem
 Tag:	Survival
-Tag:	Body Horror
-Tag:	Unrequited Love
-Tag:	Philosophy
-Tag:	LGBTQ+ Themes
-Tag:	Anti-Hero
 Tag:	Vore
+Tag:	Isekai
 Tag:	Death Game
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Tag:	Coming of Age
-Tag:	Dragons
 Related:	50665
 Related:	50666
 Related:	97371

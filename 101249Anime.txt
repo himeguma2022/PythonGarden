@@ -1,16 +1,16 @@
 ID:	101249
-Title:	ペンギン・ハイウェイ
 Title:	Penguin Highway
-Tag:	Swimming
-Tag:	Primarily Child Cast
-Tag:	CGI
+Title:	ペンギン・ハイウェイ
 Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Rural
+Tag:	CGI
 Tag:	Urban Fantasy
+Tag:	Environmental
+Tag:	Animals
+Tag:	Primarily Child Cast
 Tag:	School
 Tag:	Philosophy
-Tag:	Animals
 Tag:	Coming of Age
+Tag:	Rural
+Tag:	Swimming
 Related:	27034
 Related:	103250

@@ -1,29 +1,29 @@
 ID:	160900
 Title:	Hametsu no Oukoku
-Title:	The Kingdoms of Ruin
 Title:	はめつのおうこく
-Tag:	Tragedy
-Tag:	Time Skip
-Tag:	Urban
+Title:	The Kingdoms of Ruin
+Tag:	Lost Civilization
+Tag:	Military
 Tag:	Space
+Tag:	Robots
+Tag:	Alternate Universe
+Tag:	Conspiracy
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Witch
+Tag:	Dystopian
 Tag:	Gore
 Tag:	Homeless
-Tag:	Conspiracy
-Tag:	Witch
-Tag:	Prison
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Terrorism
+Tag:	Prison
 Tag:	Urban Fantasy
 Tag:	Nudity
-Tag:	Robots
-Tag:	Magic
+Tag:	Terrorism
 Tag:	Revenge
-Tag:	Dystopian
-Tag:	Military
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Anti-Hero
-Tag:	Alternate Universe
 Tag:	Idol
 Related:	112203
 Related:	83789

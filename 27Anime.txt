@@ -1,16 +1,16 @@
 ID:	27
-Title:	トリニティ・ブラッド
 Title:	Trinity Blood
-Tag:	Guns
+Title:	トリニティ・ブラッド
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Anachronism
-Tag:	Vampire
-Tag:	Nun
-Tag:	Gore
-Tag:	Robots
 Tag:	Religion
+Tag:	Gore
+Tag:	Vampire
+Tag:	Robots
+Tag:	Artificial Intelligence
 Tag:	Foreign
+Tag:	Nun
+Tag:	Anachronism
+Tag:	Guns
 Related:	83
 Related:	43588
 Related:	30557

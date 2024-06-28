@@ -1,17 +1,17 @@
 ID:	115740
+Title:	Kamitachi ni Hirowareta Otoko
 Title:	神達に拾われた男
 Title:	By the Grace of the Gods
-Title:	Kamitachi ni Hirowareta Otoko
-Tag:	Iyashikei
-Tag:	Reincarnation
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Gods
-Tag:	Nekomimi
-Tag:	Magic
 Tag:	Work
-Tag:	Outdoor
+Tag:	Magic
+Tag:	Iyashikei
 Tag:	Found Family
+Tag:	Reincarnation
+Tag:	Gods
+Tag:	Isekai
+Tag:	Nekomimi
+Tag:	Outdoor
 Related:	101793
 Related:	101794
 Related:	82279

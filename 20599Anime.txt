@@ -2,13 +2,13 @@ ID:	20599
 Title:	それでも世界は美しい
 Title:	The World is Still Beautiful
 Title:	Soredemo Sekai wa Utsukushii
-Tag:	Historical
-Tag:	Shoujo
-Tag:	Female Protagonist
-Tag:	Royal Affairs
 Tag:	Age Gap
+Tag:	Female Protagonist
 Tag:	Arranged Marriage
 Tag:	Heterosexual
 Tag:	Foreign
+Tag:	Shoujo
+Tag:	Royal Affairs
+Tag:	Historical
 Related:	9029
 Related:	71847

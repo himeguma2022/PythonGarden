@@ -1,12 +1,12 @@
 ID:	112719
-Title:	フットサルボーイズ!!!!!
 Title:	Futsal Boys!!!!!
+Title:	フットサルボーイズ!!!!!
 Tag:	Super Power
-Tag:	Boys' Love
 Tag:	Cute Boys Doing Cute Things
-Tag:	Delinquents
-Tag:	Football
-Tag:	Primarily Male Cast
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Football
+Tag:	Boys' Love
+Tag:	Delinquents
 Related:	76577
 Related:	153322

@@ -1,16 +1,16 @@
 ID:	21386
 Title:	ワンパンマン「ロード・トゥ・ヒーロー」
-Title:	One-Punch Man: Road to Hero
 Title:	One Punch Man: Road to Hero
-Tag:	Super Power
-Tag:	Surreal Comedy
-Tag:	Yakuza
+Title:	One-Punch Man: Road to Hero
 Tag:	Male Protagonist
-Tag:	Superhero
-Tag:	Primarily Male Cast
+Tag:	Super Power
 Tag:	Seinen
 Tag:	Work
+Tag:	Superhero
 Tag:	Primarily Adult Cast
+Tag:	Surreal Comedy
+Tag:	Yakuza
+Tag:	Primarily Male Cast
 Related:	17985
 Related:	48985
 Related:	74347

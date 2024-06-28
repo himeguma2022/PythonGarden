@@ -1,18 +1,18 @@
 ID:	101386
-Title:	ひとりぼっちの○○生活
 Title:	Hitoribocchi no Marumaruseikatsu
+Title:	ひとりぼっちの○○生活
 Title:	Hitoribocchi no ○○ Seikatsu
-Tag:	Tomboy
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Slapstick
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Ninja
-Tag:	School
 Tag:	Tsundere
+Tag:	Ninja
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Tomboy
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	22481
 Related:	86206

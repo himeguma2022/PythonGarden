@@ -1,14 +1,14 @@
 ID:	120046
-Title:	Ani ni Tsukeru Kusuri wa Nai! 4
-Title:	兄に付ける薬はない！4
 Title:	Take My Brother Away! 4
+Title:	兄に付ける薬はない！4
+Title:	Ani ni Tsukeru Kusuri wa Nai! 4
 Tag:	Primarily Teen Cast
-Tag:	Slapstick
-Tag:	Family Life
-Tag:	Episodic
-Tag:	School
 Tag:	Bisexual
+Tag:	Family Life
 Tag:	Foreign
+Tag:	School
+Tag:	Episodic
+Tag:	Slapstick
 Related:	61030
 Related:	137734
 Related:	110088

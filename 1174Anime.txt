@@ -1,11 +1,11 @@
 ID:	1174
-Title:	MUNTO [ムント]
 Title:	MUNTO
 Title:	Munto
-Tag:	Isekai
-Tag:	Magic
+Title:	MUNTO [ムント]
 Tag:	Female Protagonist
+Tag:	Magic
 Tag:	Alternate Universe
+Tag:	Isekai
 Related:	2000
 Related:	2001
 Related:	5702

@@ -1,10 +1,10 @@
 ID:	97635
 Title:	Pokémon Generations
 Title:	ポケモンジェネレーションズ
-Tag:	Video Games
 Tag:	Episodic
-Tag:	Animals
 Tag:	Detective
+Tag:	Animals
+Tag:	Video Games
 Related:	17600
 Related:	49947
 Related:	49949

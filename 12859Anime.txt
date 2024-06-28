@@ -1,16 +1,16 @@
 ID:	12859
-Title:	ONE PIECE FILM: Z
 Title:	ONE PIECE FILM Z
 Title:	One Piece Film: Z
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Swordplay
+Title:	ONE PIECE FILM: Z
 Tag:	Male Protagonist
-Tag:	Age Regression
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Kuudere
-Tag:	Pirates
+Tag:	Shounen
+Tag:	Revenge
 Tag:	Ships
+Tag:	Pirates
+Tag:	Age Regression
 Related:	24902
 Related:	16239
 Related:	7760

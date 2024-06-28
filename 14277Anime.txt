@@ -1,16 +1,16 @@
 ID:	14277
-Title:	ちとせげっちゅ!!
-Title:	Chitose Get You!
 Title:	Chitose Get You!!
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Kuudere
+Title:	Chitose Get You!
+Title:	ちとせげっちゅ!!
 Tag:	Age Gap
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Kuudere
 Tag:	Heterosexual
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
 Related:	65755
 Related:	20689
 Related:	96152

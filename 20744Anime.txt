@@ -1,15 +1,15 @@
 ID:	20744
 Title:	Koufuku Graffiti
-Title:	Gourmet Girl Graffiti
 Title:	幸腹グラフィティ
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Food
-Tag:	Seinen
+Title:	Gourmet Girl Graffiti
 Tag:	Time Skip
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Food
+Tag:	Family Life
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Primarily Female Cast
 Related:	17588
 Related:	91893

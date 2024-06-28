@@ -1,25 +1,25 @@
 ID:	10378
+Title:	Squid Girl 2
 Title:	侵略!?イカ娘
 Title:	Shinryaku!? Ika Musume
-Title:	Squid Girl 2
+Tag:	Chuunibyou
+Tag:	Work
+Tag:	Tanned Skin
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Unrequited Love
+Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Found Family
+Tag:	Slapstick
+Tag:	School Club
 Tag:	Tomboy
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
 Tag:	Primarily Female Cast
 Tag:	Monster Girl
-Tag:	School Club
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
 Tag:	Coastal
-Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Urban Fantasy
-Tag:	Tanned Skin
-Tag:	Unrequited Love
-Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Chibi
-Tag:	Work
-Tag:	Found Family
 Related:	7114
 Related:	7115
 Related:	7116

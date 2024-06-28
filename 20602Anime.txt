@@ -1,24 +1,24 @@
 ID:	20602
 Title:	Amagi Brilliant Park
 Title:	甘城ブリリアントパーク
-Tag:	Mermaid
-Tag:	Dungeon
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Fairy
-Tag:	Ojou-sama
-Tag:	Economics
-Tag:	Kuudere
-Tag:	Pirates
-Tag:	Urban Fantasy
-Tag:	Parody
-Tag:	Ensemble Cast
-Tag:	Nudity
-Tag:	Animals
-Tag:	Magic
-Tag:	Disability
 Tag:	Work
+Tag:	Urban Fantasy
+Tag:	Economics
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Parody
+Tag:	Disability
+Tag:	Magic
+Tag:	Animals
+Tag:	Ensemble Cast
+Tag:	Pirates
+Tag:	Fairy
+Tag:	Dungeon
+Tag:	Ojou-sama
+Tag:	Mermaid
 Tag:	Dragons
+Tag:	Slapstick
 Related:	85217
 Related:	9981
 Related:	9036

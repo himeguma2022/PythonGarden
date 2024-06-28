@@ -2,18 +2,18 @@ ID:	151806
 Title:	Tomo-chan wa Onnanoko!
 Title:	トモちゃんは女の子！
 Title:	Tomo-chan Is a Girl!
-Tag:	Tomboy
 Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Slapstick
 Tag:	Female Protagonist
 Tag:	Martial Arts
 Tag:	Athletics
-Tag:	School
 Tag:	Unrequited Love
-Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Tsundere
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Shounen
+Tag:	Slapstick
 Related:	85603
 Related:	163339
 Related:	86300

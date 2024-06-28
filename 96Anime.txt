@@ -1,25 +1,25 @@
 ID:	96
-Title:	Mobile Fighter G Gundam
-Title:	機動武闘伝Gガンダム
 Title:	Kidou Butouden G Gundam
-Tag:	Tragedy
-Tag:	Cultivation
-Tag:	Surreal Comedy
+Title:	機動武闘伝Gガンダム
+Title:	Mobile Fighter G Gundam
+Tag:	Male Protagonist
+Tag:	Real Robot
 Tag:	Dystopian
+Tag:	Martial Arts
+Tag:	Environmental
+Tag:	Space
+Tag:	Revenge
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Episodic
 Tag:	Battle Royale
+Tag:	Surreal Comedy
+Tag:	Tragedy
+Tag:	Foreign
 Tag:	Super Robot
 Tag:	Love Triangle
-Tag:	Revenge
-Tag:	Male Protagonist
-Tag:	Environmental
-Tag:	Martial Arts
-Tag:	Episodic
-Tag:	Space
-Tag:	Real Robot
 Tag:	Wuxia
 Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Foreign
 Related:	117779
 Related:	84123
 Related:	87970

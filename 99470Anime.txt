@@ -1,12 +1,12 @@
 ID:	99470
-Title:	Grisaia: Phantom Trigger THE ANIMATION
 Title:	グリザイア：ファントムトリガー THE ANIMATION
-Tag:	Guns
-Tag:	Primarily Female Cast
+Title:	Grisaia: Phantom Trigger THE ANIMATION
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Gore
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	44002
 Related:	120892
 Related:	21749

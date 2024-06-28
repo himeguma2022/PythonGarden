@@ -1,15 +1,15 @@
 ID:	110547
 Title:	アルテ
 Title:	Arte
-Tag:	Historical
-Tag:	Drawing
-Tag:	Educational
-Tag:	Female Protagonist
-Tag:	Economics
 Tag:	Seinen
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Economics
+Tag:	Female Protagonist
+Tag:	Drawing
 Tag:	Foreign
+Tag:	Historical
+Tag:	Educational
+Tag:	Coming of Age
 Related:	87466
 Related:	118940
 Related:	33773

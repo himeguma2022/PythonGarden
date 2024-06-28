@@ -1,10 +1,10 @@
 ID:	107342
 Title:	Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami
 Title:	あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」
-Tag:	Drawing
-Tag:	Love Triangle
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Writing
+Tag:	Drawing
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Love Triangle
 Related:	45258
 Related:	9989

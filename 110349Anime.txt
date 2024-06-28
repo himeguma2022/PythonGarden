@@ -1,36 +1,36 @@
 ID:	110349
 Title:	Great Pretender
 Title:	GREAT PRETENDER
-Tag:	Slavery
-Tag:	Tragedy
-Tag:	Urban
-Tag:	Mahjong
-Tag:	Baseball
-Tag:	Tanned Skin
+Tag:	Drugs
+Tag:	Foreign
+Tag:	Detective
 Tag:	Filmmaking
-Tag:	Primarily Adult Cast
-Tag:	Crime
 Tag:	Male Protagonist
 Tag:	Gangs
-Tag:	Foreign
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	War
+Tag:	Aviation
 Tag:	Guns
-Tag:	Drawing
-Tag:	Drugs
-Tag:	Terrorism
+Tag:	Work
+Tag:	Primarily Adult Cast
+Tag:	Language Barrier
+Tag:	Baseball
+Tag:	Triads
 Tag:	Football
 Tag:	Acting
 Tag:	Mafia
+Tag:	Crime
 Tag:	Nudity
-Tag:	War
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Language Barrier
+Tag:	Tanned Skin
+Tag:	Terrorism
+Tag:	Slavery
+Tag:	Drawing
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Mahjong
 Tag:	Tomboy
-Tag:	Triads
-Tag:	Detective
 Tag:	Anti-Hero
-Tag:	Work
-Tag:	Bisexual
 Related:	118960
 Related:	42492
 Related:	91628

@@ -2,24 +2,24 @@ ID:	9181
 Title:	もっと To LOVEる -とらぶる-
 Title:	Motto To LOVE-Ru
 Title:	Motto To Love Ru
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Heterosexual
 Tag:	Aliens
-Tag:	Love Triangle
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	Slapstick
 Tag:	Kuudere
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Gender Bending
-Tag:	Monster Girl
 Tag:	Female Harem
-Tag:	School
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Primarily Teen Cast
 Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Surreal Comedy
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Ghost
 Tag:	Body Swapping
 Related:	5667
 Related:	30671

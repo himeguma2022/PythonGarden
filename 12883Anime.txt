@@ -1,22 +1,22 @@
 ID:	12883
 Title:	つり球
 Title:	Tsuritama
-Tag:	Outdoor
-Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Fishing
-Tag:	Coastal
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	School
-Tag:	Primarily Male Cast
+Tag:	Primarily Teen Cast
 Tag:	Tanned Skin
+Tag:	Family Life
+Tag:	Outdoor
 Tag:	Fugitive
-Tag:	Shapeshifting
-Tag:	Memory Manipulation
 Tag:	Dancing
+Tag:	Shapeshifting
+Tag:	Cute Boys Doing Cute Things
+Tag:	Aliens
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Fishing
 Tag:	Coming of Age
+Tag:	Coastal
 Related:	104739
 Related:	81733
 Related:	31269

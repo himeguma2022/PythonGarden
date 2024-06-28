@@ -1,15 +1,15 @@
 ID:	6098
-Title:	Sora no Manimani
-Title:	宙のまにまに
 Title:	At The Mercy of The Sky
-Tag:	Educational
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	School
-Tag:	Astronomy
+Title:	宙のまにまに
+Title:	Sora no Manimani
 Tag:	Seinen
 Tag:	Heterosexual
+Tag:	Astronomy
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Educational
 Related:	5552
 Related:	5553
 Related:	42137

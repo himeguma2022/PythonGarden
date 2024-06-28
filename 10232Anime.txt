@@ -1,16 +1,16 @@
 ID:	10232
+Title:	Tamayura: hitotose
 Title:	Tamayura: Hitotose
 Title:	たまゆら～hitotose～
-Title:	Tamayura: hitotose
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Coming of Age
-Tag:	Female Protagonist
-Tag:	Rural
 Tag:	Photography
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Outdoor
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Coming of Age
 Related:	89385
 Related:	7057
 Related:	7058

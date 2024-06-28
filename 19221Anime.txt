@@ -1,22 +1,22 @@
 ID:	19221
-Title:	My Mental Choices Are Completely Interfering With My School Romantic Comedy
 Title:	"Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru"
-Title:	Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
 Title:	俺の脳内選択肢が、学園ラブコメを全力で邪魔している
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
-Tag:	Dissociative Identities
+Title:	My Mental Choices Are Completely Interfering With My School Romantic Comedy
+Title:	Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
 Tag:	Parody
-Tag:	Amnesia
-Tag:	Gods
+Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Amnesia
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Gods
+Tag:	Female Harem
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	20479
 Related:	8676
 Related:	8758

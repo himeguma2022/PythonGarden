@@ -1,15 +1,15 @@
 ID:	128827
+Title:	カードファイト!! ヴァンガード overDress Season2
 Title:	Cardfight!! Vanguard overDress Season 2
 Title:	Cardfight!! Vanguard: overDress Season 2
-Title:	カードファイト!! ヴァンガード overDress Season2
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
 Tag:	Card Battle
-Tag:	Crossdressing
+Tag:	Primarily Teen Cast
 Tag:	Disability
+Tag:	Family Life
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Episodic
 Related:	63008
 Related:	51937
 Related:	121962

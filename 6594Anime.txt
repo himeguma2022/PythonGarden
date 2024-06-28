@@ -1,37 +1,37 @@
 ID:	6594
 Title:	刀語
 Title:	Katanagatari
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Desert
-Tag:	Urban
-Tag:	Slapstick
-Tag:	Martial Arts
-Tag:	Shrine Maiden
-Tag:	Anachronism
-Tag:	Gore
-Tag:	Primarily Adult Cast
-Tag:	Ghost
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Body Horror
+Tag:	Desert
 Tag:	Travel
+Tag:	Robots
 Tag:	Politics
-Tag:	Time Manipulation
+Tag:	Coming of Age
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Heterosexual
 Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Shapeshifting
+Tag:	Episodic
+Tag:	Anachronism
+Tag:	Slapstick
 Tag:	Guns
 Tag:	Swordplay
-Tag:	Ninja
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Historical
 Tag:	Nudity
-Tag:	Robots
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Coming of Age
+Tag:	Martial Arts
+Tag:	Ghost
 Tag:	Revenge
-Tag:	Shapeshifting
-Tag:	Philosophy
+Tag:	Ninja
 Tag:	Body Swapping
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	Philosophy
+Tag:	Rural
 Related:	48161
 Related:	5754

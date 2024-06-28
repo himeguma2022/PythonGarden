@@ -1,18 +1,18 @@
 ID:	20575
-Title:	Hanayamata
 Title:	ハナヤマタ
 Title:	HaNaYaMaTa
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Tsundere
+Title:	Hanayamata
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	Dancing
+Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	64977
 Related:	8958

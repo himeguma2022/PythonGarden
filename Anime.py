@@ -5,14 +5,7 @@ from msilib.schema import File
 import time
 import requests
 
-global missingAnime
-missingAnime:list[str] = []
-f = open("AniList Missing Anime.txt","r",encoding='U8')
-content:str = f.readline()
-while(content != ''):
-    missingAnime.append(content)
-    content = f.readline()
-f.close()
+
 
 class Anime:
     def __init__(self, name:str) -> None:
@@ -65,6 +58,13 @@ class Anime:
             self.AddTag(tag)
             
     def AniListUpdate(self):
+        missingAnime:list[str] = []
+        f = open("AniList Missing Anime.txt","r",encoding='U8')
+        content:str = f.readline()
+        while(content != ''):
+            missingAnime.append(content)
+            content = f.readline()
+        f.close()
         if(self.name in missingAnime):
             return
         query = '''

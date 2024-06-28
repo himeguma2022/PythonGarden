@@ -1,23 +1,23 @@
 ID:	885
-Title:	天使のたまご
-Title:	Angel's Egg
 Title:	Tenshi no Tamago
-Tag:	Tragedy
-Tag:	Post-Apocalyptic
-Tag:	Angels
-Tag:	Tanks
-Tag:	Religion
-Tag:	Female Protagonist
-Tag:	Lost Civilization
+Title:	Angel's Egg
+Title:	天使のたまご
 Tag:	Fairy Tale
-Tag:	Cosmic Horror
+Tag:	Lost Civilization
 Tag:	Foreign
 Tag:	Mythology
-Tag:	No Dialogue
-Tag:	Survival
-Tag:	Urban Fantasy
+Tag:	Post-Apocalyptic
 Tag:	Coming of Age
+Tag:	Religion
 Tag:	Cultivation
+Tag:	Survival
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
 Tag:	Dystopian
-Tag:	Philosophy
+Tag:	Tanks
+Tag:	Urban Fantasy
+Tag:	No Dialogue
 Tag:	Amnesia
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Philosophy

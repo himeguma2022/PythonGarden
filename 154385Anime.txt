@@ -1,7 +1,7 @@
 ID:	154385
-Title:	Kanojo, Okarishimasu 2nd Season Petit
 Title:	彼女、お借りします 第2期 ぷち
 Title:	"Kanojo, Okarishimasu 2nd Season"
+Title:	Kanojo, Okarishimasu 2nd Season Petit
 Tag:	Chibi
 Related:	90404
 Related:	77642

@@ -2,18 +2,18 @@ ID:	141902
 Title:	ONE PIECE FILM: RED
 Title:	ONE PIECE FILM RED
 Title:	One Piece Film: Red
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	CGI
-Tag:	Shounen
+Tag:	Super Power
+Tag:	Augmented Reality
+Tag:	Ships
 Tag:	Alternate Universe
 Tag:	Ensemble Cast
 Tag:	Pirates
+Tag:	Tragedy
 Tag:	Skeleton
-Tag:	Ships
-Tag:	Suicide
-Tag:	Augmented Reality
 Tag:	Musical Theater
+Tag:	Shounen
+Tag:	Suicide
 Tag:	Idol
 Related:	77154
 Related:	153986

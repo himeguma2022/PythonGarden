@@ -1,25 +1,25 @@
 ID:	110354
 Title:	BNA
 Title:	BNA ビー・エヌ・エー
-Tag:	Baseball
-Tag:	Anthropomorphism
-Tag:	Cult
-Tag:	Class Struggle
+Tag:	Lost Civilization
+Tag:	Politics
 Tag:	Conspiracy
 Tag:	Bullying
-Tag:	Lost Civilization
+Tag:	Detective
+Tag:	Coming of Age
+Tag:	Shapeshifting
+Tag:	Class Struggle
 Tag:	Female Protagonist
-Tag:	Politics
+Tag:	Dystopian
 Tag:	Kemonomimi
+Tag:	Baseball
+Tag:	Police
 Tag:	Urban Fantasy
 Tag:	Mafia
+Tag:	Anthropomorphism
 Tag:	Animals
-Tag:	Police
-Tag:	Coming of Age
+Tag:	Cult
 Tag:	Tomboy
-Tag:	Dystopian
-Tag:	Detective
-Tag:	Shapeshifting
 Tag:	Idol
 Related:	41305
 Related:	42666

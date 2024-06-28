@@ -1,14 +1,14 @@
 ID:	20494
-Title:	ノラガミ OAD
 Title:	Noragami OVA
-Tag:	Mythology
-Tag:	Shounen
-Tag:	Female Protagonist
+Title:	ノラガミ OAD
 Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Mythology
 Tag:	Gods
 Tag:	Youkai
 Tag:	Nekomimi
 Tag:	Anti-Hero
+Tag:	Shounen
 Related:	10176
 Related:	54692
 Related:	9734

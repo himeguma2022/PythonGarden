@@ -1,21 +1,21 @@
 ID:	97634
-Title:	Pocket Monsters Sun & Moon
 Title:	Pokémon the Series: Sun & Moon
+Title:	Pocket Monsters Sun & Moon
 Title:	ポケットモンスター サン＆ムーン
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Fishing
-Tag:	Coastal
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	School
-Tag:	Ensemble Cast
+Tag:	Kids
+Tag:	Female Protagonist
+Tag:	Super Robot
 Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
 Tag:	Dinosaurs
+Tag:	Aliens
+Tag:	School
+Tag:	Fishing
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Coastal
 Related:	50305
 Related:	56961
 Related:	88547

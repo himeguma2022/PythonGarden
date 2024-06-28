@@ -1,17 +1,17 @@
 ID:	101632
-Title:	BanG Dream! Garupa☆Pico
-Title:	BanG Dream! Girls Band Party!☆PICO
 Title:	BanG Dream! ガルパ☆ピコ
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Episodic
-Tag:	Body Horror
-Tag:	Meta
-Tag:	Body Swapping
+Title:	BanG Dream! Girls Band Party!☆PICO
+Title:	BanG Dream! Garupa☆Pico
 Tag:	Chibi
 Tag:	Twins
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Body Swapping
+Tag:	Surreal Comedy
+Tag:	Band
+Tag:	Body Horror
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	122753
 Related:	30886

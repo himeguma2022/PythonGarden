@@ -1,23 +1,23 @@
 ID:	124140
-Title:	劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア
 Title:	Sword Art Online the Movie -Progressive- Aria of a Starless Night
 Title:	Sword Art Online: Progressive - Hoshinaki Yoru no Aria
-Tag:	Tragedy
-Tag:	Primarily Teen Cast
-Tag:	Dungeon
-Tag:	Isekai
+Title:	劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア
+Tag:	Video Games
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Survival
+Tag:	Isekai
+Tag:	Primarily Teen Cast
 Tag:	Goblin
+Tag:	Heterosexual
+Tag:	Conspiracy
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Dungeon
+Tag:	Cannibalism
+Tag:	Death Game
+Tag:	Anti-Hero
 Tag:	Philosophy
 Tag:	Virtual World
-Tag:	Video Games
-Tag:	Anti-Hero
-Tag:	Cannibalism
-Tag:	Heterosexual
-Tag:	Death Game
-Tag:	Conspiracy
 Related:	73921
 Related:	82277
 Related:	140999

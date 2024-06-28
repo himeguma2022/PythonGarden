@@ -1,18 +1,18 @@
 ID:	98572
 Title:	Himouto! Umaru-chan R
 Title:	干物妹! うまるちゃん R
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Tag:	Real Robot
 Tag:	Male Protagonist
+Tag:	Seinen
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Chibi
-Tag:	Real Robot
-Tag:	Seinen
-Tag:	Henshin
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	Otaku Culture
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Henshin
 Related:	18722
 Related:	20987
 Related:	18724

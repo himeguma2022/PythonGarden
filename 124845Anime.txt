@@ -1,33 +1,33 @@
 ID:	124845
 Title:	ワンダーエッグ・プライオリティ
-Title:	WONDER EGG PRIORITY
 Title:	Wonder Egg Priority
-Tag:	Tragedy
+Title:	WONDER EGG PRIORITY
+Tag:	Body Horror
+Tag:	Rape
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	School
 Tag:	Isekai
-Tag:	Artificial Intelligence
-Tag:	Kuudere
 Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Afterlife
+Tag:	Episodic
 Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	CGI
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Hikikomori
+Tag:	Artificial Intelligence
+Tag:	Suicide
+Tag:	Urban Fantasy
 Tag:	Primarily Teen Cast
 Tag:	Transgender
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Afterlife
-Tag:	Body Horror
-Tag:	Suicide
-Tag:	Guns
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Coming of Age
-Tag:	Hikikomori
+Tag:	Tragedy
 Tag:	Tomboy
-Tag:	CGI
-Tag:	Rape
+Tag:	LGBTQ+ Themes
 Tag:	Philosophy
-Tag:	Alternate Universe
 Tag:	Idol
 Related:	55184
 Related:	131773

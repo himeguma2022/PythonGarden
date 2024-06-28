@@ -2,9 +2,9 @@ ID:	12671
 Title:	劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士
 Title:	Pocket Monsters Best Wishes: Kyurem VS Seikenshi
 Title:	Pokémon the Movie: Kyurem VS. The Sword of Justice
+Tag:	Male Protagonist
 Tag:	CGI
 Tag:	Swordplay
-Tag:	Male Protagonist
 Tag:	Animals
 Tag:	Dragons
 Related:	13799

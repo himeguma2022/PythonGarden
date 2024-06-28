@@ -1,36 +1,36 @@
 ID:	104276
-Title:	Boku no Hero Academia 4
-Title:	Boku no Hero Academia 4th Season
 Title:	My Hero Academia Season 4
 Title:	僕のヒーローアカデミア４
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Yakuza
-Tag:	Band
-Tag:	Crime
-Tag:	Primarily Teen Cast
-Tag:	Transgender
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Gangs
+Title:	Boku no Hero Academia 4th Season
+Title:	Boku no Hero Academia 4
 Tag:	Drugs
-Tag:	Delinquents
-Tag:	Terrorism
-Tag:	Boarding School
-Tag:	School
-Tag:	Urban Fantasy
+Tag:	Ensemble Cast
+Tag:	Yakuza
 Tag:	Primarily Male Cast
-Tag:	Espionage
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Tomboy
-Tag:	Cultivation
+Tag:	School
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Superhero
-Tag:	Philosophy
+Tag:	Gangs
 Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Delinquents
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Police
+Tag:	Shounen
+Tag:	Espionage
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Crime
+Tag:	Nudity
+Tag:	Terrorism
+Tag:	Transgender
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	Band
+Tag:	Philosophy
 Related:	51139
 Related:	100166
 Related:	25159

@@ -1,17 +1,17 @@
 ID:	112008
-Title:	Wacky TV Nanana 2nd season
-Title:	テレビ野郎 ナナーナ　わくわく洞窟ランド
 Title:	TV Yarou Nanaana: Wakuwaku Doukutsu Land
-Tag:	Mythology
-Tag:	CGI
-Tag:	Wrestling
+Title:	テレビ野郎 ナナーナ　わくわく洞窟ランド
+Title:	Wacky TV Nanana 2nd season
 Tag:	Male Protagonist
-Tag:	Lost Civilization
+Tag:	CGI
 Tag:	Acting
-Tag:	Primarily Male Cast
-Tag:	Real Robot
-Tag:	Video Games
+Tag:	Lost Civilization
 Tag:	Work
+Tag:	Wrestling
+Tag:	Real Robot
+Tag:	Mythology
+Tag:	Primarily Male Cast
+Tag:	Video Games
 Related:	116320
 Related:	35073
 Related:	112004

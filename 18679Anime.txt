@@ -1,42 +1,42 @@
 ID:	18679
 Title:	Kill la Kill
 Title:	キルラキル
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Cosplay
+Tag:	Military
 Tag:	Space
-Tag:	Tokusatsu
-Tag:	Cult
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Class Struggle
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
+Tag:	Psychosexual
 Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Villainess
-Tag:	Meta
-Tag:	Cheerleading
-Tag:	Orphan
-Tag:	Delinquents
+Tag:	Surreal Comedy
 Tag:	School
-Tag:	Nudity
-Tag:	LGBTQ+ Themes
+Tag:	Orphan
+Tag:	Cosplay
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Cheerleading
 Tag:	Henshin
 Tag:	Coming of Age
-Tag:	Psychosexual
+Tag:	Super Power
+Tag:	Meta
 Tag:	School Club
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Surreal Comedy
-Tag:	Dystopian
+Tag:	Aliens
+Tag:	Villainess
+Tag:	Delinquents
 Tag:	CGI
-Tag:	Military
-Tag:	Philosophy
+Tag:	Class Struggle
+Tag:	Parody
 Tag:	Anti-Hero
-Tag:	Yandere
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Gore
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Tokusatsu
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	88609
 Related:	20646
 Related:	25743

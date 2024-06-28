@@ -1,12 +1,12 @@
 ID:	20706
 Title:	Shin Strange+
 Title:	真　ストレンジ・プラス
-Tag:	Josei
-Tag:	Slapstick
-Tag:	Detective
 Tag:	Acting
 Tag:	Parody
+Tag:	Josei
 Tag:	Crossdressing
+Tag:	Detective
+Tag:	Slapstick
 Related:	20490
 Related:	9276
 Related:	147765

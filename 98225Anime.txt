@@ -1,8 +1,8 @@
 ID:	98225
-Title:	Inazuma Eleven: Choujigen Dream Match
 Title:	イナズマイレブン 超次元ドリームマッチ
-Tag:	Kids
+Title:	Inazuma Eleven: Choujigen Dream Match
 Tag:	Super Power
+Tag:	Kids
 Tag:	Football
 Related:	18363
 Related:	5231

@@ -1,15 +1,15 @@
 ID:	194
 Title:	マクロス ゼロ
 Title:	Macross Zero
-Tag:	Aliens
-Tag:	Love Triangle
+Tag:	Real Robot
 Tag:	CGI
+Tag:	Space Opera
+Tag:	Nudity
+Tag:	Military
 Tag:	Environmental
 Tag:	Space
-Tag:	Nudity
-Tag:	Real Robot
-Tag:	Space Opera
-Tag:	Military
+Tag:	Aliens
+Tag:	Love Triangle
 Tag:	Idol
 Related:	1088
 Related:	5164

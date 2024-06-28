@@ -1,28 +1,28 @@
 ID:	135778
 Title:	HIGH CARD
-Tag:	Gambling
+Tag:	Foreign
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Poker
+Tag:	Orphan
+Tag:	Detective
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Cars
+Tag:	Heterosexual
+Tag:	Episodic
+Tag:	Guns
+Tag:	Primarily Adult Cast
+Tag:	Police
+Tag:	Card Battle
+Tag:	Urban Fantasy
+Tag:	Mafia
+Tag:	Amnesia
+Tag:	Found Family
 Tag:	Urban
 Tag:	Dissociative Identities
-Tag:	Cars
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Foreign
-Tag:	Guns
-Tag:	Orphan
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Mafia
+Tag:	Gambling
 Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Police
-Tag:	Found Family
-Tag:	Poker
-Tag:	Detective
-Tag:	Card Battle
-Tag:	Amnesia
 Related:	85408
 Related:	161651
 Related:	84221

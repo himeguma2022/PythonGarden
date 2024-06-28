@@ -1,15 +1,15 @@
 ID:	97857
-Title:	OneRoom
 Title:	One Room
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	OneRoom
 Tag:	Male Protagonist
+Tag:	Primarily Female Cast
+Tag:	Adoption
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
 Tag:	Female Harem
 Tag:	Philosophy
 Tag:	POV
-Tag:	Tsundere
-Tag:	Heterosexual
-Tag:	Adoption
 Related:	100133
 Related:	22606
 Related:	99054

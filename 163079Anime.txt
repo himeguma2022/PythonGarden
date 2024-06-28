@@ -2,21 +2,21 @@ ID:	163079
 Title:	Sugar Apple Fairy Tale Part 2
 Title:	シュガーアップル・フェアリーテイル 第2クール
 Title:	Sugar Apple Fairy Tale Season 2
-Tag:	Slavery
-Tag:	Revenge
-Tag:	Shoujo
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Food
-Tag:	Primarily Male Cast
-Tag:	Torture
-Tag:	Travel
-Tag:	Philosophy
 Tag:	Age Gap
-Tag:	Fairy
-Tag:	Magic
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Travel
+Tag:	Slavery
+Tag:	Food
 Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Magic
+Tag:	Shoujo
+Tag:	Fairy
+Tag:	Primarily Male Cast
+Tag:	Philosophy
+Tag:	Torture
 Related:	85321
 Related:	85322
 Related:	139821

@@ -1,21 +1,21 @@
 ID:	156039
+Title:	Boushoku no Berserk
 Title:	Berserk of Gluttony
 Title:	暴食のベルセルク
-Title:	Boushoku no Berserk
-Tag:	Bullying
-Tag:	Revenge
-Tag:	Swordplay
-Tag:	Angels
 Tag:	Male Protagonist
+Tag:	Class Struggle
+Tag:	Swordplay
 Tag:	Lost Civilization
+Tag:	Goblin
+Tag:	Travel
+Tag:	Revenge
+Tag:	Magic
+Tag:	Angels
+Tag:	Cannibalism
+Tag:	Bullying
 Tag:	Chimera
 Tag:	Anachronism
-Tag:	Travel
-Tag:	Goblin
-Tag:	Cannibalism
 Tag:	Fugitive
-Tag:	Magic
-Tag:	Class Struggle
 Related:	79619
 Related:	79621
 Related:	90411

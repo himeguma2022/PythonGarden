@@ -1,24 +1,24 @@
 ID:	130591
 Title:	錆喰いビスコ
 Title:	Sabikui Bisco
-Tag:	Guns
-Tag:	Tragedy
+Tag:	Male Protagonist
+Tag:	Drugs
+Tag:	Terrorism
+Tag:	Bisexual
+Tag:	Desert
+Tag:	Heterosexual
+Tag:	Animals
 Tag:	Pandemic
 Tag:	Archery
-Tag:	Boys' Love
-Tag:	Desert
-Tag:	Drugs
-Tag:	Medicine
-Tag:	Post-Apocalyptic
-Tag:	Terrorism
-Tag:	Male Protagonist
-Tag:	Motorcycles
+Tag:	Tragedy
 Tag:	Cyberpunk
-Tag:	Animals
-Tag:	Anti-Hero
-Tag:	Heterosexual
-Tag:	Bisexual
+Tag:	Motorcycles
 Tag:	Kaiju
+Tag:	Boys' Love
+Tag:	Anti-Hero
+Tag:	Post-Apocalyptic
+Tag:	Medicine
+Tag:	Guns
 Related:	54016
 Related:	111620
 Related:	110567

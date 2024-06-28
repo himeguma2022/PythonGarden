@@ -1,11 +1,11 @@
 ID:	158870
 Title:	Pokémon: To Be a Pokémon Master: Ultimate Journeys: The Series
-Title:	Pocket Monsters: Mezase Pokémon Master
 Title:	ポケットモンスター　めざせポケモンマスター
-Tag:	Kids
+Title:	Pocket Monsters: Mezase Pokémon Master
 Tag:	Male Protagonist
-Tag:	Coming of Age
+Tag:	Kids
 Tag:	Animals
+Tag:	Coming of Age
 Related:	169824
 Related:	86757
 Related:	82093

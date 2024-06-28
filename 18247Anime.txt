@@ -1,17 +1,17 @@
 ID:	18247
-Title:	Infinite Stratos 2
 Title:	IS〈インフィニット・ストラトス〉2
 Title:	IS: Infinite Stratos 2
-Tag:	Primarily Female Cast
-Tag:	CGI
+Title:	Infinite Stratos 2
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Kuudere
+Tag:	CGI
 Tag:	Real Robot
+Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Robots
-Tag:	Henshin
 Tag:	School Club
+Tag:	Female Harem
+Tag:	Primarily Female Cast
+Tag:	Henshin
 Related:	10794
 Related:	20571
 Related:	98860

@@ -1,16 +1,16 @@
 ID:	107651
-Title:	A3! SEASON SPRING ＆ SUMMER
 Title:	A3! Season Spring & Summer
-Tag:	Yakuza
-Tag:	Cute Boys Doing Cute Things
-Tag:	Delinquents
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Title:	A3! SEASON SPRING ＆ SUMMER
 Tag:	Acting
-Tag:	Primarily Male Cast
+Tag:	Female Protagonist
 Tag:	Male Harem
+Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
 Tag:	Crossdressing
+Tag:	Yakuza
 Tag:	Found Family
+Tag:	Primarily Male Cast
+Tag:	Delinquents
 Related:	112483
 Related:	111912
 Related:	111145

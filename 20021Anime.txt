@@ -1,16 +1,16 @@
 ID:	20021
-Title:	Sword Art Online EXTRA EDITION
 Title:	Sword Art Online: Extra Edition
 Title:	ソードアート・オンライン Extra Edition
-Tag:	Swimming
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Isekai
+Title:	Sword Art Online EXTRA EDITION
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
+Tag:	Isekai
 Tag:	Female Harem
-Tag:	Virtual World
 Tag:	Video Games
+Tag:	Primarily Female Cast
+Tag:	Virtual World
+Tag:	Swimming
 Related:	9864
 Related:	9001
 Related:	11757

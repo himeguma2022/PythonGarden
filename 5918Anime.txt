@@ -1,13 +1,13 @@
 ID:	5918
-Title:	Deimos no Hanayome: Ran no Kumikyoku
 Title:	悪魔の花嫁 蘭の組曲
-Tag:	Tragedy
-Tag:	Mythology
+Title:	Deimos no Hanayome: Ran no Kumikyoku
+Tag:	Female Protagonist
+Tag:	Demons
+Tag:	Twins
 Tag:	Archery
 Tag:	Shoujo
-Tag:	Female Protagonist
+Tag:	Mythology
+Tag:	Tragedy
 Tag:	Gods
-Tag:	Twins
-Tag:	Demons
 Related:	31464
 Related:	5467

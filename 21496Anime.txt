@@ -1,20 +1,20 @@
 ID:	21496
 Title:	GANTZ:O
-Tag:	Guns
-Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Cyberpunk
-Tag:	Nudity
-Tag:	Youkai
-Tag:	Cosmic Horror
-Tag:	Gore
 Tag:	Seinen
-Tag:	Death Game
+Tag:	Cosmic Horror
 Tag:	Demons
+Tag:	Nudity
+Tag:	Gore
+Tag:	Full CGI
+Tag:	Urban
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	Survival
+Tag:	Youkai
+Tag:	Death Game
+Tag:	Cyberpunk
+Tag:	Guns
 Related:	384
 Related:	52225
 Related:	30564

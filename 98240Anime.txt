@@ -1,12 +1,12 @@
 ID:	98240
-Title:	Seitokai Yakuindomo the Movie
 Title:	Seitokai Yakuindomo Movie
+Title:	Seitokai Yakuindomo the Movie
 Title:	劇場版 生徒会役員共
-Tag:	Primarily Female Cast
-Tag:	Shounen
+Tag:	Kuudere
 Tag:	4-koma
 Tag:	School
-Tag:	Kuudere
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	36648
 Related:	37676
 Related:	44110

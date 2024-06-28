@@ -1,32 +1,32 @@
 ID:	467
 Title:	Ghost in the Shell: Stand Alone Complex
-Title:	攻殻機動隊 STAND ALONE COMPLEX
 Title:	Koukaku Kidoutai: STAND ALONE COMPLEX
-Tag:	Artificial Intelligence
-Tag:	Kuudere
+Title:	攻殻機動隊 STAND ALONE COMPLEX
+Tag:	Military
+Tag:	Robots
+Tag:	Politics
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Female Protagonist
+Tag:	Primarily Male Cast
+Tag:	Detective
+Tag:	Bisexual
+Tag:	Cyborg
 Tag:	Episodic
 Tag:	Cyberpunk
-Tag:	Politics
-Tag:	Cyborg
-Tag:	Seinen
 Tag:	Guns
-Tag:	Primarily Male Cast
-Tag:	Real Robot
-Tag:	Robots
-Tag:	Police
-Tag:	Dystopian
 Tag:	CGI
-Tag:	Detective
-Tag:	Military
-Tag:	Philosophy
-Tag:	Body Swapping
 Tag:	Work
-Tag:	Bisexual
+Tag:	Dystopian
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Artificial Intelligence
+Tag:	Police
+Tag:	Real Robot
+Tag:	Seinen
+Tag:	Crime
+Tag:	Body Swapping
+Tag:	Philosophy
 Related:	9984
 Related:	34311
 Related:	2449

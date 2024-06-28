@@ -1,16 +1,16 @@
 ID:	87517
-Title:	Hinako Note
 Title:	ひなこのーと
+Title:	Hinako Note
 Tag:	Judo
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Cosplay
-Tag:	Acting
-Tag:	Tsundere
 Tag:	Seinen
+Tag:	Acting
+Tag:	Female Protagonist
+Tag:	Tsundere
 Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
 Tag:	School Club
+Tag:	Cosplay
+Tag:	Primarily Female Cast
 Related:	86163
 Related:	17428

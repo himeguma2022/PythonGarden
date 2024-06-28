@@ -1,22 +1,22 @@
 ID:	4565
 Title:	Tengen Toppa Gurren Lagann: Lagann-hen
-Title:	Gurren Lagann The Movie: The Lights in the Sky are Stars
 Title:	天元突破グレンラガン 螺巌篇
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Post-Apocalyptic
+Title:	Gurren Lagann The Movie: The Lights in the Sky are Stars
 Tag:	Male Protagonist
-Tag:	Alternate Universe
-Tag:	Space
-Tag:	Nudity
-Tag:	Politics
+Tag:	Super Power
 Tag:	Cosmic Horror
-Tag:	Philosophy
-Tag:	Henshin
+Tag:	Nudity
+Tag:	Space
 Tag:	Heterosexual
+Tag:	Super Robot
+Tag:	Alternate Universe
+Tag:	Politics
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	Post-Apocalyptic
+Tag:	Philosophy
 Tag:	Coming of Age
+Tag:	Henshin
 Related:	2001
 Related:	4107
 Related:	4908

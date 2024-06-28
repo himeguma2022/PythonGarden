@@ -1,12 +1,12 @@
 ID:	115069
 Title:	D4DJ First Mix
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
 Tag:	Female Protagonist
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
 Tag:	School
+Tag:	Band
+Tag:	Primarily Female Cast
 Related:	123649
 Related:	146321
 Related:	146705

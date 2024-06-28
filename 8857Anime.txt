@@ -1,14 +1,14 @@
 ID:	8857
+Title:	Nichijou no 0-wa
 Title:	Nichijou - My Ordinary Life: Episode 0
 Title:	日常の0話
-Title:	Nichijou no 0-wa
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Ensemble Cast
-Tag:	Artificial Intelligence
-Tag:	School
 Tag:	Robots
+Tag:	Cute Girls Doing Cute Things
+Tag:	Artificial Intelligence
+Tag:	Surreal Comedy
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Primarily Female Cast
 Related:	38224
 Related:	33082
 Related:	10165

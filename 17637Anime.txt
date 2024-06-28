@@ -1,13 +1,13 @@
 ID:	17637
-Title:	宮河家の空腹
 Title:	Miyakawa-ke no Kuufuku
+Title:	宮河家の空腹
+Tag:	Food
+Tag:	Family Life
+Tag:	Cute Girls Doing Cute Things
+Tag:	Otaku Culture
+Tag:	School
 Tag:	Bullying
 Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Family Life
-Tag:	School
-Tag:	Food
-Tag:	Otaku Culture
 Related:	70019
 Related:	53892
 Related:	95679

@@ -1,18 +1,18 @@
 ID:	112135
-Title:	In This Corner (and Other Corners) of the World
-Title:	この世界の（さらにいくつもの）片隅に
 Title:	Kono Sekai no (Sara ni Ikutsumono) Katasumi ni
+Title:	この世界の（さらにいくつもの）片隅に
+Title:	In This Corner (and Other Corners) of the World
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Disability
+Tag:	Food
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Rehabilitation
 Tag:	Tragedy
 Tag:	Historical
-Tag:	Drawing
-Tag:	Disability
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Food
 Tag:	War
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Rehabilitation
 Related:	41243
 Related:	35269
 Related:	35267

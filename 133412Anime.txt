@@ -1,17 +1,17 @@
 ID:	133412
-Title:	Healer Girl
 Title:	ヒーラー・ガール
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
+Title:	Healer Girl
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
 Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Maids
+Tag:	Foreign
 Tag:	School
 Tag:	Musical Theater
-Tag:	Magic
-Tag:	Maids
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Rural
-Tag:	Foreign
 Related:	72017
 Related:	148087

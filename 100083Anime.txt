@@ -1,11 +1,11 @@
 ID:	100083
-Title:	Butlers～千年百年物語～
-Title:	Butlers: Chitose Momotose Monogatari
 Title:	Butlers x Battlers
-Tag:	Tragedy
-Tag:	Butler
+Title:	Butlers: Chitose Momotose Monogatari
+Title:	Butlers～千年百年物語～
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Primarily Male Cast
 Tag:	Magic
 Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Butler
+Tag:	School
+Tag:	Primarily Male Cast

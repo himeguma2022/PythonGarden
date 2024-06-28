@@ -1,20 +1,20 @@
 ID:	21258
+Title:	赤髪の白雪姫 2ndシーズン
 Title:	Akagami no Shirayuki-hime 2nd Season
 Title:	Snow White with the Red Hair Season 2
-Title:	赤髪の白雪姫 2ndシーズン
-Tag:	Historical
-Tag:	Shoujo
-Tag:	Medicine
+Tag:	Work
 Tag:	Swordplay
 Tag:	Female Protagonist
 Tag:	Food
-Tag:	Pirates
-Tag:	Politics
-Tag:	Male Harem
-Tag:	Anti-Hero
-Tag:	Heterosexual
-Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Male Harem
+Tag:	Politics
+Tag:	Shoujo
+Tag:	Pirates
+Tag:	Historical
+Tag:	Anti-Hero
+Tag:	Medicine
 Related:	10347
 Related:	10345
 Related:	21058

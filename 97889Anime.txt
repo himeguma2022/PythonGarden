@@ -1,23 +1,23 @@
 ID:	97889
+Title:	Gintama Season 5
 Title:	Gintama.
 Title:	銀魂。
-Title:	Gintama Season 5
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Shounen
-Tag:	Swordplay
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Space
-Tag:	Kuudere
-Tag:	War
-Tag:	Anachronism
+Tag:	Swordplay
 Tag:	Parody
-Tag:	Samurai
+Tag:	Kuudere
 Tag:	Gore
-Tag:	Found Family
+Tag:	Space
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	Found Family
+Tag:	Dissociative Identities
+Tag:	Samurai
+Tag:	Anachronism
+Tag:	Shounen
+Tag:	War
 Related:	17922
 Related:	99714
 Related:	20548

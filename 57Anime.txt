@@ -1,20 +1,20 @@
 ID:	57
-Title:	Beck: Mongolian Chop Squad
 Title:	BECK
-Tag:	Swimming
-Tag:	Bullying
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	Band
-Tag:	Urban
-Tag:	Female Protagonist
+Title:	Beck: Mongolian Chop Squad
 Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Hip-hop Music
 Tag:	Baseball
-Tag:	School
+Tag:	Urban
 Tag:	Primarily Male Cast
 Tag:	Gyaru
+Tag:	School
+Tag:	Love Triangle
 Tag:	Rock Music
-Tag:	Hip-hop Music
+Tag:	Band
+Tag:	Bullying
+Tag:	Shounen
 Tag:	Coming of Age
+Tag:	Swimming
 Related:	30145
 Related:	135

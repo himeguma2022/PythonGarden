@@ -1,16 +1,16 @@
 ID:	19951
-Title:	HUNTER×HUNTER: THE LAST MISSION
-Title:	Hunter x Hunter: The Last Mission
 Title:	劇場版 HUNTER×HUNTER THE LAST MISSION
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Shounen
+Title:	Hunter x Hunter: The Last Mission
+Title:	HUNTER×HUNTER: THE LAST MISSION
 Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Martial Arts
-Tag:	Ensemble Cast
 Tag:	Kuudere
+Tag:	Revenge
+Tag:	Ensemble Cast
+Tag:	Tragedy
 Tag:	Primarily Male Cast
+Tag:	Shounen
 Related:	10795
 Related:	163659
 Related:	85852

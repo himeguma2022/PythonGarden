@@ -1,19 +1,19 @@
 ID:	111145
 Title:	A3! SEASON AUTUMN & WINTER
 Title:	A3! Season Autumn & Winter
-Tag:	Yakuza
-Tag:	Cute Boys Doing Cute Things
-Tag:	Delinquents
+Tag:	Acting
+Tag:	Urban Fantasy
 Tag:	Female Protagonist
 Tag:	Time Loop
-Tag:	Ensemble Cast
-Tag:	Urban Fantasy
-Tag:	Acting
-Tag:	Primarily Male Cast
-Tag:	Male Harem
-Tag:	Time Manipulation
 Tag:	Primarily Adult Cast
+Tag:	Male Harem
+Tag:	Ensemble Cast
+Tag:	Cute Boys Doing Cute Things
+Tag:	Yakuza
+Tag:	Time Manipulation
 Tag:	Found Family
+Tag:	Primarily Male Cast
+Tag:	Delinquents
 Related:	150851
 Related:	107651
 Related:	118090

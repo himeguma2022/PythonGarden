@@ -1,18 +1,18 @@
 ID:	21131
-Title:	The Asterisk War
 Title:	Gakusen Toshi Asterisk
+Title:	The Asterisk War
 Title:	学戦都市アスタリスク
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Swordplay
+Tag:	Primarily Teen Cast
 Tag:	Urban Fantasy
-Tag:	School
 Tag:	Kuudere
-Tag:	War
-Tag:	Robots
 Tag:	Magic
+Tag:	Robots
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	War
 Related:	78369
 Related:	10566
 Related:	175048

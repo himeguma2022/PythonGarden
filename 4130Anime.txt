@@ -1,20 +1,20 @@
 ID:	4130
-Title:	Petit Eva: Evangelion@School
 Title:	ぷちえゔぁ
-Tag:	Full CGI
-Tag:	Surreal Comedy
-Tag:	No Dialogue
-Tag:	Primarily Teen Cast
-Tag:	Aliens
+Title:	Petit Eva: Evangelion@School
 Tag:	CGI
+Tag:	Primarily Teen Cast
+Tag:	Parody
+Tag:	No Dialogue
+Tag:	Chibi
+Tag:	Full CGI
+Tag:	Robots
+Tag:	Ensemble Cast
 Tag:	Urban
+Tag:	Aliens
+Tag:	Surreal Comedy
+Tag:	School
 Tag:	Angels
 Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Parody
-Tag:	Robots
-Tag:	Chibi
 Related:	29840
 Related:	55633
 Related:	55632

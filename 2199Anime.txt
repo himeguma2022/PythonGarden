@@ -1,13 +1,13 @@
 ID:	2199
-Title:	チリンの鈴
-Title:	Ringing Bell
 Title:	Chirin no Suzu
-Tag:	Tragedy
-Tag:	Cultivation
-Tag:	Revenge
-Tag:	Orphan
-Tag:	Coming of Age
-Tag:	Male Protagonist
-Tag:	Animals
+Title:	Ringing Bell
+Title:	チリンの鈴
 Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Revenge
+Tag:	Animals
+Tag:	Cultivation
+Tag:	Tragedy
+Tag:	Orphan
 Tag:	Rural
+Tag:	Coming of Age

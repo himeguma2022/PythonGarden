@@ -2,14 +2,14 @@ ID:	2881
 Title:	沈黙の艦隊
 Title:	Chinmoku no Kantai
 Title:	Silent Service
-Tag:	Historical
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
-Tag:	Politics
-Tag:	Fugitive
-Tag:	Military
-Tag:	Ships
 Tag:	Seinen
 Tag:	Primarily Adult Cast
+Tag:	Military
+Tag:	Ships
+Tag:	Politics
+Tag:	Primarily Male Cast
+Tag:	Historical
+Tag:	Fugitive
 Related:	3950
 Related:	48071

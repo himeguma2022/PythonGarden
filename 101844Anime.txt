@@ -1,18 +1,18 @@
 ID:	101844
-Title:	Take My Brother Away! 2
 Title:	兄に付ける薬はない！2
+Title:	Take My Brother Away! 2
 Title:	Ani ni Tsukeru Kusuri wa Nai! 2
-Tag:	Basketball
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Slapstick
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	School
 Tag:	Bisexual
+Tag:	Family Life
 Tag:	Foreign
+Tag:	School
+Tag:	Love Triangle
+Tag:	Basketball
+Tag:	Episodic
+Tag:	Slapstick
 Related:	110088
 Related:	33164
 Related:	23025

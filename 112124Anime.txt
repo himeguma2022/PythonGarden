@@ -1,29 +1,29 @@
 ID:	112124
 Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III
-Title:	ダンジョンに出会いを求めるのは間違っているだろうかⅢ
 Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon? III
-Tag:	Tragedy
-Tag:	Archery
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Gods
-Tag:	Elf
-Tag:	Gore
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
+Title:	ダンジョンに出会いを求めるのは間違っているだろうかⅢ
 Tag:	Ensemble Cast
-Tag:	Monster Girl
+Tag:	Archery
 Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	Tomboy
-Tag:	Dungeon
 Tag:	Yandere
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Elf
+Tag:	Nudity
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Dungeon
+Tag:	Tomboy
+Tag:	Gods
 Related:	97864
 Related:	127368
 Related:	85162

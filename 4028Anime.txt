@@ -1,14 +1,14 @@
 ID:	4028
-Title:	Slayers REVOLUTION
-Title:	The Slayers Revolution
 Title:	スレイヤーズ REVOLUTION
-Tag:	Cute Girls Doing Cute Things
+Title:	The Slayers Revolution
+Title:	Slayers REVOLUTION
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Ero Guro
+Tag:	Demons
 Tag:	Kuudere
 Tag:	Magic
-Tag:	Demons
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ero Guro
 Related:	4645
 Related:	4646
 Related:	28172

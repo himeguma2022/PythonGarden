@@ -1,24 +1,24 @@
 ID:	101281
-Title:	Carole & Tuesday
 Title:	キャロル＆チューズデイ
-Tag:	Dystopian
-Tag:	Drugs
-Tag:	Band
-Tag:	Post-Apocalyptic
-Tag:	Terrorism
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Artificial Intelligence
+Title:	Carole & Tuesday
 Tag:	Rotoscoping
-Tag:	Cyberpunk
-Tag:	Politics
-Tag:	Anachronism
-Tag:	Gender Bending
-Tag:	LGBTQ+ Themes
 Tag:	Tanned Skin
-Tag:	Agender
+Tag:	LGBTQ+ Themes
+Tag:	Female Protagonist
 Tag:	Bisexual
+Tag:	Terrorism
+Tag:	Drugs
+Tag:	Dystopian
+Tag:	Gender Bending
+Tag:	Politics
+Tag:	Artificial Intelligence
+Tag:	Urban
 Tag:	Foreign
+Tag:	Cyberpunk
+Tag:	Agender
+Tag:	Band
+Tag:	Anachronism
+Tag:	Post-Apocalyptic
 Related:	34586
 Related:	33533
 Related:	111526

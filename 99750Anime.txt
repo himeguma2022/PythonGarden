@@ -2,17 +2,17 @@ ID:	99750
 Title:	君の膵臓をたべたい
 Title:	I Want to Eat Your Pancreas
 Title:	Kimi no Suizou wo Tabetai
-Tag:	Tragedy
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Unrequited Love
-Tag:	Achronological Order
 Tag:	Philosophy
-Tag:	Rehabilitation
-Tag:	Classic Literature
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Unrequited Love
 Tag:	Heterosexual
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	School
+Tag:	Achronological Order
+Tag:	Classic Literature
 Tag:	Coming of Age
 Related:	99609
 Related:	26947

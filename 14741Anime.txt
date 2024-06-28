@@ -1,19 +1,19 @@
 ID:	14741
-Title:	Love, Chunibyo & Other Delusions
 Title:	Chuunibyou demo Koi ga Shitai!
+Title:	Love, Chunibyo & Other Delusions
 Title:	中二病でも恋がしたい!
-Tag:	Disability
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Parody
 Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Disability
 Tag:	Heterosexual
-Tag:	Coming of Age
 Tag:	School Club
+Tag:	School
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Coming of Age
 Related:	16934
 Related:	15879
 Related:	15687

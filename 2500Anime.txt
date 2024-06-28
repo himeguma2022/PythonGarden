@@ -1,13 +1,13 @@
 ID:	2500
 Title:	The Cockpit
 Title:	ザ・コクピット
+Tag:	Military
 Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Motorcycles
 Tag:	Historical
 Tag:	Anthology
-Tag:	Motorcycles
-Tag:	Primarily Male Cast
 Tag:	War
-Tag:	Military
 Tag:	Aviation
 Related:	118288
 Related:	57322

@@ -1,13 +1,13 @@
 ID:	21236
 Title:	ベイブレードバースト
 Title:	Beyblade Burst
-Tag:	Kids
-Tag:	CGI
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Primarily Male Cast
+Tag:	CGI
+Tag:	Kids
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Slapstick
 Related:	288
 Related:	10305
 Related:	96611

@@ -1,13 +1,13 @@
 ID:	146501
-Title:	Morfonication
 Title:	BanG Dream! Morfonication
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
+Title:	Morfonication
 Tag:	Female Protagonist
+Tag:	Full CGI
+Tag:	Cute Girls Doing Cute Things
 Tag:	School
 Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
 Related:	78049
 Related:	101634
 Related:	78051

@@ -1,36 +1,36 @@
 ID:	131573
-Title:	Jujutsu Kaisen 0
 Title:	JUJUTSU KAISEN 0
 Title:	呪術廻戦 0
-Tag:	Tragedy
-Tag:	Super Power
+Title:	Jujutsu Kaisen 0
 Tag:	Spearplay
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Anthropomorphism
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Kaiju
-Tag:	Bullying
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Body Horror
-Tag:	Rehabilitation
-Tag:	Swordplay
-Tag:	School
-Tag:	Urban Fantasy
+Tag:	Demons
 Tag:	Primarily Male Cast
-Tag:	Magic
+Tag:	School
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Heterosexual
 Tag:	Cultivation
-Tag:	Revenge
-Tag:	CGI
-Tag:	Monster Boy
 Tag:	Shapeshifting
-Tag:	Time Skip
-Tag:	Yandere
 Tag:	Vore
-Tag:	Demons
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Gore
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Anthropomorphism
+Tag:	Martial Arts
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Magic
+Tag:	Urban
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Monster Boy
+Tag:	Kaiju
+Tag:	Body Horror
 Related:	54913
 Related:	54915
 Related:	105469

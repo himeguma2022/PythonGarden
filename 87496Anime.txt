@@ -1,19 +1,19 @@
 ID:	87496
 Title:	Kemono Friends
 Title:	けものフレンズ
-Tag:	Iyashikei
-Tag:	Full CGI
-Tag:	Kids
-Tag:	Primarily Female Cast
-Tag:	Desert
-Tag:	Kemonomimi
 Tag:	CGI
-Tag:	Post-Apocalyptic
-Tag:	Educational
+Tag:	Kids
 Tag:	Lost Civilization
 Tag:	Female Protagonist
-Tag:	Cute Girls Doing Cute Things
+Tag:	Kemonomimi
+Tag:	Desert
 Tag:	Animals
+Tag:	Cute Girls Doing Cute Things
+Tag:	Full CGI
+Tag:	Iyashikei
+Tag:	Educational
+Tag:	Post-Apocalyptic
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	21344
 Related:	20995

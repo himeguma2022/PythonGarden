@@ -1,26 +1,26 @@
 ID:	154587
 Title:	葬送のフリーレン
-Title:	Sousou no Frieren
 Title:	Frieren: Beyond Journey’s End
-Tag:	Tragedy
+Title:	Sousou no Frieren
 Tag:	Clone
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Religion
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Demons
 Tag:	Travel
+Tag:	Adoption
 Tag:	Iyashikei
-Tag:	Magic
+Tag:	Dragons
+Tag:	Time Skip
+Tag:	Religion
 Tag:	Heterosexual
-Tag:	Rural
+Tag:	Episodic
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Shounen
+Tag:	Elf
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Dungeon
 Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Demons
-Tag:	Adoption
-Tag:	Dragons
+Tag:	Rural
 Related:	96033
 Related:	175691
 Related:	90701

@@ -1,10 +1,10 @@
 ID:	7711
 Title:	The Secret World of Arrietty
-Title:	Karigurashi no Arrietty
 Title:	借りぐらしのアリエッティ
-Tag:	Coming of Age
+Title:	Karigurashi no Arrietty
+Tag:	Work
 Tag:	Female Protagonist
 Tag:	Family Life
-Tag:	Classic Literature
-Tag:	Work
 Tag:	Rural
+Tag:	Classic Literature
+Tag:	Coming of Age

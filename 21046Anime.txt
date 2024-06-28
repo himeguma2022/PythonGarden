@@ -1,14 +1,14 @@
 ID:	21046
-Title:	DIABOLIK LOVERS MORE,BLOOD
 Title:	Diabolik Lovers Ⅱ : More,blood
 Title:	"DIABOLIK LOVERS MORE,BLOOD"
-Tag:	Bullying
+Title:	DIABOLIK LOVERS MORE,BLOOD
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Primarily Male Cast
+Tag:	Tsundere
 Tag:	Vampire
 Tag:	Male Harem
-Tag:	Tsundere
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Bullying
 Tag:	Yandere
 Related:	66661
 Related:	17513

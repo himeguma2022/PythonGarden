@@ -1,24 +1,24 @@
 ID:	19163
 Title:	デート・ア・ライブⅡ
 Title:	Date A Live II
-Tag:	Super Power
-Tag:	Kuudere
-Tag:	Crossdressing
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Parody
 Tag:	Maids
-Tag:	Female Harem
+Tag:	Crossdressing
 Tag:	School
-Tag:	Urban Fantasy
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Female Harem
 Tag:	Acting
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Nudity
 Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	CGI
-Tag:	Bisexual
 Tag:	Idol
 Related:	67523
 Related:	17641

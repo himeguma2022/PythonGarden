@@ -1,19 +1,19 @@
 ID:	97908
-Title:	Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
 Title:	打ち上げ花火、下から見るか？横から見るか？
-Title:	Fireworks
+Title:	Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
 Title:	"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
-Tag:	Swimming
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Coming of Age
+Title:	Fireworks
 Tag:	Male Protagonist
-Tag:	Alternate Universe
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	POV
+Tag:	Primarily Teen Cast
 Tag:	Heterosexual
+Tag:	Alternate Universe
 Tag:	Time Manipulation
+Tag:	School
+Tag:	Coming of Age
+Tag:	Love Triangle
+Tag:	POV
 Tag:	Rural
+Tag:	Swimming
 Related:	30107
 Related:	99853

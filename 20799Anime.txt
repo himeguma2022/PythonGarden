@@ -1,37 +1,37 @@
 ID:	20799
-Title:	ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編
 Title:	JoJo no Kimyou na Bouken: Stardust Crusaders - Egypt-hen
+Title:	ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編
 Title:	JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt
-Tag:	Gambling
-Tag:	Tragedy
-Tag:	Super Power
+Tag:	Body Horror
 Tag:	Desert
+Tag:	Travel
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Zombie
+Tag:	Primarily Male Cast
+Tag:	Poker
+Tag:	Video Games
 Tag:	Cosplay
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Bisexual
+Tag:	Vampire
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	CGI
+Tag:	Parody
 Tag:	Gore
-Tag:	Death Game
 Tag:	Primarily Adult Cast
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Body Horror
-Tag:	Travel
 Tag:	Suicide
-Tag:	Video Games
-Tag:	Time Manipulation
-Tag:	Foreign
-Tag:	Age Regression
 Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Zombie
-Tag:	Vampire
-Tag:	Animals
-Tag:	Revenge
-Tag:	CGI
-Tag:	Poker
-Tag:	Shapeshifting
 Tag:	Disability
-Tag:	Bisexual
+Tag:	Revenge
+Tag:	Animals
+Tag:	Tragedy
+Tag:	Gambling
+Tag:	Death Game
+Tag:	Age Regression
 Related:	10690
 Related:	20474
 Related:	9509

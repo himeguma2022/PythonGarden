@@ -2,13 +2,13 @@ ID:	3467
 Title:	乃木坂春香の秘密
 Title:	Nogizaka Haruka no Himitsu
 Title:	Haruka Nogizaka's Secret
-Tag:	Love Triangle
-Tag:	School
-Tag:	Otaku Culture
-Tag:	Kuudere
 Tag:	Parody
+Tag:	Kuudere
 Tag:	Heterosexual
 Tag:	Maids
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Love Triangle
 Related:	39072
 Related:	6023
 Related:	4334

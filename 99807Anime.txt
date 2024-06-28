@@ -1,13 +1,13 @@
 ID:	99807
 Title:	22/7 (nanabun no nijyuuni)
-Title:	22/7 （ナナブンノニジュウニ）
 Title:	22/7
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	22/7 （ナナブンノニジュウニ）
 Tag:	CGI
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Tag:	Cute Girls Doing Cute Things
 Tag:	Dancing
+Tag:	Ensemble Cast
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	37760
 Related:	44934

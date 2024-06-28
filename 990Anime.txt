@@ -1,14 +1,14 @@
 ID:	990
 Title:	Kamisama Kazoku
-Title:	God Family
 Title:	神様家族
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
+Title:	God Family
 Tag:	Male Protagonist
-Tag:	School
 Tag:	Kuudere
-Tag:	Gods
 Tag:	Memory Manipulation
+Tag:	School
+Tag:	Gods
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	1768
 Related:	41395

@@ -1,18 +1,18 @@
 ID:	16353
 Title:	Love Lab
 Title:	恋愛ラボ
+Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Crossdressing
+Tag:	School Club
+Tag:	School
 Tag:	Tomboy
 Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Slapstick
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Parody
-Tag:	Tanned Skin
-Tag:	Crossdressing
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	School Club
 Related:	8269
 Related:	58174

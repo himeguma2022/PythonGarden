@@ -1,18 +1,18 @@
 ID:	99939
-Title:	Nekopara OVA
 Title:	ネコぱらOVA
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
+Title:	Nekopara OVA
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	Kuudere
-Tag:	Nekomimi
-Tag:	Restaurant
-Tag:	Chibi
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
 Tag:	Maids
+Tag:	Female Harem
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	Restaurant
 Related:	85767
 Related:	55591
 Related:	106863

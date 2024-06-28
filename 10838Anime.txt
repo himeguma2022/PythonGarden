@@ -2,11 +2,11 @@ ID:	10838
 Title:	Double-J
 Title:	だぶるじぇい
 Title:	Double J
-Tag:	Flash
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Shounen
 Tag:	Kuudere
+Tag:	Surreal Comedy
 Tag:	School Club
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Flash
 Related:	7325
 Related:	45006

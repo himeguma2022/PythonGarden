@@ -1,14 +1,14 @@
 ID:	9366
+Title:	Kaichou wa Maid-sama!: Omake dayo!
 Title:	Maid-Sama! It's an extra!
 Title:	会長はメイド様！おまけだよ！
-Title:	Kaichou wa Maid-sama!: Omake dayo!
-Tag:	Shoujo
+Tag:	Work
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Kuudere
+Tag:	Maids
+Tag:	Shoujo
+Tag:	School
 Tag:	Bar
 Tag:	Restaurant
-Tag:	Work
-Tag:	Maids
 Related:	6685
 Related:	7054

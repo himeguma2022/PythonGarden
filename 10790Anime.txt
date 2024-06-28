@@ -1,25 +1,25 @@
 ID:	10790
+Title:	Is this A Zombie? of the Dead
 Title:	これはゾンビですか？オブ・ザ・デッド
 Title:	Kore wa Zombie desu ka? of the Dead
-Title:	Is this A Zombie? of the Dead
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Ninja
-Tag:	Kuudere
-Tag:	School
-Tag:	Vampire
-Tag:	Zombie
 Tag:	Chuunibyou
-Tag:	Crossdressing
-Tag:	Henshin
-Tag:	Yandere
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Vampire
 Tag:	Heterosexual
-Tag:	Monster Girl
 Tag:	Magic
+Tag:	Ninja
 Tag:	Meta
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	Zombie
+Tag:	School
+Tag:	Female Harem
+Tag:	Yandere
+Tag:	Primarily Female Cast
+Tag:	Monster Girl
+Tag:	Henshin
 Related:	10209
 Related:	53067
 Related:	15437

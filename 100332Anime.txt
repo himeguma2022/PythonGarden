@@ -1,24 +1,24 @@
 ID:	100332
+Title:	KOKKOKU
 Title:	Kokkoku
 Title:	刻刻
-Title:	KOKKOKU
-Tag:	Historical
-Tag:	Crime
-Tag:	Super Power
-Tag:	Revenge
 Tag:	CGI
-Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Body Horror
-Tag:	Cult
+Tag:	Super Power
 Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Crime
+Tag:	Demons
+Tag:	Female Protagonist
 Tag:	Religion
+Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Revenge
 Tag:	Magic
 Tag:	Time Manipulation
-Tag:	Demons
-Tag:	Primarily Adult Cast
+Tag:	Urban
+Tag:	Primarily Male Cast
+Tag:	Cult
+Tag:	Historical
+Tag:	Body Horror
 Related:	21352
 Related:	99159

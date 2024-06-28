@@ -1,32 +1,32 @@
 ID:	131942
-Title:	ジョジョの奇妙な冒険 ストーンオーシャン
-Title:	JoJo no Kimyou na Bouken: Stone Ocean
 Title:	JoJo's Bizarre Adventure: STONE OCEAN
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Fugitive
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Prison
-Tag:	Primarily Female Cast
-Tag:	Ghost
-Tag:	Shounen
-Tag:	Female Protagonist
+Title:	JoJo no Kimyou na Bouken: Stone Ocean
+Title:	ジョジョの奇妙な冒険 ストーンオーシャン
 Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Time Manipulation
 Tag:	Foreign
-Tag:	Urban Fantasy
-Tag:	Masturbation
-Tag:	Police
-Tag:	Revenge
+Tag:	Memory Manipulation
 Tag:	Surreal Comedy
-Tag:	CGI
-Tag:	Shapeshifting
 Tag:	Agender
+Tag:	Super Power
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Masturbation
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Police
+Tag:	Shounen
+Tag:	Prison
+Tag:	Fugitive
+Tag:	Urban Fantasy
+Tag:	Crime
 Tag:	Disability
+Tag:	Ghost
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Body Horror
 Related:	146722
 Related:	102883
 Related:	55365

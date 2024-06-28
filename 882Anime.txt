@@ -1,11 +1,11 @@
 ID:	882
-Title:	Yu Yu Hakusho: The Movie
 Title:	Yuu☆Yuu☆Hakusho: The Golden Seal
 Title:	幽☆遊☆白書 (1993)
-Tag:	Super Power
-Tag:	Shounen
+Title:	Yu Yu Hakusho: The Movie
 Tag:	Male Protagonist
-Tag:	Primarily Male Cast
+Tag:	Super Power
 Tag:	Demons
+Tag:	Primarily Male Cast
+Tag:	Shounen
 Related:	392
 Related:	1569

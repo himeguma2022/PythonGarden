@@ -1,8 +1,8 @@
 ID:	18393
 Title:	FAIRY TAIL × RAVE
+Tag:	Crossover
 Tag:	Shounen
 Tag:	Magic
-Tag:	Crossover
 Related:	8580
 Related:	21959
 Related:	6702

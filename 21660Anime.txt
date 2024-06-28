@@ -1,16 +1,16 @@
 ID:	21660
-Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?
-Title:	ダンジョンに出会いを求めるのは間違っているだろうか ダンジョンに温泉を求めるのは 間違っているだろうか
 Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Dungeon ni Onsen wo Motomeru no wa Machigatteiru Darou ka
-Tag:	Mythology
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Dungeon
+Title:	ダンジョンに出会いを求めるのは間違っているだろうか ダンジョンに温泉を求めるのは 間違っているだろうか
+Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Kuudere
-Tag:	Gods
 Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Mythology
+Tag:	Female Harem
+Tag:	Dungeon
+Tag:	Gods
+Tag:	Primarily Female Cast
 Related:	20920
 Related:	85162
 Related:	38467

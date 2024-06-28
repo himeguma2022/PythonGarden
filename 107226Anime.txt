@@ -2,26 +2,26 @@ ID:	107226
 Title:	ダンベル何キロ持てる？
 Title:	How Heavy Are the Dumbbells You Lift?
 Title:	Dumbbell Nan Kilo Moteru?
-Tag:	Teacher
-Tag:	Fitness
-Tag:	Urban
-Tag:	Cosplay
-Tag:	Tanned Skin
-Tag:	Boxing
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Educational
-Tag:	Shounen
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Food
-Tag:	Parody
-Tag:	Meta
-Tag:	Athletics
 Tag:	School
+Tag:	Cosplay
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Athletics
+Tag:	Fitness
+Tag:	Shounen
+Tag:	Teacher
+Tag:	Tanned Skin
 Tag:	Nudity
-Tag:	Tomboy
+Tag:	Urban
 Tag:	Gyaru
+Tag:	Tomboy
+Tag:	Boxing
+Tag:	Educational
 Related:	29025
 Related:	61351
 Related:	39117

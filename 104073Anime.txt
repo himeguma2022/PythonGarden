@@ -1,8 +1,8 @@
 ID:	104073
-Title:	その時、カノジョは。
-Title:	Sono Toki, Kanojo wa.
 Title:	"Sono Toki, Kanojo wa."
+Title:	Sono Toki, Kanojo wa.
+Title:	その時、カノジョは。
+Tag:	Episodic
 Tag:	Heterosexual
 Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Anthology

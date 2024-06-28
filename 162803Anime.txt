@@ -1,22 +1,22 @@
 ID:	162803
 Title:	デッドマウント・デスプレイ 第2クール
 Title:	Dead Mount Death Play Part 2
-Tag:	Crime
-Tag:	Revenge
-Tag:	Isekai
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	Necromancy
-Tag:	Ensemble Cast
-Tag:	Vampire
-Tag:	Cyborg
-Tag:	Skeleton
 Tag:	Seinen
-Tag:	Magic
-Tag:	Police
+Tag:	Urban Fantasy
+Tag:	Crime
 Tag:	Gangs
+Tag:	Vampire
+Tag:	Revenge
+Tag:	Cyborg
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Necromancy
 Tag:	Dragons
+Tag:	Skeleton
+Tag:	Isekai
+Tag:	Police
+Tag:	Detective
 Related:	85033
 Related:	85035
 Related:	100868

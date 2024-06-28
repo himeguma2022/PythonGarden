@@ -1,25 +1,25 @@
 ID:	141785
+Title:	Malevolent Spirits: Mononogatari
 Title:	もののがたり
 Title:	Mononogatari
-Title:	Malevolent Spirits: Mononogatari
-Tag:	Super Power
-Tag:	Heterosexual
-Tag:	Battle Royale
-Tag:	Love Triangle
-Tag:	Swordplay
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Karuta
-Tag:	Urban Fantasy
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Youkai
-Tag:	Shapeshifting
+Tag:	Super Power
+Tag:	Swordplay
 Tag:	Seinen
-Tag:	Amnesia
+Tag:	Urban Fantasy
+Tag:	Martial Arts
 Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Amnesia
+Tag:	Shapeshifting
+Tag:	Battle Royale
+Tag:	Urban
+Tag:	Karuta
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Youkai
+Tag:	Love Triangle
 Related:	91222
 Related:	163205
 Related:	85470

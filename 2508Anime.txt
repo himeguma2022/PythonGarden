@@ -1,19 +1,19 @@
 ID:	2508
-Title:	Genshiken 2
 Title:	げんしけん2
+Title:	Genshiken 2
+Tag:	Seinen
+Tag:	Parody
+Tag:	Nudity
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Otaku Culture
+Tag:	School Club
 Tag:	Video Games
 Tag:	Cosplay
-Tag:	Otaku Culture
-Tag:	College
-Tag:	Parody
-Tag:	Ensemble Cast
-Tag:	Nudity
-Tag:	Crossdressing
-Tag:	Meta
-Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
-Tag:	School Club
 Related:	10729
 Related:	7882
 Related:	30348

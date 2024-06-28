@@ -1,45 +1,45 @@
 ID:	440
+Title:	Shoujo Kakumei Utena
 Title:	少女革命ウテナ
 Title:	Revolutionary Girl Utena
-Title:	Shoujo Kakumei Utena
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Crossdressing
+Tag:	Fairy Tale
+Tag:	Yuri
+Tag:	Rape
+Tag:	Astronomy
+Tag:	Politics
+Tag:	Ensemble Cast
 Tag:	Memory Manipulation
 Tag:	Conspiracy
-Tag:	Yuri
-Tag:	Witch
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Fairy Tale
-Tag:	Politics
-Tag:	Suicide
-Tag:	Meta
-Tag:	Swordplay
-Tag:	Boarding School
-Tag:	Athletics
+Tag:	Crossdressing
 Tag:	School
-Tag:	Astronomy
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Incest
-Tag:	Tomboy
 Tag:	Surreal Comedy
-Tag:	Fencing
-Tag:	Rape
-Tag:	Philosophy
 Tag:	Ojou-sama
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Incest
 Tag:	Bisexual
+Tag:	Meta
+Tag:	Witch
+Tag:	Episodic
+Tag:	Age Gap
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Athletics
+Tag:	Twins
+Tag:	Boarding School
+Tag:	Love Triangle
+Tag:	Boys' Love
+Tag:	Suicide
+Tag:	Fencing
+Tag:	Primarily Teen Cast
+Tag:	Magic
 Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	56103
 Related:	26270
 Related:	30772

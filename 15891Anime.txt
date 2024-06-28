@@ -1,6 +1,6 @@
 ID:	15891
-Title:	Zekkyou Gakkyuu
 Title:	絶叫学級
+Title:	Zekkyou Gakkyuu
 Tag:	Shoujo
 Tag:	Advertisement
 Related:	11248

@@ -1,14 +1,14 @@
 ID:	99734
-Title:	だがしかし 2
 Title:	Dagashi Kashi 2
-Tag:	Primarily Female Cast
-Tag:	Educational
-Tag:	Shounen
-Tag:	Love Triangle
+Title:	だがしかし 2
+Tag:	Work
 Tag:	Economics
 Tag:	Food
 Tag:	Heterosexual
-Tag:	Work
+Tag:	Love Triangle
+Tag:	Educational
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	85966
 Related:	20573

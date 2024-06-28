@@ -2,22 +2,22 @@ ID:	2966
 Title:	Ookami to Koushinryou
 Title:	Spice and Wolf
 Title:	狼と香辛料
-Tag:	Agriculture
-Tag:	Historical
-Tag:	Monster Girl
-Tag:	Kemonomimi
 Tag:	Male Protagonist
+Tag:	Work
 Tag:	Female Protagonist
 Tag:	Economics
-Tag:	Gods
-Tag:	Politics
-Tag:	Travel
 Tag:	Nudity
-Tag:	Heterosexual
-Tag:	Work
-Tag:	Rural
+Tag:	Kemonomimi
+Tag:	Agriculture
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	Travel
+Tag:	Politics
 Tag:	Foreign
+Tag:	Gods
+Tag:	Historical
+Tag:	Rural
+Tag:	Monster Girl
 Related:	145728
 Related:	4009
 Related:	4010

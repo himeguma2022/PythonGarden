@@ -1,31 +1,31 @@
 ID:	109190
-Title:	ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
-Title:	Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
 Title:	Violet Evergarden: Eternity and the Auto Memory Doll
-Tag:	Historical
-Tag:	Tragedy
-Tag:	College
-Tag:	Primarily Adult Cast
+Title:	Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
+Title:	ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~
 Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
+Tag:	Writing
+Tag:	Foreign
+Tag:	School
+Tag:	Orphan
+Tag:	Ojou-sama
+Tag:	Time Skip
 Tag:	Family Life
 Tag:	Nun
-Tag:	Foreign
-Tag:	Orphan
-Tag:	School
-Tag:	Nudity
+Tag:	Primarily Female Cast
 Tag:	War
-Tag:	LGBTQ+ Themes
-Tag:	Steampunk
-Tag:	Found Family
-Tag:	Feet
-Tag:	Time Skip
-Tag:	Ojou-sama
-Tag:	Disability
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Feet
+Tag:	Steampunk
+Tag:	Historical
+Tag:	Nudity
+Tag:	Disability
+Tag:	Found Family
 Tag:	Rehabilitation
-Tag:	Writing
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
 Related:	109121
 Related:	21827
 Related:	103047

@@ -1,16 +1,16 @@
 ID:	1121
-Title:	Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi
 Title:	ポケットモンスター・アドバンスジェネレーション 七夜の願い星 ジラーチ
+Title:	Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi
 Title:	Pokémon: Jirachi Wish Maker
-Tag:	Kids
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Kids
 Tag:	Environmental
-Tag:	Fairy
 Tag:	Astronomy
 Tag:	Animals
-Tag:	Dinosaurs
+Tag:	Fairy
 Tag:	Kaiju
+Tag:	Dinosaurs
 Related:	50018
 Related:	51596
 Related:	1937

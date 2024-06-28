@@ -1,27 +1,27 @@
 ID:	120120
 Title:	東京リベンジャーズ
 Title:	Tokyo Revengers
-Tag:	Tragedy
-Tag:	Urban
-Tag:	POV
-Tag:	Bullying
-Tag:	Crime
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Gangs
-Tag:	Delinquents
-Tag:	Age Regression
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Heterosexual
-Tag:	Revenge
-Tag:	Mopeds
-Tag:	Motorcycles
-Tag:	Detective
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Bullying
+Tag:	Detective
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Mopeds
+Tag:	Delinquents
+Tag:	Motorcycles
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Crime
+Tag:	Revenge
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Age Regression
+Tag:	POV
 Related:	66498
 Related:	55813
 Related:	142853

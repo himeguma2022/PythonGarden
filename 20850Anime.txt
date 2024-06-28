@@ -1,17 +1,17 @@
 ID:	20850
 Title:	Tokyo Ghoul √A
 Title:	東京喰種[トーキョーグール]√A
-Tag:	Super Power
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Detective
-Tag:	Body Horror
-Tag:	Military
-Tag:	Gore
+Tag:	Super Power
 Tag:	Seinen
-Tag:	Anti-Hero
+Tag:	Urban Fantasy
+Tag:	Gore
+Tag:	Military
 Tag:	Heterosexual
+Tag:	Detective
 Tag:	Police
+Tag:	Anti-Hero
+Tag:	Body Horror
 Related:	21263
 Related:	100240
 Related:	9617

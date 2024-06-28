@@ -1,13 +1,13 @@
 ID:	98031
 Title:	Spiritpact
-Title:	Ling Qi
 Title:	灵契
-Tag:	Boys' Love
-Tag:	Ghost
-Tag:	Swordplay
+Title:	Ling Qi
 Tag:	Male Protagonist
 Tag:	Urban Fantasy
+Tag:	Swordplay
+Tag:	Ghost
 Tag:	Magic
+Tag:	Boys' Love
 Related:	100813
 Related:	21771
 Related:	99069

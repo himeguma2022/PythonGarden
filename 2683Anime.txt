@@ -1,10 +1,10 @@
 ID:	2683
-Title:	東京魔人學園剣風帖　龖（トウ） 第弐幕
-Title:	Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku
 Title:	Tokyo Majin Season 2
+Title:	Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku
+Title:	東京魔人學園剣風帖　龖（トウ） 第弐幕
 Tag:	Zombie
-Tag:	Demons
 Tag:	School
+Tag:	Demons
 Related:	1860
 Related:	72646
 Related:	72649

@@ -1,21 +1,21 @@
 ID:	101215
-Title:	ちはやふる 3
 Title:	Chihayafuru 3
-Tag:	Tomboy
-Tag:	Josei
-Tag:	Primarily Teen Cast
-Tag:	Educational
+Title:	ちはやふる 3
 Tag:	CGI
-Tag:	Love Triangle
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Karuta
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Athletics
-Tag:	Meta
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Josei
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Karuta
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Love Triangle
+Tag:	Educational
+Tag:	Coming of Age
 Related:	22285
 Related:	22283
 Related:	43245

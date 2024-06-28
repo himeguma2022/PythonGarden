@@ -1,20 +1,20 @@
 ID:	5231
-Title:	Inazuma Eleven
 Title:	イナズマイレブン
-Tag:	Kids
-Tag:	Primarily Child Cast
+Title:	Inazuma Eleven
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Aliens
+Tag:	Kids
 Tag:	Drugs
-Tag:	Dissociative Identities
-Tag:	Male Protagonist
-Tag:	Football
-Tag:	School
+Tag:	Primarily Child Cast
 Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Gods
+Tag:	Aliens
 Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Football
+Tag:	Gods
 Related:	49315
 Related:	22725
 Related:	175525

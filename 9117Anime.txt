@@ -1,8 +1,8 @@
 ID:	9117
-Title:	Amagami SS OVA
 Title:	アマガミSS
-Tag:	Kuudere
+Title:	Amagami SS OVA
 Tag:	Heterosexual
 Tag:	School
+Tag:	Kuudere
 Related:	6595
 Related:	8676

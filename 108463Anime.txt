@@ -1,31 +1,31 @@
 ID:	108463
-Title:	Toilet-bound Hanako-kun
-Title:	Jibaku Shounen Hanako-kun
 Title:	地縛少年 花子くん
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Conspiracy
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	Jibaku Shounen Hanako-kun
+Title:	Toilet-bound Hanako-kun
 Tag:	Ensemble Cast
-Tag:	Afterlife
-Tag:	Youkai
+Tag:	Conspiracy
 Tag:	Mythology
-Tag:	Mermaid
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	School Club
-Tag:	Achronological Order
+Tag:	Youkai
+Tag:	Afterlife
+Tag:	Male Protagonist
 Tag:	Femboy
+Tag:	Heterosexual
+Tag:	School Club
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Female Protagonist
+Tag:	Twins
+Tag:	Love Triangle
+Tag:	Boys' Love
+Tag:	Mermaid
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Ghost
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
+Tag:	Achronological Order
 Related:	159074
 Related:	91487
 Related:	170892

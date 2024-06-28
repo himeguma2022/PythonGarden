@@ -1,37 +1,37 @@
 ID:	740
+Title:	Sailor Moon R
 Title:	美少女戦士セーラームーン R
 Title:	Bishoujo Senshi Sailor Moon R
-Title:	Sailor Moon R
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
+Tag:	Demons
 Tag:	Space
-Tag:	Tokusatsu
-Tag:	Shrine Maiden
-Tag:	Unrequited Love
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Rehabilitation
-Tag:	Time Manipulation
 Tag:	Reincarnation
-Tag:	Mermaid
-Tag:	Shoujo
 Tag:	School
-Tag:	Urban Fantasy
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Shrine Maiden
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Shoujo
+Tag:	Episodic
+Tag:	Primarily Female Cast
 Tag:	War
 Tag:	Age Gap
-Tag:	Henshin
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Found Family
+Tag:	Female Protagonist
+Tag:	Mermaid
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Revenge
-Tag:	Superhero
-Tag:	Demons
+Tag:	Magic
+Tag:	Found Family
+Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Tokusatsu
+Tag:	Body Horror
 Related:	1376
 Related:	1377
 Related:	1378

@@ -1,29 +1,29 @@
 ID:	155202
 Title:	REVENGER
 Title:	Revenger
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Archery
-Tag:	Anachronism
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Religion
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Gender Bending
-Tag:	Suicide
-Tag:	Guns
 Tag:	Drugs
-Tag:	Swordplay
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Crossdressing
 Tag:	Primarily Male Cast
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Episodic
+Tag:	Anachronism
+Tag:	Guns
+Tag:	Swordplay
 Tag:	Assassins
-Tag:	LGBTQ+ Themes
-Tag:	Revenge
 Tag:	Anti-Hero
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Historical
+Tag:	Suicide
+Tag:	Crime
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	LGBTQ+ Themes
 Related:	96130
 Related:	175846

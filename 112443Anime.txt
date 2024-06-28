@@ -1,21 +1,21 @@
 ID:	112443
+Title:	弱キャラ友崎くん
 Title:	Jaku-Chara Tomozaki-kun
 Title:	Bottom-Tier Character Tomozaki
-Title:	弱キャラ友崎くん
-Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Love Triangle
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Philosophy
-Tag:	Video Games
-Tag:	E-Sports
+Tag:	Primarily Teen Cast
 Tag:	Heterosexual
-Tag:	Rehabilitation
+Tag:	E-Sports
 Tag:	Hikikomori
+Tag:	Ensemble Cast
+Tag:	Rehabilitation
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Video Games
+Tag:	Educational
+Tag:	Philosophy
+Tag:	Slapstick
 Related:	50659
 Related:	127363
 Related:	100807

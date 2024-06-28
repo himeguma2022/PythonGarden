@@ -1,15 +1,15 @@
 ID:	135171
 Title:	BanG Dream! Girls Band Party!☆PICO FEVER!
-Title:	BanG Dream! ガルパ☆ピコ ふぃーばー！
 Title:	BanG Dream! Garupa☆Pico Fever!
-Tag:	Historical
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Band
-Tag:	Episodic
+Title:	BanG Dream! ガルパ☆ピコ ふぃーばー！
 Tag:	Chuunibyou
-Tag:	Body Swapping
 Tag:	Chibi
+Tag:	Episodic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Body Swapping
+Tag:	Historical
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	113906
 Related:	58391

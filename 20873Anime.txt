@@ -2,8 +2,8 @@ ID:	20873
 Title:	ドアマイガーD
 Title:	Doamaiger D
 Title:	Doamayger-D
+Tag:	Male Protagonist
+Tag:	Parody
+Tag:	Food
 Tag:	Super Robot
 Tag:	Educational
-Tag:	Male Protagonist
-Tag:	Food
-Tag:	Parody

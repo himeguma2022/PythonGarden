@@ -1,10 +1,10 @@
 ID:	5914
-Title:	Kanamemo
 Title:	かなめも
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	Kanamemo
 Tag:	Seinen
 Tag:	Work
+Tag:	Yuri
+Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Female Cast
 Related:	5466
 Related:	42242

@@ -1,34 +1,34 @@
 ID:	21804
+Title:	Saiki Kusuo no Ψ-nan
 Title:	斉木楠雄のΨ難
 Title:	The Disastrous Life of Saiki K.
-Title:	Saiki Kusuo no Ψ-nan
-Tag:	Super Power
-Tag:	Satire
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Memory Manipulation
-Tag:	Asexual
-Tag:	Ghost
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
 Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Video Games
-Tag:	Gangs
-Tag:	Meta
+Tag:	Memory Manipulation
+Tag:	Surreal Comedy
 Tag:	Mythology
 Tag:	School
+Tag:	Video Games
+Tag:	Satire
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Chuunibyou
-Tag:	LGBTQ+ Themes
-Tag:	Aromantic
-Tag:	Heterosexual
-Tag:	School Club
 Tag:	Incest
-Tag:	Surreal Comedy
+Tag:	Gangs
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	School Club
+Tag:	Aromantic
+Tag:	Episodic
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Ghost
+Tag:	Tsundere
+Tag:	Asexual
 Tag:	Gyaru
+Tag:	LGBTQ+ Themes
 Related:	81920
 Related:	11267
 Related:	67755

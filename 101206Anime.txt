@@ -1,16 +1,16 @@
 ID:	101206
-Title:	Yuru Camp△ OVA
 Title:	ゆるキャン△ OVA
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Survival
-Tag:	Food
+Title:	Yuru Camp△ OVA
 Tag:	Seinen
-Tag:	Outdoor
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Food
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	Survival
+Tag:	Primarily Female Cast
+Tag:	Outdoor
 Related:	42853
 Related:	98444
 Related:	104461

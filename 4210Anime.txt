@@ -1,6 +1,6 @@
 ID:	4210
-Title:	ゴキブリたちの黄昏
-Title:	Twilight of the Cockroaches
 Title:	Gokiburi-tachi no Tasogare
+Title:	Twilight of the Cockroaches
+Title:	ゴキブリたちの黄昏
 Tag:	War
 Tag:	Kaiju

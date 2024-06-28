@@ -1,15 +1,15 @@
 ID:	229
-Title:	Ninja Nonsense
-Title:	Ninin ga Shinobuden
 Title:	ニニンがシノブ伝
-Tag:	Surreal Comedy
-Tag:	Kemonomimi
-Tag:	Shounen
+Title:	Ninin ga Shinobuden
+Title:	Ninja Nonsense
 Tag:	Female Protagonist
+Tag:	Parody
+Tag:	Kemonomimi
 Tag:	Martial Arts
 Tag:	Baseball
 Tag:	Ninja
-Tag:	Parody
 Tag:	Meta
+Tag:	Surreal Comedy
+Tag:	Shounen
 Related:	30066
 Related:	542

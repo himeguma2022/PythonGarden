@@ -1,28 +1,28 @@
 ID:	129196
-Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
-Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
 Title:	ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇
-Tag:	Kuudere
-Tag:	Tanned Skin
-Tag:	Gods
-Tag:	Elf
-Tag:	Cannibalism
-Tag:	Gore
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou Meikyuu-hen
+Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon? IV
 Tag:	Travel
-Tag:	Monster Girl
+Tag:	Ensemble Cast
 Tag:	Mythology
-Tag:	Mermaid
-Tag:	Kemonomimi
+Tag:	Cannibalism
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Primarily Female Cast
+Tag:	CGI
 Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
 Tag:	Female Harem
+Tag:	Mermaid
+Tag:	Elf
+Tag:	Tanned Skin
 Tag:	Nudity
 Tag:	Magic
 Tag:	Dungeon
-Tag:	CGI
+Tag:	Gods
 Related:	85162
 Related:	52395
 Related:	155211

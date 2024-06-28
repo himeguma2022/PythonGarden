@@ -1,21 +1,21 @@
 ID:	156184
-Title:	My Daughter Left the Nest and Returned an S-Rank Adventurer
 Title:	Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta
 Title:	冒険者になりたいと都に出て行った娘がＳランクになってた
-Tag:	Kemonomimi
-Tag:	Dungeon
+Title:	My Daughter Left the Nest and Returned an S-Rank Adventurer
+Tag:	Religion
 Tag:	Swordplay
 Tag:	Female Protagonist
 Tag:	Elf
+Tag:	Kemonomimi
+Tag:	Disability
+Tag:	Adoption
+Tag:	Magic
+Tag:	Found Family
+Tag:	Foreign
 Tag:	Zombie
 Tag:	Cult
-Tag:	Found Family
-Tag:	Religion
-Tag:	Magic
-Tag:	Disability
+Tag:	Dungeon
 Tag:	Rural
-Tag:	Adoption
-Tag:	Foreign
 Related:	80233
 Related:	102475
 Related:	102476

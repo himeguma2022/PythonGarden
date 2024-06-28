@@ -1,10 +1,10 @@
 ID:	142826
 Title:	Yami Shibai 10
-Title:	Theatre of Darkness: Yamishibai 10
 Title:	闇芝居 十期
-Tag:	Urban Fantasy
-Tag:	Episodic
+Title:	Theatre of Darkness: Yamishibai 10
 Tag:	Ghost
+Tag:	Episodic
+Tag:	Urban Fantasy
 Tag:	Anthology
 Related:	88128
 Related:	135108

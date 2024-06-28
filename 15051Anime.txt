@@ -1,23 +1,23 @@
 ID:	15051
-Title:	Love Live! School Idol Project
 Title:	ラブライブ! School idol project
+Title:	Love Live! School Idol Project
 Title:	Love Live! School idol project
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Fashion
 Tag:	CGI
-Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Shrine Maiden
-Tag:	Espionage
 Tag:	Tsundere
 Tag:	Dancing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Fashion
 Tag:	Maids
+Tag:	Ensemble Cast
+Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Espionage
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Shrine Maiden
 Related:	19592
 Related:	45705
 Related:	8074

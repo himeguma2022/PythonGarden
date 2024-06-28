@@ -1,9 +1,9 @@
 ID:	124896
 Title:	Bear Bear Bear Kuma!
 Title:	べあべあべあくまー！
-Tag:	Isekai
 Tag:	Chibi
 Tag:	Cute Girls Doing Cute Things
+Tag:	Isekai
 Related:	114340
 Related:	48076
 Related:	51085

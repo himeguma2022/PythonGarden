@@ -1,21 +1,21 @@
 ID:	15689
 Title:	Nekomonogatari (Kuro)
-Title:	猫物語（黒）
 Title:	Nekomonogatari Black
-Tag:	Primarily Teen Cast
-Tag:	Kemonomimi
-Tag:	Dissociative Identities
+Title:	猫物語（黒）
 Tag:	Male Protagonist
 Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
 Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Gore
 Tag:	Vampire
+Tag:	Achronological Order
+Tag:	Heterosexual
+Tag:	Psychosexual
+Tag:	Dissociative Identities
 Tag:	Youkai
 Tag:	Nekomimi
 Tag:	Philosophy
-Tag:	Achronological Order
-Tag:	Gore
-Tag:	Heterosexual
-Tag:	Psychosexual
 Related:	8162
 Related:	10594
 Related:	67342

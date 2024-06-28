@@ -1,17 +1,17 @@
 ID:	156841
-Title:	Detective Conan: Black Iron Submarine
-Title:	Meitantei Conan: Kurogane no Submarine
 Title:	名探偵コナン 黒鉄の魚影
-Tag:	Love Triangle
-Tag:	Shounen
+Title:	Meitantei Conan: Kurogane no Submarine
+Title:	Detective Conan: Black Iron Submarine
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Artificial Intelligence
-Tag:	Detective
 Tag:	Tanned Skin
-Tag:	Crossdressing
+Tag:	Shounen
 Tag:	Ships
+Tag:	Artificial Intelligence
+Tag:	Crossdressing
+Tag:	Love Triangle
 Tag:	Police
+Tag:	Detective
+Tag:	Age Regression
 Related:	82310
 Related:	235
 Related:	158997

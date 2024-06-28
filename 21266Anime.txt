@@ -1,11 +1,11 @@
 ID:	21266
-Title:	Pokémon The Movie XY: Ring no Chou Majin Hoopa
 Title:	ポケモン・ザ・ムービーXY 光輪の超魔神 フーパ
+Title:	Pokémon The Movie XY: Ring no Chou Majin Hoopa
 Title:	Pokémon the Movie: Hoopa and the Clash of Ages
-Tag:	Henshin
-Tag:	Kids
 Tag:	Gods
+Tag:	Kids
 Tag:	Animals
+Tag:	Henshin
 Related:	10368
 Related:	49957
 Related:	49959

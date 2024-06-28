@@ -1,6 +1,6 @@
 ID:	6330
-Title:	フリアグネ&マリアンヌのなぜなにシャナ
 Title:	Shakugan no Shana: Naze Nani Shana
+Title:	フリアグネ&マリアンヌのなぜなにシャナ
 Tag:	Kuudere
 Related:	355
 Related:	5635

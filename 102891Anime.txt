@@ -1,17 +1,17 @@
 ID:	102891
-Title:	The Deer King
-Title:	Shika no Ou: Yuna to Yakusoku no Tabi
 Title:	鹿の王 ユナと約束の旅
-Tag:	Tragedy
-Tag:	Slavery
-Tag:	Medicine
-Tag:	Adoption
+Title:	Shika no Ou: Yuna to Yakusoku no Tabi
+Title:	The Deer King
 Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Adoption
+Tag:	Slavery
 Tag:	War
 Tag:	Politics
-Tag:	Fugitive
 Tag:	Pandemic
 Tag:	Conspiracy
-Tag:	Agriculture
+Tag:	Tragedy
+Tag:	Medicine
+Tag:	Fugitive
 Related:	143360
 Related:	67046

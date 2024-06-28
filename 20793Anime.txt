@@ -1,14 +1,14 @@
 ID:	20793
-Title:	Military!
 Title:	みりたり！
-Tag:	Guns
-Tag:	Primarily Female Cast
+Title:	Military!
+Tag:	Seinen
 Tag:	Parody
 Tag:	Nudity
-Tag:	Military
-Tag:	Seinen
-Tag:	Chibi
 Tag:	Snowscape
+Tag:	Chibi
+Tag:	Military
+Tag:	Primarily Female Cast
+Tag:	Guns
 Related:	106456
 Related:	28073
 Related:	46562

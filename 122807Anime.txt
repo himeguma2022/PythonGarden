@@ -2,16 +2,16 @@ ID:	122807
 Title:	Taisou Zamurai
 Title:	The Gymnastics Samurai
 Title:	体操ザムライ
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	CGI
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Family Life
-Tag:	Athletics
-Tag:	Ninja
-Tag:	Gyaru
-Tag:	Dancing
 Tag:	Acrobatics
+Tag:	Athletics
+Tag:	Dancing
+Tag:	Ninja
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Gyaru
+Tag:	Bullying
 Related:	130283
 Related:	53703

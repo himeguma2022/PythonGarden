@@ -1,13 +1,13 @@
 ID:	104324
-Title:	ガイコツ書店員本田さん OVA
-Title:	Gaikotsu Shotenin Honda-san OVA
 Title:	Skeleton Bookstore Employee Honda OVA
+Title:	Gaikotsu Shotenin Honda-san OVA
+Title:	ガイコツ書店員本田さん OVA
+Tag:	Work
+Tag:	Otaku Culture
+Tag:	Urban
+Tag:	Skeleton
 Tag:	Surreal Comedy
 Tag:	Shoujo
 Tag:	Slapstick
-Tag:	Urban
-Tag:	Skeleton
-Tag:	Otaku Culture
-Tag:	Work
 Related:	25216
 Related:	100093

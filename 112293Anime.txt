@@ -1,23 +1,23 @@
 ID:	112293
+Title:	Seton Academy: Join the Pack!
 Title:	Murenase! Seton Gakuen
 Title:	群れなせ！シートン学園
-Title:	Seton Academy: Join the Pack!
-Tag:	Tomboy
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Kemonomimi
-Tag:	Educational
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Scat
-Tag:	Female Harem
-Tag:	School
-Tag:	Food
 Tag:	Anthropomorphism
-Tag:	Nekomimi
+Tag:	Kemonomimi
+Tag:	Food
 Tag:	Tsundere
 Tag:	Animals
+Tag:	Nekomimi
 Tag:	School Club
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Female Harem
+Tag:	Tomboy
+Tag:	Educational
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Scat
 Related:	119812
 Related:	43333
 Related:	35399

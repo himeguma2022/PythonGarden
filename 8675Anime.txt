@@ -1,18 +1,18 @@
 ID:	8675
 Title:	Seitokai Yakuindomo
 Title:	生徒会役員共
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Female Harem
-Tag:	Ensemble Cast
-Tag:	Kuudere
+Tag:	Primarily Teen Cast
 Tag:	Parody
-Tag:	School
+Tag:	Kuudere
 Tag:	Heterosexual
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	6456
 Related:	6455
 Related:	44110

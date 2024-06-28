@@ -1,9 +1,9 @@
 ID:	109603
-Title:	Theatre of Darkness: Yamishibai 7
 Title:	闇芝居 7
 Title:	Yami Shibai 7
-Tag:	Episodic
+Title:	Theatre of Darkness: Yamishibai 7
 Tag:	Ghost
+Tag:	Episodic
 Related:	50008
 Related:	101743
 Related:	126678

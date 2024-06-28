@@ -1,24 +1,24 @@
 ID:	2418
 Title:	Stranger: Mukou Hadan
-Title:	Sword of the Stranger
 Title:	ストレンヂア -無皇刃譚-
-Tag:	Language Barrier
-Tag:	Guns
-Tag:	Historical
-Tag:	Archery
-Tag:	Drugs
-Tag:	Swordplay
+Title:	Sword of the Stranger
 Tag:	Male Protagonist
-Tag:	Snowscape
+Tag:	Swordplay
+Tag:	Drugs
 Tag:	Martial Arts
-Tag:	Primarily Male Cast
-Tag:	Fugitive
-Tag:	Travel
 Tag:	Gore
-Tag:	Animals
-Tag:	Samurai
-Tag:	Rural
 Tag:	Primarily Adult Cast
+Tag:	Travel
+Tag:	Snowscape
+Tag:	Language Barrier
+Tag:	Animals
+Tag:	Fugitive
+Tag:	Archery
+Tag:	Primarily Male Cast
+Tag:	Samurai
+Tag:	Historical
+Tag:	Rural
+Tag:	Guns
 Related:	14617
 Related:	47179
 Related:	61523

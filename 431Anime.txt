@@ -2,25 +2,25 @@ ID:	431
 Title:	Howl‘s Moving Castle
 Title:	Howl no Ugoku Shiro
 Title:	ハウルの動く城
-Tag:	Witch
-Tag:	Female Protagonist
 Tag:	Fairy Tale
-Tag:	Politics
-Tag:	Travel
-Tag:	Time Manipulation
-Tag:	Elderly Protagonist
-Tag:	War
-Tag:	Steampunk
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Aviation
-Tag:	Coming of Age
-Tag:	Rural
-Tag:	CGI
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Disability
-Tag:	Maids
 Tag:	Demons
+Tag:	Travel
+Tag:	Elderly Protagonist
+Tag:	Politics
+Tag:	Maids
+Tag:	Coming of Age
+Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Witch
+Tag:	War
+Tag:	Aviation
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Steampunk
+Tag:	Disability
+Tag:	Magic
+Tag:	Philosophy
+Tag:	Rural
 Related:	95291
 Related:	174780

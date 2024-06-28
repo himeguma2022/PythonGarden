@@ -1,17 +1,17 @@
 ID:	7674
-Title:	Bakuman.
 Title:	バクマン。
-Tag:	Drawing
-Tag:	Primarily Teen Cast
-Tag:	Shounen
+Title:	Bakuman.
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Meta
-Tag:	Heterosexual
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Primarily Teen Cast
 Tag:	Writing
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	School
+Tag:	Shounen
+Tag:	Coming of Age
 Related:	15711
 Related:	10030
 Related:	6129

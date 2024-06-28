@@ -1,21 +1,21 @@
 ID:	10357
+Title:	人類は衰退しました
 Title:	Jinrui wa Suitai Shimashita
 Title:	Humanity Has Declined
-Title:	人類は衰退しました
-Tag:	Surreal Comedy
-Tag:	Time Manipulation
-Tag:	Cute Girls Doing Cute Things
-Tag:	Post-Apocalyptic
-Tag:	Lost Civilization
 Tag:	Satire
+Tag:	Lost Civilization
 Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Food
 Tag:	Achronological Order
-Tag:	Fairy
-Tag:	Yandere
-Tag:	Robots
 Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Robots
+Tag:	Time Manipulation
+Tag:	Surreal Comedy
+Tag:	Fairy
+Tag:	Post-Apocalyptic
+Tag:	Episodic
+Tag:	Yandere
 Related:	7105
 Related:	7106
 Related:	54562

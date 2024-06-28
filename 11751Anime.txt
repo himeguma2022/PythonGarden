@@ -2,29 +2,29 @@ ID:	11751
 Title:	戦姫絶唱シンフォギア
 Title:	Symphogear
 Title:	Senki Zesshou Symphogear
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	Spearplay
-Tag:	Urban
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Yuri
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Guns
-Tag:	Mythology
-Tag:	Orphan
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	School
-Tag:	Nudity
-Tag:	Henshin
-Tag:	Motorcycles
-Tag:	Superhero
+Tag:	Yuri
 Tag:	Military
+Tag:	Conspiracy
+Tag:	Mythology
+Tag:	School
+Tag:	Orphan
+Tag:	Henshin
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Motorcycles
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Tsundere
 Tag:	Dancing
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Idol
 Related:	15793
 Related:	28443

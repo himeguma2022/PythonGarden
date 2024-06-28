@@ -1,22 +1,22 @@
 ID:	3572
-Title:	Macross Frontier
 Title:	マクロスF
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	CGI
+Title:	Macross Frontier
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Space
-Tag:	War
-Tag:	Amnesia
+Tag:	CGI
 Tag:	Real Robot
-Tag:	Body Horror
+Tag:	Cosmic Horror
+Tag:	Space Opera
+Tag:	Female Protagonist
+Tag:	Amnesia
+Tag:	Space
+Tag:	Heterosexual
 Tag:	Military
 Tag:	Cyborg
-Tag:	Space Opera
+Tag:	Aliens
+Tag:	Love Triangle
 Tag:	Anti-Hero
-Tag:	Cosmic Horror
-Tag:	Heterosexual
+Tag:	Body Horror
+Tag:	War
 Tag:	Idol
 Related:	19598
 Related:	19599

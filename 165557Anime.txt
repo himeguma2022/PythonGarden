@@ -1,16 +1,16 @@
 ID:	165557
-Title:	第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」
 Title:	Kaguya-sama wa Kokurasetai: Ultra Romantic 3rd Season Teaser PV - Ishigami Yuu wa Kataritai
 Title:	Kaguya-sama: Love is War -Ultra Romantic- "Yu Ishigami Wants to Chat"
-Tag:	Slapstick
+Title:	第３期『かぐや様は告らせたい-ウルトラロマンティック-』 ／ ティザーPV 「石上優は語りたい」
 Tag:	Satire
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Meta
 Tag:	Seinen
+Tag:	Meta
+Tag:	Ensemble Cast
 Tag:	Otaku Culture
-Tag:	Advertisement
 Tag:	School Club
+Tag:	School
+Tag:	Slapstick
+Tag:	Advertisement
 Related:	86635
 Related:	87108
 Related:	87110

@@ -1,11 +1,11 @@
 ID:	5772
+Title:	あかね色に染まる坂 OVA
 Title:	The Hill Dyed Rose Madder OVA
 Title:	Akane-iro ni Somaru Saka OVA
-Title:	あかね色に染まる坂 OVA
-Tag:	Super Robot
-Tag:	Coastal
-Tag:	Female Harem
 Tag:	Kuudere
 Tag:	Heterosexual
+Tag:	Super Robot
+Tag:	Female Harem
+Tag:	Coastal
 Related:	4744
 Related:	5425

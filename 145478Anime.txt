@@ -1,19 +1,19 @@
 ID:	145478
 Title:	hololiveERROR
-Tag:	Tragedy
-Tag:	Primarily Female Cast
 Tag:	VTuber
-Tag:	Kemonomimi
-Tag:	Dissociative Identities
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Afterlife
-Tag:	Denpa
-Tag:	POV
-Tag:	Trains
-Tag:	Memory Manipulation
-Tag:	Time Manipulation
+Tag:	Kemonomimi
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Time Manipulation
+Tag:	Trains
+Tag:	Tragedy
+Tag:	POV
+Tag:	Dissociative Identities
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Denpa
+Tag:	Primarily Female Cast
+Tag:	Afterlife
 Related:	118123
 Related:	69430

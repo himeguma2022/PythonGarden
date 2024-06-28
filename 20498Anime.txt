@@ -1,10 +1,10 @@
 ID:	20498
 Title:	ぷちます！！プチプチ・アイドルマスター
 Title:	Puchimas!!: Petit Petit iDOLM@STER
-Tag:	Surreal Comedy
-Tag:	Cute Girls Doing Cute Things
-Tag:	Episodic
 Tag:	Chibi
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	Episodic
 Tag:	Idol
 Related:	15649
 Related:	10278

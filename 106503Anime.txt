@@ -1,18 +1,18 @@
 ID:	106503
 Title:	EX-ARM エクスアーム
 Title:	EX-ARM
-Tag:	Guns
-Tag:	Full CGI
+Tag:	Seinen
 Tag:	Crime
-Tag:	Revenge
-Tag:	Artificial Intelligence
 Tag:	Kuudere
-Tag:	Cyberpunk
+Tag:	Amnesia
+Tag:	Revenge
 Tag:	Cyborg
 Tag:	Robots
+Tag:	Full CGI
+Tag:	Artificial Intelligence
 Tag:	Body Swapping
-Tag:	Amnesia
 Tag:	Police
-Tag:	Seinen
+Tag:	Cyberpunk
+Tag:	Guns
 Related:	28170
 Related:	104476

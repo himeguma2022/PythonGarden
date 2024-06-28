@@ -1,22 +1,22 @@
 ID:	114099
-Title:	Dragon Quest: Dai no Daibouken (2020)
 Title:	ドラゴンクエスト ダイの大冒険
+Title:	Dragon Quest: Dai no Daibouken (2020)
 Title:	Dragon Quest: The Adventure of Dai
-Tag:	Love Triangle
-Tag:	CGI
-Tag:	Dungeon
-Tag:	Shounen
-Tag:	Swordplay
-Tag:	Martial Arts
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Spearplay
-Tag:	Tsundere
-Tag:	Animals
-Tag:	Gore
-Tag:	Magic
-Tag:	Amnesia
+Tag:	Swordplay
 Tag:	Demons
+Tag:	Martial Arts
+Tag:	Gore
+Tag:	Amnesia
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Animals
+Tag:	Dungeon
+Tag:	Love Triangle
 Tag:	Dragons
+Tag:	Shounen
 Related:	7435
 Related:	37483
 Related:	37485

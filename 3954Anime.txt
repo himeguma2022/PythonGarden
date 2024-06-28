@@ -1,6 +1,6 @@
 ID:	3954
-Title:	クラトス先生の プライべートレスン
 Title:	Tales of Symphonia The Animation: Kratos-sensei no Private Lesson
+Title:	クラトス先生の プライべートレスン
 Tag:	Magic
 Related:	4611
 Related:	8908

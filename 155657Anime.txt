@@ -1,25 +1,25 @@
 ID:	155657
+Title:	Shuumatsu Train Doko e Iku?
 Title:	終末トレインどこへいく？
 Title:	Train to the End of the World
-Title:	Shuumatsu Train Doko e Iku?
-Tag:	Tragedy
+Tag:	Travel
+Tag:	Trains
+Tag:	Zombie
+Tag:	Memory Manipulation
+Tag:	Surreal Comedy
 Tag:	Post-Apocalyptic
 Tag:	Shogi
-Tag:	Anthropomorphism
-Tag:	Trains
-Tag:	Memory Manipulation
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Travel
-Tag:	Cosmic Horror
-Tag:	Zombie
-Tag:	Animals
-Tag:	Rural
-Tag:	Surreal Comedy
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Gyaru
 Tag:	Time Skip
+Tag:	Cute Girls Doing Cute Things
+Tag:	Shapeshifting
+Tag:	Primarily Female Cast
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Animals
+Tag:	Tragedy
+Tag:	Gyaru
+Tag:	Philosophy
+Tag:	Rural
 Related:	97569
 Related:	177405

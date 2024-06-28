@@ -1,13 +1,13 @@
 ID:	21221
-Title:	テイルズ オブ ゼスティリア ザ クロス
 Title:	Tales of Zestiria the Cross
 Title:	Tales of Zestiria the X
-Tag:	Archery
-Tag:	CGI
-Tag:	Swordplay
+Title:	テイルズ オブ ゼスティリア ザ クロス
 Tag:	Male Protagonist
+Tag:	CGI
 Tag:	Fairy Tale
+Tag:	Swordplay
 Tag:	Magic
+Tag:	Archery
 Tag:	Dragons
 Related:	17632
 Related:	109189

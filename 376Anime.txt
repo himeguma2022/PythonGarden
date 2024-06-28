@@ -1,20 +1,20 @@
 ID:	376
-Title:	エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）
-Title:	"Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?"
 Title:	Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?
+Title:	"Elfen Lied: Tooriame nite - Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka?"
 Title:	Elfen Lied: Just How Did the Young Girl Arrive at Those Feelings?
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Primarily Female Cast
+Title:	エルフェンリート 通り雨にて 或いは、少女はいかにしてその心情に至ったか?（REGENSCHAUER）
 Tag:	Super Power
-Tag:	Kemonomimi
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Urban Fantasy
-Tag:	Nudity
 Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Kemonomimi
+Tag:	Family Life
 Tag:	Amnesia
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Bullying
+Tag:	Primarily Female Cast
 Tag:	Monster Girl
 Related:	856
 Related:	226

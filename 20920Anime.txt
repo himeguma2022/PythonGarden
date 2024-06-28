@@ -1,27 +1,27 @@
 ID:	20920
-Title:	ダンジョンに出会いを求めるのは間違っているだろうか
 Title:	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
 Title:	Is It Wrong to Try to Pick Up Girls in a Dungeon?
-Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Elf
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Villainess
+Title:	ダンジョンに出会いを求めるのは間違っているだろうか
 Tag:	Travel
 Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	Tomboy
+Tag:	Male Protagonist
 Tag:	Cultivation
-Tag:	Dungeon
+Tag:	Villainess
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Primarily Teen Cast
+Tag:	Elf
+Tag:	Nudity
 Tag:	Goblin
+Tag:	Magic
+Tag:	Dungeon
+Tag:	Tomboy
+Tag:	Gods
 Related:	38465
 Related:	38466
 Related:	85161

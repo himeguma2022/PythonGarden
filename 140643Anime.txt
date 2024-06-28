@@ -1,17 +1,17 @@
 ID:	140643
-Title:	Tokyo 24th Ward
-Title:	東京24区
 Title:	Tokyo 24-ku
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Super Power
-Tag:	Dystopian
-Tag:	Drugs
-Tag:	Urban
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Politics
-Tag:	Chuunibyou
-Tag:	Philosophy
+Title:	東京24区
+Title:	Tokyo 24th Ward
 Tag:	Time Skip
+Tag:	Super Power
+Tag:	Drugs
+Tag:	Dystopian
+Tag:	Crime
+Tag:	Chuunibyou
 Tag:	Primarily Adult Cast
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Primarily Male Cast
+Tag:	Tragedy
+Tag:	Philosophy

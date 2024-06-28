@@ -1,49 +1,49 @@
 ID:	918
 Title:	銀魂
 Title:	Gintama
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Aliens
+Tag:	Space
+Tag:	Robots
+Tag:	Ensemble Cast
 Tag:	Yakuza
-Tag:	Slapstick
-Tag:	Dissociative Identities
+Tag:	Crossdressing
+Tag:	Surreal Comedy
 Tag:	Satire
 Tag:	Oiran
-Tag:	Space
-Tag:	Kuudere
-Tag:	Anachronism
-Tag:	Crossdressing
-Tag:	Homeless
-Tag:	Boxing
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Ghost
-Tag:	Educational
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Sadism
-Tag:	Masochism
 Tag:	Meta
-Tag:	Swordplay
-Tag:	Terrorism
-Tag:	Ninja
-Tag:	Mafia
-Tag:	Nekomimi
-Tag:	LGBTQ+ Themes
-Tag:	Robots
-Tag:	Police
-Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Mopeds
-Tag:	Fishing
-Tag:	CGI
 Tag:	Pirates
-Tag:	Philosophy
+Tag:	Mopeds
+Tag:	Aliens
+Tag:	Nekomimi
+Tag:	Anachronism
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Homeless
+Tag:	Historical
+Tag:	Police
+Tag:	Shounen
+Tag:	Mafia
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Masochism
+Tag:	Ghost
+Tag:	Ninja
+Tag:	Found Family
 Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	Samurai
+Tag:	Fishing
+Tag:	Boxing
+Tag:	Educational
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
+Tag:	Sadism
 Related:	2951
 Related:	10643
 Related:	20760

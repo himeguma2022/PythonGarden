@@ -1,24 +1,24 @@
 ID:	97668
-Title:	One Punch Man 2
-Title:	ワンパンマン 2
 Title:	One-Punch Man Season 2
-Tag:	Super Power
-Tag:	Surreal Comedy
-Tag:	Video Games
-Tag:	Urban
-Tag:	Male Protagonist
+Title:	ワンパンマン 2
+Title:	One Punch Man 2
 Tag:	Satire
-Tag:	Martial Arts
-Tag:	Superhero
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Parody
-Tag:	Ensemble Cast
-Tag:	Cyborg
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Seinen
-Tag:	Anti-Hero
+Tag:	Urban Fantasy
+Tag:	Superhero
+Tag:	Parody
+Tag:	Martial Arts
 Tag:	Primarily Adult Cast
+Tag:	Cyborg
+Tag:	Ensemble Cast
+Tag:	Urban
+Tag:	Surreal Comedy
+Tag:	Primarily Male Cast
 Tag:	Kaiju
+Tag:	Video Games
+Tag:	Anti-Hero
 Related:	153800
 Related:	31881
 Related:	74347

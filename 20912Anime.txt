@@ -1,19 +1,19 @@
 ID:	20912
-Title:	響け！ユーフォニアム
-Title:	Hibike! Euphonium
 Title:	Sound! Euphonium
-Tag:	Yuri
-Tag:	Primarily Female Cast
+Title:	Hibike! Euphonium
+Title:	響け！ユーフォニアム
 Tag:	Primarily Teen Cast
-Tag:	Love Triangle
-Tag:	Band
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
+Tag:	Yuri
 Tag:	Unrequited Love
 Tag:	Classical Music
-Tag:	Coming of Age
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Band
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	21376
 Related:	10337
 Related:	21638

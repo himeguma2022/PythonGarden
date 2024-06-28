@@ -1,31 +1,31 @@
 ID:	849
-Title:	涼宮ハルヒの憂鬱
 Title:	The Melancholy of Haruhi Suzumiya
+Title:	涼宮ハルヒの憂鬱
 Title:	Suzumiya Haruhi no Yuuutsu
-Tag:	Aliens
-Tag:	Baseball
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Tsundere
-Tag:	Filmmaking
-Tag:	Kaiju
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	School
-Tag:	Urban Fantasy
-Tag:	Magic
-Tag:	School Club
-Tag:	Achronological Order
-Tag:	Philosophy
-Tag:	Otaku Culture
-Tag:	Maids
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Maids
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Filmmaking
+Tag:	Male Protagonist
+Tag:	Achronological Order
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Aliens
+Tag:	Episodic
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Baseball
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Gods
+Tag:	Kaiju
+Tag:	Philosophy
 Related:	35617
 Related:	1507
 Related:	59174

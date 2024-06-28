@@ -1,36 +1,36 @@
 ID:	135806
-Title:	Isekai Oji-san
-Title:	Uncle from Another World
 Title:	異世界おじさん
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Slapstick
-Tag:	Satire
-Tag:	Elf
-Tag:	POV
-Tag:	Tsundere
-Tag:	Crossdressing
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Prison
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Gender Bending
-Tag:	Parody
-Tag:	Seinen
-Tag:	Video Games
-Tag:	Meta
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Feet
-Tag:	Surreal Comedy
-Tag:	Achronological Order
-Tag:	Shapeshifting
-Tag:	Virtual World
+Title:	Uncle from Another World
+Title:	Isekai Oji-san
 Tag:	Otaku Culture
+Tag:	Memory Manipulation
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	Isekai
+Tag:	Video Games
 Tag:	Dragons
+Tag:	Virtual World
+Tag:	Satire
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Shapeshifting
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Parody
+Tag:	Primarily Adult Cast
+Tag:	Feet
+Tag:	Female Harem
+Tag:	Prison
+Tag:	Urban Fantasy
+Tag:	Elf
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Gender Bending
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Achronological Order
+Tag:	POV
 Related:	104617
 Related:	59079

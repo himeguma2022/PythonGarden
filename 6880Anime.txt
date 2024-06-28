@@ -1,20 +1,20 @@
 ID:	6880
-Title:	Deadman Wonderland
 Title:	デッドマン・ワンダーランド
-Tag:	Guns
-Tag:	Tragedy
-Tag:	Prison
-Tag:	Super Power
-Tag:	Shounen
-Tag:	Dissociative Identities
+Title:	Deadman Wonderland
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Body Horror
-Tag:	Rape
+Tag:	Super Power
 Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Death Game
+Tag:	Shounen
+Tag:	Rape
 Tag:	Rehabilitation
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Dissociative Identities
+Tag:	Survival
+Tag:	Death Game
+Tag:	Body Horror
+Tag:	Prison
+Tag:	Guns
 Related:	5858
 Related:	5857
 Related:	10418

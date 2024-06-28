@@ -1,20 +1,20 @@
 ID:	154214
-Title:	I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
-Title:	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
 Title:	婚約破棄された令嬢を拾った俺が、イケナイことを教え込む
 Title:	"Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
-Tag:	Iyashikei
-Tag:	Shoujo
-Tag:	Kemonomimi
+Title:	Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu
+Title:	I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Fugitive
+Tag:	Demons
+Tag:	Kemonomimi
+Tag:	Heterosexual
+Tag:	Hikikomori
+Tag:	Magic
+Tag:	Iyashikei
+Tag:	Shoujo
 Tag:	Rehabilitation
 Tag:	Memory Manipulation
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Demons
-Tag:	Hikikomori
+Tag:	Fugitive
 Related:	77458
 Related:	154218
 Related:	125342

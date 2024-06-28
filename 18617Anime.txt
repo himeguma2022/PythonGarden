@@ -2,17 +2,17 @@ ID:	18617
 Title:	Girls und Panzer Movie
 Title:	ガールズ&パンツァー 劇場版
 Title:	Girls und Panzer der Film
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Volleyball
-Tag:	Tanks
 Tag:	Military
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	School Club
+Tag:	School
+Tag:	Tanks
+Tag:	Volleyball
+Tag:	Primarily Female Cast
 Related:	154146
 Related:	8612
 Related:	117546

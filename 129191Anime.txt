@@ -1,20 +1,20 @@
 ID:	129191
+Title:	失格紋の最強賢者
 Title:	The Strongest Sage with the Weakest Crest
 Title:	Shikkakumon no Saikyou Kenja
-Title:	失格紋の最強賢者
-Tag:	Reincarnation
-Tag:	Primarily Teen Cast
-Tag:	Dungeon
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Female Harem
-Tag:	School
+Tag:	Swordplay
 Tag:	Parody
-Tag:	Magic
-Tag:	Heterosexual
 Tag:	Demons
+Tag:	Lost Civilization
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
+Tag:	Magic
 Tag:	Conspiracy
+Tag:	Reincarnation
+Tag:	School
+Tag:	Dungeon
+Tag:	Female Harem
 Tag:	Dragons
 Related:	99930
 Related:	99931

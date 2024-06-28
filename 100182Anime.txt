@@ -1,31 +1,31 @@
 ID:	100182
-Title:	Sword Art Online: Alicization
 Title:	ソードアート・オンライン アリシゼーション
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Artificial Intelligence
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Netorare
-Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Title:	Sword Art Online: Alicization
 Tag:	Travel
-Tag:	Video Games
-Tag:	Time Manipulation
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Heterosexual
-Tag:	CGI
 Tag:	Rape
-Tag:	Goblin
-Tag:	Philosophy
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Isekai
+Tag:	Video Games
+Tag:	Dragons
 Tag:	Virtual World
 Tag:	Time Skip
-Tag:	Dragons
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Artificial Intelligence
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Nudity
+Tag:	Goblin
+Tag:	Tragedy
+Tag:	Netorare
+Tag:	Philosophy
 Related:	21187
 Related:	42248
 Related:	57482

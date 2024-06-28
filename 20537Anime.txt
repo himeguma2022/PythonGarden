@@ -1,19 +1,19 @@
 ID:	20537
-Title:	マンガ家さんとアシスタントさんと THE ANIMATION
-Title:	Mangaka-san to Assistant-san to THE ANIMATION
 Title:	The Comic Artist & His Assistants
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Slapstick
+Title:	Mangaka-san to Assistant-san to THE ANIMATION
+Title:	マンガ家さんとアシスタントさんと THE ANIMATION
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Episodic
-Tag:	Crossdressing
-Tag:	Tsundere
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
 Tag:	Primarily Adult Cast
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Drawing
+Tag:	Crossdressing
+Tag:	Female Harem
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	20761
 Related:	8858
 Related:	41294

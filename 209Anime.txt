@@ -1,16 +1,16 @@
 ID:	209
 Title:	R.O.D -THE TV-
 Tag:	Super Power
-Tag:	Primarily Female Cast
-Tag:	Writing
-Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Nudity
 Tag:	Seinen
-Tag:	Memory Manipulation
+Tag:	Urban Fantasy
+Tag:	Nudity
+Tag:	Writing
 Tag:	Alternate Universe
-Tag:	Conspiracy
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Primarily Female Cast
 Related:	208
 Related:	505
 Related:	506

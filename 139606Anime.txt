@@ -1,19 +1,19 @@
 ID:	139606
-Title:	Classroom for Heroes
 Title:	Eiyuu Kyoushitsu
 Title:	英雄教室
-Tag:	Augmented Reality
-Tag:	Clone
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
+Title:	Classroom for Heroes
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Artificial Intelligence
-Tag:	School
+Tag:	Clone
+Tag:	Swordplay
+Tag:	Primarily Teen Cast
+Tag:	Demons
 Tag:	Nudity
+Tag:	Augmented Reality
 Tag:	Centaur
 Tag:	Magic
-Tag:	Demons
+Tag:	Artificial Intelligence
+Tag:	School
+Tag:	Female Harem
 Tag:	Dragons
 Related:	86081
 Related:	100193

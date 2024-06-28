@@ -2,21 +2,21 @@ ID:	10719
 Title:	Boku wa Tomodachi ga Sukunai
 Title:	僕は友達が少ない
 Title:	Haganai
+Tag:	Male Protagonist
+Tag:	Chuunibyou
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Crossdressing
+Tag:	School Club
+Tag:	School
+Tag:	Nun
+Tag:	Female Harem
+Tag:	Video Games
 Tag:	Bullying
 Tag:	Primarily Female Cast
-Tag:	Video Games
-Tag:	Cute Girls Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Nudity
-Tag:	Chuunibyou
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Seinen
-Tag:	Nun
-Tag:	Heterosexual
-Tag:	School Club
 Related:	8769
 Related:	51621
 Related:	80637

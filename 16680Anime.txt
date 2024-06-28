@@ -1,9 +1,9 @@
 ID:	16680
-Title:	Pokémon the Movie: Genesect and the Legend Awakened
 Title:	Pocket Monsters Best Wishes! Shinsoku no Genesect: Mewtwo Kakusei
 Title:	劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒
-Tag:	Kids
+Title:	Pokémon the Movie: Genesect and the Legend Awakened
 Tag:	Philosophy
+Tag:	Kids
 Tag:	Animals
 Related:	49954
 Related:	16678

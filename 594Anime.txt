@@ -1,17 +1,17 @@
 ID:	594
-Title:	NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!
 Title:	Naruto: The Lost Story - Mission: Protect the Waterfall Village
 Title:	NARUTO -ナルト- 滝隠れの死闘 オレが英雄だってばよ！
-Tag:	Bullying
-Tag:	Crime
-Tag:	Primarily Child Cast
+Title:	NARUTO: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!
 Tag:	Super Power
-Tag:	Orphan
-Tag:	Shounen
-Tag:	Ninja
-Tag:	Primarily Male Cast
 Tag:	Assassins
+Tag:	Crime
+Tag:	Ninja
+Tag:	Primarily Child Cast
+Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Bullying
 Tag:	Anti-Hero
+Tag:	Shounen
 Related:	88353
 Related:	20
 Related:	43957

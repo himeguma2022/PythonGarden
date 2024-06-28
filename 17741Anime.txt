@@ -1,18 +1,18 @@
 ID:	17741
-Title:	A Town Where You Live
 Title:	君のいる町
+Title:	A Town Where You Live
 Title:	Kimi no Iru Machi
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Shounen
+Tag:	Time Skip
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Food
-Tag:	Time Skip
-Tag:	Heterosexual
-Tag:	Rural
 Tag:	Agriculture
+Tag:	Food
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Rural
 Related:	9312
 Related:	20715
 Related:	8496

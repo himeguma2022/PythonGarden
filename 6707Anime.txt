@@ -1,20 +1,20 @@
 ID:	6707
-Title:	Kuroshitsuji II
 Title:	Black Butler II
+Title:	Kuroshitsuji II
 Title:	黒執事II
-Tag:	Historical
-Tag:	Transgender
-Tag:	Shounen
-Tag:	Butler
 Tag:	Male Protagonist
-Tag:	Alternate Universe
-Tag:	Kuudere
-Tag:	Primarily Male Cast
-Tag:	Gender Bending
-Tag:	Crossdressing
-Tag:	Anti-Hero
 Tag:	Demons
+Tag:	Kuudere
+Tag:	Gender Bending
+Tag:	Transgender
+Tag:	Alternate Universe
 Tag:	Foreign
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Butler
+Tag:	Historical
+Tag:	Anti-Hero
+Tag:	Shounen
 Related:	4898
 Related:	5799
 Related:	5800

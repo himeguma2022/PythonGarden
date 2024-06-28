@@ -2,19 +2,19 @@ ID:	21306
 Title:	Musaigen no Phantom World
 Title:	無彩限のファントム・ワールド
 Title:	Myriad Colors Phantom World
-Tag:	Mythology
-Tag:	Primarily Female Cast
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Male Protagonist
-Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	School
 Tag:	Kuudere
 Tag:	Episodic
-Tag:	Youkai
 Tag:	School Club
+Tag:	Mythology
+Tag:	School
+Tag:	Female Harem
+Tag:	Youkai
+Tag:	Educational
+Tag:	Primarily Female Cast
 Related:	86401
 Related:	10436
 Related:	18022

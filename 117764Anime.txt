@@ -1,13 +1,13 @@
 ID:	117764
 Title:	BanG Dream! Episode of Roselia II: Song I am
 Title:	BanG Dream! Episode of Roselia II: Song I am.
-Tag:	Full CGI
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Band
-Tag:	Female Protagonist
 Tag:	Chuunibyou
+Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Full CGI
 Tag:	Rock Music
+Tag:	Band
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	101634
 Related:	117763

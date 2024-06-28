@@ -1,27 +1,27 @@
 ID:	19703
 Title:	Kyousougiga
-Title:	Kyousougiga (TV)
 Title:	京騒戯画 (TV)
-Tag:	Historical
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Gods
-Tag:	Shrine Maiden
-Tag:	Alternate Universe
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Ensemble Cast
-Tag:	Youkai
-Tag:	Suicide
-Tag:	Reincarnation
-Tag:	Drawing
-Tag:	Magic
-Tag:	Twins
-Tag:	Achronological Order
-Tag:	Philosophy
-Tag:	Anti-Hero
+Title:	Kyousougiga (TV)
 Tag:	Demons
 Tag:	Adoption
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	Youkai
+Tag:	Isekai
+Tag:	Shrine Maiden
+Tag:	Super Power
+Tag:	Family Life
+Tag:	Female Protagonist
+Tag:	Twins
+Tag:	Historical
+Tag:	Suicide
+Tag:	Philosophy
+Tag:	Drawing
+Tag:	Magic
+Tag:	Gods
+Tag:	Anti-Hero
+Tag:	Achronological Order
 Related:	8707
 Related:	10893
 Related:	30322

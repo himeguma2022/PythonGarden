@@ -1,33 +1,33 @@
 ID:	114236
+Title:	炎炎ノ消防隊 弐ノ章
 Title:	Fire Force Season 2
 Title:	Enen no Shouboutai: Ni no Shou
-Title:	炎炎ノ消防隊 弐ノ章
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Post-Apocalyptic
-Tag:	Tanned Skin
-Tag:	Gods
-Tag:	Cult
-Tag:	Religion
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Lost Civilization
-Tag:	Ensemble Cast
-Tag:	Nun
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Female Harem
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Nekomimi
-Tag:	Ships
-Tag:	Dystopian
-Tag:	Chimera
-Tag:	Firefighters
-Tag:	Military
 Tag:	Demons
+Tag:	Military
+Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Religion
+Tag:	Super Power
+Tag:	Nun
+Tag:	Nekomimi
+Tag:	Guns
+Tag:	Dystopian
+Tag:	Kemonomimi
+Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Female Harem
+Tag:	Firefighters
+Tag:	Chimera
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Nudity
+Tag:	Tragedy
+Tag:	Cult
+Tag:	Gods
 Related:	72964
 Related:	128390
 Related:	86310

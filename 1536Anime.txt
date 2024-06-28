@@ -1,13 +1,13 @@
 ID:	1536
 Title:	Arms Alchemy
-Title:	Busou Renkin
 Title:	武装錬金
-Tag:	Shounen
+Title:	Busou Renkin
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Magic
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Magic
+Tag:	School
+Tag:	Shounen
 Related:	30041
 Related:	2471

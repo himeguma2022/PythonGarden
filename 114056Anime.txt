@@ -1,10 +1,10 @@
 ID:	114056
-Title:	フライング・ルナクリッパー
 Title:	The Flying Luna Clipper
-Tag:	Full CGI
-Tag:	Surreal Comedy
-Tag:	Ensemble Cast
+Title:	フライング・ルナクリッパー
 Tag:	Anthropomorphism
+Tag:	Full CGI
 Tag:	Dancing
-Tag:	Aviation
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	Surreal Comedy
+Tag:	Aviation

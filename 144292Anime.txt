@@ -1,12 +1,12 @@
 ID:	144292
 Title:	Benghuai 3: Apocalypse Rushi Shuo
-Title:	Honkai Impact 3rd - Thus Spoke Apocalypse
 Title:	崩坏3 阿波卡利斯如是说
+Title:	Honkai Impact 3rd - Thus Spoke Apocalypse
 Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Philosophy
-Tag:	Anti-Hero
-Tag:	Time Manipulation
 Tag:	Alternate Universe
+Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	67969
 Related:	110367

@@ -1,18 +1,18 @@
 ID:	154459
+Title:	Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi.
 Title:	経験済みなキミと、経験ゼロなオレが、お付き合いする話。
 Title:	Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.
 Title:	Our Dating Story: The Experienced You and The Inexperienced Me
-Title:	Keikenzumi na Kimi to Keiken Zero na Ore ga Otsukiai suru Hanashi.
-Tag:	Gambling
-Tag:	Video Games
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	Airsoft
-Tag:	School
-Tag:	Gyaru
+Tag:	Primarily Teen Cast
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Airsoft
+Tag:	Gyaru
+Tag:	School
+Tag:	Gambling
+Tag:	Love Triangle
+Tag:	Video Games
 Tag:	Coming of Age
 Related:	132264
 Related:	77705

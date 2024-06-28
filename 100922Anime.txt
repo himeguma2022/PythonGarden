@@ -1,30 +1,30 @@
 ID:	100922
+Title:	Grand Blue
 Title:	Grand Blue Dreaming
 Title:	ぐらんぶる
-Title:	Grand Blue
-Tag:	Slapstick
-Tag:	Cosplay
-Tag:	College
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Educational
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Seinen
-Tag:	Coastal
-Tag:	Nudity
-Tag:	Bar
-Tag:	Outdoor
-Tag:	School Club
-Tag:	Incest
-Tag:	Surreal Comedy
 Tag:	Scuba Diving
-Tag:	Bisexual
-Tag:	Yandere
-Tag:	Otaku Culture
 Tag:	Tennis
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	Cosplay
+Tag:	Yandere
+Tag:	Outdoor
+Tag:	Male Protagonist
+Tag:	Incest
+Tag:	Bisexual
+Tag:	School Club
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Bar
+Tag:	Coastal
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Tsundere
+Tag:	Educational
 Tag:	Idol
 Related:	87395
 Related:	21917

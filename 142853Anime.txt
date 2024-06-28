@@ -1,25 +1,25 @@
 ID:	142853
 Title:	東京リベンジャーズ 聖夜決戦編
-Title:	Tokyo Revengers Season 2
 Title:	Tokyo Revengers: Seiya Kessen-hen
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Archery
-Tag:	Revenge
-Tag:	Shounen
-Tag:	Delinquents
+Title:	Tokyo Revengers Season 2
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Motorcycles
-Tag:	Ensemble Cast
-Tag:	Detective
-Tag:	Primarily Male Cast
-Tag:	Mafia
 Tag:	Philosophy
-Tag:	Homeless
-Tag:	Heterosexual
-Tag:	Time Manipulation
+Tag:	Mafia
+Tag:	Crime
 Tag:	Gangs
+Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Time Manipulation
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Motorcycles
+Tag:	Homeless
+Tag:	Detective
+Tag:	Shounen
+Tag:	Age Regression
+Tag:	Delinquents
 Related:	66497
 Related:	162529
 Related:	163329

@@ -1,13 +1,13 @@
 ID:	1694
 Title:	アイドルマスター ゼノグラシア
-Title:	IDOLM@STER: XENOGLOSSIA
 Title:	Idolm@ster Xenoglossia
-Tag:	Primarily Female Cast
+Title:	IDOLM@STER: XENOGLOSSIA
+Tag:	Kuudere
+Tag:	Twins
 Tag:	Super Robot
 Tag:	Cute Girls Doing Cute Things
 Tag:	Love Triangle
-Tag:	Kuudere
-Tag:	Twins
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	2726
 Related:	10278

@@ -1,28 +1,28 @@
 ID:	97888
+Title:	バキ
 Title:	Baki
 Title:	BAKI
-Title:	バキ
-Tag:	Super Power
-Tag:	Martial Arts
-Tag:	Fugitive
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Boxing
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Prison
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Circus
 Tag:	Foreign
-Tag:	Guns
-Tag:	Judo
-Tag:	Delinquents
+Tag:	Crossdressing
 Tag:	Primarily Male Cast
-Tag:	Nudity
-Tag:	Revenge
 Tag:	Surreal Comedy
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Judo
+Tag:	Guns
+Tag:	Delinquents
 Tag:	CGI
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Shounen
+Tag:	Prison
+Tag:	Fugitive
+Tag:	Circus
+Tag:	Crime
+Tag:	Nudity
+Tag:	Martial Arts
+Tag:	Revenge
+Tag:	Boxing
 Related:	17920
 Related:	551
 Related:	108522

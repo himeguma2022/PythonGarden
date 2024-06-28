@@ -2,17 +2,17 @@ ID:	109403
 Title:	のんのんびより のんすとっぷ
 Title:	Non Non Biyori: Nonstop
 Title:	Non Non Biyori Nonstop
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Kuudere
-Tag:	Achronological Order
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Tomboy
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	47552
 Related:	70707

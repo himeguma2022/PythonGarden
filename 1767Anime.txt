@@ -1,16 +1,16 @@
 ID:	1767
-Title:	Psycho Diver: Soul Siren
 Title:	サイコダイバー 魔性菩薩
+Title:	Psycho Diver: Soul Siren
 Title:	Psycho Diver Masei Rakuryu
-Tag:	Guns
-Tag:	Noir
 Tag:	Super Power
-Tag:	Drugs
 Tag:	Urban Fantasy
+Tag:	Drugs
 Tag:	Nudity
-Tag:	Body Horror
-Tag:	Cult
 Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Noir
 Tag:	Heterosexual
 Tag:	Conspiracy
-Tag:	Primarily Adult Cast
+Tag:	Cult
+Tag:	Body Horror
+Tag:	Guns

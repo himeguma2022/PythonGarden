@@ -1,18 +1,18 @@
 ID:	98448
+Title:	キノの旅 -the Beautiful World- the Animated Series
 Title:	Kino's Journey -the Beautiful World- the Animated Series
 Title:	Kino no Tabi -the Beautiful World- the Animated Series
-Title:	キノの旅 -the Beautiful World- the Animated Series
-Tag:	Guns
 Tag:	CGI
-Tag:	Motorcycles
 Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Kuudere
 Tag:	Travel
-Tag:	Philosophy
-Tag:	Agender
-Tag:	Rural
 Tag:	Foreign
+Tag:	Motorcycles
+Tag:	Agender
+Tag:	Episodic
+Tag:	Philosophy
+Tag:	Rural
+Tag:	Guns
 Related:	486
 Related:	21287
 Related:	108973

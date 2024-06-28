@@ -1,30 +1,30 @@
 ID:	98658
 Title:	少女☆歌劇 レヴュー・スタァライト
-Title:	Revue Starlight
 Title:	Shoujo☆Kageki Revue Starlight
-Tag:	Archery
-Tag:	Baseball
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Title:	Revue Starlight
 Tag:	Fairy Tale
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Swordplay
-Tag:	Boarding School
+Tag:	Writing
+Tag:	Ensemble Cast
+Tag:	Archery
 Tag:	School
-Tag:	Acting
-Tag:	Henshin
 Tag:	Coming of Age
-Tag:	Musical Theater
-Tag:	Tomboy
-Tag:	Revenge
+Tag:	Henshin
+Tag:	Time Loop
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Primarily Female Cast
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Boarding School
+Tag:	Baseball
 Tag:	Battle Royale
 Tag:	Motorcycles
-Tag:	Time Loop
+Tag:	Acting
+Tag:	Primarily Teen Cast
+Tag:	Revenge
 Tag:	Dancing
-Tag:	Writing
+Tag:	Musical Theater
+Tag:	Tomboy
 Related:	26624
 Related:	113024
 Related:	128138

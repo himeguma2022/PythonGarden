@@ -1,24 +1,24 @@
 ID:	151513
-Title:	幻日のヨハネ -SUNSHINE in the MIRROR-
-Title:	YOHANE THE PARHELION -SUNSHINE in the MIRROR-
 Title:	Genjitsu no Yohane: SUNSHINE in the MIRROR
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Coming of Age
+Title:	YOHANE THE PARHELION -SUNSHINE in the MIRROR-
+Title:	幻日のヨハネ -SUNSHINE in the MIRROR-
 Tag:	CGI
-Tag:	Motorcycles
-Tag:	Female Protagonist
-Tag:	Rural
-Tag:	Fairy
-Tag:	Ninja
-Tag:	Tokusatsu
-Tag:	Anachronism
 Tag:	Chuunibyou
-Tag:	Animals
-Tag:	Magic
+Tag:	Female Protagonist
 Tag:	Demons
+Tag:	Magic
+Tag:	Animals
+Tag:	Ninja
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Fairy
+Tag:	Tokusatsu
+Tag:	Motorcycles
+Tag:	Anachronism
+Tag:	Primarily Female Cast
+Tag:	Rural
 Tag:	Idol
+Tag:	Coming of Age
 Related:	166381
 Related:	75053
 Related:	75056

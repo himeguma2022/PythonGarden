@@ -1,16 +1,16 @@
 ID:	10521
 Title:	Wagnaria!!2
 Title:	WORKING'!!
-Tag:	Surreal Comedy
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Crossdressing
-Tag:	Restaurant
 Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Food
+Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	Crossdressing
+Tag:	Episodic
+Tag:	Restaurant
 Related:	10532
 Related:	9541
 Related:	6956

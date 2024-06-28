@@ -1,20 +1,20 @@
 ID:	522
 Title:	Metropolis
 Title:	メトロポリス
-Tag:	Crime
-Tag:	Dystopian
-Tag:	CGI
-Tag:	Urban
-Tag:	Terrorism
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Detective
-Tag:	Cyberpunk
-Tag:	Politics
-Tag:	Fugitive
-Tag:	Robots
-Tag:	Police
+Tag:	CGI
 Tag:	Class Struggle
+Tag:	Dystopian
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Robots
+Tag:	Politics
+Tag:	Artificial Intelligence
+Tag:	Urban
 Tag:	Foreign
+Tag:	Cyberpunk
+Tag:	Police
+Tag:	Detective
+Tag:	Fugitive
 Related:	31436
 Related:	1093

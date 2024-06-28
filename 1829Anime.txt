@@ -1,17 +1,17 @@
 ID:	1829
 Title:	ゲド戦記
-Title:	Tales from Earthsea
 Title:	Ged Senki
-Tag:	Agriculture
-Tag:	Slavery
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	Orphan
-Tag:	Dissociative Identities
+Title:	Tales from Earthsea
 Tag:	Male Protagonist
+Tag:	Swordplay
+Tag:	Drugs
+Tag:	Agriculture
 Tag:	Travel
+Tag:	Slavery
 Tag:	Ships
 Tag:	Magic
+Tag:	Dissociative Identities
+Tag:	Orphan
 Tag:	Dragons
 Related:	27784
 Related:	36210

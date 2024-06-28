@@ -1,8 +1,8 @@
 ID:	11869
-Title:	Bloody Night
 Title:	血みどろの夜
-Tag:	No Dialogue
-Tag:	Stop Motion
+Title:	Bloody Night
 Tag:	Female Protagonist
+Tag:	No Dialogue
 Tag:	Gore
+Tag:	Stop Motion
 Tag:	Police

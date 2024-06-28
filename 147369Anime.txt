@@ -1,16 +1,16 @@
 ID:	147369
 Title:	青のオーケストラ
 Title:	Ao no Orchestra
-Tag:	Bullying
-Tag:	Primarily Teen Cast
-Tag:	CGI
-Tag:	Band
-Tag:	Estranged Family
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Classical Music
+Tag:	CGI
 Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Classical Music
 Tag:	School Club
+Tag:	School
+Tag:	Band
+Tag:	Bullying
+Tag:	Estranged Family
 Related:	170018
 Related:	87491
 Related:	101831

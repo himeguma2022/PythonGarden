@@ -1,17 +1,17 @@
 ID:	21764
-Title:	WWW.WAGNARIA!!
 Title:	WWW.WORKING!!
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Kuudere
-Tag:	Restaurant
-Tag:	Seinen
+Title:	WWW.WAGNARIA!!
 Tag:	Time Skip
-Tag:	Heterosexual
+Tag:	Male Protagonist
+Tag:	Seinen
 Tag:	Work
+Tag:	Kuudere
+Tag:	Food
+Tag:	Heterosexual
 Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Episodic
+Tag:	Restaurant
 Related:	47968
 Related:	10532
 Related:	6956

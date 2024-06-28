@@ -1,20 +1,20 @@
 ID:	14749
-Title:	Ore no Kanojo to Osananajimi ga Shuraba Sugiru
 Title:	俺の彼女と幼なじみが修羅場すぎる
 Title:	Oreshura
-Tag:	Fake Relationship
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
+Title:	Ore no Kanojo to Osananajimi ga Shuraba Sugiru
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
 Tag:	Chuunibyou
-Tag:	Meta
+Tag:	Fake Relationship
+Tag:	Kuudere
 Tag:	Tsundere
 Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Meta
 Tag:	School Club
+Tag:	School
+Tag:	Female Harem
+Tag:	Primarily Female Cast
 Related:	33706
-Related:	56613
-Related:	56612
 Related:	8026
+Related:	56612
+Related:	56613

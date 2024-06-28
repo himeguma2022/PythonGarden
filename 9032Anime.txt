@@ -1,9 +1,9 @@
 ID:	9032
 Title:	Inazuma Eleven: Saikyou Gundan Ogre Shuurai
 Title:	劇場版イナズマイレブン 最強軍団オーガ襲来
+Tag:	Cute Girls Doing Cute Things
 Tag:	Kids
 Tag:	Super Power
 Tag:	Football
-Tag:	Cute Girls Doing Cute Things
 Related:	6566
 Related:	5231

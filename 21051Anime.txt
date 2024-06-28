@@ -1,31 +1,31 @@
 ID:	21051
-Title:	Nanbaka
 Title:	ナンバカ
 Title:	NANBAKA
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Slapstick
-Tag:	Tanned Skin
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Crime
-Tag:	Prison
-Tag:	Cute Boys Doing Cute Things
-Tag:	Male Protagonist
-Tag:	Karuta
-Tag:	Episodic
+Title:	Nanbaka
 Tag:	Ensemble Cast
-Tag:	Body Horror
-Tag:	Meta
-Tag:	Delinquents
-Tag:	Ninja
+Tag:	Cute Boys Doing Cute Things
+Tag:	Crossdressing
 Tag:	Primarily Male Cast
-Tag:	LGBTQ+ Themes
-Tag:	Makeup
-Tag:	Revenge
+Tag:	Karuta
 Tag:	Poker
+Tag:	Male Protagonist
 Tag:	Femboy
+Tag:	Super Power
 Tag:	Bisexual
+Tag:	Meta
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Delinquents
+Tag:	Makeup
+Tag:	Prison
+Tag:	Tanned Skin
+Tag:	Crime
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Ninja
+Tag:	Tragedy
+Tag:	LGBTQ+ Themes
+Tag:	Body Horror
 Related:	11136
 Related:	100227
 Related:	86693

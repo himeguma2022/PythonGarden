@@ -1,23 +1,23 @@
 ID:	21425
 Title:	Black Butler: Book of the Atlantic
-Title:	Kuroshitsuji: Book of the Atlantic
 Title:	黒執事 Book of the Atlantic
 Title:	Kuroshitsuji
-Tag:	Historical
-Tag:	Transgender
-Tag:	CGI
-Tag:	Butler
-Tag:	Shounen
-Tag:	Swordplay
+Title:	Kuroshitsuji: Book of the Atlantic
 Tag:	Male Protagonist
-Tag:	Kuudere
-Tag:	Zombie
-Tag:	Crossdressing
-Tag:	Ships
-Tag:	Gore
-Tag:	Anti-Hero
+Tag:	CGI
+Tag:	Swordplay
 Tag:	Demons
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Transgender
+Tag:	Ships
 Tag:	Foreign
+Tag:	Crossdressing
+Tag:	Zombie
+Tag:	Butler
+Tag:	Historical
+Tag:	Anti-Hero
+Tag:	Shounen
 Related:	88068
 Related:	23913
 Related:	33866

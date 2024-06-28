@@ -1,17 +1,17 @@
 ID:	7338
+Title:	Darker than Black: Kuro no Keiyakusha Gaiden
 Title:	Darker than Black: Origins
 Title:	DARKER THAN BLACK: Kuro no Keiyakusha - Gaiden
 Title:	DARKER THAN BLACK -黒の契約者- 外伝
-Title:	Darker than Black: Kuro no Keiyakusha Gaiden
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Triads
 Tag:	Male Protagonist
-Tag:	Survival
-Tag:	Kuudere
-Tag:	Fugitive
+Tag:	Super Power
 Tag:	Assassins
+Tag:	Kuudere
+Tag:	Tragedy
+Tag:	Triads
+Tag:	Survival
 Tag:	Anti-Hero
+Tag:	Fugitive
 Related:	6036
 Related:	6573
 Related:	4182

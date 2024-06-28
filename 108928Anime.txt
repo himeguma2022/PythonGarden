@@ -1,30 +1,30 @@
 ID:	108928
-Title:	七つの大罪 神々の逆鱗
 Title:	The Seven Deadly Sins: Imperial Wrath of the Gods
+Title:	七つの大罪 神々の逆鱗
 Title:	Nanatsu no Taizai: Kamigami no Gekirin
-Tag:	Tragedy
+Tag:	Fairy Tale
+Tag:	Demons
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Reincarnation
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	War
+Tag:	Fairy
+Tag:	Shounen
+Tag:	Bar
+Tag:	Nudity
+Tag:	Martial Arts
+Tag:	Magic
+Tag:	Tragedy
 Tag:	Angels
 Tag:	Dissociative Identities
-Tag:	Martial Arts
 Tag:	Gods
-Tag:	Memory Manipulation
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Fairy Tale
-Tag:	Fairy
-Tag:	Time Manipulation
-Tag:	Reincarnation
-Tag:	Primarily Male Cast
-Tag:	Nudity
-Tag:	War
-Tag:	Bar
 Tag:	LGBTQ+ Themes
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Time Skip
-Tag:	Demons
 Related:	77391
 Related:	116752
 Related:	31825

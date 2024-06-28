@@ -1,22 +1,22 @@
 ID:	152682
-Title:	佐々木とピーちゃん
 Title:	Sasaki to Pii-chan
 Title:	Sasaki and Peeps
-Tag:	Guns
-Tag:	Reincarnation
-Tag:	Super Power
-Tag:	Crossover
-Tag:	Isekai
+Title:	佐々木とピーちゃん
 Tag:	Male Protagonist
-Tag:	Police
-Tag:	Female Harem
-Tag:	Economics
-Tag:	Urban Fantasy
 Tag:	Age Gap
-Tag:	Animals
-Tag:	Yandere
+Tag:	Super Power
 Tag:	Work
+Tag:	Urban Fantasy
+Tag:	Economics
+Tag:	Crossover
 Tag:	Magic
+Tag:	Animals
+Tag:	Reincarnation
+Tag:	Female Harem
+Tag:	Isekai
+Tag:	Police
+Tag:	Yandere
+Tag:	Guns
 Related:	76129
 Related:	76131
 Related:	134500

@@ -1,18 +1,18 @@
 ID:	98251
+Title:	Aho-Girl
 Title:	アホガール
 Title:	AHO-GIRL
-Title:	Aho-Girl
-Tag:	Primarily Female Cast
+Tag:	Male Protagonist
+Tag:	Female Protagonist
+Tag:	Heterosexual
+Tag:	Animals
+Tag:	Gyaru
+Tag:	School
 Tag:	Love Triangle
+Tag:	Female Harem
 Tag:	Shounen
+Tag:	Primarily Female Cast
 Tag:	Slapstick
 Tag:	Delinquents
-Tag:	Female Protagonist
-Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Animals
-Tag:	Heterosexual
-Tag:	Gyaru
 Related:	18405
 Related:	77102

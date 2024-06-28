@@ -1,26 +1,26 @@
 ID:	14075
-Title:	Blast of Tempest
-Title:	Zetsuen no Tempest
 Title:	絶園のテンペスト
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Post-Apocalyptic
-Tag:	Tsundere
-Tag:	Witch
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Title:	Zetsuen no Tempest
+Title:	Blast of Tempest
 Tag:	Travel
-Tag:	Suicide
-Tag:	Time Manipulation
 Tag:	Environmental
-Tag:	Urban Fantasy
-Tag:	Classic Literature
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Revenge
+Tag:	Ensemble Cast
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
 Tag:	Superhero
-Tag:	Anti-Hero
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Witch
+Tag:	Classic Literature
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Urban Fantasy
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Magic
 Tag:	Pandemic
+Tag:	Tragedy
+Tag:	Anti-Hero
 Related:	45205
 Related:	7935

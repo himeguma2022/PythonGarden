@@ -1,18 +1,18 @@
 ID:	4224
-Title:	とらドラ！
 Title:	Toradora!
-Tag:	Tragedy
+Title:	とらドラ！
+Tag:	Male Protagonist
 Tag:	Fake Relationship
 Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Tsundere
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Tragedy
+Tag:	School
+Tag:	Female Harem
 Tag:	Love Triangle
 Tag:	Slapstick
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Unrequited Love
-Tag:	Tsundere
-Tag:	Heterosexual
 Tag:	Coming of Age
 Related:	34368
 Related:	11553

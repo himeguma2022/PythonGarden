@@ -1,25 +1,25 @@
 ID:	100784
-Title:	銀魂. 銀ノ魂篇
 Title:	Gintama.: Silver Soul Arc
 Title:	Gintama.: Shirogane no Tamashii-hen
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Aliens
-Tag:	Swordplay
-Tag:	Shounen
-Tag:	Dissociative Identities
+Title:	銀魂. 銀ノ魂篇
 Tag:	Male Protagonist
-Tag:	Cosplay
-Tag:	Space
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Anachronism
+Tag:	Swordplay
 Tag:	Parody
-Tag:	Meta
 Tag:	Gore
+Tag:	Space
 Tag:	Robots
-Tag:	Samurai
+Tag:	Meta
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Tragedy
 Tag:	Found Family
+Tag:	Dissociative Identities
+Tag:	Samurai
+Tag:	Historical
+Tag:	Cosplay
+Tag:	Anachronism
+Tag:	Shounen
+Tag:	War
 Related:	25824
 Related:	99714
 Related:	101925

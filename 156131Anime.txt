@@ -1,19 +1,19 @@
 ID:	156131
-Title:	Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2
 Title:	真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 2nd
-Title:	"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd"
 Title:	Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd
-Tag:	Horticulture
-Tag:	Swordplay
+Title:	Banished from the Hero’s Party, I Decided to Live a Quiet Life in the Countryside Season 2
+Title:	"Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita 2nd"
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Female Harem
+Tag:	Swordplay
 Tag:	Elf
 Tag:	Assassins
+Tag:	Female Protagonist
 Tag:	Gore
-Tag:	Magic
+Tag:	Family Life
 Tag:	Heterosexual
+Tag:	Magic
+Tag:	Horticulture
+Tag:	Female Harem
 Related:	80193
 Related:	126213
 Related:	104475

@@ -2,20 +2,20 @@ ID:	3958
 Title:	かんなぎ
 Title:	Kannagi
 Title:	Kannagi: Crazy Shrine Maidens
-Tag:	School Club
-Tag:	Love Triangle
-Tag:	Shounen
-Tag:	Dissociative Identities
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Shrine Maiden
-Tag:	Gods
 Tag:	Parody
 Tag:	Nudity
 Tag:	Meta
-Tag:	Memory Manipulation
 Tag:	Otaku Culture
+Tag:	Memory Manipulation
+Tag:	School Club
+Tag:	Dissociative Identities
+Tag:	School
+Tag:	Love Triangle
+Tag:	Gods
+Tag:	Shounen
 Tag:	Idol
+Tag:	Shrine Maiden
 Related:	4615
 Related:	4616
 Related:	94993

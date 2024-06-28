@@ -1,9 +1,9 @@
 ID:	6325
-Title:	劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者
 Title:	NARUTO: Shippuuden - Hi no Ishi wo Tsugu Mono
+Title:	劇場版 NARUTO -ナルト- 疾風伝 火の意志を継ぐ者
 Title:	Naruto Shippuden the Movie: The Will of Fire
-Tag:	Shounen
 Tag:	Super Power
+Tag:	Shounen
 Tag:	Ninja
 Related:	5632
 Related:	56202

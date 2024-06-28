@@ -2,23 +2,23 @@ ID:	5300
 Title:	続 夏目友人帳
 Title:	Natsume's Book of Friends 2
 Title:	Zoku Natsume Yuujinchou
-Tag:	Iyashikei
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Estranged Family
 Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Episodic
+Tag:	Primarily Teen Cast
 Tag:	Urban Fantasy
-Tag:	Family Life
-Tag:	Youkai
-Tag:	Shapeshifting
-Tag:	LGBTQ+ Themes
-Tag:	Outdoor
 Tag:	Adoption
+Tag:	Family Life
+Tag:	Iyashikei
+Tag:	Shapeshifting
+Tag:	Cute Boys Doing Cute Things
+Tag:	Shoujo
+Tag:	Mythology
 Tag:	Found Family
+Tag:	Youkai
+Tag:	Episodic
+Tag:	LGBTQ+ Themes
+Tag:	Rural
+Tag:	Outdoor
+Tag:	Estranged Family
 Related:	5248
 Related:	19428
 Related:	19945

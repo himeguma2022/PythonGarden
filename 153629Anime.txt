@@ -1,24 +1,24 @@
 ID:	153629
-Title:	The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
-Title:	転生王女と天才令嬢の魔法革命
 Title:	Tensei Oujo to Tensai Reijou no Mahou Kakumei
-Tag:	Yuri
-Tag:	Reincarnation
-Tag:	Primarily Female Cast
-Tag:	Drugs
-Tag:	Isekai
-Tag:	Inseki
+Title:	転生王女と天才令嬢の魔法革命
+Title:	The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+Tag:	Religion
 Tag:	Swordplay
 Tag:	Female Protagonist
-Tag:	Politics
-Tag:	Vampire
+Tag:	Yuri
 Tag:	LGBTQ+ Themes
-Tag:	Religion
+Tag:	Drugs
+Tag:	Vampire
 Tag:	Magic
-Tag:	Royal Affairs
+Tag:	Politics
 Tag:	Maids
 Tag:	Conspiracy
+Tag:	Reincarnation
+Tag:	Royal Affairs
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Primarily Female Cast
+Tag:	Inseki
 Related:	122344
 Related:	76865
 Related:	76867

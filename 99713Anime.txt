@@ -1,11 +1,11 @@
 ID:	99713
-Title:	アフロサムライ
 Title:	Afro Samurai Pilot
-Tag:	Swordplay
+Title:	アフロサムライ
 Tag:	Male Protagonist
-Tag:	Martial Arts
-Tag:	Nudity
+Tag:	Swordplay
 Tag:	Seinen
+Tag:	Nudity
+Tag:	Martial Arts
 Tag:	Samurai
 Related:	1292
 Related:	20543

@@ -1,26 +1,26 @@
 ID:	126659
-Title:	Boku no Hero Academia THE MOVIE: World Heroes' Mission
 Title:	僕のヒーローアカデミア THE MOVIE ワールド ヒーローズ ミッション
+Title:	Boku no Hero Academia THE MOVIE: World Heroes' Mission
 Title:	My Hero Academia: World Heroes' Mission
-Tag:	Super Power
-Tag:	Urban
-Tag:	Fugitive
-Tag:	Cult
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Travel
-Tag:	Suicide
 Tag:	Foreign
-Tag:	Terrorism
-Tag:	Urban Fantasy
+Tag:	Conspiracy
 Tag:	Primarily Male Cast
-Tag:	Espionage
-Tag:	CGI
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Superhero
+Tag:	CGI
+Tag:	Gore
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Fugitive
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Crime
+Tag:	Terrorism
+Tag:	Urban
+Tag:	Cult
 Tag:	Anti-Hero
 Related:	65120
 Related:	65987

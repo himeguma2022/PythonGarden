@@ -1,19 +1,19 @@
 ID:	6421
+Title:	Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode
 Title:	鋼の錬金術師 FULLMETAL ALCHEMIST 未放送エピソード
 Title:	Fullmetal Alchemist: Brotherhood OVA Collection
-Title:	Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST Mihousou Episode
-Tag:	Guns
-Tag:	Tomboy
-Tag:	Tragedy
-Tag:	Shounen
 Tag:	Male Protagonist
-Tag:	Kuudere
-Tag:	War
-Tag:	Cyborg
-Tag:	Military
 Tag:	Philosophy
-Tag:	Steampunk
-Tag:	Magic
+Tag:	Kuudere
 Tag:	Adoption
+Tag:	Military
+Tag:	Magic
+Tag:	Cyborg
+Tag:	Tragedy
+Tag:	Steampunk
+Tag:	Tomboy
+Tag:	Shounen
+Tag:	War
+Tag:	Guns
 Related:	5114
 Related:	5675

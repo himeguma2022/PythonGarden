@@ -1,34 +1,34 @@
 ID:	122434
-Title:	平穏世代の韋駄天達
-Title:	Heion Sedai no Idaten-tachi
 Title:	The Idaten Deities Know Only Peace
-Tag:	Tragedy
-Tag:	Amputation
-Tag:	Super Power
-Tag:	Time Skip
-Tag:	Slapstick
-Tag:	Satire
-Tag:	Gods
-Tag:	Hypersexuality
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Religion
-Tag:	Ensemble Cast
-Tag:	Torture
+Title:	Heion Sedai no Idaten-tachi
+Title:	平穏世代の韋駄天達
 Tag:	Body Horror
+Tag:	Demons
+Tag:	Military
+Tag:	Virginity
+Tag:	Rape
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Surreal Comedy
+Tag:	Satire
+Tag:	Time Skip
+Tag:	Super Power
+Tag:	Religion
+Tag:	Hypersexuality
 Tag:	Nun
-Tag:	Seinen
-Tag:	Nudity
 Tag:	Masturbation
 Tag:	War
-Tag:	Virginity
-Tag:	Sex Toys
-Tag:	Surreal Comedy
+Tag:	Slapstick
 Tag:	CGI
-Tag:	Rape
-Tag:	Military
-Tag:	Philosophy
+Tag:	Gore
+Tag:	Torture
+Tag:	Sex Toys
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Amputation
+Tag:	Tragedy
+Tag:	Gods
 Tag:	Anti-Hero
-Tag:	Demons
+Tag:	Philosophy
 Related:	45713
 Related:	113449

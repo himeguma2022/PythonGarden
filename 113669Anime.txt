@@ -1,10 +1,10 @@
 ID:	113669
 Title:	Doraemon: Nobita no Shin Kyoryuu
 Title:	映画ドラえもん のび太の新恐竜
-Tag:	Kids
-Tag:	Time Manipulation
 Tag:	CGI
+Tag:	Kids
 Tag:	Animals
+Tag:	Time Manipulation
 Tag:	Dinosaurs
 Related:	37040
 Related:	8687

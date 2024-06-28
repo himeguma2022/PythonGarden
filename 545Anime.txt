@@ -1,10 +1,10 @@
 ID:	545
-Title:	妄想科学シリーズ ワンダバスタイル
 Title:	Mousou Kagaku Series: Wandaba Style
+Title:	妄想科学シリーズ ワンダバスタイル
 Title:	Wacky Science Fiction Series: Wandaba Style
+Tag:	Space
+Tag:	Time Manipulation
 Tag:	Aliens
 Tag:	Surreal Comedy
 Tag:	Kaiju
-Tag:	Space
-Tag:	Time Manipulation
 Tag:	Idol

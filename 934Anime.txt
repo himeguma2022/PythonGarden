@@ -2,35 +2,35 @@ ID:	934
 Title:	When They Cry
 Title:	ひぐらしのなく頃に
 Title:	Higurashi no Naku Koro ni
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Shrine Maiden
-Tag:	Denpa
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Conspiracy
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Torture
 Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Time Manipulation
-Tag:	Mythology
-Tag:	Urban Fantasy
-Tag:	Police
-Tag:	Twins
-Tag:	Rural
-Tag:	School Club
-Tag:	Board Game
-Tag:	Time Loop
-Tag:	Achronological Order
-Tag:	Yandere
-Tag:	Pandemic
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Crossdressing
+Tag:	Conspiracy
+Tag:	Mythology
+Tag:	Board Game
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Time Loop
+Tag:	Time Manipulation
+Tag:	School Club
+Tag:	Primarily Female Cast
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Twins
+Tag:	Historical
+Tag:	Denpa
+Tag:	Police
+Tag:	Torture
+Tag:	Urban Fantasy
+Tag:	Primarily Teen Cast
+Tag:	Pandemic
+Tag:	Tragedy
+Tag:	Achronological Order
+Tag:	Rural
 Related:	92544
 Related:	28161
 Related:	28163

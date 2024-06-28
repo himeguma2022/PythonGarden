@@ -1,19 +1,19 @@
 ID:	329
-Title:	プラネテス
 Title:	Planetes
-Tag:	Tragedy
-Tag:	Terrorism
+Title:	プラネテス
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Space
-Tag:	Tanned Skin
-Tag:	Politics
-Tag:	Philosophy
-Tag:	Seinen
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Tanned Skin
+Tag:	Seinen
+Tag:	Terrorism
 Tag:	Primarily Adult Cast
+Tag:	Space
+Tag:	Heterosexual
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Episodic
+Tag:	Philosophy
 Related:	30481
 Related:	10735
 Related:	52293

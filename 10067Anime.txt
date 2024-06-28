@@ -1,10 +1,10 @@
 ID:	10067
 Title:	エンジェルビーツ! アナザーエピローグ
 Title:	Angel Beats!: Another Epilogue
-Tag:	Tragedy
 Tag:	Male Protagonist
-Tag:	School
 Tag:	Kuudere
+Tag:	Tragedy
+Tag:	School
 Tag:	Afterlife
 Related:	6968
 Related:	6547

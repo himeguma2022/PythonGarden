@@ -1,26 +1,26 @@
 ID:	527
+Title:	Pocket Monsters
 Title:	ポケットモンスター
 Title:	Pokémon
-Title:	Pocket Monsters
-Tag:	Kids
-Tag:	Super Robot
-Tag:	Slapstick
-Tag:	Tanned Skin
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Primarily Child Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	Travel
-Tag:	Proxy Battle
-Tag:	Guns
 Tag:	Environmental
+Tag:	Primarily Child Cast
+Tag:	Crossdressing
+Tag:	Dragons
+Tag:	Male Protagonist
+Tag:	Kids
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Guns
+Tag:	Photography
+Tag:	Female Protagonist
+Tag:	Super Robot
+Tag:	Proxy Battle
 Tag:	Urban Fantasy
+Tag:	Tanned Skin
+Tag:	Tsundere
 Tag:	Animals
 Tag:	Rural
-Tag:	Photography
-Tag:	Dragons
 Related:	69250
 Related:	68868
 Related:	4874
@@ -30,9 +30,9 @@ Related:	528
 Related:	118034
 Related:	124561
 Related:	112152
-Related:	1564
 Related:	41628
 Related:	41629
+Related:	1564
 Related:	83107
 Related:	10916
 Related:	10917

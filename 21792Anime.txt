@@ -1,6 +1,6 @@
 ID:	21792
-Title:	絶叫学級 転生
 Title:	Zekkyou Gakkyuu: Tensei
+Title:	絶叫学級 転生
 Tag:	Shoujo
 Related:	28679
 Related:	11246

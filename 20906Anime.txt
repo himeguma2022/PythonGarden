@@ -1,22 +1,22 @@
 ID:	20906
-Title:	ルパン三世 PART IV
 Title:	Lupin the 3rd Part IV
 Title:	Lupin III: PART IV
-Tag:	Guns
-Tag:	Crime
-Tag:	Clone
-Tag:	Drugs
+Title:	ルパン三世 PART IV
 Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Detective
-Tag:	Fugitive
-Tag:	Travel
+Tag:	Clone
 Tag:	Seinen
-Tag:	Anti-Hero
-Tag:	Samurai
-Tag:	Police
+Tag:	Drugs
+Tag:	Crime
+Tag:	Travel
 Tag:	Primarily Adult Cast
+Tag:	Episodic
+Tag:	Fugitive
 Tag:	Foreign
+Tag:	Samurai
+Tag:	Detective
+Tag:	Police
+Tag:	Anti-Hero
+Tag:	Guns
 Related:	127522
 Related:	72614
 Related:	1426

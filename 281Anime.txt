@@ -2,8 +2,8 @@ ID:	281
 Title:	Akane Maniax
 Title:	アカネマニアックス
 Tag:	Kuudere
-Tag:	Swimming
 Tag:	Super Robot
+Tag:	Swimming
 Tag:	Parody
 Related:	1856
 Related:	34208

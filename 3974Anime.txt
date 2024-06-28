@@ -1,18 +1,18 @@
 ID:	3974
 Title:	Tetsuwan Birdy DECODE
-Title:	鉄腕バーディー DECODE
-Title:	Tetsuwan Birdy Decode
 Title:	Birdy the Mighty: Decode
+Title:	Tetsuwan Birdy Decode
+Title:	鉄腕バーディー DECODE
+Tag:	Seinen
+Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Gender Bending
+Tag:	Robots
+Tag:	Body Swapping
 Tag:	Aliens
 Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Urban Fantasy
-Tag:	Gender Bending
 Tag:	Tokusatsu
-Tag:	Seinen
 Tag:	Henshin
-Tag:	Body Swapping
-Tag:	Robots
 Related:	33254
 Related:	88907
 Related:	6380

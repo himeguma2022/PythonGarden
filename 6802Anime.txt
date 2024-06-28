@@ -1,25 +1,25 @@
 ID:	6802
-Title:	Sound of the Sky
 Title:	So Ra No Wo To
 Title:	ソ・ラ・ノ・ヲ・ト
-Tag:	Tragedy
+Title:	Sound of the Sky
+Tag:	Lost Civilization
+Tag:	Military
+Tag:	Iyashikei
+Tag:	Ensemble Cast
 Tag:	Post-Apocalyptic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Nun
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	War
+Tag:	CGI
+Tag:	Female Protagonist
 Tag:	Kuudere
+Tag:	Language Barrier
+Tag:	Steampunk
 Tag:	Tanks
 Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Lost Civilization
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Nun
-Tag:	Iyashikei
-Tag:	War
-Tag:	Steampunk
-Tag:	Language Barrier
-Tag:	CGI
-Tag:	Military
+Tag:	Tragedy
 Tag:	Philosophy
 Related:	5841
 Related:	47513

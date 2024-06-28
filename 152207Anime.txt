@@ -1,13 +1,13 @@
 ID:	152207
 Title:	ある朝ダミーヘッドマイクになっていた俺クンの人生
 Title:	Aru Asa Dummy Head Mic ni Natteita Ore-kun no Jinsei
-Tag:	Reincarnation
-Tag:	Surreal Comedy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Isekai
-Tag:	Food
 Tag:	Parody
+Tag:	Food
+Tag:	Cute Girls Doing Cute Things
+Tag:	Surreal Comedy
+Tag:	School Club
+Tag:	Reincarnation
+Tag:	Isekai
 Tag:	LGBTQ+ Themes
 Tag:	Rakugo
-Tag:	School Club
+Tag:	Primarily Female Cast

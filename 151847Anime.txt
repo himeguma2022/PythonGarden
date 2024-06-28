@@ -1,30 +1,30 @@
 ID:	151847
+Title:	Kanojo ga Koushaku-tei ni Itta Riyuu
 Title:	彼女が公爵邸に行った理由
 Title:	Why Raeliana Ended Up at the Duke’s Mansion
-Title:	Kanojo ga Koushaku-tei ni Itta Riyuu
-Tag:	Historical
-Tag:	Isekai
-Tag:	Butler
-Tag:	Royal Affairs
-Tag:	Body Swapping
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Female Protagonist
-Tag:	Marriage
 Tag:	Politics
-Tag:	Suicide
-Tag:	Foreign
-Tag:	Guns
-Tag:	Reincarnation
-Tag:	Fake Relationship
-Tag:	Shoujo
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	Heterosexual
-Tag:	CGI
-Tag:	Ojou-sama
-Tag:	Maids
 Tag:	Alternate Universe
+Tag:	Maids
+Tag:	Marriage
+Tag:	Conspiracy
+Tag:	Foreign
+Tag:	Primarily Male Cast
+Tag:	Royal Affairs
+Tag:	Reincarnation
+Tag:	Isekai
+Tag:	Ojou-sama
+Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	Guns
+Tag:	CGI
+Tag:	Fake Relationship
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Historical
+Tag:	Suicide
 Tag:	Mixed Gender Harem
+Tag:	Body Swapping
+Tag:	Butler
 Related:	75403
 Related:	104973

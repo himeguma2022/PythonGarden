@@ -1,21 +1,21 @@
 ID:	18277
-Title:	Strike the Blood
 Title:	ストライク・ザ・ブラッド
-Tag:	Witch
-Tag:	Super Power
-Tag:	Clone
-Tag:	Alchemy
-Tag:	Angels
+Title:	Strike the Blood
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Clone
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	School
-Tag:	Kuudere
-Tag:	Nudity
-Tag:	Vampire
+Tag:	Alchemy
 Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Kuudere
 Tag:	Gore
+Tag:	Vampire
 Tag:	Magic
+Tag:	Angels
+Tag:	School
+Tag:	Female Harem
+Tag:	Witch
 Related:	21098
 Related:	71021
 Related:	10071

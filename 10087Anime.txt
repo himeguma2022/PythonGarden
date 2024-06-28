@@ -1,21 +1,21 @@
 ID:	10087
 Title:	Fate/Zero
-Tag:	Tragedy
-Tag:	Mythology
-Tag:	Battle Royale
-Tag:	Spearplay
 Tag:	CGI
+Tag:	Spearplay
 Tag:	Swordplay
 Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Espionage
-Tag:	Philosophy
 Tag:	Gore
-Tag:	Anti-Hero
-Tag:	Magic
-Tag:	Death Game
 Tag:	Primarily Adult Cast
+Tag:	Magic
+Tag:	Ensemble Cast
+Tag:	Battle Royale
+Tag:	Mythology
+Tag:	Tragedy
+Tag:	Espionage
+Tag:	Death Game
+Tag:	Anti-Hero
+Tag:	Philosophy
+Tag:	War
 Related:	11741
 Related:	56002
 Related:	6983

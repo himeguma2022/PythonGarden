@@ -1,29 +1,29 @@
 ID:	113428
+Title:	美少年探偵団
 Title:	Bishounen Tanteidan
 Title:	Pretty Boy Detective Club
-Title:	美少年探偵団
-Tag:	Gambling
+Tag:	Military
+Tag:	Astronomy
+Tag:	Primarily Child Cast
+Tag:	Cute Boys Doing Cute Things
 Tag:	Crossdressing
 Tag:	Conspiracy
-Tag:	Primarily Child Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Boys Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Gender Bending
+Tag:	Primarily Male Cast
+Tag:	School
+Tag:	Agender
+Tag:	Detective
+Tag:	Coming of Age
+Tag:	Femboy
 Tag:	Male Harem
 Tag:	Meta
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Astronomy
-Tag:	Chibi
-Tag:	Coming of Age
 Tag:	School Club
-Tag:	Detective
-Tag:	Military
+Tag:	Episodic
+Tag:	Female Protagonist
+Tag:	Chibi
+Tag:	Primarily Teen Cast
+Tag:	Gender Bending
+Tag:	Gambling
 Tag:	Philosophy
-Tag:	Agender
-Tag:	Femboy
 Related:	100995
 Related:	36781
 Related:	110415

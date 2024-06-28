@@ -1,28 +1,28 @@
 ID:	116242
 Title:	100-man no Inochi no Ue ni Ore wa Tatteiru
-Title:	100万の命の上に俺は立っている
 Title:	I'm Standing on a Million Lives
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Death Game
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Suicide
-Tag:	Female Harem
-Tag:	School
-Tag:	Survival
-Tag:	Chuunibyou
-Tag:	Magic
-Tag:	Coming of Age
-Tag:	Goblin
-Tag:	Philosophy
-Tag:	Anti-Hero
-Tag:	Otaku Culture
-Tag:	Vore
+Title:	100万の命の上に俺は立っている
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Otaku Culture
+Tag:	School
+Tag:	Isekai
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Chuunibyou
+Tag:	Vore
+Tag:	Survival
+Tag:	Primarily Female Cast
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Primarily Teen Cast
+Tag:	Goblin
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Death Game
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	97371
 Related:	50668
 Related:	39725

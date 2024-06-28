@@ -1,29 +1,29 @@
 ID:	114085
 Title:	怪物事変
 Title:	Kemono Jihen
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Bullying
+Tag:	Demons
 Tag:	Primarily Child Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Body Horror
-Tag:	Youkai
-Tag:	Monster Girl
-Tag:	Kemonomimi
-Tag:	Orphan
-Tag:	Urban Fantasy
 Tag:	Primarily Male Cast
+Tag:	Orphan
+Tag:	Youkai
+Tag:	Bullying
+Tag:	Detective
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Femboy
 Tag:	Vampire
+Tag:	Shapeshifting
 Tag:	Nekomimi
+Tag:	Kemonomimi
+Tag:	Gore
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Tsundere
 Tag:	Animals
 Tag:	Found Family
+Tag:	Tragedy
 Tag:	Monster Boy
-Tag:	Detective
-Tag:	Shapeshifting
-Tag:	Femboy
-Tag:	Demons
+Tag:	Body Horror
 Related:	98466
 Related:	37477

@@ -1,14 +1,14 @@
 ID:	1489
-Title:	錬金3級 まじかる?ぽか〜ん
 Title:	Renkin San-kyuu Magical? Pokaan Specials
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Werewolf
+Title:	錬金3級 まじかる?ぽか〜ん
 Tag:	Parody
 Tag:	Vampire
-Tag:	Robots
 Tag:	Magic
+Tag:	Robots
+Tag:	Cute Girls Doing Cute Things
+Tag:	Werewolf
+Tag:	Witch
+Tag:	Primarily Female Cast
 Tag:	Monster Girl
 Related:	2403
 Related:	941

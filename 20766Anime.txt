@@ -1,20 +1,20 @@
 ID:	20766
 Title:	ラブライブ！The School Idol Movie
 Title:	Love Live! The School Idol Movie
-Tag:	Language Barrier
-Tag:	Tomboy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	School Club
 Tag:	CGI
-Tag:	Cute Girls Doing Cute Things
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	Cosplay
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Idol
+Tag:	Language Barrier
 Tag:	Dancing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
 Tag:	Foreign
+Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Cosplay
+Tag:	Primarily Female Cast
+Tag:	Idol
 Related:	9416
 Related:	17626
 Related:	21584

@@ -1,20 +1,20 @@
 ID:	106240
 Title:	HELLO WORLD
-Tag:	Full CGI
-Tag:	Tragedy
-Tag:	Augmented Reality
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Alternate Universe
 Tag:	Female Protagonist
-Tag:	School
+Tag:	Augmented Reality
 Tag:	Kuudere
-Tag:	Rehabilitation
-Tag:	Virtual World
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Magic
+Tag:	Full CGI
+Tag:	Alternate Universe
 Tag:	Time Manipulation
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Rehabilitation
+Tag:	School
+Tag:	Age Regression
+Tag:	Virtual World
 Tag:	Coming of Age
 Related:	76225
 Related:	110599

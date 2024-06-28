@@ -1,15 +1,15 @@
 ID:	106287
-Title:	Pokémon: Mewtwo Strikes Back—Evolution
 Title:	劇場版 ポケットモンスター ミュウツーの逆襲 EVOLUTION
 Title:	Pocket Monsters: Mewtwo no Gyakushuu EVOLUTION
-Tag:	Full CGI
-Tag:	Kids
-Tag:	Primarily Child Cast
+Title:	Pokémon: Mewtwo Strikes Back—Evolution
 Tag:	Male Protagonist
+Tag:	Kids
 Tag:	Tanned Skin
-Tag:	Philosophy
+Tag:	Full CGI
 Tag:	Animals
+Tag:	Primarily Child Cast
 Tag:	Memory Manipulation
+Tag:	Philosophy
 Related:	31109
 Related:	37642
 Related:	35406

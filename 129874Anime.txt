@@ -1,23 +1,23 @@
 ID:	129874
-Title:	鬼滅の刃 無限列車編 (TV)
 Title:	Kimetsu no Yaiba: Mugen Ressha-hen (TV)
 Title:	Demon Slayer: Kimetsu no Yaiba Mugen Train Arc
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Primarily Teen Cast
-Tag:	Orphan
-Tag:	Shounen
-Tag:	Swordplay
+Title:	鬼滅の刃 無限列車編 (TV)
 Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Body Horror
+Tag:	Swordplay
+Tag:	Primarily Teen Cast
+Tag:	Demons
+Tag:	Gore
+Tag:	Shounen
 Tag:	Travel
 Tag:	Trains
-Tag:	Suicide
+Tag:	Tragedy
 Tag:	Cannibalism
-Tag:	Gore
+Tag:	Orphan
+Tag:	Historical
+Tag:	Body Horror
+Tag:	Suicide
+Tag:	Rural
 Tag:	Monster Girl
-Tag:	Demons
 Related:	63585
 Related:	101922
 Related:	53259

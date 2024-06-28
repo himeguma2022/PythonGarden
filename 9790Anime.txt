@@ -1,11 +1,11 @@
 ID:	9790
 Title:	Heaven's Lost Property the Movie: The Angeloid of Clockwork
-Title:	Sora no Otoshimono: Tokeijikake no Angeloid
 Title:	劇場版 そらのおとしもの 時計じかけの哀女神（エンジェロイド）
-Tag:	Kuudere
-Tag:	Angels
-Tag:	Shounen
+Title:	Sora no Otoshimono: Tokeijikake no Angeloid
 Tag:	School Club
+Tag:	Shounen
+Tag:	Angels
+Tag:	Kuudere
 Related:	38144
 Related:	6825
 Related:	6826

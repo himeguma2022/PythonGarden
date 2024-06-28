@@ -1,26 +1,26 @@
 ID:	21123
 Title:	DRIFTERS
-Tag:	Historical
+Tag:	Rape
 Tag:	Archery
+Tag:	Primarily Male Cast
 Tag:	Isekai
-Tag:	Elf
+Tag:	Dragons
+Tag:	Male Protagonist
 Tag:	Anachronism
+Tag:	War
+Tag:	Aviation
+Tag:	Guns
+Tag:	CGI
+Tag:	Swordplay
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Male Protagonist
-Tag:	Seinen
-Tag:	Guns
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Magic
-Tag:	Aviation
 Tag:	Language Barrier
-Tag:	CGI
-Tag:	Rape
-Tag:	Anti-Hero
+Tag:	Historical
+Tag:	Seinen
+Tag:	Elf
+Tag:	Magic
 Tag:	Samurai
-Tag:	Dragons
+Tag:	Anti-Hero
 Related:	97988
 Related:	18085
 Related:	16932

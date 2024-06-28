@@ -1,11 +1,11 @@
 ID:	100110
-Title:	ドラゴンフィスト
 Title:	Dragon Fist
-Tag:	Tragedy
-Tag:	Clone
-Tag:	Shoujo
+Title:	ドラゴンフィスト
 Tag:	Male Protagonist
+Tag:	Clone
 Tag:	Martial Arts
+Tag:	Shoujo
+Tag:	Tragedy
 Tag:	School
 Related:	21085
 Related:	38853

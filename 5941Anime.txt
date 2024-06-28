@@ -1,20 +1,20 @@
 ID:	5941
 Title:	クロスゲーム
 Title:	Cross Game
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Tragedy
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Primarily Teen Cast
+Tag:	Female Protagonist
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Baseball
+Tag:	Iyashikei
+Tag:	School Club
+Tag:	Tragedy
+Tag:	School
+Tag:	Tomboy
 Tag:	Love Triangle
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Baseball
-Tag:	School
-Tag:	Tsundere
-Tag:	Time Skip
-Tag:	Heterosexual
 Tag:	Coming of Age
-Tag:	School Club
 Related:	5476
 Related:	31183

@@ -1,28 +1,28 @@
 ID:	6702
 Title:	Fairy Tail
 Title:	FAIRY TAIL
-Tag:	Super Power
-Tag:	Tanned Skin
-Tag:	Alternate Universe
-Tag:	Primarily Adult Cast
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
 Tag:	Fairy Tale
+Tag:	Lost Civilization
+Tag:	Demons
 Tag:	Travel
-Tag:	Nudity
+Tag:	Adoption
 Tag:	Astronomy
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Dragons
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Tanned Skin
+Tag:	Nudity
 Tag:	Animals
 Tag:	Magic
 Tag:	Found Family
-Tag:	Time Skip
-Tag:	Work
-Tag:	Demons
-Tag:	Adoption
-Tag:	Dragons
 Related:	5792
 Related:	5793
 Related:	5794

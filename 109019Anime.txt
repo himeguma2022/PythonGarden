@@ -1,22 +1,22 @@
 ID:	109019
-Title:	Diary of Our Days at the Breakwater
-Title:	Houkago Teibou Nisshi
 Title:	放課後ていぼう日誌
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Fishing
-Tag:	Coastal
-Tag:	Cute Girls Doing Cute Things
-Tag:	Environmental
-Tag:	Rural
-Tag:	Female Protagonist
-Tag:	Food
-Tag:	Kuudere
+Title:	Houkago Teibou Nisshi
+Title:	Diary of Our Days at the Breakwater
 Tag:	Seinen
-Tag:	Cycling
-Tag:	Outdoor
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
+Tag:	Food
+Tag:	Environmental
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	School Club
+Tag:	Cycling
+Tag:	Fishing
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Rural
+Tag:	Outdoor
+Tag:	Coastal
 Related:	107499
 Related:	31975

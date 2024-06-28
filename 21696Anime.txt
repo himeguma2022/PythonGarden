@@ -1,17 +1,17 @@
 ID:	21696
-Title:	Urara Meirochou
 Title:	Urara Meirocho
 Title:	うらら迷路帖
-Tag:	Witch
-Tag:	Historical
-Tag:	Primarily Female Cast
-Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Cute Girls Doing Cute Things
+Title:	Urara Meirochou
+Tag:	Seinen
 Tag:	Female Protagonist
+Tag:	Kemonomimi
+Tag:	Magic
+Tag:	Cute Girls Doing Cute Things
+Tag:	Mythology
 Tag:	Gods
 Tag:	Youkai
-Tag:	Seinen
-Tag:	Magic
+Tag:	Historical
+Tag:	Witch
+Tag:	Primarily Female Cast
 Related:	11098
 Related:	87031

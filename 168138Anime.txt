@@ -1,21 +1,21 @@
 ID:	168138
-Title:	Grandpa and Grandma Turn Young Again
 Title:	Jii-san Baa-san Wakagaeru
 Title:	じいさんばあさん若返る
-Tag:	Iyashikei
-Tag:	Tragedy
-Tag:	Elderly Protagonist
+Title:	Grandpa and Grandma Turn Young Again
 Tag:	Male Protagonist
-Tag:	Age Regression
-Tag:	Family Life
-Tag:	Snowscape
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Trains
 Tag:	Seinen
-Tag:	Heterosexual
-Tag:	Rural
-Tag:	Primarily Adult Cast
+Tag:	Female Protagonist
 Tag:	Agriculture
+Tag:	Primarily Adult Cast
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Snowscape
+Tag:	Elderly Protagonist
+Tag:	Iyashikei
+Tag:	Trains
+Tag:	Tragedy
+Tag:	Episodic
+Tag:	Age Regression
+Tag:	Rural
 Related:	113984
 Related:	89063

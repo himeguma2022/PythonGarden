@@ -1,13 +1,13 @@
 ID:	5040
-Title:	ワンナウツ
 Title:	One Outs
-Tag:	Gambling
+Title:	ワンナウツ
 Tag:	Male Protagonist
+Tag:	Seinen
+Tag:	Primarily Adult Cast
 Tag:	Baseball
 Tag:	Primarily Male Cast
-Tag:	Philosophy
-Tag:	Seinen
+Tag:	Gambling
 Tag:	Anti-Hero
-Tag:	Primarily Adult Cast
+Tag:	Philosophy
 Related:	5110
 Related:	41327

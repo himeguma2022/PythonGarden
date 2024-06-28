@@ -1,22 +1,22 @@
 ID:	112667
 Title:	キミと僕の最後の戦場、あるいは世界が始まる聖戦
-Title:	"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
 Title:	Our Last Crusade or the Rise of a New World
+Title:	"Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
 Title:	Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen
-Tag:	Witch
-Tag:	Swordplay
 Tag:	Male Protagonist
+Tag:	Swordplay
 Tag:	Female Protagonist
+Tag:	Demons
 Tag:	Martial Arts
+Tag:	Tsundere
+Tag:	Heterosexual
+Tag:	Military
+Tag:	Magic
+Tag:	Politics
+Tag:	Witch
+Tag:	Cyberpunk
 Tag:	War
 Tag:	Afterlife
-Tag:	Politics
-Tag:	Cyberpunk
-Tag:	Military
-Tag:	Tsundere
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Demons
 Related:	63752
 Related:	139825
 Related:	35891

@@ -2,22 +2,22 @@ ID:	1177
 Title:	Alien Nine
 Title:	Alien 9
 Title:	エイリアン9
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
-Tag:	Dullahan
-Tag:	Aliens
-Tag:	Female Protagonist
-Tag:	School
-Tag:	Nudity
-Tag:	Denpa
 Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Philosophy
-Tag:	Gore
 Tag:	Seinen
-Tag:	Vore
-Tag:	Coming of Age
+Tag:	Female Protagonist
+Tag:	Cosmic Horror
+Tag:	Nudity
+Tag:	Gore
+Tag:	Primarily Child Cast
+Tag:	Aliens
+Tag:	Tragedy
 Tag:	School Club
+Tag:	School
+Tag:	Vore
+Tag:	Denpa
+Tag:	Dullahan
+Tag:	Philosophy
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	30889
 Related:	2002

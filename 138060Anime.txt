@@ -1,31 +1,31 @@
 ID:	138060
 Title:	Star Wars: Visions
 Title:	スター・ウォーズ：ビジョンズ
-Tag:	Tragedy
-Tag:	Archery
-Tag:	Aliens
-Tag:	Band
-Tag:	Artificial Intelligence
+Tag:	Adoption
 Tag:	Space
+Tag:	Military
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Archery
+Tag:	Achromatic
+Tag:	Parenthood
+Tag:	Anthology
+Tag:	Space Opera
+Tag:	Cultivation
+Tag:	Aliens
+Tag:	Episodic
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Twins
+Tag:	Artificial Intelligence
 Tag:	Fugitive
 Tag:	Anthropomorphism
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Swordplay
 Tag:	Terrorism
-Tag:	Adoption
-Tag:	Space Opera
-Tag:	Robots
-Tag:	Twins
+Tag:	Tragedy
 Tag:	Musical Theater
-Tag:	Cultivation
-Tag:	Achromatic
-Tag:	Anthology
-Tag:	CGI
-Tag:	Military
-Tag:	Anti-Hero
 Tag:	Samurai
-Tag:	Parenthood
+Tag:	Band
+Tag:	Anti-Hero
 Related:	148967
 Related:	72796
 Related:	34814

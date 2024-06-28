@@ -1,26 +1,26 @@
 ID:	1453
-Title:	Maison Ikkoku
 Title:	めぞん一刻
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Baseball
-Tag:	College
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Rugby
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Male Harem
-Tag:	Seinen
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	School Club
+Title:	Maison Ikkoku
 Tag:	Tennis
+Tag:	Ensemble Cast
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	Male Harem
+Tag:	School Club
+Tag:	Episodic
+Tag:	Slapstick
+Tag:	Age Gap
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Baseball
+Tag:	Rugby
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Seinen
+Tag:	Nudity
+Tag:	Tsundere
 Related:	30688
 Related:	1293
 Related:	31055

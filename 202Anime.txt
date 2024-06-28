@@ -1,17 +1,17 @@
 ID:	202
-Title:	Wolf's Rain
 Title:	ウルフズレイン
-Tag:	Tragedy
-Tag:	Dystopian
-Tag:	Werewolf
-Tag:	Post-Apocalyptic
-Tag:	Snowscape
-Tag:	Survival
-Tag:	Primarily Male Cast
+Title:	Wolf's Rain
 Tag:	Tanned Skin
-Tag:	Animals
-Tag:	Memory Manipulation
+Tag:	Dystopian
 Tag:	Primarily Adult Cast
+Tag:	Snowscape
+Tag:	Animals
+Tag:	Werewolf
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Survival
+Tag:	Post-Apocalyptic
 Related:	492
 Related:	30301
 Related:	30357

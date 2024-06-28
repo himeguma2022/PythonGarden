@@ -1,17 +1,17 @@
 ID:	20519
-Title:	Tamako Love Story
 Title:	たまこラブストーリー
+Title:	Tamako Love Story
 Title:	Tamako -love story-
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Love Triangle
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Food
-Tag:	Animals
 Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Animals
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Coming of Age
 Related:	16417
 Related:	36742
 Related:	17577

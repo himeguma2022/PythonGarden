@@ -1,22 +1,22 @@
 ID:	5760
 Title:	Dororo
-Title:	Dororo to Hyakkimaru
 Title:	どろろと百鬼丸
-Tag:	Historical
-Tag:	Achromatic
-Tag:	Dystopian
+Title:	Dororo to Hyakkimaru
 Tag:	Time Skip
 Tag:	Swordplay
-Tag:	War
-Tag:	Body Horror
-Tag:	Travel
-Tag:	Youkai
-Tag:	Crossdressing
-Tag:	Gore
-Tag:	Samurai
-Tag:	Anti-Hero
-Tag:	Disability
+Tag:	Dystopian
 Tag:	Demons
+Tag:	Disability
+Tag:	Gore
+Tag:	Travel
+Tag:	Crossdressing
+Tag:	Historical
+Tag:	Samurai
+Tag:	Youkai
+Tag:	Achromatic
+Tag:	Anti-Hero
+Tag:	Body Horror
+Tag:	War
 Related:	101347
 Related:	22442
 Related:	31658

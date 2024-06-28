@@ -1,15 +1,15 @@
 ID:	107208
-Title:	ガールズ＆パンツァー 最終章 第2話
 Title:	Girls und Panzer: Saishuushou 2
+Title:	ガールズ＆パンツァー 最終章 第2話
 Title:	Girls und Panzer das Finale – Part 2
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
+Tag:	Military
 Tag:	Cute Girls Doing Cute Things
 Tag:	Ensemble Cast
+Tag:	School Club
 Tag:	School
 Tag:	Tanks
-Tag:	Military
-Tag:	School Club
+Tag:	Primarily Female Cast
 Related:	99938
 Related:	114052
 Related:	58643

@@ -2,22 +2,22 @@ ID:	6033
 Title:	Dragon Ball Z Kai
 Title:	ドラゴンボール改
 Title:	Dragon Ball Kai
-Tag:	Henshin
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Shounen
+Tag:	Time Skip
 Tag:	Male Protagonist
-Tag:	Martial Arts
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Space
-Tag:	Primarily Male Cast
+Tag:	Martial Arts
 Tag:	Travel
+Tag:	Primarily Adult Cast
+Tag:	Space
 Tag:	Cyborg
 Tag:	Robots
-Tag:	Time Skip
-Tag:	Time Manipulation
 Tag:	Alternate Universe
-Tag:	Primarily Adult Cast
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Primarily Male Cast
+Tag:	Shounen
+Tag:	Henshin
 Related:	813
 Related:	5523
 Related:	5524

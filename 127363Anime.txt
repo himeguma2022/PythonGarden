@@ -1,10 +1,10 @@
 ID:	127363
-Title:	Bottom-Tier Character Tomozaki OVA
-Title:	Jaku-Chara Tomozaki-kun OVA
 Title:	弱キャラ友崎くんOVA
+Title:	Jaku-Chara Tomozaki-kun OVA
+Title:	Bottom-Tier Character Tomozaki OVA
 Tag:	Work
-Tag:	Female Protagonist
 Tag:	School
 Tag:	Love Triangle
+Tag:	Female Protagonist
 Related:	112443
 Related:	50660

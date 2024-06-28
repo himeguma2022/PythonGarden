@@ -1,14 +1,14 @@
 ID:	18139
-Title:	となりの関くん
-Title:	Tonari no Seki-kun: The Master of Killing Time
 Title:	Tonari no Seki-kun
-Tag:	Slapstick
-Tag:	Shogi
+Title:	Tonari no Seki-kun: The Master of Killing Time
+Title:	となりの関くん
+Tag:	Seinen
 Tag:	Female Protagonist
-Tag:	Episodic
 Tag:	School
 Tag:	Go
-Tag:	Seinen
+Tag:	Episodic
+Tag:	Shogi
+Tag:	Slapstick
 Related:	20738
 Related:	8551
 Related:	9031

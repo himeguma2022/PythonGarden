@@ -1,12 +1,12 @@
 ID:	20763
-Title:	劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ-  DC
-Title:	Aoki Hagane no Arpeggio: Ars Nova - DC
 Title:	Arpeggio of Blue Steel - DC
-Tag:	Full CGI
+Title:	Aoki Hagane no Arpeggio: Ars Nova - DC
+Title:	劇場版 蒼き鋼のアルペジオ -アルス・ノヴァ-  DC
+Tag:	Seinen
 Tag:	Kuudere
 Tag:	Military
 Tag:	Ships
-Tag:	Seinen
+Tag:	Full CGI
 Related:	9412
 Related:	18893
 Related:	55861

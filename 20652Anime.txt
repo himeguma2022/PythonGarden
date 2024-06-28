@@ -1,21 +1,21 @@
 ID:	20652
+Title:	Durarara!!x2 Shou
 Title:	デュラララ!!×２ 承
 Title:	Durarara!! X2
-Title:	Durarara!!x2 Shou
+Tag:	Urban Fantasy
 Tag:	Crime
+Tag:	LGBTQ+ Themes
+Tag:	Gangs
+Tag:	Twins
+Tag:	Ensemble Cast
+Tag:	Urban
 Tag:	Mythology
 Tag:	Yakuza
-Tag:	Dullahan
 Tag:	Motorcycles
-Tag:	Delinquents
-Tag:	Urban
-Tag:	Urban Fantasy
-Tag:	Ensemble Cast
-Tag:	Achronological Order
-Tag:	LGBTQ+ Themes
+Tag:	Dullahan
 Tag:	Anti-Hero
-Tag:	Twins
-Tag:	Gangs
+Tag:	Achronological Order
+Tag:	Delinquents
 Related:	46816
 Related:	9164
 Related:	21068

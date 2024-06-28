@@ -1,17 +1,17 @@
 ID:	145815
+Title:	農民関連のスキルばっか上げてたら何故か強くなった。
 Title:	I've Somehow Gotten Stronger When I Improved My Farm-Related Skills
 Title:	Noumin Kanren no Skill Bakka Agetetara Naze ka Tsuyoku Natta.
-Title:	農民関連のスキルばっか上げてたら何故か強くなった。
-Tag:	Agriculture
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	CGI
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	CGI
+Tag:	Super Power
 Tag:	Parody
-Tag:	Amnesia
+Tag:	Agriculture
 Tag:	Demons
 Tag:	Adoption
+Tag:	Amnesia
+Tag:	Tragedy
+Tag:	Female Harem
 Tag:	Dragons
 Related:	69827
 Related:	69828

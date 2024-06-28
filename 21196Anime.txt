@@ -1,22 +1,22 @@
 ID:	21196
+Title:	甲鉄城のカバネリ
 Title:	Koutetsujou no Kabaneri
 Title:	Kabaneri of the Iron Fortress
-Title:	甲鉄城のカバネリ
-Tag:	Tragedy
-Tag:	Historical
-Tag:	Revenge
-Tag:	CGI
-Tag:	Post-Apocalyptic
 Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	CGI
 Tag:	Rotoscoping
-Tag:	Zombie
-Tag:	Travel
-Tag:	Trains
-Tag:	Steampunk
+Tag:	Female Protagonist
 Tag:	Gore
+Tag:	Travel
+Tag:	Revenge
 Tag:	Pandemic
+Tag:	Trains
+Tag:	Tragedy
+Tag:	Zombie
+Tag:	Steampunk
 Tag:	Kaiju
+Tag:	Historical
+Tag:	Post-Apocalyptic
 Related:	18816
 Related:	104517
 Related:	98662

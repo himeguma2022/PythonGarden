@@ -1,22 +1,22 @@
 ID:	108478
-Title:	No Guns Life
 Title:	ノー・ガンズ・ライフ
-Tag:	Guns
-Tag:	Noir
+Title:	No Guns Life
+Tag:	Male Protagonist
+Tag:	CGI
+Tag:	Class Struggle
+Tag:	Seinen
+Tag:	Dystopian
 Tag:	Crime
 Tag:	Disability
-Tag:	Dystopian
-Tag:	CGI
-Tag:	Urban
-Tag:	Male Protagonist
-Tag:	Cyberpunk
-Tag:	Cyborg
-Tag:	Trains
-Tag:	Seinen
-Tag:	Amnesia
-Tag:	Police
-Tag:	Class Struggle
 Tag:	Primarily Adult Cast
+Tag:	Noir
+Tag:	Amnesia
+Tag:	Cyborg
+Tag:	Urban
+Tag:	Trains
+Tag:	Police
+Tag:	Cyberpunk
+Tag:	Guns
 Related:	112803
 Related:	47099
 Related:	36076

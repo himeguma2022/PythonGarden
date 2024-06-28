@@ -1,10 +1,10 @@
 ID:	359
 Title:	I'll/CKBC
+Tag:	Male Protagonist
+Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	School
 Tag:	Basketball
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	School Club
 Related:	824
 Related:	31293

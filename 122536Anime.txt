@@ -1,13 +1,13 @@
 ID:	122536
 Title:	Rick and Morty vs. Genocider
 Title:	リック・アンド・モーティ対ジェノサイダー
-Tag:	Guns
 Tag:	Male Protagonist
-Tag:	Alternate Universe
 Tag:	Urban Fantasy
 Tag:	Parody
 Tag:	Robots
+Tag:	Alternate Universe
 Tag:	Memory Manipulation
+Tag:	Guns
 Tag:	Coming of Age
 Related:	73784
 Related:	150103

@@ -1,9 +1,9 @@
 ID:	103364
-Title:	Luigi's Toy Adventure
 Title:	S.H.Figuarts スーパーマリオシリーズ(SUPER MARIO SERIES) プロモ映像
-Tag:	Stop Motion
+Title:	Luigi's Toy Adventure
 Tag:	Male Protagonist
 Tag:	Cosmic Horror
+Tag:	Stop Motion
 Tag:	Video Games
 Tag:	Advertisement
 Related:	139177

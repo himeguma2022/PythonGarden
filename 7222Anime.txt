@@ -1,20 +1,20 @@
 ID:	7222
-Title:	Macross Frontier: Sayonara no Tsubasa
-Title:	Macross Frontier: The Wings of Farewell
 Title:	劇場版 マクロスF ~サヨナラノツバサ~
-Tag:	Tragedy
-Tag:	Prison
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Space
-Tag:	Body Horror
+Title:	Macross Frontier: The Wings of Farewell
+Title:	Macross Frontier: Sayonara no Tsubasa
 Tag:	Real Robot
-Tag:	Cyborg
-Tag:	Military
 Tag:	Space Opera
-Tag:	Crossdressing
+Tag:	Female Protagonist
+Tag:	Military
+Tag:	Space
 Tag:	Heterosexual
+Tag:	Cyborg
+Tag:	Aliens
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Love Triangle
+Tag:	Body Horror
+Tag:	Prison
 Tag:	Idol
 Related:	89900
 Related:	129549

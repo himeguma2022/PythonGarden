@@ -1,32 +1,32 @@
 ID:	113717
-Title:	Ranking of Kings
 Title:	Ousama Ranking
 Title:	王様ランキング
-Tag:	Tragedy
-Tag:	Amputation
-Tag:	Gods
-Tag:	Gore
-Tag:	Tsundere
-Tag:	Conspiracy
-Tag:	Kaiju
-Tag:	Bullying
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
+Title:	Ranking of Kings
 Tag:	Fairy Tale
-Tag:	Travel
-Tag:	Seinen
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	War
-Tag:	Assassins
-Tag:	Age Gap
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Language Barrier
-Tag:	Achronological Order
-Tag:	Disability
 Tag:	Demons
+Tag:	Travel
+Tag:	Ensemble Cast
+Tag:	Conspiracy
+Tag:	Primarily Male Cast
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Heterosexual
+Tag:	War
+Tag:	Age Gap
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Gore
+Tag:	Language Barrier
+Tag:	Seinen
+Tag:	Amputation
+Tag:	Disability
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Kaiju
+Tag:	Achronological Order
 Related:	86945
 Related:	145893
 Related:	153452

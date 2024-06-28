@@ -1,25 +1,25 @@
 ID:	3783
 Title:	the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)
-Title:	空の境界 痛覚残留
 Title:	Kara no Kyoukai: Tsuukaku Zanryuu
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Female Cast
+Title:	空の境界 痛覚残留
 Tag:	Super Power
-Tag:	Crime
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
-Tag:	Female Harem
 Tag:	Urban Fantasy
-Tag:	Kuudere
-Tag:	Nudity
 Tag:	Body Horror
-Tag:	Rape
-Tag:	Achronological Order
+Tag:	Crime
+Tag:	Nudity
+Tag:	Kuudere
 Tag:	Gore
-Tag:	Anti-Hero
-Tag:	Amnesia
 Tag:	Primarily Adult Cast
+Tag:	Female Protagonist
+Tag:	Rape
+Tag:	Revenge
+Tag:	Amnesia
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Female Harem
+Tag:	Anti-Hero
+Tag:	Achronological Order
+Tag:	Primarily Female Cast
 Related:	6624
 Related:	40737
 Related:	3782

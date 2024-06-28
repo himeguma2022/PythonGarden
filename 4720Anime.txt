@@ -1,13 +1,13 @@
 ID:	4720
 Title:	White Album
 Title:	WHITE ALBUM
-Tag:	Love Triangle
-Tag:	Female Harem
-Tag:	College
 Tag:	Kuudere
-Tag:	Heterosexual
-Tag:	Musical Theater
 Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
+Tag:	Female Harem
+Tag:	Musical Theater
+Tag:	Love Triangle
 Tag:	Idol
 Related:	18245
 Related:	32817

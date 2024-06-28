@@ -1,25 +1,25 @@
 ID:	21341
+Title:	亜人
 Title:	Ajin
 Title:	AJIN: Demi-Human
-Title:	亜人
-Tag:	Full CGI
-Tag:	Crime
-Tag:	Super Power
-Tag:	Dystopian
-Tag:	Video Games
-Tag:	Terrorism
 Tag:	Male Protagonist
-Tag:	Urban Fantasy
-Tag:	Primarily Male Cast
-Tag:	Torture
-Tag:	Body Horror
+Tag:	Super Power
 Tag:	Cosmic Horror
-Tag:	Fugitive
-Tag:	Gore
 Tag:	Seinen
-Tag:	Anti-Hero
-Tag:	Police
+Tag:	Crime
+Tag:	Urban Fantasy
+Tag:	Terrorism
+Tag:	Gore
 Tag:	Primarily Adult Cast
+Tag:	Dystopian
+Tag:	Full CGI
+Tag:	Primarily Male Cast
+Tag:	Video Games
+Tag:	Police
+Tag:	Anti-Hero
+Tag:	Body Horror
+Tag:	Fugitive
+Tag:	Torture
 Related:	10497
 Related:	10499
 Related:	21212

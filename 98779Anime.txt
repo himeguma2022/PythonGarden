@@ -1,19 +1,19 @@
 ID:	98779
+Title:	Non Non Biyori: Vacation
 Title:	劇場版 のんのんびより ばけーしょん
 Title:	Non Non Biyori Vacation
-Title:	Non Non Biyori: Vacation
-Tag:	Iyashikei
-Tag:	Drawing
-Tag:	Primarily Female Cast
-Tag:	Scuba Diving
-Tag:	Cute Girls Doing Cute Things
-Tag:	Primarily Child Cast
-Tag:	Female Protagonist
-Tag:	Rural
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	Badminton
 Tag:	Seinen
+Tag:	Scuba Diving
+Tag:	Female Protagonist
+Tag:	Badminton
+Tag:	Kuudere
+Tag:	Drawing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Primarily Female Cast
+Tag:	Rural
 Tag:	Outdoor
 Related:	47552
 Related:	18955

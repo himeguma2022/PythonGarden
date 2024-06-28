@@ -2,23 +2,23 @@ ID:	18897
 Title:	ニセコイ
 Title:	Nisekoi
 Tag:	Yakuza
-Tag:	Love Triangle
-Tag:	Slapstick
-Tag:	Kuudere
 Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Primarily Female Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Gangs
-Tag:	Fake Relationship
-Tag:	Female Harem
 Tag:	School
-Tag:	Mafia
-Tag:	Arranged Marriage
-Tag:	Heterosexual
 Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Heterosexual
+Tag:	Primarily Female Cast
+Tag:	Slapstick
+Tag:	Fake Relationship
+Tag:	Female Protagonist
+Tag:	Arranged Marriage
+Tag:	Kuudere
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Shounen
+Tag:	Mafia
+Tag:	Tsundere
 Tag:	Tomboy
 Related:	32003
 Related:	8644

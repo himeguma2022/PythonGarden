@@ -1,6 +1,6 @@
 ID:	154174
-Title:	Hawk no Onayami Soudanshitsu
 Title:	ホークのお悩み相談室
+Title:	Hawk no Onayami Soudanshitsu
 Title:	Nanatsu no Taizai
 Tag:	Chibi
 Related:	77392

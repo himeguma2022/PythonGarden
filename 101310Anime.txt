@@ -1,23 +1,23 @@
 ID:	101310
-Title:	寄宿学校のジュリエット
-Title:	Boarding School Juliet
 Title:	Kishuku Gakkou no Juliet
-Tag:	Bullying
-Tag:	Primarily Female Cast
-Tag:	Love Triangle
-Tag:	Shounen
+Title:	Boarding School Juliet
+Title:	寄宿学校のジュリエット
 Tag:	Male Protagonist
-Tag:	Boarding School
-Tag:	Female Harem
-Tag:	School
-Tag:	Athletics
 Tag:	Parody
-Tag:	LGBTQ+ Themes
+Tag:	Gangs
 Tag:	Tsundere
-Tag:	Crossdressing
 Tag:	Heterosexual
 Tag:	Twins
-Tag:	Gangs
+Tag:	Boarding School
+Tag:	Athletics
 Tag:	Foreign
+Tag:	Crossdressing
+Tag:	School
+Tag:	Female Harem
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	LGBTQ+ Themes
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	22384
 Related:	86279

@@ -1,14 +1,14 @@
 ID:	20515
 Title:	STAND BY ME Doraemon
 Title:	STAND BY ME ドラえもん
-Tag:	Full CGI
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Kids
+Tag:	Full CGI
+Tag:	Primarily Child Cast
 Tag:	Robots
 Tag:	Time Manipulation
+Tag:	School
+Tag:	Love Triangle
 Tag:	Coming of Age
 Related:	8807
 Related:	45804

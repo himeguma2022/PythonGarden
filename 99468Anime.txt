@@ -1,16 +1,16 @@
 ID:	99468
 Title:	Teasing Master Takagi-san
-Title:	からかい上手の高木さん
 Title:	Karakai Jouzu no Takagi-san
-Tag:	Primarily Child Cast
-Tag:	Shounen
-Tag:	Slapstick
+Title:	からかい上手の高木さん
 Tag:	Male Protagonist
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	School
 Tag:	Heterosexual
+Tag:	Primarily Child Cast
+Tag:	School
+Tag:	Episodic
+Tag:	Shounen
 Tag:	Rural
+Tag:	Slapstick
 Related:	87142
 Related:	28746
 Related:	22511

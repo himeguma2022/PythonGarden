@@ -1,31 +1,31 @@
 ID:	11981
+Title:	Puella Magi Madoka Magica the Movie Part III: Rebellion
 Title:	Mahou Shoujo Madoka☆Magica: Hangyaku no Monogatari
 Title:	劇場版 魔法少女まどか☆マギカ 叛逆の物語
-Title:	Puella Magi Madoka Magica the Movie Part III: Rebellion
-Tag:	Tragedy
-Tag:	Aliens
-Tag:	Urban
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Memory Manipulation
-Tag:	Alternate Universe
+Tag:	Demons
 Tag:	Yuri
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Cosmic Horror
-Tag:	Time Manipulation
-Tag:	Guns
+Tag:	Alternate Universe
+Tag:	Memory Manipulation
 Tag:	Mythology
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Magic
-Tag:	Philosophy
-Tag:	Anti-Hero
 Tag:	Yandere
-Tag:	Demons
+Tag:	Henshin
+Tag:	LGBTQ+ Themes
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Witch
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Urban Fantasy
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Gods
+Tag:	Anti-Hero
+Tag:	Philosophy
 Related:	43686
 Related:	34121
 Related:	86410

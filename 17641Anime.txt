@@ -1,16 +1,16 @@
 ID:	17641
 Title:	Date A Live: Date to Date
-Title:	Date A Live: DATE TO DATE
 Title:	デート・ア・ライブ DATE TO DATE
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
+Title:	Date A Live: DATE TO DATE
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Kuudere
+Tag:	Primarily Teen Cast
 Tag:	Parody
 Tag:	Nudity
+Tag:	Kuudere
 Tag:	Heterosexual
+Tag:	School
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
 Related:	67523
 Related:	19163
 Related:	8476

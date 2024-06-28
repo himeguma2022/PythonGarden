@@ -1,13 +1,13 @@
 ID:	16910
-Title:	波打際のむろみさん
-Title:	Muromi-san
 Title:	Namiuchigiwa no Muromi-san
-Tag:	Surreal Comedy
-Tag:	Mermaid
+Title:	Muromi-san
+Title:	波打際のむろみさん
 Tag:	Drugs
-Tag:	Fishing
 Tag:	Slapstick
+Tag:	Surreal Comedy
 Tag:	Female Harem
+Tag:	Fishing
+Tag:	Mermaid
 Tag:	Monster Girl
 Related:	8368
 Related:	54291

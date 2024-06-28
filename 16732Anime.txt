@@ -1,18 +1,18 @@
 ID:	16732
+Title:	きんいろモザイク
 Title:	KINMOZA!
 Title:	Kiniro Mosaic
-Title:	きんいろモザイク
+Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
 Tag:	Language Barrier
+Tag:	Baseball
+Tag:	Cute Girls Doing Cute Things
+Tag:	Pirates
+Tag:	School
 Tag:	Tomboy
 Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Baseball
-Tag:	School
-Tag:	Pirates
-Tag:	Tsundere
-Tag:	Seinen
 Related:	56036
 Related:	8349
 Related:	20654

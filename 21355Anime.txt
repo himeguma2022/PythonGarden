@@ -1,47 +1,47 @@
 ID:	21355
-Title:	Re:ZERO -Starting Life in Another World-
 Title:	Re:ゼロから始める異世界生活
+Title:	Re:ZERO -Starting Life in Another World-
 Title:	Re:Zero kara Hajimeru Isekai Seikatsu
-Tag:	Tragedy
-Tag:	Love Triangle
-Tag:	Isekai
-Tag:	Butler
-Tag:	Kuudere
-Tag:	Elf
-Tag:	Cult
-Tag:	Unrequited Love
 Tag:	Demons
-Tag:	Tsundere
-Tag:	Gore
-Tag:	Crossdressing
-Tag:	Body Swapping
-Tag:	Witch
-Tag:	Primarily Female Cast
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Body Horror
 Tag:	Travel
-Tag:	Politics
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Foreign
-Tag:	Meta
-Tag:	Kemonomimi
-Tag:	Assassins
-Tag:	Nekomimi
-Tag:	Magic
-Tag:	Heterosexual
-Tag:	Twins
-Tag:	Coming of Age
-Tag:	Hikikomori
-Tag:	Tomboy
-Tag:	CGI
-Tag:	Time Loop
-Tag:	Femboy
-Tag:	Yandere
-Tag:	Maids
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Maids
+Tag:	Crossdressing
+Tag:	Politics
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Yandere
+Tag:	Coming of Age
+Tag:	Male Protagonist
+Tag:	Femboy
+Tag:	Time Loop
+Tag:	Unrequited Love
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Witch
+Tag:	Nekomimi
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Assassins
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Twins
+Tag:	Hikikomori
+Tag:	Love Triangle
+Tag:	Suicide
+Tag:	Elf
+Tag:	Tsundere
+Tag:	Magic
+Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Butler
+Tag:	Cult
+Tag:	Tomboy
+Tag:	Body Horror
 Related:	21891
 Related:	104454
 Related:	21780

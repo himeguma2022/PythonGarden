@@ -2,23 +2,23 @@ ID:	139498
 Title:	劇場版 転生したらスライムだった件 紅蓮の絆編
 Title:	That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
 Title:	Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
+Tag:	Male Protagonist
+Tag:	Demons
+Tag:	Goblin
+Tag:	Shounen
+Tag:	Magic
+Tag:	Kingdom Management
+Tag:	Shapeshifting
+Tag:	Politics
 Tag:	Tragedy
 Tag:	Reincarnation
-Tag:	Isekai
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Female Harem
-Tag:	Monster Boy
-Tag:	Politics
-Tag:	Afterlife
-Tag:	Goblin
-Tag:	Philosophy
-Tag:	Kingdom Management
 Tag:	Agender
-Tag:	Shapeshifting
-Tag:	Magic
+Tag:	Isekai
+Tag:	Monster Boy
+Tag:	Philosophy
 Tag:	Monster Girl
-Tag:	Demons
+Tag:	Afterlife
 Related:	96312
 Related:	176083
 Related:	63460

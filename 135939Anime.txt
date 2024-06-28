@@ -1,16 +1,16 @@
 ID:	135939
-Title:	Let's Make a Mug Too 2
 Title:	Yakunara Mug Cup Mo: Niban Gama
+Title:	Let's Make a Mug Too 2
 Title:	やくならマグカップも 二番窯
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Primarily Child Cast
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Rural
+Tag:	Primarily Child Cast
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	School Club
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Rural
 Related:	132897
 Related:	122148
 Related:	178125

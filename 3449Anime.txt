@@ -1,15 +1,15 @@
 ID:	3449
-Title:	Kamichu! OVA
 Title:	かみちゅ! OVA
-Tag:	Iyashikei
-Tag:	Mythology
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Episodic
+Title:	Kamichu! OVA
 Tag:	Urban Fantasy
+Tag:	Female Protagonist
+Tag:	Iyashikei
+Tag:	Primarily Child Cast
+Tag:	Mythology
 Tag:	School
-Tag:	Shrine Maiden
 Tag:	Gods
+Tag:	Episodic
+Tag:	Primarily Female Cast
+Tag:	Shrine Maiden
 Related:	4321
 Related:	489

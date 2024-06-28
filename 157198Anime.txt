@@ -2,32 +2,32 @@ ID:	157198
 Title:	デッドマウント・デスプレイ
 Title:	Dead Mount Death Play
 Tag:	Noir
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Urban
-Tag:	Fugitive
-Tag:	Cult
-Tag:	Conspiracy
-Tag:	Crime
-Tag:	Ghost
-Tag:	Male Protagonist
 Tag:	Ensemble Cast
-Tag:	Skeleton
-Tag:	Suicide
-Tag:	Seinen
-Tag:	Gangs
-Tag:	Reincarnation
-Tag:	Urban Fantasy
-Tag:	Necromancy
 Tag:	Zombie
-Tag:	Vampire
-Tag:	Assassins
-Tag:	Bar
-Tag:	Nudity
-Tag:	Magic
-Tag:	Police
-Tag:	CGI
+Tag:	Conspiracy
+Tag:	Skeleton
+Tag:	Reincarnation
+Tag:	Isekai
 Tag:	Detective
+Tag:	Male Protagonist
+Tag:	Gangs
+Tag:	Vampire
+Tag:	CGI
+Tag:	Assassins
+Tag:	Necromancy
+Tag:	Police
+Tag:	Suicide
+Tag:	Bar
+Tag:	Fugitive
+Tag:	Urban Fantasy
+Tag:	Seinen
+Tag:	Crime
+Tag:	Nudity
+Tag:	Ghost
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Cult
 Tag:	Anti-Hero
 Related:	100868
 Related:	163621

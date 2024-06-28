@@ -1,13 +1,13 @@
 ID:	164244
-Title:	愚かな天使は悪魔と踊る
 Title:	Oroka na Tenshi wa Akuma to Odoru
 Title:	The Foolish Angel Dances with the Devil
-Tag:	Angels
+Title:	愚かな天使は悪魔と踊る
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	School
 Tag:	Seinen
-Tag:	Heterosexual
+Tag:	Female Protagonist
 Tag:	Demons
+Tag:	Heterosexual
+Tag:	Angels
+Tag:	School
 Related:	97493
 Related:	86191

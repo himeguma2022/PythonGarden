@@ -1,16 +1,16 @@
 ID:	134732
 Title:	Aoashi
 Title:	アオアシ
-Tag:	Bullying
-Tag:	Primarily Teen Cast
+Tag:	Time Skip
 Tag:	Male Protagonist
-Tag:	Football
-Tag:	School
+Tag:	Seinen
+Tag:	Primarily Teen Cast
+Tag:	Heterosexual
 Tag:	Ensemble Cast
 Tag:	Primarily Male Cast
-Tag:	Seinen
-Tag:	Time Skip
-Tag:	Heterosexual
+Tag:	School
+Tag:	Football
+Tag:	Bullying
 Tag:	Coming of Age
 Related:	57893
 Related:	107279

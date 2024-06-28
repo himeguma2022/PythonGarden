@@ -1,24 +1,24 @@
 ID:	21567
-Title:	The Lost Village
 Title:	迷家-マヨイガ-
 Title:	Mayoiga
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Disability
-Tag:	Love Triangle
-Tag:	Isekai
+Title:	The Lost Village
 Tag:	CGI
-Tag:	Lost Civilization
-Tag:	Rural
-Tag:	Chimera
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Youkai
 Tag:	Chuunibyou
-Tag:	Yandere
+Tag:	Lost Civilization
+Tag:	Parody
+Tag:	Isekai
+Tag:	Disability
 Tag:	Heterosexual
-Tag:	Outdoor
+Tag:	Ensemble Cast
 Tag:	Found Family
+Tag:	Tragedy
+Tag:	Youkai
+Tag:	Chimera
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Yandere
+Tag:	Rural
+Tag:	Outdoor
 Related:	87298
 Related:	142267
 Related:	65853

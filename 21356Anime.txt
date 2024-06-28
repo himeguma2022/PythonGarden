@@ -2,18 +2,18 @@ ID:	21356
 Title:	Pokémon the Series: XYZ
 Title:	Pocket Monsters XY&Z
 Title:	ポケットモンスター XY&Z
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Super Robot
-Tag:	Love Triangle
-Tag:	Slapstick
 Tag:	Male Protagonist
+Tag:	Kids
 Tag:	Female Protagonist
-Tag:	War
-Tag:	Animals
-Tag:	Henshin
-Tag:	Magic
 Tag:	Heterosexual
+Tag:	Super Robot
+Tag:	Magic
+Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Love Triangle
+Tag:	War
+Tag:	Slapstick
+Tag:	Henshin
 Related:	97634
 Related:	106499
 Related:	11011

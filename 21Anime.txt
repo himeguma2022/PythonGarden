@@ -1,76 +1,76 @@
 ID:	21
 Title:	ONE PIECE
-Tag:	Slavery
-Tag:	Tragedy
-Tag:	Super Power
 Tag:	Clone
-Tag:	Desert
-Tag:	Time Skip
-Tag:	Slapstick
-Tag:	Post-Apocalyptic
-Tag:	Angels
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Fugitive
-Tag:	Anthropomorphism
-Tag:	Unrequited Love
-Tag:	Anachronism
-Tag:	Trains
-Tag:	Asexual
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Crime
-Tag:	Prison
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Lost Civilization
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Food
-Tag:	Marriage
-Tag:	Gender Bending
-Tag:	Cyborg
-Tag:	Travel
-Tag:	Skeleton
-Tag:	Politics
-Tag:	Fairy
-Tag:	Monster Girl
-Tag:	Time Manipulation
-Tag:	Guns
-Tag:	Mermaid
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	Medicine
-Tag:	Female Harem
-Tag:	Ninja
-Tag:	Acting
-Tag:	Zombie
-Tag:	Espionage
-Tag:	Assassins
-Tag:	War
-Tag:	LGBTQ+ Themes
-Tag:	Ships
-Tag:	Animals
-Tag:	Henshin
-Tag:	Robots
-Tag:	Musical Theater
-Tag:	Coming of Age
-Tag:	Found Family
-Tag:	Achromatic
-Tag:	Revenge
-Tag:	Dystopian
-Tag:	Battle Royale
-Tag:	CGI
-Tag:	Monster Boy
-Tag:	Pirates
-Tag:	Shapeshifting
-Tag:	Philosophy
-Tag:	Anti-Hero
-Tag:	Body Swapping
-Tag:	Samurai
+Tag:	Lost Civilization
+Tag:	Desert
+Tag:	Travel
 Tag:	Adoption
+Tag:	Food
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Politics
+Tag:	Marriage
+Tag:	Conspiracy
+Tag:	Trains
+Tag:	Zombie
+Tag:	Skeleton
+Tag:	Achromatic
 Tag:	Dragons
+Tag:	Post-Apocalyptic
+Tag:	Monster Girl
+Tag:	Coming of Age
+Tag:	Henshin
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	LGBTQ+ Themes
+Tag:	Unrequited Love
+Tag:	Cyborg
+Tag:	Shapeshifting
+Tag:	Time Manipulation
+Tag:	Pirates
+Tag:	Anachronism
+Tag:	War
+Tag:	Slapstick
+Tag:	Guns
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Ships
+Tag:	Artificial Intelligence
+Tag:	Battle Royale
+Tag:	Fairy
+Tag:	Female Harem
+Tag:	Mermaid
+Tag:	Shounen
+Tag:	Espionage
+Tag:	Prison
+Tag:	Fugitive
+Tag:	Acting
+Tag:	Anthropomorphism
+Tag:	Crime
+Tag:	Gender Bending
+Tag:	Slavery
+Tag:	Revenge
+Tag:	Animals
+Tag:	Ninja
+Tag:	Asexual
+Tag:	Body Swapping
+Tag:	Found Family
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Musical Theater
+Tag:	Monster Boy
+Tag:	Samurai
+Tag:	Gods
+Tag:	Anti-Hero
+Tag:	Philosophy
+Tag:	Medicine
 Related:	25601
 Related:	97805
 Related:	10767

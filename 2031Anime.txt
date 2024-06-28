@@ -1,7 +1,7 @@
 ID:	2031
 Title:	シャイニング・ティアーズ・クロス・ウィンド
 Title:	Shining Tears X Wind
-Tag:	Isekai
-Tag:	Magic
 Tag:	Nekomimi
 Tag:	School
+Tag:	Magic
+Tag:	Isekai

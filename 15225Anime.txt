@@ -1,24 +1,24 @@
 ID:	15225
-Title:	The "Hentai" Prince and the Stony Cat.
 Title:	変態王子と笑わない猫。
 Title:	Hentai Ouji to Warawanai Neko.
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
+Title:	The "Hentai" Prince and the Stony Cat.
 Tag:	Male Protagonist
-Tag:	Bisexual
-Tag:	Female Harem
-Tag:	School
+Tag:	Primarily Teen Cast
 Tag:	Kuudere
-Tag:	Gods
-Tag:	Amnesia
-Tag:	Crossdressing
+Tag:	Bisexual
 Tag:	Tsundere
-Tag:	Meta
-Tag:	Memory Manipulation
-Tag:	Yandere
+Tag:	Amnesia
 Tag:	Heterosexual
+Tag:	Meta
 Tag:	Time Manipulation
+Tag:	Crossdressing
+Tag:	Surreal Comedy
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Gods
 Tag:	Found Family
+Tag:	Female Harem
+Tag:	Yandere
 Related:	20608
 Related:	55876
 Related:	70667

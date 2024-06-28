@@ -1,15 +1,15 @@
 ID:	534
-Title:	スレイヤーズ
 Title:	The Slayers
 Title:	Slayers
+Title:	スレイヤーズ
 Tag:	Swordplay
-Tag:	Slapstick
-Tag:	Female Protagonist
 Tag:	Parody
-Tag:	Anti-Hero
-Tag:	Magic
 Tag:	Demons
+Tag:	Female Protagonist
+Tag:	Magic
 Tag:	Dragons
+Tag:	Anti-Hero
+Tag:	Slapstick
 Related:	90882
 Related:	867
 Related:	69931

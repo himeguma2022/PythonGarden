@@ -1,13 +1,13 @@
 ID:	17082
-Title:	あいうら
 Title:	Aiura
 Title:	AIURA
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
+Title:	あいうら
 Tag:	Female Protagonist
-Tag:	Episodic
+Tag:	Iyashikei
+Tag:	Cute Girls Doing Cute Things
 Tag:	School
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Primarily Female Cast
 Related:	75980
 Related:	8390

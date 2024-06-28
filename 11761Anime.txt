@@ -1,14 +1,14 @@
 ID:	11761
 Title:	めだかボックス
 Title:	Medaka Box
-Tag:	Swimming
-Tag:	Judo
 Tag:	Super Power
-Tag:	Primarily Teen Cast
-Tag:	Shounen
+Tag:	Judo
 Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Martial Arts
 Tag:	School
+Tag:	Shounen
+Tag:	Swimming
 Related:	7522
 Related:	7523
 Related:	43949

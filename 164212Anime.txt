@@ -1,20 +1,20 @@
 ID:	164212
-Title:	ガールズバンドクライ
 Title:	Girls Band Cry
+Title:	ガールズバンドクライ
+Tag:	CGI
+Tag:	Acting
+Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Yuri
 Tag:	Full CGI
-Tag:	Bullying
-Tag:	Primarily Female Cast
 Tag:	Cute Girls Doing Cute Things
-Tag:	CGI
-Tag:	Band
 Tag:	Urban
-Tag:	Female Protagonist
-Tag:	Acting
-Tag:	Denpa
-Tag:	LGBTQ+ Themes
-Tag:	Seinen
+Tag:	Bullying
 Tag:	Rock Music
+Tag:	Band
+Tag:	LGBTQ+ Themes
+Tag:	Denpa
+Tag:	Primarily Female Cast
 Tag:	Coming of Age
 Related:	175688
 Related:	96031

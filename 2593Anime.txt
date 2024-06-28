@@ -1,20 +1,20 @@
 ID:	2593
 Title:	the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
-Title:	空の境界 俯瞰風景
 Title:	Kara no Kyoukai: Fukan Fuukei
-Tag:	Tragedy
+Title:	空の境界 俯瞰風景
 Tag:	Super Power
-Tag:	Ghost
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
 Tag:	Urban Fantasy
+Tag:	Female Protagonist
 Tag:	Kuudere
-Tag:	Denpa
+Tag:	Ghost
+Tag:	Primarily Adult Cast
 Tag:	Achronological Order
+Tag:	Gore
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Denpa
 Tag:	Philosophy
 Tag:	Suicide
-Tag:	Gore
-Tag:	Primarily Adult Cast
 Related:	6624
 Related:	3713
 Related:	3782

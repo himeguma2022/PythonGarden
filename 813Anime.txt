@@ -1,38 +1,38 @@
 ID:	813
-Title:	Dragon Ball Z
 Title:	ドラゴンボールZ
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
-Tag:	Dissociative Identities
-Tag:	Martial Arts
+Title:	Dragon Ball Z
 Tag:	Space
-Tag:	Gods
-Tag:	Anachronism
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Gender Bending
-Tag:	Afterlife
-Tag:	Cyborg
-Tag:	Time Manipulation
-Tag:	Reincarnation
-Tag:	Mythology
-Tag:	Primarily Male Cast
 Tag:	Robots
-Tag:	Henshin
-Tag:	Rural
-Tag:	Coming of Age
-Tag:	Cultivation
-Tag:	Revenge
-Tag:	Battle Royale
-Tag:	Superhero
-Tag:	Time Skip
-Tag:	Body Swapping
-Tag:	Dinosaurs
+Tag:	Memory Manipulation
+Tag:	Primarily Male Cast
+Tag:	Mythology
+Tag:	Reincarnation
 Tag:	Dragons
+Tag:	Coming of Age
+Tag:	Afterlife
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Henshin
+Tag:	Superhero
+Tag:	Cyborg
+Tag:	Cultivation
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Anachronism
+Tag:	Dinosaurs
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Battle Royale
+Tag:	Shounen
+Tag:	Martial Arts
+Tag:	Gender Bending
+Tag:	Revenge
+Tag:	Body Swapping
+Tag:	Tragedy
+Tag:	Dissociative Identities
+Tag:	Gods
+Tag:	Rural
 Related:	896
 Related:	897
 Related:	898

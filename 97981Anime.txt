@@ -3,12 +3,12 @@ Title:	Mary to Majo no Hana
 Title:	Mary and The Witch's Flower
 Title:	メアリと魔女の花
 Tag:	Kids
-Tag:	Witch
-Tag:	Primarily Child Cast
-Tag:	Isekai
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Animals
 Tag:	Magic
-Tag:	Coming of Age
+Tag:	Animals
+Tag:	Primarily Child Cast
 Tag:	Foreign
+Tag:	School
+Tag:	Isekai
+Tag:	Witch
+Tag:	Coming of Age

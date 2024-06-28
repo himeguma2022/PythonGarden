@@ -2,15 +2,15 @@ ID:	21751
 Title:	B-PROJECT: Kodou*Ambitious
 Title:	B-PROJECT
 Title:	B-PROJECT～鼓動＊アンビシャス～
-Tag:	Revenge
-Tag:	Cute Boys Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Primarily Male Cast
-Tag:	Male Harem
-Tag:	Nekomimi
-Tag:	Crossdressing
-Tag:	Animals
 Tag:	Primarily Adult Cast
+Tag:	Revenge
+Tag:	Male Harem
+Tag:	Animals
+Tag:	Cute Boys Doing Cute Things
+Tag:	Crossdressing
+Tag:	Primarily Male Cast
+Tag:	Nekomimi
 Tag:	Idol
 Related:	21194
 Related:	100186

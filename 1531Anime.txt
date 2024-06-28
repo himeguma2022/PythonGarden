@@ -2,8 +2,8 @@ ID:	1531
 Title:	Shakugan no Shana Special: Koi to Onsen no Kougai Gakushuu!
 Title:	Shakugan no Shana: Koi to Onsen no Kougai Gakushuu!
 Title:	灼眼のシャナ 特別編 恋と温泉の校外学習！
-Tag:	Kuudere
 Tag:	Male Protagonist
 Tag:	Love Triangle
+Tag:	Kuudere
 Related:	355
 Related:	2463

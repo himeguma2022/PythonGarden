@@ -1,9 +1,9 @@
 ID:	127536
-Title:	幼女社長
-Title:	Youjo Shachou
 Title:	Cute Executive Officer
-Tag:	Work
+Title:	Youjo Shachou
+Title:	幼女社長
 Tag:	Surreal Comedy
+Tag:	Work
 Tag:	Cute Girls Doing Cute Things
 Related:	77928
 Related:	127537

@@ -1,9 +1,9 @@
 ID:	3462
 Title:	MINKY MOMO in 夢にかける橋
 Title:	MINKY MOMO in Yume ni Kakeru Hashi
-Tag:	Iyashikei
-Tag:	Magic
 Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Iyashikei
 Related:	4330
 Related:	4331
 Related:	6492

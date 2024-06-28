@@ -1,38 +1,38 @@
 ID:	100668
-Title:	Arifureta: From Commonplace to World's Strongest
-Title:	Arifureta Shokugyou de Sekai Saikyou
 Title:	ありふれた職業で世界最強
-Tag:	Tragedy
-Tag:	Isekai
-Tag:	Kuudere
-Tag:	Anachronism
-Tag:	Software Development
-Tag:	Cannibalism
-Tag:	Tsundere
-Tag:	Death Game
+Title:	Arifureta Shokugyou de Sekai Saikyou
+Title:	Arifureta: From Commonplace to World's Strongest
+Tag:	Drugs
+Tag:	Demons
 Tag:	Alternate Universe
 Tag:	Conspiracy
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Cosmic Horror
-Tag:	Monster Girl
-Tag:	Guns
-Tag:	Kemonomimi
-Tag:	Drugs
-Tag:	Swordplay
-Tag:	Female Harem
-Tag:	Vampire
-Tag:	Chuunibyou
-Tag:	Magic
-Tag:	Revenge
-Tag:	Battle Royale
-Tag:	Dungeon
-Tag:	CGI
-Tag:	Pirates
-Tag:	Anti-Hero
-Tag:	Demons
+Tag:	Cannibalism
+Tag:	Isekai
 Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Chuunibyou
+Tag:	Vampire
+Tag:	Pirates
+Tag:	Anachronism
+Tag:	Primarily Female Cast
+Tag:	Guns
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Cosmic Horror
+Tag:	Kemonomimi
+Tag:	Kuudere
+Tag:	Battle Royale
+Tag:	Female Harem
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	Revenge
+Tag:	Magic
+Tag:	Software Development
+Tag:	Tragedy
+Tag:	Dungeon
+Tag:	Death Game
+Tag:	Anti-Hero
 Related:	34785
 Related:	35458
 Related:	86274

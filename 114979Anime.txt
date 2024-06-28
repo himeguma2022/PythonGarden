@@ -1,17 +1,17 @@
 ID:	114979
-Title:	ラブライブ!スーパースター!!
 Title:	Love Live! Superstar!!
-Tag:	Primarily Female Cast
+Title:	ラブライブ!スーパースター!!
 Tag:	Primarily Teen Cast
-Tag:	School Club
-Tag:	Cute Girls Doing Cute Things
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Food
-Tag:	Shrine Maiden
+Tag:	Cute Girls Doing Cute Things
 Tag:	Dancing
+Tag:	Ensemble Cast
+Tag:	School Club
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Shrine Maiden
 Related:	61185
 Related:	61187
 Related:	63371

@@ -1,9 +1,9 @@
 ID:	20616
-Title:	Wonder Momo
 Title:	ワンダーモモ
-Tag:	Primarily Female Cast
-Tag:	Aliens
+Title:	Wonder Momo
 Tag:	Female Protagonist
 Tag:	Superhero
-Tag:	Henshin
+Tag:	Aliens
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Henshin

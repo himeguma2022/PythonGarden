@@ -1,17 +1,17 @@
 ID:	21186
-Title:	Kamisama Kiss◎ OVA
 Title:	Kamisama Hajimemashita: Kako-hen
 Title:	神様はじめました ～過去編～
-Tag:	Historical
-Tag:	Mythology
-Tag:	Kemonomimi
-Tag:	Shoujo
+Title:	Kamisama Kiss◎ OVA
 Tag:	Female Protagonist
-Tag:	Gods
-Tag:	Youkai
-Tag:	Memory Manipulation
+Tag:	Kemonomimi
 Tag:	Heterosexual
 Tag:	Time Manipulation
+Tag:	Shoujo
+Tag:	Mythology
+Tag:	Memory Manipulation
+Tag:	Gods
+Tag:	Youkai
+Tag:	Historical
 Related:	20801
 Related:	53959
 Related:	38157

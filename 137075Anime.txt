@@ -1,12 +1,12 @@
 ID:	137075
 Title:	VOY@GER
-Tag:	Primarily Female Cast
-Tag:	Crossover
 Tag:	Female Protagonist
-Tag:	Ensemble Cast
+Tag:	Augmented Reality
+Tag:	Crossover
 Tag:	Space
 Tag:	Dancing
-Tag:	Augmented Reality
+Tag:	Ensemble Cast
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	60448
 Related:	85120

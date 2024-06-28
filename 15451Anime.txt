@@ -1,24 +1,24 @@
 ID:	15451
-Title:	ハイスクールD×D NEW
 Title:	High School DxD New
+Title:	ハイスクールD×D NEW
 Title:	High School DxD NEW
-Tag:	Tomboy
-Tag:	Revenge
-Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Swordplay
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	School
-Tag:	Kuudere
-Tag:	Nudity
-Tag:	Nun
-Tag:	Crossdressing
 Tag:	Femboy
 Tag:	Religion
-Tag:	Heterosexual
+Tag:	Swordplay
+Tag:	Primarily Teen Cast
 Tag:	Demons
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Crossdressing
+Tag:	School
+Tag:	Nun
+Tag:	Tomboy
+Tag:	Female Harem
 Tag:	Dragons
+Tag:	Primarily Female Cast
 Related:	11617
 Related:	8133
 Related:	20745

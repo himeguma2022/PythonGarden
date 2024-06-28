@@ -1,10 +1,10 @@
 ID:	101090
-Title:	Puella Magi Madoka Magica Concept Movie
-Title:	Mahou Shoujo Madoka★Magica: Concept Movie
 Title:	魔法少女まどか★マギカ コンセプトムービー
-Tag:	Kuudere
-Tag:	Magic
-Tag:	Female Protagonist
+Title:	Mahou Shoujo Madoka★Magica: Concept Movie
+Title:	Puella Magi Madoka Magica Concept Movie
 Tag:	Primarily Female Cast
+Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Kuudere
 Related:	22146
 Related:	9756

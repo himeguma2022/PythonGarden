@@ -1,12 +1,12 @@
 ID:	107913
-Title:	Scissor Seven Extras
 Title:	刺客伍六七 番外
+Title:	Scissor Seven Extras
 Title:	Cike Wu Liuqi Fanwai
-Tag:	Tragedy
-Tag:	Revenge
 Tag:	Super Power
-Tag:	Martial Arts
 Tag:	Assassins
+Tag:	Martial Arts
+Tag:	Revenge
 Tag:	Animals
+Tag:	Tragedy
 Related:	107912
 Related:	46054

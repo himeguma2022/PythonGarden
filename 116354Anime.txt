@@ -1,10 +1,10 @@
 ID:	116354
-Title:	A Japanese Boy Who Draws
 Title:	ある日本の絵描き少年
+Title:	A Japanese Boy Who Draws
 Title:	Aru Nihon no Ekaki Shounen
-Tag:	Autobiographical
-Tag:	Drawing
-Tag:	Rotoscoping
 Tag:	Work
-Tag:	Coming of Age
+Tag:	Rotoscoping
+Tag:	Drawing
 Tag:	Meta
+Tag:	Autobiographical
+Tag:	Coming of Age

@@ -1,14 +1,14 @@
 ID:	21296
-Title:	I've Always Liked You
-Title:	Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai
 Title:	ずっと前から好きでした。～告白実行委員会～
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
+Title:	Zutto Mae kara Suki deshita.: Kokuhaku Jikkou Iinkai
+Title:	I've Always Liked You
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
+Tag:	Heterosexual
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	Heterosexual
+Tag:	Love Triangle
 Related:	98977
 Related:	139300
 Related:	45126

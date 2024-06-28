@@ -1,20 +1,20 @@
 ID:	112300
-Title:	The Irregular at Magic High School: Visitor Arc
 Title:	魔法科高校の劣等生 来訪者編
 Title:	Mahouka Koukou no Rettousei: Raihousha-hen
-Tag:	Swordplay
-Tag:	Terrorism
+Title:	The Irregular at Magic High School: Visitor Arc
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Swordplay
 Tag:	Superhero
-Tag:	School
+Tag:	Terrorism
 Tag:	Kuudere
-Tag:	Espionage
-Tag:	Vampire
-Tag:	Military
 Tag:	Tsundere
-Tag:	Crossdressing
+Tag:	Military
+Tag:	Vampire
 Tag:	Magic
+Tag:	Crossdressing
+Tag:	School
+Tag:	Female Harem
+Tag:	Espionage
 Related:	98912
 Related:	35425
 Related:	80867

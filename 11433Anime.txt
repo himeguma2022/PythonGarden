@@ -1,17 +1,17 @@
 ID:	11433
+Title:	Waiting in the Summer
 Title:	Ano Natsu de Matteru
 Title:	あの夏で待ってる
-Title:	Waiting in the Summer
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Aliens
-Tag:	Primarily Teen Cast
-Tag:	Love Triangle
 Tag:	Male Protagonist
+Tag:	Primarily Teen Cast
 Tag:	Female Protagonist
-Tag:	School
-Tag:	Ensemble Cast
 Tag:	Heterosexual
+Tag:	Ensemble Cast
+Tag:	Aliens
+Tag:	Tragedy
+Tag:	School
+Tag:	Love Triangle
+Tag:	Primarily Female Cast
 Tag:	Rural
 Related:	28869
 Related:	28870

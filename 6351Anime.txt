@@ -3,11 +3,11 @@ Title:	CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen
 Title:	Clannad: Another World, Kyou Chapter
 Title:	ＣＬＡＮＮＡＤ ~After Story~ もうひとつの世界 杏編
 Title:	"CLANNAD: After Story - Mou Hitotsu no Sekai, Kyou-hen"
-Tag:	Love Triangle
-Tag:	Coming of Age
-Tag:	School
 Tag:	Twins
 Tag:	Alternate Universe
+Tag:	School
+Tag:	Love Triangle
+Tag:	Coming of Age
 Related:	78347
 Related:	44388
 Related:	4059

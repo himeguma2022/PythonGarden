@@ -1,31 +1,31 @@
 ID:	101922
-Title:	Kimetsu no Yaiba
-Title:	鬼滅の刃
 Title:	Demon Slayer: Kimetsu no Yaiba
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Slapstick
-Tag:	Gore
-Tag:	Snowscape
-Tag:	Primarily Teen Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Body Horror
+Title:	鬼滅の刃
+Title:	Kimetsu no Yaiba
+Tag:	Rotoscoping
+Tag:	Demons
 Tag:	Travel
-Tag:	Monster Girl
+Tag:	Primarily Male Cast
 Tag:	Mythology
 Tag:	Orphan
-Tag:	Swordplay
-Tag:	Primarily Male Cast
-Tag:	Chibi
-Tag:	Rural
+Tag:	Monster Girl
 Tag:	Coming of Age
-Tag:	Revenge
-Tag:	CGI
-Tag:	Rotoscoping
 Tag:	Time Skip
-Tag:	Demons
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Snowscape
+Tag:	Slapstick
+Tag:	CGI
+Tag:	Swordplay
+Tag:	Gore
+Tag:	Chibi
+Tag:	Historical
+Tag:	Shounen
+Tag:	Primarily Teen Cast
+Tag:	Revenge
+Tag:	Tragedy
+Tag:	Body Horror
+Tag:	Rural
 Related:	63584
 Related:	23106
 Related:	77767

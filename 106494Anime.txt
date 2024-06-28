@@ -1,13 +1,13 @@
 ID:	106494
-Title:	Aggressive Retsuko: We Wish You A Metal Christmas
 Title:	Aggretsuko: We Wish You A Metal Christmas
+Title:	Aggressive Retsuko: We Wish You A Metal Christmas
 Title:	アグレッシブ烈子：We Wish You a Metal Christmas
-Tag:	Metal Music
-Tag:	Urban
-Tag:	Primarily Animal Cast
-Tag:	Female Protagonist
-Tag:	Animals
 Tag:	Work
+Tag:	Female Protagonist
 Tag:	Primarily Adult Cast
+Tag:	Animals
+Tag:	Urban
+Tag:	Metal Music
+Tag:	Primarily Animal Cast
 Related:	28139
 Related:	101571

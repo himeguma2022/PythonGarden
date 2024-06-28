@@ -1,38 +1,38 @@
 ID:	9969
+Title:	Gintama Season 2
 Title:	銀魂’
 Title:	Gintama'
-Title:	Gintama Season 2
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Boys' Love
-Tag:	Aliens
-Tag:	Yakuza
-Tag:	Slapstick
-Tag:	Oiran
-Tag:	Cosplay
+Tag:	Yuri
 Tag:	Space
-Tag:	Kuudere
+Tag:	Robots
+Tag:	Ensemble Cast
+Tag:	Yakuza
+Tag:	Skeleton
+Tag:	Cosplay
+Tag:	Rakugo
+Tag:	Time Skip
+Tag:	Oiran
+Tag:	Male Protagonist
+Tag:	Meta
+Tag:	Aliens
+Tag:	Episodic
 Tag:	Anachronism
+Tag:	Slapstick
+Tag:	Swordplay
+Tag:	Parody
+Tag:	Kuudere
 Tag:	Gore
 Tag:	Primarily Adult Cast
-Tag:	Yuri
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Skeleton
-Tag:	Rakugo
-Tag:	Meta
-Tag:	Swordplay
 Tag:	Female Harem
+Tag:	Boys' Love
+Tag:	Historical
+Tag:	Shounen
 Tag:	Ninja
-Tag:	LGBTQ+ Themes
-Tag:	Robots
 Tag:	Found Family
-Tag:	Philosophy
-Tag:	Time Skip
+Tag:	Tragedy
 Tag:	Samurai
+Tag:	LGBTQ+ Themes
+Tag:	Philosophy
 Related:	6913
 Related:	89891
 Related:	9863

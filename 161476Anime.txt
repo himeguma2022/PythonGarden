@@ -1,25 +1,25 @@
 ID:	161476
-Title:	異修羅
 Title:	Ishura
 Title:	ISHURA
-Tag:	Tragedy
-Tag:	Dystopian
-Tag:	Battle Royale
+Title:	異修羅
 Tag:	CGI
-Tag:	Isekai
-Tag:	Angels
 Tag:	Swordplay
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	War
-Tag:	Politics
 Tag:	Elf
-Tag:	Military
-Tag:	Skeleton
-Tag:	Robots
-Tag:	Gore
+Tag:	Dystopian
 Tag:	Disability
+Tag:	Gore
+Tag:	Military
+Tag:	Politics
+Tag:	Robots
+Tag:	Battle Royale
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Angels
+Tag:	Skeleton
+Tag:	Isekai
+Tag:	Episodic
 Tag:	Dragons
+Tag:	War
 Related:	84129
 Related:	131745
 Related:	84131

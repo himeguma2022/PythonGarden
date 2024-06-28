@@ -1,17 +1,17 @@
 ID:	21189
+Title:	Ranpo Kitan: Game of Laplace
 Title:	Rampo Kitan: Game of Laplace
 Title:	乱歩奇譚 Game of Laplace
-Title:	Ranpo Kitan: Game of Laplace
-Tag:	Noir
-Tag:	Tragedy
-Tag:	Crime
-Tag:	Surreal Comedy
-Tag:	Primarily Teen Cast
 Tag:	Male Protagonist
-Tag:	Detective
-Tag:	Crossdressing
 Tag:	Femboy
-Tag:	Classic Literature
+Tag:	Primarily Teen Cast
+Tag:	Crime
 Tag:	Gore
+Tag:	Noir
+Tag:	Surreal Comedy
+Tag:	Crossdressing
+Tag:	Tragedy
+Tag:	Detective
+Tag:	Classic Literature
 Related:	111548
 Related:	34596

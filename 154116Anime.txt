@@ -1,31 +1,31 @@
 ID:	154116
 Title:	Undead Unluck
 Title:	アンデッドアンラック
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Aliens
+Tag:	Zombie
+Tag:	Memory Manipulation
 Tag:	Post-Apocalyptic
-Tag:	Dissociative Identities
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Time Loop
+Tag:	Heterosexual
+Tag:	Meta
+Tag:	Time Manipulation
+Tag:	Aliens
+Tag:	Age Gap
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Primarily Adult Cast
+Tag:	Language Barrier
+Tag:	Shounen
+Tag:	Suicide
+Tag:	Real Robot
+Tag:	Urban Fantasy
+Tag:	Nudity
 Tag:	Martial Arts
 Tag:	Tsundere
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	Tragedy
+Tag:	Dissociative Identities
 Tag:	Body Horror
-Tag:	Cosmic Horror
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Meta
-Tag:	Urban Fantasy
-Tag:	Zombie
-Tag:	Nudity
-Tag:	Real Robot
-Tag:	Age Gap
-Tag:	Heterosexual
-Tag:	Language Barrier
-Tag:	Time Loop
 Related:	77337
 Related:	114791

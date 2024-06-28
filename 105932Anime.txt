@@ -1,25 +1,25 @@
 ID:	105932
-Title:	Araburu Kisetsu no Otome-domo yo.
-Title:	O Maidens in Your Savage Season
 Title:	荒ぶる季節の乙女どもよ。
-Tag:	Bullying
-Tag:	Seinen
-Tag:	Primarily Female Cast
-Tag:	School Club
-Tag:	Love Triangle
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	School
-Tag:	Acting
-Tag:	Masturbation
-Tag:	Asexual
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Trains
+Title:	O Maidens in Your Savage Season
+Title:	Araburu Kisetsu no Otome-domo yo.
 Tag:	Time Skip
-Tag:	Heterosexual
-Tag:	Coming of Age
+Tag:	Age Gap
+Tag:	Acting
+Tag:	Seinen
+Tag:	Female Protagonist
 Tag:	Writing
+Tag:	Heterosexual
+Tag:	Asexual
+Tag:	Ensemble Cast
+Tag:	Trains
+Tag:	School Club
+Tag:	School
+Tag:	Love Triangle
+Tag:	Bullying
+Tag:	Masturbation
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Coming of Age
 Related:	177436
 Related:	97621
 Related:	27468

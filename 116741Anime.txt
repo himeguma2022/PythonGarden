@@ -1,26 +1,26 @@
 ID:	116741
 Title:	The Slime Diaries
-Title:	Tensei Shitara Slime Datta Ken: Tensura Nikki
 Title:	転生したらスライムだった件 転スラ日記
-Tag:	Isekai
-Tag:	Ghost
+Title:	Tensei Shitara Slime Datta Ken: Tensura Nikki
 Tag:	Cute Boys Doing Cute Things
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Episodic
-Tag:	Monster Girl
-Tag:	Agriculture
 Tag:	Reincarnation
-Tag:	Female Harem
-Tag:	Ninja
-Tag:	Magic
+Tag:	Agender
+Tag:	Isekai
+Tag:	Dragons
+Tag:	Monster Girl
+Tag:	Male Protagonist
+Tag:	Agriculture
+Tag:	Shapeshifting
+Tag:	Episodic
 Tag:	Kingdom Management
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Ghost
+Tag:	Goblin
+Tag:	Magic
+Tag:	Ninja
 Tag:	Found Family
 Tag:	Monster Boy
-Tag:	Shapeshifting
-Tag:	Goblin
-Tag:	Agender
-Tag:	Dragons
 Related:	101280
 Related:	40165
 Related:	40168

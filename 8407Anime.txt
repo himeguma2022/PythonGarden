@@ -1,24 +1,24 @@
 ID:	8407
 Title:	Heaven's Lost Property: Forte
-Title:	そらのおとしものf（フォルテ）
 Title:	Sora no Otoshimono Forte
 Title:	Sora no Otoshimono: Forte
-Tag:	Aliens
-Tag:	Fishing
-Tag:	Angels
-Tag:	Shounen
+Title:	そらのおとしものf（フォルテ）
 Tag:	Male Protagonist
-Tag:	Rural
-Tag:	Female Harem
-Tag:	Artificial Intelligence
-Tag:	School
-Tag:	Kuudere
 Tag:	Nudity
-Tag:	Robots
-Tag:	Memory Manipulation
+Tag:	Kuudere
 Tag:	Heterosexual
-Tag:	Outdoor
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Aliens
 Tag:	School Club
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Angels
+Tag:	Fishing
+Tag:	Female Harem
+Tag:	Shounen
+Tag:	Rural
+Tag:	Outdoor
 Related:	6368
 Related:	6369
 Related:	38144

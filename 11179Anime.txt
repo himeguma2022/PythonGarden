@@ -1,18 +1,18 @@
 ID:	11179
-Title:	Listen to Me, Girls. I Am Your Father!
 Title:	Papa no Iukoto wo Kikinasai!
 Title:	パパのいうことを聞きなさい！
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	Primarily Female Cast
+Title:	Listen to Me, Girls. I Am Your Father!
 Tag:	CGI
-Tag:	Family Life
-Tag:	Female Harem
-Tag:	College
 Tag:	Kuudere
+Tag:	Family Life
 Tag:	Heterosexual
-Tag:	Parenthood
+Tag:	College
+Tag:	Primarily Child Cast
 Tag:	School Club
+Tag:	Tragedy
+Tag:	Female Harem
+Tag:	Parenthood
+Tag:	Primarily Female Cast
 Related:	12673
 Related:	52634
 Related:	7412

@@ -1,26 +1,26 @@
 ID:	113936
+Title:	Dr. STONE: STONE WARS
 Title:	Dr. Stone: Stone Wars
 Title:	Dr.STONE STONE WARS
-Title:	Dr. STONE: STONE WARS
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Post-Apocalyptic
-Tag:	Tanks
-Tag:	Asexual
-Tag:	Educational
-Tag:	Shounen
-Tag:	Male Protagonist
 Tag:	Lost Civilization
-Tag:	Ensemble Cast
 Tag:	Environmental
+Tag:	Ensemble Cast
+Tag:	Post-Apocalyptic
+Tag:	Outdoor
+Tag:	Time Skip
+Tag:	Male Protagonist
 Tag:	Survival
+Tag:	War
+Tag:	Tanks
+Tag:	Historical
+Tag:	Shounen
 Tag:	Espionage
 Tag:	Nudity
-Tag:	War
-Tag:	Outdoor
-Tag:	Tomboy
-Tag:	Time Skip
+Tag:	Asexual
 Tag:	Pandemic
+Tag:	Tragedy
+Tag:	Tomboy
+Tag:	Educational
 Related:	37249
 Related:	37251
 Related:	56995

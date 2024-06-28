@@ -1,15 +1,15 @@
 ID:	17437
 Title:	THE IDOLM@STER MOVIE 輝きの向こう側へ
 Title:	THE IDOLM@STER MOVIE: Kagayaki no Mukougawa e!
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Teen Cast
+Tag:	Kuudere
+Tag:	Twins
+Tag:	Dancing
+Tag:	Ensemble Cast
 Tag:	Tomboy
 Tag:	Primarily Female Cast
-Tag:	Primarily Teen Cast
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Kuudere
-Tag:	Dancing
-Tag:	Work
-Tag:	Twins
 Tag:	Idol
 Related:	98310
 Related:	43241

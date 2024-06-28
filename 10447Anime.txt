@@ -1,13 +1,13 @@
 ID:	10447
-Title:	アクエリオンEVOL
 Title:	Aquarion EVOL
-Tag:	Aliens
-Tag:	Super Robot
+Title:	アクエリオンEVOL
+Tag:	CGI
 Tag:	Primarily Teen Cast
 Tag:	Transgender
-Tag:	CGI
-Tag:	Love Triangle
+Tag:	Super Robot
 Tag:	Alternate Universe
+Tag:	Aliens
+Tag:	Love Triangle
 Related:	7140
 Related:	10092
 Related:	68719

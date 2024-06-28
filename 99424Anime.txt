@@ -1,30 +1,30 @@
 ID:	99424
 Title:	SSSS.Gridman
 Title:	SSSS.GRIDMAN
-Tag:	Super Power
-Tag:	Super Robot
-Tag:	Aliens
-Tag:	Love Triangle
-Tag:	Tokusatsu
-Tag:	Denpa
-Tag:	Gods
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Kaiju
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Ensemble Cast
-Tag:	Meta
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Henshin
-Tag:	Hikikomori
-Tag:	CGI
-Tag:	Superhero
-Tag:	Virtual World
-Tag:	Yandere
-Tag:	Amnesia
 Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	School
+Tag:	Yandere
+Tag:	Virtual World
+Tag:	Henshin
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Superhero
+Tag:	Meta
+Tag:	Aliens
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Gore
+Tag:	Hikikomori
+Tag:	Super Robot
+Tag:	Love Triangle
+Tag:	Denpa
+Tag:	Amnesia
+Tag:	Tokusatsu
+Tag:	Gods
+Tag:	Kaiju
+Tag:	LGBTQ+ Themes
 Related:	109184
 Related:	109185
 Related:	109186

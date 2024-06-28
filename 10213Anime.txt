@@ -1,18 +1,18 @@
 ID:	10213
 Title:	Maji de Watashi ni Koi Shinasai!
-Title:	Majikoi: Oh! Samurai Girls
 Title:	真剣で私に恋しなさい！
-Tag:	Yuri
-Tag:	Revenge
-Tag:	Super Power
-Tag:	Delinquents
+Title:	Majikoi: Oh! Samurai Girls
 Tag:	Satire
-Tag:	Female Harem
-Tag:	School
+Tag:	Super Power
+Tag:	Yuri
 Tag:	Nudity
-Tag:	Politics
-Tag:	Robots
 Tag:	Heterosexual
+Tag:	Revenge
+Tag:	Robots
+Tag:	Politics
+Tag:	School
+Tag:	Female Harem
+Tag:	Delinquents
 Related:	72625
 Related:	89485
 Related:	3229

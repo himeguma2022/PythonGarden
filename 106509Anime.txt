@@ -1,25 +1,25 @@
 ID:	106509
-Title:	Tensei Shitara Slime Datta Ken OVA
 Title:	That Time I Got Reincarnated as a Slime OAD
 Title:	転生したらスライムだった件 OVA
-Tag:	Reincarnation
-Tag:	Isekai
-Tag:	Shounen
+Title:	Tensei Shitara Slime Datta Ken OVA
 Tag:	Male Protagonist
+Tag:	Demons
+Tag:	Nudity
+Tag:	Goblin
+Tag:	Sumo
+Tag:	Magic
 Tag:	Alternate Universe
-Tag:	Episodic
+Tag:	Shapeshifting
+Tag:	Ensemble Cast
+Tag:	Reincarnation
+Tag:	School
 Tag:	Female Harem
 Tag:	Monster Boy
-Tag:	School
-Tag:	Nudity
-Tag:	Ensemble Cast
-Tag:	Goblin
-Tag:	Shapeshifting
-Tag:	Henshin
-Tag:	Magic
+Tag:	Isekai
+Tag:	Episodic
+Tag:	Shounen
 Tag:	Monster Girl
-Tag:	Demons
-Tag:	Sumo
+Tag:	Henshin
 Related:	101280
 Related:	28195
 Related:	28627

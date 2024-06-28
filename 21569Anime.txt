@@ -1,18 +1,18 @@
 ID:	21569
 Title:	Alice in Deadly School
 Title:	アリスインデッドリースクール
-Tag:	Tragedy
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	CGI
-Tag:	Female Protagonist
-Tag:	Survival
-Tag:	School
-Tag:	Food
 Tag:	Acting
-Tag:	Zombie
+Tag:	Female Protagonist
 Tag:	Gore
+Tag:	Food
 Tag:	Dancing
+Tag:	Cute Girls Doing Cute Things
+Tag:	Zombie
+Tag:	Tragedy
+Tag:	School
+Tag:	Survival
+Tag:	Primarily Female Cast
 Tag:	Idol
 Related:	50337
 Related:	100266

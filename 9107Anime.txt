@@ -1,15 +1,15 @@
 ID:	9107
-Title:	ポケットモンスターベストウイッシュ
 Title:	Pokémon: Black & White
+Title:	ポケットモンスターベストウイッシュ
 Title:	Pocket Monsters Best Wishes!
-Tag:	Kids
-Tag:	Primarily Child Cast
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Episodic
+Tag:	Kids
 Tag:	Animals
-Tag:	Outdoor
+Tag:	Primarily Child Cast
+Tag:	Episodic
 Tag:	Dragons
+Tag:	Slapstick
+Tag:	Outdoor
 Related:	6592
 Related:	6593
 Related:	6594

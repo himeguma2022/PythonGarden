@@ -1,18 +1,18 @@
 ID:	535
-Title:	Slayers NEXT
 Title:	スレイヤーズ NEXT
+Title:	Slayers NEXT
 Title:	The Slayers Next
 Tag:	Swordplay
-Tag:	Female Protagonist
-Tag:	Shrine Maiden
 Tag:	Parody
-Tag:	Anthropomorphism
-Tag:	Gods
-Tag:	Crossdressing
-Tag:	Anti-Hero
-Tag:	Magic
 Tag:	Demons
+Tag:	Female Protagonist
+Tag:	Anthropomorphism
+Tag:	Magic
+Tag:	Crossdressing
 Tag:	Dragons
+Tag:	Gods
+Tag:	Anti-Hero
+Tag:	Shrine Maiden
 Related:	866
 Related:	1137
 Related:	1138

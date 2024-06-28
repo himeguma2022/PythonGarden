@@ -1,8 +1,8 @@
 ID:	144190
 Title:	konomachi ni hare wa konai
 Title:	この街に晴れはこない
-Tag:	Dancing
 Tag:	Male Protagonist
+Tag:	Dancing
 Tag:	Youkai
 Related:	81024
 Related:	136976

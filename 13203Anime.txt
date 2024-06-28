@@ -1,33 +1,33 @@
 ID:	13203
-Title:	LUPIN the Third ～峰不二子という女～
-Title:	Lupin the Third: The Woman Called Fujiko Mine
 Title:	LUPIN the Third: Mine Fujiko to Iu Onna
-Tag:	Noir
-Tag:	Fugitive
-Tag:	Crossdressing
-Tag:	Memory Manipulation
-Tag:	Primarily Adult Cast
-Tag:	Yuri
-Tag:	Crime
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Politics
-Tag:	Seinen
-Tag:	Foreign
-Tag:	Guns
-Tag:	Meta
+Title:	Lupin the Third: The Woman Called Fujiko Mine
+Title:	LUPIN the Third ～峰不二子という女～
 Tag:	Drugs
-Tag:	Swordplay
-Tag:	Nudity
-Tag:	Assassins
-Tag:	Age Gap
-Tag:	LGBTQ+ Themes
-Tag:	Motorcycles
+Tag:	Yuri
+Tag:	Noir
+Tag:	Politics
+Tag:	Foreign
+Tag:	Memory Manipulation
+Tag:	Crossdressing
 Tag:	Detective
-Tag:	Anti-Hero
-Tag:	Samurai
+Tag:	Male Protagonist
 Tag:	Bisexual
+Tag:	Meta
+Tag:	Episodic
+Tag:	Guns
+Tag:	Age Gap
+Tag:	Swordplay
+Tag:	Assassins
+Tag:	Anti-Hero
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	Motorcycles
+Tag:	Fugitive
+Tag:	Seinen
+Tag:	Crime
+Tag:	Nudity
+Tag:	Samurai
+Tag:	LGBTQ+ Themes
 Related:	7812
 Related:	20978
 Related:	1412

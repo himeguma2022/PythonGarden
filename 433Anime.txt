@@ -1,16 +1,16 @@
 ID:	433
-Title:	The Place Promised in Our Early Days
-Title:	"Kumo no Mukou, Yakusoku no Basho"
 Title:	Kumo no Mukou, Yakusoku no Basho
 Title:	雲のむこう、約束の場所
-Tag:	CGI
-Tag:	Terrorism
-Tag:	Alternate Universe
-Tag:	Female Protagonist
+Title:	"Kumo no Mukou, Yakusoku no Basho"
+Title:	The Place Promised in Our Early Days
 Tag:	Male Protagonist
-Tag:	School
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Terrorism
 Tag:	Military
+Tag:	Alternate Universe
 Tag:	Trains
+Tag:	School
 Tag:	Aviation
 Tag:	Coming of Age
 Related:	37018

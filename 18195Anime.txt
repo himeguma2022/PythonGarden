@@ -1,23 +1,23 @@
 ID:	18195
-Title:	Little Busters!: Refrain
 Title:	Little Busters! Refrain
 Title:	リトルバスターズ! ~Refrain~
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Memory Manipulation
-Tag:	School Club
+Title:	Little Busters!: Refrain
+Tag:	Time Skip
+Tag:	Urban Fantasy
+Tag:	Kuudere
+Tag:	Amnesia
 Tag:	Alternate Universe
 Tag:	Baseball
-Tag:	Urban Fantasy
 Tag:	Ensemble Cast
-Tag:	Kuudere
+Tag:	School Club
+Tag:	Tragedy
+Tag:	Memory Manipulation
 Tag:	School
-Tag:	Afterlife
-Tag:	Time Skip
-Tag:	Amnesia
 Tag:	Time Manipulation
-Tag:	Coming of Age
 Tag:	Found Family
+Tag:	Bullying
+Tag:	Coming of Age
+Tag:	Afterlife
 Related:	20481
 Related:	8557
 Related:	38677

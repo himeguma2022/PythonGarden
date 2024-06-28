@@ -1,19 +1,19 @@
 ID:	917
 Title:	Riding Bean
 Title:	ライディング・ビーン
-Tag:	Guns
-Tag:	Crime
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Nudity
-Tag:	Fugitive
-Tag:	Cars
-Tag:	Anti-Hero
-Tag:	Police
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Crime
+Tag:	Nudity
+Tag:	Cars
 Tag:	Primarily Adult Cast
+Tag:	Fugitive
 Tag:	Foreign
+Tag:	Urban
+Tag:	Police
+Tag:	Anti-Hero
+Tag:	Guns
 Related:	2466
 Related:	20869
 Related:	25223

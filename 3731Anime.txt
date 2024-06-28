@@ -1,25 +1,25 @@
 ID:	3731
-Title:	ItaKiss
 Title:	イタズラなKiss
 Title:	Itazura na Kiss
-Tag:	Love Triangle
-Tag:	College
-Tag:	Tsundere
-Tag:	Primarily Adult Cast
-Tag:	Primarily Teen Cast
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Marriage
-Tag:	Shoujo
-Tag:	Medicine
-Tag:	School
-Tag:	LGBTQ+ Themes
-Tag:	Heterosexual
-Tag:	Coming of Age
-Tag:	Language Barrier
-Tag:	Time Skip
-Tag:	Work
+Title:	ItaKiss
 Tag:	Tennis
+Tag:	Marriage
+Tag:	School
+Tag:	Coming of Age
+Tag:	Time Skip
+Tag:	Male Protagonist
+Tag:	Family Life
+Tag:	Heterosexual
+Tag:	Shoujo
+Tag:	Work
+Tag:	Female Protagonist
+Tag:	Primarily Adult Cast
+Tag:	College
+Tag:	Language Barrier
+Tag:	Love Triangle
+Tag:	Primarily Teen Cast
+Tag:	Tsundere
+Tag:	LGBTQ+ Themes
+Tag:	Medicine
 Related:	33523
 Related:	4495

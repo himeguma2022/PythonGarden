@@ -1,23 +1,23 @@
 ID:	6811
-Title:	犬夜叉 完結編
-Title:	Inuyasha: Kanketsu-hen
 Title:	InuYasha: The Final Act
-Tag:	Historical
-Tag:	Archery
-Tag:	Kemonomimi
-Tag:	Isekai
-Tag:	Shounen
+Title:	Inuyasha: Kanketsu-hen
+Title:	犬夜叉 完結編
 Tag:	Swordplay
+Tag:	Isekai
+Tag:	Demons
+Tag:	Kemonomimi
 Tag:	Kuudere
-Tag:	Shrine Maiden
-Tag:	Body Horror
-Tag:	Youkai
-Tag:	Shapeshifting
+Tag:	Shounen
+Tag:	Heterosexual
 Tag:	Tsundere
 Tag:	Magic
-Tag:	Heterosexual
+Tag:	Shapeshifting
+Tag:	Archery
 Tag:	Time Manipulation
-Tag:	Demons
+Tag:	Youkai
+Tag:	Historical
+Tag:	Body Horror
+Tag:	Shrine Maiden
 Related:	76174
 Related:	5842
 Related:	5843

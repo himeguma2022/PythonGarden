@@ -1,16 +1,16 @@
 ID:	102425
-Title:	연애하루전
-Title:	A Day Before Us
 Title:	Yeonae Haru Jeon
-Tag:	Iyashikei
-Tag:	Achromatic
+Title:	A Day Before Us
+Title:	연애하루전
+Tag:	Primarily Adult Cast
+Tag:	Heterosexual
+Tag:	College
 Tag:	Drawing
-Tag:	Love Triangle
+Tag:	Iyashikei
 Tag:	Ensemble Cast
 Tag:	School
-Tag:	College
-Tag:	Heterosexual
-Tag:	Primarily Adult Cast
+Tag:	Love Triangle
+Tag:	Achromatic
 Related:	52344
 Related:	25233
 Related:	104371

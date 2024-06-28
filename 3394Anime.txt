@@ -1,14 +1,14 @@
 ID:	3394
-Title:	Kimagure Orange☆Road Pilot
-Title:	Kimagure Orange Road TV Pilot
 Title:	きまぐれオレンジ☆ロード 少年ジャンプ・スペシャル
+Title:	Kimagure Orange Road TV Pilot
+Title:	Kimagure Orange☆Road Pilot
+Tag:	Male Protagonist
 Tag:	Super Power
 Tag:	Scuba Diving
+Tag:	Female Protagonist
 Tag:	Surfing
 Tag:	Love Triangle
 Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
 Related:	31407
 Related:	1087
 Related:	35702

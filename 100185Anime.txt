@@ -1,22 +1,22 @@
 ID:	100185
 Title:	とある魔術の禁書目録III
-Title:	A Certain Magical Index III
 Title:	Toaru Majutsu no Index III
-Tag:	Guns
-Tag:	Super Power
-Tag:	Male Protagonist
+Title:	A Certain Magical Index III
 Tag:	Satire
-Tag:	Female Harem
-Tag:	Artificial Intelligence
+Tag:	Male Protagonist
+Tag:	Super Power
 Tag:	Urban Fantasy
 Tag:	Kuudere
-Tag:	War
-Tag:	Nun
 Tag:	Gore
-Tag:	Anti-Hero
 Tag:	Magic
-Tag:	Coming of Age
+Tag:	Artificial Intelligence
 Tag:	Foreign
+Tag:	Female Harem
+Tag:	Nun
+Tag:	Anti-Hero
+Tag:	Coming of Age
+Tag:	War
+Tag:	Guns
 Related:	25764
 Related:	42854
 Related:	21191

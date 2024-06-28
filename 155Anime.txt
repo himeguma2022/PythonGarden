@@ -1,37 +1,37 @@
 ID:	155
-Title:	X
 Title:	X -エックス-
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Urban
+Title:	X
+Tag:	Demons
+Tag:	Environmental
+Tag:	Alternate Universe
+Tag:	Ensemble Cast
+Tag:	Memory Manipulation
+Tag:	Conspiracy
+Tag:	Mythology
+Tag:	Dragons
 Tag:	Post-Apocalyptic
+Tag:	Yandere
+Tag:	Shrine Maiden
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Time Manipulation
+Tag:	Shoujo
+Tag:	Cyberpunk
+Tag:	Swordplay
+Tag:	Cosmic Horror
+Tag:	Gore
+Tag:	Love Triangle
+Tag:	Urban Fantasy
+Tag:	Augmented Reality
+Tag:	Nudity
+Tag:	Amnesia
+Tag:	Magic
+Tag:	Urban
+Tag:	Tragedy
 Tag:	Angels
 Tag:	Gods
-Tag:	Shrine Maiden
-Tag:	Gore
-Tag:	Memory Manipulation
-Tag:	Augmented Reality
-Tag:	Alternate Universe
-Tag:	Conspiracy
-Tag:	Male Protagonist
-Tag:	Ensemble Cast
-Tag:	Cyberpunk
-Tag:	Cosmic Horror
-Tag:	Time Manipulation
-Tag:	Mythology
-Tag:	Shoujo
-Tag:	Swordplay
-Tag:	Environmental
-Tag:	Urban Fantasy
-Tag:	Nudity
-Tag:	Magic
-Tag:	Philosophy
 Tag:	Anti-Hero
-Tag:	Yandere
-Tag:	Amnesia
-Tag:	Demons
-Tag:	Dragons
+Tag:	Philosophy
 Related:	386
 Related:	387
 Related:	388

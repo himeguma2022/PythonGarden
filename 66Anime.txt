@@ -1,20 +1,20 @@
 ID:	66
-Title:	あずまんが大王 THE ANIMATION
 Title:	Azumanga Daiou THE ANIMATION
+Title:	あずまんが大王 THE ANIMATION
 Title:	Azumanga Daioh
-Tag:	Tomboy
-Tag:	Teacher
-Tag:	Primarily Female Cast
-Tag:	Surreal Comedy
 Tag:	Primarily Teen Cast
-Tag:	Cute Girls Doing Cute Things
-Tag:	Shounen
-Tag:	Slapstick
 Tag:	Female Protagonist
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	School
 Tag:	Kuudere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Ensemble Cast
+Tag:	Surreal Comedy
+Tag:	School
+Tag:	Tomboy
+Tag:	Episodic
+Tag:	Shounen
+Tag:	Primarily Female Cast
+Tag:	Teacher
+Tag:	Slapstick
 Tag:	Coming of Age
 Related:	30085
 Related:	30187

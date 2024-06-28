@@ -1,18 +1,18 @@
 ID:	138459
 Title:	ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜
-Title:	Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto
 Title:	Heroines Run the Show
-Tag:	Crossover
-Tag:	School Club
-Tag:	Cute Boys Doing Cute Things
-Tag:	Female Protagonist
-Tag:	Athletics
-Tag:	School
-Tag:	Primarily Male Cast
-Tag:	Male Harem
-Tag:	Gyaru
+Title:	Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Crossover
+Tag:	Athletics
+Tag:	Male Harem
+Tag:	Cute Boys Doing Cute Things
+Tag:	School Club
+Tag:	Primarily Male Cast
+Tag:	Gyaru
 Tag:	Musical Theater
+Tag:	School
 Tag:	Idol
 Related:	70528
 Related:	139300

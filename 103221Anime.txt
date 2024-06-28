@@ -2,25 +2,25 @@ ID:	103221
 Title:	海獣の子供
 Title:	Kaijuu no Kodomo
 Title:	Children of the Sea
-Tag:	Urban
-Tag:	Space
-Tag:	Kaiju
-Tag:	Swimming
-Tag:	Bullying
-Tag:	Primarily Child Cast
-Tag:	Female Protagonist
-Tag:	Cosmic Horror
-Tag:	Seinen
-Tag:	Mythology
 Tag:	Environmental
-Tag:	Handball
+Tag:	Space
 Tag:	Astronomy
-Tag:	Ships
-Tag:	Animals
+Tag:	Primarily Child Cast
+Tag:	Mythology
+Tag:	Bullying
 Tag:	Coming of Age
 Tag:	CGI
-Tag:	Monster Boy
-Tag:	Philosophy
+Tag:	Cosmic Horror
+Tag:	Female Protagonist
+Tag:	Ships
+Tag:	Seinen
 Tag:	Amnesia
+Tag:	Animals
+Tag:	Urban
+Tag:	Handball
+Tag:	Monster Boy
+Tag:	Kaiju
+Tag:	Philosophy
+Tag:	Swimming
 Related:	24344
 Related:	35655

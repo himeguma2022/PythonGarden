@@ -1,17 +1,17 @@
 ID:	131516
 Title:	Do It Yourself!! -どぅー・いっと・ゆあせるふ-
 Title:	Do It Yourself!!
-Tag:	Iyashikei
-Tag:	Tomboy
-Tag:	Primarily Female Cast
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Cute Girls Doing Cute Things
-Tag:	Slapstick
 Tag:	Female Protagonist
-Tag:	School
-Tag:	LGBTQ+ Themes
 Tag:	Tsundere
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	School Club
+Tag:	School
+Tag:	Tomboy
+Tag:	Educational
+Tag:	LGBTQ+ Themes
+Tag:	Primarily Female Cast
+Tag:	Slapstick
 Related:	156717
 Related:	80613

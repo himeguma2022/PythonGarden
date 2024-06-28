@@ -1,20 +1,20 @@
 ID:	8937
-Title:	とある魔術の禁書目録II
 Title:	Toaru Majutsu no Index II
+Title:	とある魔術の禁書目録II
 Title:	A Certain Magical Index II
-Tag:	Super Power
-Tag:	Slapstick
 Tag:	Male Protagonist
-Tag:	Female Harem
-Tag:	Artificial Intelligence
+Tag:	Super Power
 Tag:	Urban Fantasy
-Tag:	Kuudere
 Tag:	Nudity
-Tag:	Nun
+Tag:	Kuudere
 Tag:	Tsundere
-Tag:	Magic
 Tag:	Amnesia
+Tag:	Magic
+Tag:	Artificial Intelligence
 Tag:	Foreign
+Tag:	Female Harem
+Tag:	Nun
+Tag:	Slapstick
 Related:	8800
 Related:	9253
 Related:	42854

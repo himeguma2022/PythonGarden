@@ -1,23 +1,23 @@
 ID:	59
 Title:	Chobits
 Title:	ちょびっツ
-Tag:	Henshin
-Tag:	Heterosexual
-Tag:	Slapstick
-Tag:	Dissociative Identities
-Tag:	Female Protagonist
 Tag:	Male Protagonist
-Tag:	Artificial Intelligence
-Tag:	Nudity
-Tag:	Asexual
-Tag:	Philosophy
 Tag:	Age Gap
-Tag:	Robots
-Tag:	Memory Manipulation
-Tag:	Amnesia
-Tag:	Twins
 Tag:	Seinen
+Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Amnesia
+Tag:	Heterosexual
+Tag:	Twins
+Tag:	Asexual
+Tag:	Robots
+Tag:	Artificial Intelligence
+Tag:	Memory Manipulation
 Tag:	Conspiracy
+Tag:	Dissociative Identities
+Tag:	Philosophy
+Tag:	Slapstick
+Tag:	Henshin
 Related:	969
 Related:	138
 Related:	139

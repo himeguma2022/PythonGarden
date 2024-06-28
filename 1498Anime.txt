@@ -1,14 +1,14 @@
 ID:	1498
-Title:	BLACK BLOOD BROTHERS
 Title:	Black Blood Brothers
-Tag:	Historical
-Tag:	Reincarnation
-Tag:	Revenge
+Title:	BLACK BLOOD BROTHERS
 Tag:	Swordplay
 Tag:	Terrorism
-Tag:	War
-Tag:	Vampire
 Tag:	Travel
+Tag:	Vampire
+Tag:	Revenge
+Tag:	Reincarnation
+Tag:	Historical
+Tag:	War
 Related:	76960
 Related:	2428
 Related:	53566

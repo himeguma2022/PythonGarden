@@ -1,10 +1,10 @@
 ID:	8481
 Title:	文学少女 メモワール
 Title:	Bungaku Shoujo: Memoire
-Tag:	Primarily Female Cast
 Tag:	Female Protagonist
-Tag:	School
 Tag:	Ensemble Cast
+Tag:	School
+Tag:	Primarily Female Cast
 Tag:	Classic Literature
 Related:	6408
 Related:	6403

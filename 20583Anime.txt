@@ -1,17 +1,17 @@
 ID:	20583
 Title:	レールウォーズ
 Title:	Rail Wars!
-Tag:	Guns
-Tag:	Primarily Female Cast
-Tag:	Cute Girls Doing Cute Things
 Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Police
-Tag:	Female Harem
-Tag:	Nudity
-Tag:	Trains
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Female Protagonist
+Tag:	Nudity
+Tag:	Heterosexual
+Tag:	Cute Girls Doing Cute Things
+Tag:	Trains
+Tag:	Female Harem
+Tag:	Police
+Tag:	Primarily Female Cast
 Tag:	Idol
+Tag:	Guns
 Related:	86553
 Related:	10666

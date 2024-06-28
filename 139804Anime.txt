@@ -1,16 +1,16 @@
 ID:	139804
-Title:	Tribe Nine
-Title:	トライブナイン
 Title:	TRIBE NINE
-Tag:	Tragedy
-Tag:	Revenge
-Tag:	Primarily Teen Cast
-Tag:	Delinquents
+Title:	トライブナイン
+Title:	Tribe Nine
 Tag:	Male Protagonist
-Tag:	Baseball
-Tag:	Ensemble Cast
-Tag:	Primarily Male Cast
-Tag:	Cyberpunk
+Tag:	Primarily Teen Cast
 Tag:	Gore
 Tag:	Heterosexual
 Tag:	Twins
+Tag:	Revenge
+Tag:	Baseball
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	Primarily Male Cast
+Tag:	Cyberpunk
+Tag:	Delinquents

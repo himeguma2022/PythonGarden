@@ -1,19 +1,19 @@
 ID:	97880
-Title:	Code Geass: Lelouch of the Re;surrection
 Title:	Code Geass: Fukkatsu no Lelouch
+Title:	Code Geass: Lelouch of the Re;surrection
 Title:	コードギアス 復活のルルーシュ
-Tag:	Memory Manipulation
-Tag:	Super Power
-Tag:	Super Robot
 Tag:	Male Protagonist
-Tag:	Politics
 Tag:	Real Robot
-Tag:	Military
-Tag:	Anti-Hero
-Tag:	Time Manipulation
-Tag:	Alternate Universe
+Tag:	Super Power
 Tag:	Primarily Adult Cast
+Tag:	Military
+Tag:	Super Robot
+Tag:	Alternate Universe
+Tag:	Politics
 Tag:	Foreign
+Tag:	Memory Manipulation
+Tag:	Time Manipulation
+Tag:	Anti-Hero
 Related:	40192
 Related:	117408
 Related:	40933

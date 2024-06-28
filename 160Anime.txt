@@ -1,27 +1,27 @@
 ID:	160
-Title:	"Ima, Soko ni Iru Boku"
 Title:	Now and Then, Here and There
-Title:	今、そこにいる僕
+Title:	"Ima, Soko ni Iru Boku"
 Title:	Ima, Soko ni Iru Boku
-Tag:	Slavery
-Tag:	Tragedy
+Title:	今、そこにいる僕
 Tag:	Desert
+Tag:	Military
+Tag:	Rape
+Tag:	Primarily Child Cast
 Tag:	Isekai
 Tag:	Post-Apocalyptic
-Tag:	Kuudere
-Tag:	Fugitive
-Tag:	Gore
-Tag:	Prison
-Tag:	Primarily Child Cast
+Tag:	Coming of Age
 Tag:	Male Protagonist
-Tag:	Torture
 Tag:	Time Manipulation
-Tag:	Guns
 Tag:	Survival
 Tag:	War
-Tag:	Real Robot
-Tag:	Coming of Age
+Tag:	Guns
 Tag:	Dystopian
-Tag:	Rape
-Tag:	Military
+Tag:	Kuudere
+Tag:	Gore
+Tag:	Prison
+Tag:	Fugitive
+Tag:	Torture
+Tag:	Real Robot
+Tag:	Slavery
+Tag:	Tragedy
 Tag:	Philosophy

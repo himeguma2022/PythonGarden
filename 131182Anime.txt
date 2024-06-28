@@ -1,21 +1,21 @@
 ID:	131182
 Title:	Yama no Susume: Next Summit
-Title:	ヤマノススメ Next Summit
 Title:	Encouragement of Climb: Next Summit
-Tag:	Iyashikei
-Tag:	Primarily Female Cast
+Title:	ヤマノススメ Next Summit
+Tag:	Seinen
 Tag:	Primarily Teen Cast
-Tag:	Educational
-Tag:	Fishing
-Tag:	Mountaineering
-Tag:	Cute Girls Doing Cute Things
+Tag:	Photography
 Tag:	Female Protagonist
 Tag:	Episodic
-Tag:	School
-Tag:	Seinen
-Tag:	Photography
-Tag:	Outdoor
+Tag:	Mountaineering
+Tag:	Cute Girls Doing Cute Things
+Tag:	Iyashikei
 Tag:	School Club
+Tag:	School
+Tag:	Fishing
+Tag:	Educational
+Tag:	Primarily Female Cast
+Tag:	Outdoor
 Related:	54465
 Related:	71049
 Related:	98866

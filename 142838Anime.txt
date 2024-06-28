@@ -1,38 +1,38 @@
 ID:	142838
-Title:	SPY×FAMILY Part 2
 Title:	SPY x FAMILY Cour 2
 Title:	SPY×FAMILY 第2クール
-Tag:	Super Power
-Tag:	Love Triangle
-Tag:	Urban
-Tag:	Martial Arts
-Tag:	Kuudere
-Tag:	Unrequited Love
-Tag:	Crossdressing
-Tag:	Tsundere
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Family Life
-Tag:	Episodic
-Tag:	Ensemble Cast
-Tag:	Parody
-Tag:	Politics
-Tag:	Yandere
-Tag:	Foreign
-Tag:	Fake Relationship
-Tag:	Orphan
+Title:	SPY×FAMILY Part 2
 Tag:	Adoption
+Tag:	Tennis
+Tag:	Politics
+Tag:	Ensemble Cast
+Tag:	Foreign
+Tag:	Crossdressing
+Tag:	Surreal Comedy
 Tag:	School
-Tag:	Urban Fantasy
-Tag:	Espionage
+Tag:	Orphan
+Tag:	Parenthood
+Tag:	Ojou-sama
+Tag:	Yandere
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Family Life
+Tag:	Unrequited Love
+Tag:	Episodic
+Tag:	Fake Relationship
 Tag:	Assassins
+Tag:	Parody
+Tag:	Female Protagonist
+Tag:	Kuudere
+Tag:	Love Triangle
+Tag:	Espionage
+Tag:	Shounen
+Tag:	Urban Fantasy
+Tag:	Martial Arts
+Tag:	Tsundere
 Tag:	Animals
 Tag:	Found Family
-Tag:	Surreal Comedy
-Tag:	Ojou-sama
-Tag:	Tennis
-Tag:	Parenthood
+Tag:	Urban
 Related:	140960
 Related:	66433
 Related:	66435

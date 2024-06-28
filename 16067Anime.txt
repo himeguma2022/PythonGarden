@@ -1,23 +1,23 @@
 ID:	16067
+Title:	凪のあすから
 Title:	Nagi-Asu: A Lull in the Sea
 Title:	Nagi no Asukara
-Title:	凪のあすから
-Tag:	Swimming
-Tag:	Tragedy
-Tag:	Primarily Child Cast
-Tag:	Love Triangle
-Tag:	Fishing
-Tag:	Coastal
+Tag:	Time Skip
+Tag:	Age Gap
 Tag:	Male Protagonist
 Tag:	Lost Civilization
-Tag:	Environmental
-Tag:	School
-Tag:	Ensemble Cast
-Tag:	Gods
 Tag:	Amnesia
-Tag:	Age Gap
-Tag:	Time Skip
+Tag:	Environmental
 Tag:	Heterosexual
+Tag:	Primarily Child Cast
+Tag:	Ensemble Cast
+Tag:	Tragedy
+Tag:	School
+Tag:	Gods
+Tag:	Love Triangle
+Tag:	Fishing
 Tag:	Coming of Age
+Tag:	Swimming
+Tag:	Coastal
 Related:	31131
 Related:	85063

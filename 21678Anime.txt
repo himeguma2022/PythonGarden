@@ -1,11 +1,11 @@
 ID:	21678
-Title:	Ansatsu Kyoushitsu 2: Kagaijugyou-hen
 Title:	暗殺教室 2 課外授業編
-Tag:	Super Power
-Tag:	Shounen
+Title:	Ansatsu Kyoushitsu 2: Kagaijugyou-hen
 Tag:	Male Protagonist
-Tag:	School
+Tag:	Super Power
 Tag:	Assassins
+Tag:	School
+Tag:	Shounen
 Related:	21170
 Related:	69883
 Related:	11037

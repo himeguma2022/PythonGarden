@@ -1,10 +1,10 @@
 ID:	1170
+Title:	Slayers: The Book of Spells
 Title:	Slayers Special
 Title:	スレイヤーズすぺしゃる
-Title:	Slayers: The Book of Spells
+Tag:	Female Protagonist
 Tag:	Magic
 Tag:	Slapstick
-Tag:	Female Protagonist
 Related:	1989
 Related:	1990
 Related:	1991

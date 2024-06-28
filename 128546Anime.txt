@@ -1,38 +1,38 @@
 ID:	128546
-Title:	Vivy: Fluorite Eye's Song
 Title:	Vivy: Fluorite Eye’s Song
-Title:	Vivy -Fluorite Eye’s Song-
 Title:	Vivy -Fluorite Eye's Song-
+Title:	Vivy: Fluorite Eye's Song
+Title:	Vivy -Fluorite Eye’s Song-
+Tag:	Space
+Tag:	Robots
+Tag:	Politics
+Tag:	Marriage
+Tag:	Conspiracy
+Tag:	Memory Manipulation
+Tag:	Time Skip
+Tag:	Gangs
+Tag:	Heterosexual
+Tag:	Time Manipulation
+Tag:	Cyberpunk
+Tag:	Primarily Female Cast
+Tag:	CGI
+Tag:	Female Protagonist
+Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Primarily Adult Cast
+Tag:	Artificial Intelligence
+Tag:	Suicide
+Tag:	Anthropomorphism
+Tag:	Nudity
+Tag:	Terrorism
+Tag:	Martial Arts
+Tag:	Amnesia
+Tag:	Body Swapping
+Tag:	Rehabilitation
 Tag:	Tragedy
 Tag:	Dissociative Identities
-Tag:	Martial Arts
-Tag:	Artificial Intelligence
-Tag:	Space
-Tag:	Kuudere
-Tag:	Anthropomorphism
-Tag:	Memory Manipulation
-Tag:	Conspiracy
-Tag:	Primarily Adult Cast
-Tag:	Primarily Female Cast
-Tag:	Female Protagonist
-Tag:	Cyberpunk
-Tag:	Marriage
-Tag:	Politics
-Tag:	Suicide
-Tag:	Time Manipulation
-Tag:	Gangs
-Tag:	Terrorism
-Tag:	Nudity
-Tag:	Robots
-Tag:	Heterosexual
 Tag:	Musical Theater
-Tag:	Dystopian
-Tag:	CGI
 Tag:	Philosophy
-Tag:	Time Skip
-Tag:	Body Swapping
-Tag:	Amnesia
-Tag:	Rehabilitation
 Tag:	Idol
 Related:	131940
 Related:	55364

@@ -1,13 +1,13 @@
 ID:	393
+Title:	エスカフローネ
 Title:	Escaflowne
 Title:	Escaflowne: A Girl in Gaea
-Title:	エスカフローネ
+Tag:	Female Protagonist
+Tag:	Heterosexual
 Tag:	Revenge
 Tag:	Super Robot
 Tag:	Isekai
-Tag:	Female Protagonist
-Tag:	War
-Tag:	Heterosexual
 Tag:	Dragons
+Tag:	War
 Related:	891
 Related:	182

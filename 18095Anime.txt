@@ -1,20 +1,20 @@
 ID:	18095
+Title:	のうりん
 Title:	No-Rin
 Title:	Nourin
-Title:	のうりん
-Tag:	Agriculture
-Tag:	Cultivation
-Tag:	Educational
-Tag:	Love Triangle
 Tag:	Male Protagonist
-Tag:	School
-Tag:	Food
-Tag:	Kuudere
-Tag:	Parody
-Tag:	Nudity
-Tag:	Meta
-Tag:	Heterosexual
 Tag:	Work
+Tag:	Parody
+Tag:	Agriculture
+Tag:	Nudity
+Tag:	Kuudere
+Tag:	Food
+Tag:	Heterosexual
+Tag:	Cultivation
+Tag:	Meta
+Tag:	School
+Tag:	Love Triangle
+Tag:	Educational
 Tag:	Rural
 Tag:	Idol
 Related:	64824

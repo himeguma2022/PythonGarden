@@ -1,21 +1,21 @@
 ID:	114963
 Title:	Nakitai Watashi wa Neko wo Kaburu
-Title:	A Whisker Away
 Title:	泣きたい私は猫をかぶる
-Tag:	Bullying
-Tag:	Tragedy
-Tag:	Kemonomimi
+Title:	A Whisker Away
 Tag:	CGI
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Urban Fantasy
-Tag:	School
+Tag:	Female Protagonist
 Tag:	Anthropomorphism
-Tag:	Nekomimi
-Tag:	Shapeshifting
-Tag:	Animals
-Tag:	Henshin
+Tag:	Kemonomimi
+Tag:	Family Life
 Tag:	Heterosexual
+Tag:	Animals
+Tag:	Shapeshifting
+Tag:	Tragedy
+Tag:	School
+Tag:	Nekomimi
+Tag:	Bullying
 Tag:	Rural
+Tag:	Henshin
 Related:	42234
 Related:	118686

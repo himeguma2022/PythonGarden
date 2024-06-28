@@ -1,10 +1,10 @@
 ID:	867
 Title:	Slayers Gorgeous
 Title:	スレイヤーズごぅじゃす
-Tag:	Magic
-Tag:	Female Protagonist
-Tag:	Family Life
 Tag:	Dragons
+Tag:	Female Protagonist
+Tag:	Magic
+Tag:	Family Life
 Related:	868
 Related:	1543
 Related:	1544

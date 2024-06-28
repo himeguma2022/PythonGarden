@@ -1,18 +1,18 @@
 ID:	142095
-Title:	Phantom of the Idol
 Title:	神クズ☆アイドル
+Title:	Phantom of the Idol
 Title:	Kami Kuzu☆Idol
-Tag:	Josei
-Tag:	Ghost
-Tag:	CGI
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Female Protagonist
+Tag:	CGI
 Tag:	Acting
-Tag:	Primarily Male Cast
-Tag:	Afterlife
-Tag:	Otaku Culture
+Tag:	Female Protagonist
+Tag:	Ghost
 Tag:	Primarily Adult Cast
+Tag:	Josei
+Tag:	Otaku Culture
+Tag:	Urban
+Tag:	Primarily Male Cast
 Tag:	Idol
+Tag:	Afterlife
 Related:	110968
 Related:	65691

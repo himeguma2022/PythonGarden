@@ -1,22 +1,22 @@
 ID:	146625
 Title:	Engage Kiss
-Tag:	Guns
-Tag:	Memory Manipulation
-Tag:	Tragedy
-Tag:	Succubus
-Tag:	Love Triangle
-Tag:	Swordplay
-Tag:	Urban
 Tag:	Male Protagonist
-Tag:	Female Harem
+Tag:	Age Gap
+Tag:	Cosmic Horror
+Tag:	Swordplay
+Tag:	Demons
 Tag:	Urban Fantasy
 Tag:	Amnesia
-Tag:	Cosmic Horror
-Tag:	Age Gap
-Tag:	Cannibalism
-Tag:	Henshin
-Tag:	Yandere
 Tag:	Heterosexual
-Tag:	Demons
+Tag:	Succubus
+Tag:	Urban
+Tag:	Tragedy
+Tag:	Memory Manipulation
+Tag:	Female Harem
+Tag:	Cannibalism
+Tag:	Love Triangle
+Tag:	Yandere
+Tag:	Guns
+Tag:	Henshin
 Related:	75733
 Related:	151789

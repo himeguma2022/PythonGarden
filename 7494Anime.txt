@@ -1,10 +1,10 @@
 ID:	7494
-Title:	Kyouiku Otogi Manga Usagi to Kame
-Title:	The Hare and the Tortoise
 Title:	教育お伽漫画　兎と亀
-Tag:	Achromatic
-Tag:	No Dialogue
-Tag:	Educational
+Title:	The Hare and the Tortoise
+Title:	Kyouiku Otogi Manga Usagi to Kame
 Tag:	Fairy Tale
+Tag:	No Dialogue
 Tag:	Animals
+Tag:	Achromatic
+Tag:	Educational
 Tag:	Rural

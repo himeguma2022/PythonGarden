@@ -1,27 +1,27 @@
 ID:	21875
-Title:	No Game, No Life Zero
-Title:	No Game No Life Zero
 Title:	ノーゲーム・ノーライフ ゼロ
-Tag:	Tragedy
-Tag:	Super Power
-Tag:	Isekai
-Tag:	Post-Apocalyptic
-Tag:	Artificial Intelligence
-Tag:	Kuudere
-Tag:	Gods
-Tag:	Elf
-Tag:	Class Struggle
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Reincarnation
-Tag:	Survival
-Tag:	Espionage
-Tag:	War
+Title:	No Game No Life Zero
+Title:	No Game, No Life Zero
 Tag:	Robots
-Tag:	Magic
-Tag:	Heterosexual
+Tag:	Reincarnation
+Tag:	Isekai
 Tag:	Board Game
+Tag:	Post-Apocalyptic
+Tag:	Male Protagonist
+Tag:	Super Power
+Tag:	Heterosexual
+Tag:	Survival
+Tag:	War
+Tag:	Class Struggle
+Tag:	Female Protagonist
 Tag:	Dystopian
+Tag:	Kuudere
+Tag:	Artificial Intelligence
+Tag:	Espionage
+Tag:	Elf
+Tag:	Magic
+Tag:	Tragedy
+Tag:	Gods
 Related:	11424
 Related:	84323
 Related:	19815

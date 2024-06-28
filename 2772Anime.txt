@@ -1,6 +1,6 @@
 ID:	2772
-Title:	Hero Tales
 Title:	Jyuushin Enbu: HERO TALES
+Title:	Hero Tales
 Title:	獣神演武 - HERO TALES -
 Title:	Juushin Enbu: Hero Tales
 Tag:	Shounen

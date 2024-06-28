@@ -1,24 +1,24 @@
 ID:	20447
 Title:	ノラガミ
 Title:	Noragami
-Tag:	Gods
-Tag:	Shrine Maiden
-Tag:	Memory Manipulation
-Tag:	Bullying
-Tag:	Shounen
-Tag:	Male Protagonist
-Tag:	Female Protagonist
-Tag:	Youkai
-Tag:	Mythology
-Tag:	Swordplay
 Tag:	Environmental
-Tag:	Urban Fantasy
+Tag:	Memory Manipulation
+Tag:	Mythology
+Tag:	Youkai
+Tag:	Bullying
+Tag:	Shrine Maiden
+Tag:	Outdoor
+Tag:	Male Protagonist
+Tag:	Shapeshifting
 Tag:	Nekomimi
 Tag:	Age Gap
-Tag:	Outdoor
-Tag:	Found Family
+Tag:	Swordplay
+Tag:	Female Protagonist
+Tag:	Shounen
+Tag:	Urban Fantasy
 Tag:	Revenge
-Tag:	Shapeshifting
+Tag:	Found Family
+Tag:	Gods
 Tag:	Anti-Hero
 Related:	54692
 Related:	10116
