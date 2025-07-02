@@ -1,8 +1,0 @@
-ID:	9925
-Title:	Amagami SS: Sister
-Title:	アマガミSS イモウト
-Title:	Amagami SS: Imouto
-Tag:	School
-Tag:	Kuudere
-Related:	6882
-Related:	8676

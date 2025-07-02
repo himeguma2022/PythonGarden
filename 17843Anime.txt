@@ -1,8 +1,0 @@
-ID:	17843
-Title:	インフェルノコップ ファクトファイル
-Title:	Inferno Cop: Fact Files
-Tag:	Police
-Tag:	Surreal Comedy
-Tag:	Skeleton
-Related:	8507
-Related:	16774

@@ -1,9 +1,0 @@
-ID:	17659
-Title:	銃夢-3Dスペシャル-
-Title:	GUNNM 3D Special
-Tag:	Cyberpunk
-Tag:	Cyborg
-Tag:	Full CGI
-Tag:	No Dialogue
-Related:	1016
-Related:	8482

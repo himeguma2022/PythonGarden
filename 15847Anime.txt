@@ -1,7 +1,0 @@
-ID:	15847
-Title:	Iron Man: Rise of Technovore
-Title:	アイアンマン：ライズ・オブ・テクノヴォア
-Tag:	Primarily Adult Cast
-Tag:	Superhero
-Related:	8195
-Related:	6875

@@ -1,6 +1,0 @@
-ID:	123027
-Title:	Wo de San Ti: Luo Ji Zhuan
-Title:	我的三体之罗辑传
-Tag:	Full CGI
-Related:	46194
-Related:	123028

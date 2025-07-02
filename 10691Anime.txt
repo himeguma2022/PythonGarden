@@ -1,4 +1,0 @@
-ID:	10691
-Title:	ダウンローダー
-Title:	Downloader
-Tag:	Full CGI

@@ -9,13 +9,13 @@ import matplotlib.pyplot as plt
 from keras import ops
 
 class ShounenActionAnimePredict:
-    def __init__(self, allDataFile:str, targetUsers:list[str], OutputAnimes:list[str]) -> None:
+    def __init__(self, allDataFile:str, OutputAnimes:list[str]) -> None:
         OutputAnimeList:list[Anime] = []
-        self.targetUsers = targetUsers
-        self.outputAnimeIndex:dict[Anime:int] = dict()
+        OutArrayAniIndex:dict[Anime:int] = dict()
         for s in OutputAnimes:
             OutputAnimeList.append(RetrieveAnime(s))
-            self.outputAnimeIndex.update({OutputAnimeList[-1]:len(OutputAnimeList) - 1})  
+            OutArrayAniIndex.update({OutputAnimeList[-1]:len(OutputAnimeList) - 1})
+        self.OutArrayAniIndex = OutArrayAniIndex
         self.OutputAnimeList = OutputAnimeList      
         allData:dict[str:dict[Anime:float]] = ExtractOutFile(allDataFile)
         self.allData:dict[str:dict[Anime:float]] = ExtractOutFile(allDataFile)
@@ -23,12 +23,7 @@ class ShounenActionAnimePredict:
         self.uScoreGuide = dictData[1]
         dictData2 = PosNegRankScoreDict(allData.copy())
         labelledData:dict[str:dict[Anime:float]] = dictData2[0]
-        nonTrainTest:dict[str:dict[Anime:float]] = dict()
-        for t in targetUsers:
-            if(t in labelledData.keys()):
-                nonTrainTest.update({t:labelledData.get(t)})
-            else:
-                nonTrainTest.update({t:dict()})     
+        nonTrainTest:dict[str:dict[Anime:float]] = dict()     
         
         AniPopularity:dict[Anime:int] = dict()
         for u in allData:
@@ -37,8 +32,6 @@ class ShounenActionAnimePredict:
                     AniPopularity.update({A:0})
                 val = AniPopularity.get(A)
                 val += 1
-                if(u in targetUsers):
-                    val += len(labelledData)
                 AniPopularity.update({A:val})
                 
         inAnis:list[Anime] = []
@@ -53,6 +46,8 @@ class ShounenActionAnimePredict:
                         inAnis.append(A)
                         inAnisIndex.update({A:len(inAnis) - 1})
                     checked.append(A)
+        self.inAnisIndex = inAnisIndex
+        self.inAnis = inAnis
         
         yTrainData = dict()
         for u in labelledData:
@@ -104,66 +99,55 @@ class ShounenActionAnimePredict:
               # numerical predictions
               loss=my_loss_fn,
               run_eagerly=True) 
-        epsPerFit = 100
+        epsPerFit = 10000
         model.fit(X_train, y_train,epochs=epsPerFit, verbose=0)
-        self.res = model.predict(xIn,verbose=0)
-        self.predictedAnimes = OutputAnimes
-        z = model.predict(X_train)
-        
-        
-        self.EvalModel()
-        fitTimes = 1
-        missList = [self.iacc]
-        while(fitTimes * epsPerFit < 1000):
-            model.fit(X_train, y_train,epochs=epsPerFit,verbose=0)
-            self.res = model.predict(xIn,verbose=0)
-            self.EvalModel()
-            missList.append(self.iacc)
-            fitTimes += 1
         
         self.model = model
         
-        
-        ScoreResultsList = []
-        for t in targetUsers:
-            if(t in self.uScoreGuide):
-                ScoreResultsList.append(ClassScoreArray(self.res[self.resultUIndex.get(t)],self.uScoreGuide.get(t)))
+    def Predict(self, predictFrom:np.ndarray) -> dict:
+        if(len(predictFrom) != len(self.inAnis)):
+            return None
+        z:np.ndarray = self.model.predict(predictFrom)[0]
+        out:dict[Anime:float] = dict()
+        for A in range(self.OutputAnimeList):
+            out.update({A:z[self.OutArrayAniIndex.get(A)]})
+        return out
+    
+    def Test(self, predictFrom: np.ndarray, trueOut:dict[Anime:float]) -> dict:
+        if(len(trueOut) != len(self.OutputAnimeList)):
+            return None
+        hOut = self.Predict(predictFrom)
+        out = dict()
+        for A in hOut:
+            if(trueOut.get(A) == 0):
+                out.update({A:0})
             else:
-                ScoreResultsList.append(self.res[self.resultUIndex.get(t)])
-        self.ScoreResults = np.array(ScoreResultsList)
-                  
-    def EvalModel(self):
-        self.HData:dict[str:dict[Anime:float]] = dict()
-        for u in self.targetUsers:
-            d:dict[Anime:float] = dict()
-            uix = self.resultUIndex.get(u)
-            for a in self.OutputAnimeList:
-                aix = self.outputAnimeIndex.get(a)
-                d.update({a:self.res[uix][aix]})
-            self.HData.update({u:d})
-        self.TestDataPoints:dict[str:dict[Anime:float]] = dict()
-        iaccSum = 0
-        for u in self.targetUsers:
-            if(u not in self.allData):
-                break
-            offAcc = dict()
-            for a in self.OutputAnimeList:
-                d = self.allData.get(u)
-                hd:dict[Anime:float] = self.HData.get(u)
-                AIacc = 0
-                if(a in d):
-                    AIacc = pow((d.get(a) - hd.get(a)),2)
-                    iaccSum += AIacc
-                offAcc.update({a:AIacc})
-            self.TestDataPoints.update({u:offAcc})        
-        self.iacc = pow(iaccSum,0.5)
+                out.update({A:math.pow(hOut.get(A) - trueOut.get(A),2)})
+        return out
+    
+    def Plot2D(self, inDim:int, outDim:int, fixInPoint:np.ndarray):
+        xIn = np.arange(-1, 1, 2/99)
+        yOut = []
+        for i in range(len(xIn)):
+            fixInPoint[inDim] = xIn[i]
+            yOut.append(self.model.predict(fixInPoint)[0][outDim])
+        plt.plot(xIn,yOut)
+        plt.show()
         
-    def printResults(self):
-        print("Overall Inaccuracy: "+str(self.iacc))
-        for u in self.TestDataPoints:
-            print("Inaccuracies for : " + u)
-            for A in self.TestDataPoints.get(u):
-                print(A.name + ": " + str(self.TestDataPoints.get(u).get(A)))
+    def Plot3D(self, inDim1:int, inDim2:int, outDim:int, fixInPoint:np.ndarray):
+        xIn = np.arange(-1, 1, 2/99)
+        yIn = np.arange(-1, 1, 2/99)
+        xIn, yIn = np.meshgrid(xIn, yIn)
+        zOut = []
+        for i in range(len(xIn)):
+            fixInPoint[inDim1] = xIn[i]
+            for j in range(len(xIn)):
+                fixInPoint[inDim2] = yIn[j]
+                zOut.append(self.model.predict(fixInPoint)[0][outDim])
+        fig, ax = plt.subplots(subplot_kw={"projection": "3d"})
+        surf = ax.plot_surface(xIn, yIn, zOut, cmap=cm.coolwarm, linewidth=0, antialiased=False)
+        plt.plot(xIn,yIn,zOut)
+        plt.show()
 
 def ClassScoreArray(hScores:np.array, scoreGuide:dict[float:float]) -> np.array:
     for i in range(len(hScores)):
@@ -334,17 +318,9 @@ def main():
         Adb.ImportFromFile('AnimeDataBase.txt')
     print("Database Loaded!")
     train = "AniListUserData.csv"
-    resultsList = []
-    for i in range(10):
-        A = ShounenActionAnimePredict(train,['Himeguma','new'],recFor)
-        resultsList.append(A.ScoreResults)
+    A = ShounenActionAnimePredict(train,recFor)
     
-    results = np.array(resultsList)
-    meanResults = CalcAverageOfManyModels(results)
-    stdResults = CalcStdOfManyModels(results)
-    print(meanResults)
-    print(stdResults)
-    
+    A.predict()
     Adb.ExportToFile("AnimeDataBase.txt")
          
 if __name__ == '__main__':

@@ -1,9 +1,0 @@
-ID:	1638
-Title:	Peter Pan no Bouken
-Title:	ピーターパンの冒険
-Title:	Peter Pan & Wendy
-Tag:	Kids
-Tag:	Swordplay
-Tag:	Robots
-Tag:	Episodic
-Tag:	Classic Literature

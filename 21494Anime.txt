@@ -1,6 +1,0 @@
-ID:	21494
-Title:	Saikin Osen
-Title:	細菌汚染
-Title:	Bacterial Contamination
-Tag:	Demons
-Tag:	Full CGI

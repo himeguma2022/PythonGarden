@@ -1,6 +1,0 @@
-ID:	5819
-Title:	鳥の歌
-Title:	Bird's Song; Bird's Poem
-Title:	Tori no Uta
-Tag:	Male Protagonist
-Tag:	Philosophy

@@ -1,9 +1,0 @@
-ID:	19099
-Title:	Mewtwo: Kakusei e no Prologue
-Title:	Pokémon: Mewtwo—Prologue to Awakening
-Title:	ミュウツー ~覚醒への序章[プロローグ]～
-Tag:	Kids
-Related:	8656
-Related:	17873
-Related:	16680
-Related:	49956

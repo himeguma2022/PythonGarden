@@ -1,9 +1,0 @@
-ID:	16273
-Title:	Place to Place OVA
-Title:	Acchi Kocchi: PLACE=PRINCESS
-Title:	あっちこっち 第13話(未放送)「PLACE=PRINCESS」
-Tag:	Seinen
-Tag:	School
-Tag:	Kuudere
-Related:	12291
-Related:	8260

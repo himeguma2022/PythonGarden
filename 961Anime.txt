@@ -1,9 +1,0 @@
-ID:	961
-Title:	Virtua Fighter
-Title:	バーチャファイター
-Tag:	Male Protagonist
-Tag:	Martial Arts
-Related:	59360
-Related:	66963
-Related:	136126
-Related:	143294

@@ -1,6 +1,0 @@
-ID:	106606
-Title:	Tokyogurashi!
-Title:	凍京ぐらし！
-Tag:	Baseball
-Related:	20754
-Related:	47316

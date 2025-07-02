@@ -1,8 +1,0 @@
-ID:	20582
-Title:	Love, Chunibyo & Other Delusions - Heart Throb - Lite
-Title:	Chuunibyou demo Koi ga Shitai! Ren Lite
-Title:	中二病でも恋がしたい！戀 Lite
-Tag:	Chuunibyou
-Tag:	School
-Related:	8978
-Related:	18671

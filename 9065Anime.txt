@@ -1,9 +1,0 @@
-ID:	9065
-Title:	薄桜鬼 碧血録
-Title:	Hakuoki ~Demon of the Fleeting Blossom~ Record of the Jade Blood
-Title:	Hakuouki Hekketsuroku
-Title:	Hakuouki: Hekketsuroku
-Tag:	Historical
-Tag:	Tragedy
-Tag:	Swordplay
-Tag:	Samurai

@@ -1,8 +1,0 @@
-ID:	12727
-Title:	Thermae Romae Specials
-Title:	テルマエ・ロマエ
-Tag:	Anachronism
-Tag:	Seinen
-Tag:	Historical
-Related:	12321
-Related:	7748

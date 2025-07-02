@@ -1,7 +1,0 @@
-ID:	3221
-Title:	Shakugan no Shana Movie Special
-Title:	劇場版 灼眼のシャナたん
-Tag:	Parody
-Tag:	Kuudere
-Related:	4179
-Related:	1815

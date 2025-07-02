@@ -1,7 +1,0 @@
-ID:	2689
-Title:	赤い光弾ジリオン 歌姫夜曲
-Title:	Zillion: Burning Night
-Title:	Akai Koudan Zillion: Burning Night
-Tag:	Shounen
-Related:	2688
-Related:	62052

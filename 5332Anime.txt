@@ -1,7 +1,0 @@
-ID:	5332
-Title:	Library Wars: Romance Impairment
-Title:	図書館戦争 恋ノ障害
-Title:	Toshokan Sensou: Koi no Shougai
-Tag:	Military
-Related:	3613
-Related:	5261

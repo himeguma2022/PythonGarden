@@ -1,6 +1,0 @@
-ID:	408
-Title:	Final Fantasy VII: Last Order
-Title:	ラストオーダー -ファイナルファンタジーVII-
-Tag:	Military
-Related:	916
-Related:	317

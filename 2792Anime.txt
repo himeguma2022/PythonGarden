@@ -1,6 +1,0 @@
-ID:	2792
-Title:	パンツァードラグーン
-Title:	Panzer Dragoon
-Tag:	Male Protagonist
-Tag:	Dragons
-Tag:	CGI

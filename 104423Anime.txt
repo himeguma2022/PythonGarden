@@ -1,7 +1,0 @@
-ID:	104423
-Title:	Kogane no Hana
-Title:	The Golden Flower
-Title:	こがねの花
-Tag:	Mythology
-Tag:	Rural
-Tag:	Achromatic

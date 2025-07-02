@@ -1,9 +1,0 @@
-ID:	5504
-Title:	Polyphonica Crimson S
-Title:	Shinkyoku Soukai Polyphonica crimson S
-Title:	神曲奏界ポリフォニカcrimsonS
-Tag:	School
-Related:	5321
-Related:	5322
-Related:	50723
-Related:	1727

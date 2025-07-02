@@ -1,8 +1,0 @@
-ID:	20585
-Title:	ロマニチカ クロック
-Title:	Romantica Clock
-Tag:	Shoujo
-Tag:	Twins
-Tag:	School
-Related:	8986
-Related:	73741

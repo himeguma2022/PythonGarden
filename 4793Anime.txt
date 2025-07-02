@@ -1,8 +1,0 @@
-ID:	4793
-Title:	ピチューとピカチュウ
-Title:	Pokémon: Pikachu and Pichu
-Title:	Pichu to Pikachu
-Tag:	Kids
-Tag:	Animals
-Related:	4979
-Related:	1118

@@ -1,6 +1,0 @@
-ID:	4033
-Title:	The Idolm@ster: Live for You!
-Title:	アイドルマスター ライブフォーユー!
-Tag:	Idol
-Related:	4649
-Related:	10278

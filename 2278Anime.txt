@@ -1,9 +1,0 @@
-ID:	2278
-Title:	魔法遊戯 3D
-Title:	Mahou Yuugi 3D
-Tag:	Villainess
-Tag:	Parody
-Tag:	Full CGI
-Tag:	Magic
-Related:	3403
-Related:	2277

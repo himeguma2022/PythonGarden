@@ -1,9 +1,0 @@
-ID:	125647
-Title:	"Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀"
-Title:	Eiyuu-ou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ Mini
-Title:	英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～ ミニ
-Tag:	Chibi
-Related:	48888
-Related:	122737
-Related:	80981
-Related:	157294

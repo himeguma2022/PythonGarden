@@ -1,9 +1,0 @@
-ID:	4415
-Title:	ワールド・デストラクション ～世界撲滅の六人～
-Title:	Sands of Destruction
-Title:	World Destruction: Sekai Bokumetsu no Rokunin
-Tag:	Male Protagonist
-Tag:	Magic
-Tag:	Animals
-Related:	41408
-Related:	4836

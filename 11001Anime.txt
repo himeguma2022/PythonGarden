@@ -1,9 +1,0 @@
-ID:	11001
-Title:	Toshokan Sensou: Kakumei no Tsubasa
-Title:	図書館戦争 革命のつばさ
-Title:	Library War: The Wings of Revolution
-Tag:	Military
-Tag:	Heterosexual
-Tag:	Female Protagonist
-Related:	7377
-Related:	3613

@@ -1,8 +1,0 @@
-ID:	10999
-Title:	Inazuma Eleven GO: Kyuukyoku no Kizuna Gryphon
-Title:	Inazuma Eleven GO the Movie: The Ultimate Bonds Gryphon
-Title:	劇場版イナズマイレブンGO 究極の絆 グリフォン
-Tag:	Kids
-Tag:	Football
-Related:	7376
-Related:	10507

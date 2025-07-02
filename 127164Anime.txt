@@ -1,3 +1,0 @@
-ID:	127164
-Title:	Twinkle World
-Tag:	CGI

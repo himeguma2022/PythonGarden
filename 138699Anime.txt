@@ -1,7 +1,0 @@
-ID:	138699
-Title:	Pokémon Evolutions
-Tag:	Episodic
-Tag:	Animals
-Tag:	Video Games
-Related:	61787
-Related:	527

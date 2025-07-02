@@ -1,9 +1,0 @@
-ID:	2363
-Title:	Pokémon Chronicles
-Title:	ポケットモンスター　サイドストーリー
-Title:	Pocket Monsters Side Story
-Tag:	Episodic
-Tag:	Kids
-Tag:	Animals
-Related:	46124
-Related:	1564

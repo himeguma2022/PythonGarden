@@ -1,7 +1,0 @@
-ID:	97962
-Title:	Kimi no Na wa.
-Title:	Suntory Minami Alps no Tennen Mizu
-Title:	サントリー 南アルプスの天然水
-Tag:	School
-Related:	18050
-Related:	21519

@@ -1,4 +1,0 @@
-ID:	102565
-Title:	Samuroid Zero
-Tag:	Samurai
-Tag:	Full CGI

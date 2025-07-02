@@ -1,9 +1,0 @@
-ID:	2725
-Title:	Tenchi Muyou! Bangaihen: Uchuu Keiji Mihoshi Ginga Daibouken
-Title:	天地無用！番外編 宇宙刑事美星銀河大冒険
-Title:	Tenchi Muyo! Bangaihen: Galaxy Police Mihoshi Space Adventure
-Tag:	Space
-Tag:	Parody
-Tag:	Magic
-Related:	539
-Related:	31924

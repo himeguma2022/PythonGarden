@@ -1,7 +1,0 @@
-ID:	5854
-Title:	神鵰俠侶 III: 相約十六年
-Title:	Shin Chou Kyou Ryo: Condor Hero III
-Title:	Legend of the Condor Hero III
-Tag:	Historical
-Related:	5448
-Related:	960

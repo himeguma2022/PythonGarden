@@ -1,9 +1,0 @@
-ID:	20831
-Title:	Cross Road
-Title:	クロスロード
-Tag:	School
-Tag:	Trains
-Tag:	Ships
-Tag:	Advertisement
-Related:	74993
-Related:	151366

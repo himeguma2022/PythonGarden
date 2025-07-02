@@ -1,9 +1,0 @@
-ID:	2132
-Title:	いぬかみっ！ THE MOVIE　特命霊的捜査官・仮名史郎っ！
-Title:	Inukami! The Movie: Spiritual Investigator Shiro Karina!
-Title:	Inukami! THE MOVIE: Tokumei Reiteki Sousakan Karina Shirou!
-Tag:	Magic
-Related:	52504
-Related:	3236
-Related:	3235
-Related:	940
