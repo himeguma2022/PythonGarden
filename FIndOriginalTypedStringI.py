@@ -5,6 +5,7 @@ def possibleStringCount(word: str) -> int:
         if word[i] != word[i + 1]:
             return possibleStringCount(word[i + 1:]) + i
     return len(word)
+
 def main():
     print(possibleStringCount("aabbcc"))  # Example usage, should return 4
     print(possibleStringCount("abc"))     # Example usage, should return 1  
