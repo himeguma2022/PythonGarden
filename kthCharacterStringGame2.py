@@ -1,6 +1,5 @@
 class Solution(object):
     recallDict = {}
-    lastUpdateLen = 1
     
     def kthCharacter(self, k, operations):
         """
@@ -16,13 +15,15 @@ class Solution(object):
             if op == 0:
                 word += word
             else:
-                word += self.genRightHalf(word, len(word)/2)
+                word += self.genRightHalf(word, len(word)//2)
             if k - 1 < len(word):
                 return word[k - 1]
         return word[k - 1]
     
     def genRightHalf(self, word, frameLength):
         lookUpFrames = []
+        if len(word) < 2:
+            return self.generateWord(word)
         for i in range(0, len(word)//frameLength):
             lookUpFrames.append(self.lookUpWord(word[i*frameLength:(i+1)*frameLength]))
         rightHalf = ""
@@ -33,7 +34,6 @@ class Solution(object):
                 rightHalf += lookUpFrames[f]
         
         self.recallDict.update({word: rightHalf})
-        self.lastUpdateLen = len(word)
         return rightHalf
     
     def generateWord(self, word):
@@ -56,7 +56,7 @@ class Solution(object):
         
 def main():
     sol = Solution()
-    #print(sol.kthCharacter(5, [0, 0, 0]))  # Example usage, should return 'a'
+    print(sol.kthCharacter(5, [0, 0, 0]))  # Example usage, should return 'a'
     print(sol.kthCharacter(10, [0, 1, 0, 1]))  # Example usage, should return 'b'
     print(sol.kthCharacter(11552081, [0,0,0,1,1,0,1,1,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,1,0])) # Example usage, should return 'h' 
     print(sol.kthCharacter(28172699, [0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0,1,1,0,0,1,1,1,0,1])) # Example usage, should return 'f' 
