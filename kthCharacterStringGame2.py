@@ -43,8 +43,6 @@ class Solution(object):
                 res += 'a'
             else:
                 res += chr(ord(char) + 1)
-                
-        self.recallDict.update({word: res})
         return res
                 
     def lookUpWord(self, word):
