@@ -1,6 +1,4 @@
 class Solution(object):
-    recallDict = {}
-    
     def kthCharacter(self, k, operations):
         """
         :type k: int
@@ -11,47 +9,17 @@ class Solution(object):
         word = "a"
         if k == 1:
             return word
-        for op in operations:
-            if op == 0:
-                word += word
-            else:
-                word += self.genRightHalf(word, len(word)//2)
-            if k - 1 < len(word):
-                return word[k - 1]
-        return word[k - 1]
-    
-    def genRightHalf(self, word, frameLength):
-        lookUpFrames = []
-        if len(word) < 2:
-            return self.generateWord(word)
-        for i in range(0, len(word)//frameLength):
-            lookUpFrames.append(self.lookUpWord(word[i*frameLength:(i+1)*frameLength]))
-        rightHalf = ""
-        for f in range(len(lookUpFrames)):
-            if lookUpFrames[f] == "":
-                rightHalf += self.genRightHalf(word[f*frameLength:(f+1)*frameLength], frameLength//2)
-            else:
-                rightHalf += lookUpFrames[f]
+        kb = list(bin(k - 1)[2:])
+        kb.reverse()
+        for b in range(len(kb)):
+            if kb[b] == '1' and operations[b] == 1:
+                if word == 'z':
+                    word = 'a'
+                else:
+                    word = chr(ord(word) + 1)
+        return word
         
-        self.recallDict.update({word: rightHalf})
-        return rightHalf
-    
-    def generateWord(self, word):
-        res = ""
-        for char in word:
-            if char == 'z':
-                res += 'a'
-            else:
-                res += chr(ord(char) + 1)
-        return res
-                
-    def lookUpWord(self, word):
-        if word in self.recallDict:
-            return self.recallDict.get(word)
-        return ""
-        
-        
-        
+       
 def main():
     sol = Solution()
     print(sol.kthCharacter(5, [0, 0, 0]))  # Example usage, should return 'a'
