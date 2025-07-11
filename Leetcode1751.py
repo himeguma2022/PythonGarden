@@ -17,8 +17,9 @@ def FindMaxVal(events, k):
         return FindMaxVal(events, k)
     if len(events) == len(nextEvents) and k - 1 >= len(nextEvents):
         return FindMaxVal(nextEvents, k - 1) + early[2]
-    if len(nextEvents) <= k - 1 and conflictFreeChain(nextEvents):
-        return max(early[2] + sum(e[2] for e in nextEvents), 
+    if conflictFreeChain(nextEvents):
+        nextEvents.sort(key= lambda x:x[2], reverse=True)
+        return max(early[2] + sum(e[2] for e in nextEvents[:k - 1]), 
                    FindMaxVal(events, k))
     return max(FindMaxVal(nextEvents, k - 1) + early[2], 
                    FindMaxVal(events, k))
@@ -33,7 +34,7 @@ def NoConflictList(remain, time):
 def conflictFreeChain(events):
     if len(events) < 2:
         return True
-    if len(events) == NoConflictList(events, events[0][1]):
+    if len(events) == len(NoConflictList(events, events[0][1])) + 1:
         return conflictFreeChain(events[1:])
     return False
 
