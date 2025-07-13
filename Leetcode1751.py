@@ -47,6 +47,7 @@ def main():
     print(sol.maxValue([[1,2,4],[3,4,3],[2,3,10]], 2))  # Example usage, should return 10
     print(sol.maxValue([[1,1,1],[2,2,2],[3,3,3],[4,4,4]], 3))  # Example usage, should return 9
     print(sol.maxValue([[1,3,4],[2,4,1],[1,1,4],[3,5,1],[2,5,5]], 3))  # Example usage, should return 9
+    print(sol.maxValue([[11,17,56],[24,40,53],[5,62,67],[66,69,84],[56,89,15]], 2)) # Example usage, should return 151
     print(sol.maxValue(specialList(), 50))  # Special case with many events
     
 
